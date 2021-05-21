@@ -5,6 +5,7 @@ import fish from '../../../assets/data/fish.json';
 import meat from '../../../assets/data/meat.json';
 import gluten from '../../../assets/data/glutenFree.json';
 import vegan from '../../../assets/data/vegan.json';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-recipes',
@@ -20,7 +21,7 @@ export class RecipesComponent implements OnInit {
   recipes5 = meat;
   recipes6 = vegan;
 
-  constructor() { }
+  constructor(private router: Router) { }
 
   ngOnInit(): void {
   }

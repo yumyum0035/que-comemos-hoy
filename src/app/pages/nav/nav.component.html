@@ -1,1 +1,25 @@
-<p>nav works!</p>
+<div class="fixed bottom-0 inset-x-0">  <!-- min-h-screen  -->
+     <nav class="container bg-blue-500 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-around h-16">
+      <a [routerLink]="['recipes']" class="w-full block py-5 px-3 text-center hover:bg-blue-200 hover:text-blue-800 transition duration-300">
+
+        recipes
+      </a>
+
+      <a [routerLink]="['shopping-list']" class="w-full block py-5 px-3 text-center hover:bg-blue-200 hover:text-blue-800">
+
+        shopping list
+      </a>
+
+      <a [routerLink]="['calendar']" class="w-full block py-5 px-3 text-center hover:bg-blue-200 hover:text-blue-800">
+
+        calendar
+      </a>
+
+      <a [routerLink]="['config']" class="w-full block py-5 px-3 text-center hover:bg-blue-200 hover:text-blue-800">
+
+        Settings
+      </a>
+    </div>
+  </nav>
+</div>
