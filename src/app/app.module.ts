@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { NavComponent } from './pages/nav/nav.component';
 import { RecipesComponent } from './pages/recipes/recipes.component';
 import { ShoppingListComponent } from './pages/shopping-list/shopping-list.component';
+import { AppRoutingModule } from './app-routing.module';
 @NgModule({
   declarations: [
     AppComponent,
@@ -15,7 +16,8 @@ import { ShoppingListComponent } from './pages/shopping-list/shopping-list.compo
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
