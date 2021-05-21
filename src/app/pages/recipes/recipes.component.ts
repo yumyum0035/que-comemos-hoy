@@ -1,11 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import rice from '../../../assets/data/rice.json'
-import pasta from '../../../assets/data/pasta.json';
-import fish from '../../../assets/data/fish.json';
-import meat from '../../../assets/data/meat.json';
-import gluten from '../../../assets/data/glutenFree.json';
-import vegan from '../../../assets/data/vegan.json';
 import { Router } from '@angular/router';
+import { RecipeBookService } from '../../services/recipe-book/recipe-book.service';
 
 @Component({
   selector: 'app-recipes',
@@ -14,14 +9,12 @@ import { Router } from '@angular/router';
 })
 export class RecipesComponent implements OnInit {
 
-  recipes = rice;
-  recipes2 = pasta;
-  recipes3 = fish;
-  recipes4 = gluten;
-  recipes5 = meat;
-  recipes6 = vegan;
+  allRecipes = [];
+  type = ['Pasta','Arroces','Pescado','Carne','Pollo','Verduras','Vegano','Sin Gluten','Asiático','Variado']
 
-  constructor(private router: Router) { }
+  constructor(private router: Router, private recipeServ:RecipeBookService) {
+    this.allRecipes = recipeServ.getAllRecipes();
+  }
 
   ngOnInit(): void {
   }
