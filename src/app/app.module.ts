@@ -7,12 +7,18 @@ import { NavComponent } from './pages/nav/nav.component';
 import { RecipesComponent } from './pages/recipes/recipes.component';
 import { ShoppingListComponent } from './pages/shopping-list/shopping-list.component';
 import { AppRoutingModule } from './app-routing.module';
+import { SelectedRecipeComponent } from './pages/selected-recipe/selected-recipe.component';
+import { CalendarComponent } from './pages/calendar/calendar.component';
+import { ConfigComponent } from './pages/config/config.component';
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
     RecipesComponent,
-    ShoppingListComponent
+    ShoppingListComponent,
+    SelectedRecipeComponent,
+    CalendarComponent,
+    ConfigComponent
   ],
   imports: [
     BrowserModule,
