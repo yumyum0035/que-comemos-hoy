@@ -10,6 +10,10 @@ import { AppRoutingModule } from './app-routing.module';
 import { SelectedRecipeComponent } from './pages/selected-recipe/selected-recipe.component';
 import { CalendarComponent } from './pages/calendar/calendar.component';
 import { ConfigComponent } from './pages/config/config.component';
+import { StepsComponent } from './components/steps/steps.component';
+import { StepTemplateComponent } from './components/step-template/step-template.component';
+import { FormWizardComponent } from './components/form-wizard/form-wizard.component';
+import { CompletePageComponent } from './components/complete-page/complete-page.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,7 +22,11 @@ import { ConfigComponent } from './pages/config/config.component';
     ShoppingListComponent,
     SelectedRecipeComponent,
     CalendarComponent,
-    ConfigComponent
+    ConfigComponent,
+    StepsComponent,
+    StepTemplateComponent,
+    FormWizardComponent,
+    CompletePageComponent
   ],
   imports: [
     BrowserModule,

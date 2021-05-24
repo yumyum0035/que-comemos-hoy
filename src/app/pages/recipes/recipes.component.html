@@ -2,7 +2,7 @@
 
   <div *ngFor="let category of allRecipes, let i = index" class="flex">
     <h2 class="py-5 font-bold text-2xl">{{type[i]}}</h2>
-    <div *ngFor="let recipe of category" class=" bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center mr-4">
+    <div *ngFor="let recipe of category" class=" bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center mr-4 rounded">
       <p class="font-bold">{{recipe.name}}</p>
       <br>
       Tiempo de preparación: {{recipe.total_time}} min

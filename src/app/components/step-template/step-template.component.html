@@ -1,0 +1,35 @@
+
+<div class="step-template">
+  <!-- <h2>Step {{ step.stepIndex }}</h2> -->
+  <div *ngIf="step.stepIndex == 1">
+    <h2 class="font-bold text-xl uppercase pt-4 text-center">Welcome to "Que Comemeos Hoy"</h2>
+    <div class="step-content-label text-center">For a better experience please select your preferences:</div>
+    <button *ngFor="let categories of listCategories" class="step-complete-btn  mb-1" (click)="addType(categories)">
+        <span class="completed-step-check material-icons">
+            <!-- {{ step.isComplete ? 'check_circle' : 'panorama_fish_eye' }} -->
+            {{ selectedCategories.indexOf(categories) > -1 ? 'check_circle' : 'panorama_fish_eye' }}
+        </span>{{categories}}
+    </button>
+  </div>
+
+  <div *ngIf="step.stepIndex == 2">
+    <div class="step-content-label">Finally, please select your meal plan:</div>
+    <button (click)="onCompleteStep()" class="step-complete-btn  mb-1">
+      <span class="completed-step-check material-icons">
+        <!-- {{ step.isComplete ? 'check_circle' : 'panorama_fish_eye' }} -->
+        {{  step.isComplete ? 'check_circle' : 'panorama_fish_eye' }}
+      </span>Toda la semana
+    </button>
+  </div>
+
+  <div *ngIf="step.stepIndex == 3">
+    <div (click)="onCompleteStep()">
+      <h2 class="font-bold text-xl uppercase pt-4 text-center" >Generating meal plan</h2>
+      <iframe style="margin: 0 auto" class="h-80 pt-4 ml-34" src="https://lottiefiles.com/iframe/4762-food-carousel"></iframe>
+    </div>
+
+
+  </div>
+
+
+</div>

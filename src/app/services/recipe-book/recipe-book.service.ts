@@ -16,7 +16,9 @@ import chicken from '../../../assets/data/chicken.json';
 export class RecipeBookService {
 
   allRecipes = [];
-  type = ['Pasta','Arroces','Pescado','Carne','Pollo','Verduras','Vegano','Sin Gluten','Asiático','Variado']
+  type = ['Pasta','Arroces','Pescado','Carne','Pollo','Verduras','Vegano','Sin Gluten','Asiático','Variado'];
+  wizardRecipes = [];
+  userRecipes = [];
 
   constructor() {
     this.allRecipes.push(pasta);
@@ -35,4 +37,128 @@ export class RecipeBookService {
     return this.allRecipes;
   }
 
+  getPastaRecipes(){
+    const pastaRecipes = [];
+    pastaRecipes.push(pasta);
+    return pastaRecipes;
+  }
+
+  getRiceRecipes(){
+    const riceRecipes = [];
+    riceRecipes.push(rice);
+    return riceRecipes;
+  }
+
+  getFishRecipes(){
+    const fishRecipes = [];
+    fishRecipes.push(fish);
+    return fishRecipes;
+  }
+
+  getMeatRecipes(){
+    const meatRecipes = [];
+    meatRecipes.push(meat);
+    return meatRecipes;
+  }
+
+  getChickenRecipes(){
+    const chickenRecipes = [];
+    chickenRecipes.push(chicken);
+    return chickenRecipes;
+  }
+
+  getVegetablesRecipes(){
+    const vegetablesRecipes = [];
+    vegetablesRecipes.push(vegetables);
+    return vegetablesRecipes;
+  }
+
+  getVeganRecipes(){
+    const veganRecipes = [];
+    veganRecipes.push(vegan);
+    return veganRecipes;
+  }
+
+  getGlutenFreeRecipes(){
+    const glutenRecipes = [];
+    glutenRecipes.push(gluten);
+    return glutenRecipes;
+  }
+
+  getAsiaticRecipes(){
+    const asiaticRecipes = [];
+    asiaticRecipes.push(asiatic);
+    return asiaticRecipes;
+  }
+
+  getTrendRecipes(){
+    const trendRecipes = [];
+    trendRecipes.push(trend);
+    return trendRecipes;
+  }
+
+  generateWizard(type){
+    switch(type){
+      case 'Pasta':
+        this.wizardRecipes.push(this.getPastaRecipes()[0]);
+        break;
+      case 'Arroces':
+        this.wizardRecipes.push(this.getRiceRecipes()[0]);
+        break;
+      case 'Pescado':
+        this.wizardRecipes.push(this.getFishRecipes()[0]);
+        break;
+      case 'Carne':
+        this.wizardRecipes.push(this.getMeatRecipes()[0]);
+        break;
+      case 'Pollo':
+        this.wizardRecipes.push(this.getChickenRecipes()[0]);
+        break;
+      case 'Verduras':
+        this.wizardRecipes.push(this.getVegetablesRecipes()[0]);
+        break;
+      case 'Vegano':
+        this.wizardRecipes.push(this.getVeganRecipes()[0]);
+        break;
+      case 'Sin Gluten':
+        this.wizardRecipes.push(this.getGlutenFreeRecipes()[0]);
+        break;
+      case 'Asiático':
+        this.wizardRecipes.push(this.getAsiaticRecipes()[0]);
+        break;
+      case 'Asiático':
+        this.wizardRecipes.push(this.getTrendRecipes()[0]);
+        break;
+    }
+
+    this.userRecipes = this.randomWizard(this.wizardRecipes);
+    console.log(this.userRecipes);
+    return this.userRecipes;
+
+  }
+
+  clearWizard(){
+    this.wizardRecipes = [];
+  }
+
+  randomWizard(recipes){
+    let randomRecipes = [];
+
+    //All recipes merged
+    recipes.forEach(recipe => {
+      recipe.forEach( item => {
+        randomRecipes.push(item);
+      });
+    });
+
+    //Randomize recipeBook
+    randomRecipes = randomRecipes.sort(() => Math.random() - 0.5)
+
+    return randomRecipes;
+  }
+
 }
+
+//WIZARD---
+//LO QUE LE GUSTA
+//RANDOM
