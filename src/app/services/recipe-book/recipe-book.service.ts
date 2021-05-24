@@ -19,6 +19,7 @@ export class RecipeBookService {
   type = ['Pasta','Arroces','Pescado','Carne','Pollo','Verduras','Vegano','Sin Gluten','Asiático','Variado'];
   wizardRecipes = [];
   userRecipes = [];
+  randomRecipes = [];
 
   constructor() {
     this.allRecipes.push(pasta);
@@ -157,8 +158,13 @@ export class RecipeBookService {
     return randomRecipes;
   }
 
-}
+  getUserRecipes(){
+    return this.userRecipes;
+  }
 
-//WIZARD---
-//LO QUE LE GUSTA
-//RANDOM
+  getAllRandomRecipes(){
+    let recipes = this.getAllRecipes();
+    this.randomRecipes = this.randomWizard(recipes);
+  }
+
+}
