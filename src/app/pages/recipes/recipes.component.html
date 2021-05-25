@@ -1,53 +1,8 @@
-<div class="flex-row">
+<div *ngIf="allRecipes" class="flex-row">
 
-  <div *ngIf="recipes" class="flex">
-    <h2 class="py-5 font-bold text-2xl">Arroces</h2>
-    <div *ngFor="let recipe of recipes" class=" bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center mr-4">
-      <p class="font-bold">{{recipe.name}}</p>
-      <br>
-      Tiempo de preparación: {{recipe.total_time}} min
-    </div>
-  </div>
-
-  <div *ngIf="recipes2" class="flex">
-    <h2 class="py-5 font-bold text-2xl">Pastas</h2>
-    <div *ngFor="let recipe of recipes2" class="bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center  mr-4">
-      <p class="font-bold">{{recipe.name}}</p>
-      <br>
-      Tiempo de preparación: {{recipe.total_time}} min
-    </div>
-  </div>
-
-  <div *ngIf="recipes3" class="flex">
-    <h2 class="py-5 font-bold text-2xl">Pescados</h2>
-    <div *ngFor="let recipe of recipes3" class="bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center  mr-4">
-      <p class="font-bold">{{recipe.name}}</p>
-      <br>
-      Tiempo de preparación: {{recipe.total_time}} min
-    </div>
-  </div>
-
-  <div *ngIf="recipes4" class="flex">
-    <h2 class="py-5 font-bold text-2xl">Sin Gluten</h2>
-    <div *ngFor="let recipe of recipes4" class="bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center  mr-4">
-      <p class="font-bold">{{recipe.name}}</p>
-      <br>
-      Tiempo de preparación: {{recipe.total_time}} min
-    </div>
-  </div>
-
-  <div *ngIf="recipes5" class="flex">
-    <h2 class="py-5 font-bold text-2xl">Carnes</h2>
-    <div *ngFor="let recipe of recipes5" class="bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center  mr-4">
-      <p class="font-bold">{{recipe.name}}</p>
-      <br>
-      Tiempo de preparación: {{recipe.total_time}} min
-    </div>
-  </div>
-
-  <div *ngIf="recipes6" class="flex">
-    <h2 class="py-5 font-bold text-2xl">Vegano</h2>
-    <div *ngFor="let recipe of recipes6" class="bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center  mr-4">
+  <div *ngFor="let category of allRecipes, let i = index" class="flex">
+    <h2 class="py-5 font-bold text-2xl">{{type[i]}}</h2>
+    <div *ngFor="let recipe of category" class=" bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center mr-4 rounded">
       <p class="font-bold">{{recipe.name}}</p>
       <br>
       Tiempo de preparación: {{recipe.total_time}} min

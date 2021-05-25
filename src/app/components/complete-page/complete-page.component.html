@@ -1,0 +1,20 @@
+
+<div class="complete-page">
+  <div class="complete-page-inner" >
+      <!-- <span class="completed-page-check material-icons">check_circle</span> -->
+      <h2 class="uppercase font-bold text-lg mb-3">Your meal plan is ready!</h2>
+      <div class="flex">
+        <div *ngFor="let day of week, let i = index">
+          <h3 class="uppercase font-bold">{{day}}</h3>
+          <div class="mr-4 bg-gray-50 rounded-md p-4">
+            <h4 class="font-bold">Comida</h4>
+            <p>{{lunch[i].name}}</p>
+            <h4 class="font-bold">Cena</h4>
+            <p>{{dinner[i].name}}</p>
+          </div>
+        </div>
+      </div>
+
+
+  </div>
+</div>
