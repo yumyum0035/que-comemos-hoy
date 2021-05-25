@@ -26,16 +26,13 @@ export class StepTemplateComponent implements OnInit {
   }
 
   addType(type){
-    console.log(type);
     if(this.selectedCategories.indexOf(type) > -1 ){
       //Eliminamos del listado seleccionado
       let index = this.selectedCategories.indexOf(type);
       this.selectedCategories.splice(index,1);
-      console.log(this.selectedCategories);
     }else{
       this.selectedCategories.push(type);
     }
-    console.log(this.selectedCategories);
     this.initWizard();
   }
 

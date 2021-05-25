@@ -136,7 +136,6 @@ export class RecipeBookService {
     }
 
     this.userRecipes = this.randomWizard(this.wizardRecipes);
-    console.log(this.userRecipes);
     return this.userRecipes;
 
   }

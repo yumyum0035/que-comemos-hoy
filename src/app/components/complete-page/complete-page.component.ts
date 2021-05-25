@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { RecipeBookService } from 'src/app/services/recipe-book/recipe-book.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-complete-page',
@@ -12,7 +13,7 @@ export class CompletePageComponent implements OnInit {
   dinner = [];
   week = ['Lunes','Martes','Miercoles','Jueves','Viernes','Sábado','Domingo'];
 
-  constructor(private recipesServ : RecipeBookService) { }
+  constructor(private recipesServ : RecipeBookService, private router:Router) { }
 
   ngOnInit(): void {
     this.recipesServ.generateMeals();
@@ -22,4 +23,7 @@ export class CompletePageComponent implements OnInit {
     console.log('dinner',this.dinner);
   }
 
+  home(){
+    this.router.navigateByUrl('/calendar')
+  }
 }
