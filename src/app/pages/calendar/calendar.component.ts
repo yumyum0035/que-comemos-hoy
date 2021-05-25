@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CalendarComponent implements OnInit {
 
+  week = ['Lunes','Martes','Miercoles','Jueves','Viernes','Sábado','Domingo'];
+
   constructor() { }
 
   ngOnInit(): void {

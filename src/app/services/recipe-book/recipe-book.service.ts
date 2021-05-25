@@ -20,6 +20,8 @@ export class RecipeBookService {
   wizardRecipes = [];
   userRecipes = [];
   randomRecipes = [];
+  lunch = [];
+  dinner = [];
 
   constructor() {
     this.allRecipes.push(pasta);
@@ -32,6 +34,7 @@ export class RecipeBookService {
     this.allRecipes.push(gluten);
     this.allRecipes.push(asiatic);
     this.allRecipes.push(trend);
+    this.generateAllRandomRecipes();
   }
 
   getAllRecipes(){
@@ -162,9 +165,29 @@ export class RecipeBookService {
     return this.userRecipes;
   }
 
-  getAllRandomRecipes(){
+  generateAllRandomRecipes(){
     let recipes = this.getAllRecipes();
     this.randomRecipes = this.randomWizard(recipes);
+  }
+
+  generateMeals(){
+    if(this.userRecipes.length > 0){
+      let index = this.userRecipes.length / 2;
+      this.lunch = this.userRecipes.slice(0,index);
+      this.dinner = this.userRecipes.slice(index);
+    }else{
+      let index = this.randomRecipes.length / 2;
+      this.lunch = this.randomRecipes.slice(0,index);
+      this.dinner = this.randomRecipes.slice(index);
+    }
+  }
+
+  getLunch(){
+    return this.lunch;
+  }
+
+  getDinner(){
+    return this.dinner;
   }
 
 }
