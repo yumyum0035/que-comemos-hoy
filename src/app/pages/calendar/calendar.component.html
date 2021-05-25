@@ -1,1 +1,24 @@
-<app-form-wizard></app-form-wizard>
+<!-- <app-form-wizard></app-form-wizard> -->
+<p>Hoy es {{week[n]}}</p>
+<div class="mr-4 bg-gray-50 rounded-md p-4">
+  <h4 class="font-bold">Comida</h4>
+  <img src={{lunch[n].images[0].url}} alt="">
+  <p>{{lunch[n].name}}</p>
+  <h4 class="font-bold">Cena</h4>
+  <img src={{dinner[n].images[0].url}} alt="">
+  <p>{{dinner[n].name}}</p>
+</div>
+
+<div class="" >
+  <div class="flex">
+    <div *ngFor="let day of week, let i = index">
+      <h3 class="uppercase font-bold">{{day}}</h3>
+      <div class="mr-4 bg-gray-50 rounded-md p-4">
+        <h4 class="font-bold">Comida</h4>
+        <p>{{lunch[i].name}}</p>
+        <h4 class="font-bold">Cena</h4>
+        <p>{{dinner[i].name}}</p>
+      </div>
+    </div>
+  </div>
+</div>
