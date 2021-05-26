@@ -17,6 +17,8 @@ export class CalendarComponent implements OnInit {
   dinner = [];
   ingredients = [];
   ingredientsNames = [];
+  wizardDone = false;
+
   constructor(private recipesServ : RecipeBookService, private router:Router) {
     this.n = this.day.getDay(); //0->Domingo - 6->Sábado
     this.n == 0 ? this.n = 6 : this.n--; //0->Lunes - 6->Domingo
@@ -26,6 +28,7 @@ export class CalendarComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    this.wizardDone=localStorage.getItem('wizardDone') ? JSON.parse(localStorage.getItem('wizardDone')) : this.wizardDone;
     this.recipesServ.generateMeals();
     this.lunch = this.recipesServ.getLunch();
     this.dinner = this.recipesServ.getDinner();
