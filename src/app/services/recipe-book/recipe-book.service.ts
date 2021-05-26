@@ -36,6 +36,7 @@ export class RecipeBookService {
     this.allRecipes.push(asiatic);
     this.allRecipes.push(trend);
     this.generateAllRandomRecipes();
+    this.userRecipes = localStorage.getItem('userRecipes') ? JSON.parse(localStorage.getItem('userRecipes')) : this.userRecipes;
   }
 
   getAllRecipes(){
@@ -137,8 +138,8 @@ export class RecipeBookService {
     }
 
     this.userRecipes = this.randomWizard(this.wizardRecipes);
+    localStorage.setItem('userRecipes',JSON.stringify(this.userRecipes));
     return this.userRecipes;
-
   }
 
   clearWizard(){
