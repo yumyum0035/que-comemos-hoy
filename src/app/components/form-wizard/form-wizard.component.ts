@@ -34,7 +34,8 @@ export class FormWizardComponent implements OnInit {
   }
 
   onSubmit(): void {
-    this.router.navigate(['/complete']);
+    localStorage.setItem('wizardDone','true');
+    this.router.navigate(['/calendar']);
   }
 
 }
