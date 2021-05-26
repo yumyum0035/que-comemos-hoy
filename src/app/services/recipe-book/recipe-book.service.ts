@@ -9,6 +9,7 @@ import vegetables from '../../../assets/data/vegetables.json';
 import asiatic from '../../../assets/data/asiatic.json';
 import trend from '../../../assets/data/trending.json';
 import chicken from '../../../assets/data/chicken.json';
+import { runInThisContext } from 'vm';
 
 @Injectable({
   providedIn: 'root'
@@ -167,6 +168,7 @@ export class RecipeBookService {
   generateAllRandomRecipes(){
     let recipes = this.getAllRecipes();
     this.randomRecipes = this.randomWizard(recipes);
+    return this.randomRecipes;
   }
 
   generateMeals(){
@@ -199,4 +201,18 @@ export class RecipeBookService {
     return this.dinner;
   }
 
+  getMealById(id){
+    let recipe = [];
+    //Comprovamos si hay recetas del usuario
+    if(this.userRecipes.length > 0){
+      this.userRecipes.forEach(element => {
+        element.id == id ? recipe = element : null;
+      });
+    }else{
+      this.randomRecipes.forEach(element => {
+        element.id == id ? recipe = element : null;
+      });
+    }
+    return recipe;
+  }
 }

@@ -22,7 +22,7 @@ const routes: Routes = [
   component: RecipesComponent
 },
 {
-  path: 'selected-recipe',
+  path: 'detail-recipe/:id',
   component: SelectedRecipeComponent
 },
 {
