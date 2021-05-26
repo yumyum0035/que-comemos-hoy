@@ -6,7 +6,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-contacts": {
+    "que-comemos-hoy": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -23,7 +23,7 @@
             "customWebpackConfig": {
               "path": "./webpack.config.js"
             },
-            "outputPath": "dist/angular-contacts",
+            "outputPath": "dist/que-comemos-hoy",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -71,18 +71,18 @@
         "serve": {
           "builder": "@angular-builders/custom-webpack:dev-server",
           "options": {
-            "browserTarget": "angular-contacts:build"
+            "browserTarget": "que-comemos-hoy:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "angular-contacts:build:production"
+              "browserTarget": "que-comemos-hoy:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "angular-contacts:build"
+            "browserTarget": "que-comemos-hoy:build"
           }
         },
         "test": {
@@ -119,16 +119,16 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "angular-contacts:serve"
+            "devServerTarget": "que-comemos-hoy:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "angular-contacts:serve:production"
+              "devServerTarget": "que-comemos-hoy:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "angular-contacts"
+  "defaultProject": "que-comemos-hoy"
 }
