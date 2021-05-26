@@ -14,6 +14,14 @@ import { StepsComponent } from './components/steps/steps.component';
 import { StepTemplateComponent } from './components/step-template/step-template.component';
 import { FormWizardComponent } from './components/form-wizard/form-wizard.component';
 import { CompletePageComponent } from './components/complete-page/complete-page.component';
+
+// Angular Fire
+
+import { AngularFireModule } from '@angular/fire';
+import { AngularFirestoreModule } from '@angular/fire/firestore';
+import { AngularFireStorageModule } from '@angular/fire/storage';
+import { AngularFireAuthModule } from '@angular/fire/auth';
+import { environment } from '../environments/environment';
 @NgModule({
   declarations: [
     AppComponent,
@@ -31,7 +39,13 @@ import { CompletePageComponent } from './components/complete-page/complete-page.
   imports: [
     BrowserModule,
     FormsModule,
-    AppRoutingModule
+    AppRoutingModule,
+
+    // Angular Fire
+    AngularFireModule.initializeApp(environment.firebase),
+    AngularFirestoreModule, // firestore
+    AngularFireAuthModule, // auth
+    AngularFireStorageModule // storage
   ],
   providers: [],
   bootstrap: [AppComponent]

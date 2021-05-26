@@ -167,6 +167,7 @@ export class RecipeBookService {
   generateAllRandomRecipes(){
     let recipes = this.getAllRecipes();
     this.randomRecipes = this.randomWizard(recipes);
+    return this.randomRecipes
   }
 
   generateMeals(){
