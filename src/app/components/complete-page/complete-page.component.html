@@ -1,20 +1,31 @@
-
-<div class="complete-page">
+<!-- <div class="complete-page">
   <div class="complete-page-inner" >
-      <!-- <span class="completed-page-check material-icons">check_circle</span> -->
-      <h2 class="uppercase font-bold text-lg mb-3">Your meal plan is ready!</h2>
-      <div class="flex">
-        <div *ngFor="let day of week, let i = index">
-          <h3 class="uppercase font-bold">{{day}}</h3>
-          <div class="mr-4 bg-gray-50 rounded-md p-4">
-            <h4 class="font-bold">Comida</h4>
-            <p>{{lunch[i].name}}</p>
-            <h4 class="font-bold">Cena</h4>
-            <p>{{dinner[i].name}}</p>
-          </div>
+      <span class="completed-page-check material-icons">check_circle</span> -->
+
+<h2 class="uppercase font-bold text-lg mb-3 text-center">Your meal plan is ready!</h2>
+<div class="flex overflow-x-scroll pb-10 hide-scroll-bar">
+  <div *ngFor="let day of week, let i = index" class="mr-4">
+    <h3 class="uppercase font-bold">{{day}}</h3>
+    <div>
+      <h4 class="font-bold text-center">Comida</h4>
+      <div class="rounded overflow-hidden shadow-lg">
+        <img src={{lunch[i].images[0].url}} alt="{{lunch[i].image_alt_tag}}" class="w-full">
+        <div class="px-6 py-4">
+          <p class="font-bold text-xl mb-2">{{lunch[i].name}}</p>
         </div>
       </div>
+    </div>
+
+    <div>
+      <h4 class="font-bold text-center">Cena</h4>
+      <div class="rounded overflow-hidden shadow-lg">
+        <img src={{dinner[i].images[0].url}} alt="{{dinner[i].image_alt_tag}}" class="w-full">
+        <div class="px-6 py-4">
+          <p class="font-bold text-xl mb-2">{{dinner[i].name}}</p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
-<button (click)="home()">HOME</button>
+<button (click)="home()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">HOME</button>

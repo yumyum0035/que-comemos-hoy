@@ -34,7 +34,7 @@ export class FormWizardComponent implements OnInit {
   }
 
   onSubmit(): void {
-    this.router.navigate(['/complete']);
+    this.router.navigate(['/calendar']);
   }
 
 }
