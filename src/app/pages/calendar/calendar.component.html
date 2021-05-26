@@ -1,77 +1,69 @@
-<!-- <app-form-wizard></app-form-wizard> -->
-<h2 class="font-bold text-center text-3xl">{{week[n]}}</h2>
-<div class="p-10 grid grid-cols-2 gap-5">
-  <div (click)="showDetail('lunch',n)">
-    <h4 class="font-bold text-center">Comida</h4>
-    <div class="rounded overflow-hidden shadow-lg">
-      <img src={{lunch[n].images[0].url}} alt="{{lunch[n].image_alt_tag}}" class="w-full">
-      <div class="px-6 py-4">
-        <p class="font-bold text-xl mb-2">{{lunch[n].name}}</p>
-        <p>{{lunch[n].total_time}} min</p>
-        <p>{{lunch[n].dificulty}}</p>
-        <button (click)="editMeal($event,'lunch',n)" class="right-0 float-right bottom-6 relative">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
-          </svg>
-        </button>
-      </div>
-    </div>
-  </div>
-
-  <div (click)="showDetail('dinner',n)">
-    <h4 class="font-bold text-center">Cena</h4>
-    <div class="rounded overflow-hidden shadow-lg">
-      <img src={{dinner[n].images[0].url}} alt="{{dinner[n].image_alt_tag}}" class="w-full">
-      <div class="px-6 py-4">
-        <p class="font-bold text-xl mb-2">{{dinner[n].name}}</p>
-        <p>{{dinner[n].total_time}} min</p>
-        <p>{{dinner[n].dificulty}}</p>
-        <button (click)="editMeal($event,'dinner',n)" class="right-0 float-right bottom-6 relative">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
-          </svg>
-        </button>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- <div class="" >
-  <div class="flex">
-    <div *ngFor="let day of week, let i = index">
-      <h3 class="uppercase font-bold">{{day}}</h3>
-      <div class="mr-4 bg-gray-50 rounded-md p-4">
-        <h4 class="font-bold">Comida</h4>
-        <p>{{lunch[i].name}}</p>
-        <h4 class="font-bold">Cena</h4>
-        <p>{{dinner[i].name}}</p>
-      </div>
-    </div>
-  </div>
-</div> -->
-
-<div class="flex overflow-x-scroll pb-10 hide-scroll-bar">
-  <div *ngFor="let day of week, let i = index" class="mr-4">
-    <h3 class="uppercase font-bold">{{day}}</h3>
-    <div (click)="showDetail('lunch',i)">
+<div *ngIf="wizardDone">
+  <h2 class="font-bold text-center text-3xl">{{week[n]}}</h2>
+  <div class="p-10 grid grid-cols-2 gap-5">
+    <div (click)="showDetail('lunch',n)">
       <h4 class="font-bold text-center">Comida</h4>
       <div class="rounded overflow-hidden shadow-lg">
-        <img src={{lunch[i].images[0].url}} alt="{{lunch[i].image_alt_tag}}" class="w-full">
+        <img src={{lunch[n].images[0].url}} alt="{{lunch[n].image_alt_tag}}" class="w-full">
         <div class="px-6 py-4">
-          <p class="font-bold text-xl mb-2">{{lunch[i].name}}</p>
+          <p class="font-bold text-xl mb-2">{{lunch[n].name}}</p>
+          <p>{{lunch[n].total_time}} min</p>
+          <p>{{lunch[n].dificulty}}</p>
+          <button (click)="editMeal($event,'lunch',n)" class="right-0 float-right bottom-6 relative">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+            </svg>
+          </button>
         </div>
       </div>
     </div>
 
-    <div (click)="showDetail('dinner',i)">
+    <div (click)="showDetail('dinner',n)">
       <h4 class="font-bold text-center">Cena</h4>
       <div class="rounded overflow-hidden shadow-lg">
-        <img src={{dinner[i].images[0].url}} alt="{{dinner[i].image_alt_tag}}" class="w-full">
+        <img src={{dinner[n].images[0].url}} alt="{{dinner[n].image_alt_tag}}" class="w-full">
         <div class="px-6 py-4">
-          <p class="font-bold text-xl mb-2">{{dinner[i].name}}</p>
+          <p class="font-bold text-xl mb-2">{{dinner[n].name}}</p>
+          <p>{{dinner[n].total_time}} min</p>
+          <p>{{dinner[n].dificulty}}</p>
+          <button (click)="editMeal($event,'dinner',n)" class="right-0 float-right bottom-6 relative">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+            </svg>
+          </button>
         </div>
       </div>
     </div>
   </div>
+
+  <div class="flex overflow-x-scroll pb-10 hide-scroll-bar">
+    <div *ngFor="let day of week, let i = index" class="mr-4">
+      <h3 class="uppercase font-bold">{{day}}</h3>
+      <div (click)="showDetail('lunch',i)">
+        <h4 class="font-bold text-center">Comida</h4>
+        <div class="rounded overflow-hidden shadow-lg">
+          <img src={{lunch[i].images[0].url}} alt="{{lunch[i].image_alt_tag}}" class="w-full">
+          <div class="px-6 py-4">
+            <p class="font-bold text-xl mb-2">{{lunch[i].name}}</p>
+          </div>
+        </div>
+      </div>
+
+      <div (click)="showDetail('dinner',i)">
+        <h4 class="font-bold text-center">Cena</h4>
+        <div class="rounded overflow-hidden shadow-lg">
+          <img src={{dinner[i].images[0].url}} alt="{{dinner[i].image_alt_tag}}" class="w-full">
+          <div class="px-6 py-4">
+            <p class="font-bold text-xl mb-2">{{dinner[i].name}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
 </div>
 
+<div *ngIf="!wizardDone">
+  <button (click)="wizard()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"> WIZARD</button>
+</div>

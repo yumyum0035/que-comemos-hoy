@@ -59,6 +59,10 @@ export class CalendarComponent implements OnInit {
     }
   }
 
+  wizard(){
+    this.router.navigateByUrl('/form')
+  }
+
 
 
 
