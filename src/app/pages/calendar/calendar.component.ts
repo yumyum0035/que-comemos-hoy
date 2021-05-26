@@ -17,6 +17,7 @@ export class CalendarComponent implements OnInit {
   dinner = [];
   ingredients = [];
   ingredientsNames = [];
+
   constructor(private recipesServ : RecipeBookService, private router:Router) {
     this.n = this.day.getDay(); //0->Domingo - 6->Sábado
     this.n == 0 ? this.n = 6 : this.n--; //0->Lunes - 6->Domingo
@@ -54,6 +55,10 @@ export class CalendarComponent implements OnInit {
         this.router.navigateByUrl('/detail-recipe/'+this.dinner[index].id);
         break;
     }
+  }
+
+  wizard(){
+    this.router.navigateByUrl('/form')
   }
 
 
