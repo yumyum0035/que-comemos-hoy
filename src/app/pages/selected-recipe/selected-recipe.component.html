@@ -1,14 +1,32 @@
-<h1 class="text-xl">{{recipe['name']}}</h1>
-<img src="{{recipe['images'][0].url}}" alt="{{recipe['image_alt_tag']}}">
-<p>{{recipe['description']}}</p>
-<p>{{recipe['total_time']}} min</p>
-<h2 class="text-xl uppercase">Ingredientes</h2>
-<ul class="list-disc p-8">
-  <li *ngFor="let i of ingredientes">{{i.name}}</li>
-</ul>
-<h3 class="text-xl uppercase">Pasos</h3>
-<ol class="list-decimal p-8">
-  <li *ngFor="let p of pasos">{{p.name}}</li>
-</ol>
+<h2>{{recipe['name']}}</h2>
 
+<div>
+  <img src="{{recipe['images'][0].url}}" alt="{{recipe['image_alt_tag']}}">
+  <p>{{recipe['total_time']}} minutos</p>
+  <p>Dificultad: </p>
+  <p>{{recipe['description']}}</p>
+</div>
+
+<h3>Ingredientes</h3>
+<div class="ingredient-container">
+  <div class="ingredient" *ngFor="let i of ingredientes">
+    <img src="{{i.image}}" alt="">
+    <p>{{i.name}}</p>
+  </div>
+</div>
+
+<h3>Pasos</h3>
+<div class="cooking-steps">
+  <p *ngFor="let p of pasos">{{p.name}}</p>
+</div>
+
+<article>
+  <p>
+    <button>
+      <svg viewBox="0 0 60 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10.5929 34.9268C15.911 41.034 29.9581 52 29.9581 52C29.9581 52 44.089 41.16 49.4071 35.0529C54.7252 28.9457 63.842 15.6628 52.7499 5.58604C41.6578 -4.4907 30.0419 10.5233 30.0419 10.5233C30.0419 10.5233 18.3422 -4.61676 7.25007 5.45998C-3.84203 15.5367 5.27476 28.8197 10.5929 34.9268Z"/>
+      </svg>
+    </button> Añadir a favoritos
+  </p>
+</article>
 
