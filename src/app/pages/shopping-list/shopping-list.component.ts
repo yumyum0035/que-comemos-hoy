@@ -41,6 +41,7 @@ export class ShoppingListComponent implements OnInit {
     this.getAllRecipes()
     this.getIngredientFromRecipe(this.allRecipes)
     this.filterOnlyUniqueId()
+    console.log(' From generateAllRandomRecipes() remember to change this.allRecipes to this.userRecipes');
   }
 
   addIngredient(missingIngredient) {
