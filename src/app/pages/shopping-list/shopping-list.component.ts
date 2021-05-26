@@ -17,20 +17,25 @@ export class ShoppingListComponent implements OnInit {
   /*
   select recipe and that recipe tells me the position in the array and then i run a ng for for the elements of that recipe */
   ngOnInit(): void {
-    console.log(rice[0].ingredients[0].name
-      );
+    console.log(rice[0].ingredients[0].name);
+    this.ownedIngredients = localStorage.getItem('ownedIngredients') ? JSON.parse(localStorage.getItem('ownedIngredients'))  : this.ownedIngredients;
+    this.missingIngredients = localStorage.getItem('missingIngredients') ? JSON.parse(localStorage.getItem('missingIngredients'))  : this.missingIngredients;
   }
 
   addIngredient(missingIngredient) {
     /* console.log('addIngredient works', missingIngredient); */
     this.missingIngredients.push(missingIngredient)
-    this.ownedIngredients = this.ownedIngredients.filter(e => e !== missingIngredient)
+    this.ownedIngredients = this.ownedIngredients.filter(e => e !== missingIngredient);
+    localStorage.setItem('ownedIngredients', JSON.stringify(this.ownedIngredients));
+    localStorage.setItem('missingIngredients', JSON.stringify(this.missingIngredients));
   }
 
   delIngredient(ownedIngredient) {
     /* console.log('delIngredient works', ownedIngredient); */
     this.ownedIngredients.push(ownedIngredient)
-    this.missingIngredients = this.missingIngredients.filter(e => e !== ownedIngredient)
+    this.missingIngredients = this.missingIngredients.filter(e => e !== ownedIngredient);
+    localStorage.setItem('ownedIngredients', JSON.stringify(this.ownedIngredients));
+    localStorage.setItem('missingIngredients', JSON.stringify(this.missingIngredients));
 
   }
 }
