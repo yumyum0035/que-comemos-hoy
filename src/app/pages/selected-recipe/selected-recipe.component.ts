@@ -11,15 +11,23 @@ export class SelectedRecipeComponent implements OnInit {
 
   id:String;
   recipe = [];
+  ingredientes = [];
+  pasos = [];
 
   constructor(private recipesServ : RecipeBookService, private router:Router, private actRoute: ActivatedRoute) { }
 
   ngOnInit(): void {
     this.actRoute.params.subscribe( params => this.id = params.id);
-    console.log(this.id);
     //Tengo el id de la receta, ahora lo tengo que buscar para mostrar la info.
     this.recipe = this.recipesServ.getMealById(this.id);
-    console.log(this.recipe);
+    this.recipe['ingredients'].forEach(ingredient => {
+      this.ingredientes.push(ingredient);
+    });
+
+    this.recipe['steps'].forEach(paso => {
+      this.pasos.push(paso);
+    });
+
   }
 
 
