@@ -31,7 +31,7 @@ export class CalendarComponent implements OnInit {
     this.dinner = this.recipesServ.getDinner();
   }
 
-  editMeal(type,index){
+  editMeal(e,type,index){
     switch(type){
       case 'lunch':
         let newMeal = this.recipesServ.getOneLunch();
@@ -42,6 +42,7 @@ export class CalendarComponent implements OnInit {
         this.dinner[index] = newMeal2;
         break;
     }
+    e.stopPropagation();
   }
 
   showDetail(type,index){
@@ -53,7 +54,6 @@ export class CalendarComponent implements OnInit {
         this.router.navigateByUrl('/detail-recipe/'+this.dinner[index].id);
         break;
     }
-
   }
 
 
