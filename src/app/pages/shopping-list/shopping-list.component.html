@@ -19,7 +19,7 @@
   <div *ngFor="let missingIngredient of missingIngredients" >
     <div class="bg-red-300  rounded w-20 h-20">
       {{missingIngredient.name}}
-      <img [src]="missingIngredient.image" alt="missingIngredient.name">
+      <img [src]="missingIngredient.image" [alt]="missingIngredient.name">
       <button (click)="delIngredient(missingIngredient)" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" >add</button>
     </div>
   </div>
