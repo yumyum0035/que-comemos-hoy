@@ -5,5 +5,9 @@
         "statusBar.noFolderBackground": "#E49427",
         "statussBar.prominentBackground": "#E49427"
     },
-    "cSpell.language": "es,en,en-US,es-ES"
+    "cSpell.language": "es,en,en-US,es-ES",
+    "cSpell.words": [
+        "devkit",
+        "firestore"
+    ]
 }

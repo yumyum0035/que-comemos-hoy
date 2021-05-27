@@ -4,11 +4,15 @@
 /dist
 /tmp
 /out-tsc
+/public
+/.firebase
+/.vscode
 # Only exists if Bazel was run
 /bazel-out
 
 # dependencies
 /node_modules
+/src/environments
 
 # profiling files
 chrome-profiler-events*.json
@@ -40,6 +44,18 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+/environments
+src/environments/environment.ts
+src/environments/environment.prod.ts
+src/environments/**
+**/src/environments/environment.prod.ts
+**/src/environments/environment.ts
+/src/environments/**
+src/environments/environment.ts
+src/environments/environment.prod.ts
+src/environments/environment.ts
+public/index.html
+
 
 # System Files
 .DS_Store

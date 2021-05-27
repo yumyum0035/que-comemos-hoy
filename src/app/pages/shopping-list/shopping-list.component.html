@@ -1,9 +1,12 @@
-<p class="bg-blue-500 text-center">Owned Ingredients</p>
+ <button (click)="getEverything()">Get Missing Ingredients</button>
+
+ <p class="bg-blue-500 text-center">Owned Ingredients</p>
 
 <div class="grid grid-cols-3 gap-4">
   <div *ngFor="let ownedIngredient of ownedIngredients" >
     <div class="bg-red-300  rounded w-20 h-20">
-      {{ownedIngredient}}
+      {{ownedIngredient.name}}
+      <img [src]="ownedIngredient.image" [alt]="ownedIngredient.name">
       <button (click)="addIngredient(ownedIngredient)" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">delete</button>
     </div>
   </div>
@@ -15,7 +18,10 @@
 <div class="grid grid-cols-3 gap-4">
   <div *ngFor="let missingIngredient of missingIngredients" >
     <div class="bg-red-300  rounded w-20 h-20">
-      {{missingIngredient}}
+      {{missingIngredient.name}}
+      <img [src]="missingIngredient.image" [alt]="missingIngredient.name">
       <button (click)="delIngredient(missingIngredient)" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" >add</button>
     </div>
   </div>
+
+

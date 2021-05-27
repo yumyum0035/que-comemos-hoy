@@ -19,8 +19,8 @@ export class CompletePageComponent implements OnInit {
     this.recipesServ.generateMeals();
     this.lunch = this.recipesServ.getLunch();
     this.dinner = this.recipesServ.getDinner()
-    console.log('lunch',this.lunch);
-    console.log('dinner',this.dinner);
+    /* console.log('lunch',this.lunch);
+    console.log('dinner',this.dinner); */
   }
 
   home(){
