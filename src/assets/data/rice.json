@@ -1,1 +1,979 @@
-[{"id":"arroz-frito-con-pollo-y-verduras","name":"Arroz Frito con Pollo y Verduras","type":"recipe","rate":"4.8","description":"Porque todos los días hay que comer verduras ¿qué te parece añadirlas a tu plato de arroz con pollo de hoy? Te aseguramos que la combinación que te traemos es súper sabrosa. ¿Te animas? Sabemos que te va a encantar.","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-pollo-y-verduras/900/arroz-frito-con-pollo-y-verduras.jpg"],"image_title":"Arroz Frito con Pollo y Verduras","image_alt_tag":"Arroz Frito con Pollo y Verduras","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-pollo-y-verduras/900/arroz-frito-con-pollo-y-verduras.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-pollo-y-verduras/600/arroz-frito-con-pollo-y-verduras.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-pollo-y-verduras/300/arroz-frito-con-pollo-y-verduras.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-pollo-y-verduras/100/arroz-frito-con-pollo-y-verduras.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":876,"folders_ids":[],"like_count":232,"new":false,"liked":null,"favorited":null,"object_id":2569,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":10,"tags":["Pechuga de pollo","arroces","tupper","zanahoria","con niños"],"tip":"","meta_description":"Porque todos los días hay que comer verduras ¿qué te parece añadirlas a tu plato de arroz con pollo de hoy? Te aseguramos que la combinación que te traemos es súper sabrosa. ¿Te animas? Sabemos que te va a encantar.","meta_title":"recetas con arroz - recetas de arroz frito | Nooddle\n","published_at":"2021-04-20","views_count":2,"total_time_iso8601":"PT30M","rate_count":5,"cooked_date":null,"nutritional_balance":{"id":7880,"proteins":42.71887862943598,"veg_and_fruits":34.09722994771387,"grains":21.13694515518968,"total_weight_in_grams":898.9,"recipe_id":2569,"created_at":"2021-04-22T15:32:57.225Z","updated_at":"2021-04-22T15:32:57.225Z"},"author":null,"ingredients":[{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":8,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":29,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg","name":"pechuga de pollo","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":250,"nutrition":{"id":207,"usda_ndb_no":5057,"usda_shrt_desc":"CHICKEN,BROILERS OR FRYERS,BREAST,MEAT&SKN,RAW","carbohydrates":0,"sugars":0,"proteins":20.9,"fat":9.3,"saturated_fat":2.7,"fiber":0,"calories":172,"sodium":63,"ingredient_id":29,"created_at":"2020-04-15T07:03:17.351Z","updated_at":"2020-04-15T07:03:17.351Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":101,"measure":"gramos","value":"120","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/guisantes-conserva.jpg","name":"guisante en conserva","shopping_list_category_es":"conservas","shopping_list_category_en":"canned foods","shopp_list_type_es":0,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":120,"usda_ndb_no":11305,"usda_shrt_desc":"PEAS,GRN,CKD,BLD,DRND,WO/SALT","carbohydrates":15.6,"sugars":5.9,"proteins":5.4,"fat":0.2,"saturated_fat":0,"fiber":5.5,"calories":84,"sodium":3,"ingredient_id":101,"created_at":"2020-04-15T07:03:15.158Z","updated_at":"2020-04-15T07:03:15.158Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":42,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg","name":"salsa de soja","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":7,"nutrition":{"id":262,"usda_ndb_no":16123,"usda_shrt_desc":"SOY SAU MADE FROM SOY&WHEAT (SHOYU)","carbohydrates":4.9,"sugars":0.4,"proteins":8.1,"fat":0.6,"saturated_fat":0.1,"fiber":0.8,"calories":53,"sodium":5493,"ingredient_id":42,"created_at":"2020-04-15T07:03:18.810Z","updated_at":"2020-04-15T07:03:18.810Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}}],"steps":[{"name":"Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.","priority":0},{"name":"Coloca el pollo sobre una tabla y córtalo en trozos tamaño medio. Échale un poco de sal y pimienta.","priority":1},{"name":"Echa un poco de aceite de oliva en una sartén y saltea el pollo durante 3-4 minutos, hasta que quede dorado. Una vez esté listo, colócalo en un plato y reserva.","priority":2},{"name":"Pica el otro diente de ajo, la cebolla y la zanahoria en trozos pequeños, y en la misma sartén que has empleado para cocinar el pollo, añade unas gotas más de aceite, y saltea estas verduras que acabas de cortar así como los guisantes. Saltea las verduras durante  4-5 minutos. ","priority":3},{"name":"A continuación añade a la sartén el pollo que tienes reservado, la salsa de soja y mezcla los ingredientes.","priority":4},{"name":"Por último, vierte el arroz que tienes preparado y mezcla todo de manera que queden los ingredientes bien integrados. Sirve en tu plato y ¡disfrútalo! ","priority":5}]},{"id":"arroz-de-calabacin-y-puerros","name":"Arroz de Calabacín y Puerros","type":"recipe","rate":"4.5833333333333333","description":"\n    Si tienes ganas de preparar arroz pero buscas una receta diferente. ¿Cómo ves este suave arroz de calabacín y puerro con queso parmesano? ¿No se te está haciendo la boca agua?\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-de-calabacin-y-puerros/900/arroz-de-calabacin-y-puerros.jpg"],"image_title":"Arroz de Calabacín y Puerros","image_alt_tag":"Arroz de Calabacín y Puerros","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-de-calabacin-y-puerros/900/arroz-de-calabacin-y-puerros.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-de-calabacin-y-puerros/600/arroz-de-calabacin-y-puerros.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-de-calabacin-y-puerros/300/arroz-de-calabacin-y-puerros.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-de-calabacin-y-puerros/100/arroz-de-calabacin-y-puerros.jpg","width":100}],"premium":false,"total_time":35,"dificulty":null,"saved_count":2661,"folders_ids":[],"like_count":732,"new":false,"liked":null,"favorited":null,"object_id":1545,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":8,"tags":["puerro","Arroz","queso parmesano","en pareja","arroces","Calabacín"],"tip":"","meta_description":"\n    Si tienes ganas de preparar arroz pero buscas una receta diferente. ¿Cómo ves este suave arroz de calabacín y puerro con queso parmesano? ¿No se te está haciendo la boca agua?\n","meta_title":"recetas con arroz - recetas de cocina | Nooddle","published_at":"2019-02-14","views_count":0,"total_time_iso8601":"PT35M","rate_count":24,"cooked_date":null,"nutritional_balance":{"id":6918,"proteins":4.438526409232136,"veg_and_fruits":76.9640479360852,"grains":16.86640035508211,"total_weight_in_grams":1126.5,"recipe_id":1545,"created_at":"2020-10-25T18:42:16.135Z","updated_at":"2020-10-25T18:42:16.135Z"},"author":null,"ingredients":[{"id":48,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg","name":"puerro","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":180,"main_unit_grams_en":180,"grams":180,"nutrition":{"id":225,"usda_ndb_no":11246,"usda_shrt_desc":"LEEKS,(BULB&LOWER LEAF-PORTION),RAW","carbohydrates":14.2,"sugars":3.9,"proteins":1.5,"fat":0.3,"saturated_fat":0,"fiber":1.8,"calories":61,"sodium":20,"ingredient_id":48,"created_at":"2020-04-15T07:03:17.830Z","updated_at":"2020-04-15T07:03:17.830Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":47,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg","name":"calabacín","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":500,"main_unit_grams_en":500,"grams":500,"nutrition":{"id":47,"usda_ndb_no":11477,"usda_shrt_desc":"SQUASH,SMMR,ZUCCHINI,INCL SKN,RAW","carbohydrates":3.1,"sugars":2.5,"proteins":1.2,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":17,"sodium":8,"ingredient_id":47,"created_at":"2020-04-15T07:03:13.361Z","updated_at":"2020-04-15T07:03:13.361Z"}},{"id":33,"measure":"taza","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":6,"measure":"cucharadita","value":"1.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":77,"measure":"gramos","value":"50","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-parmesano.jpg","name":"queso parmesano","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":242,"usda_ndb_no":1033,"usda_shrt_desc":"CHEESE,PARMESAN,HARD","carbohydrates":3.2,"sugars":0.8,"proteins":35.8,"fat":25.8,"saturated_fat":16.4,"fiber":0,"calories":392,"sodium":1376,"ingredient_id":77,"created_at":"2020-04-15T07:03:18.198Z","updated_at":"2020-04-15T07:03:18.198Z"}}],"steps":[{"name":"Prepara los ingredientes de la siguiente manera: pica el ajo y los puerros que previamente debes haber lavado. Lava y corta en trozos tamaño medio el calabacín.","priority":0},{"name":"En una sartén amplia con un poco de aceite saltea el calabacín con una pizca de sal. Pasados 3 minutos apaga el fuego y reserva el calabacín, más adelante lo emplearás.","priority":1},{"name":"En esa misma sartén (añade un poquito más de aceite si fuera necesario) sofríe el puerro y el ajo durante 3-4 minutos con cuidado de que no se te queme.","priority":2},{"name":"A continuación vierte el arroz a la sartén y revuelve apenas medio minuto junto con el puerro y el ajo. Agrega a la sartén el agua y cocina a fuego alto durante 5-6 minutos.","priority":3},{"name":"Pasado el tiempo indicado baja la intensidad del fuego y añade la sal. Seguramente necesitarás añadir un poquito más de agua porque se ha absorbido casi toda, en su caso añádela. Cocina a fuego suave durante 10 minutos. Añade ahora el calabacín que tenías reservado al arroz y cocina 4-5 minutos más. Comprueba si el arroz está en su punto y si es así, vierte entonces el queso parmesano. Revuelve y deja que con el calor del arroz se funda. Sírvelo en la mesa y a disfrutar. Si sientes que el arroz aún sigue un poco duro cocínalo durante un ratito más hasta que llegue al punto de cocción correcto y después añade el queso como explicábamos.","priority":4}]},{"id":"arroz-con-langostinos","name":"Arroz con Langostinos","type":"recipe","rate":"4.3529411764705882","description":"\n    Un arroz nunca cae mal. Y si es con langostinos a uno le entra incluso mejor. Prueba esta sencilla receta y comprueba que no hace falta ir a un restaurante para comerlo, tu mismo con tus manitas puedes hacerlo en tu propia casa.\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos/900/arroz-con-langostinos.jpg"],"image_title":"Arroz con Langostinos","image_alt_tag":"Arroz con Langostinos","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos/900/arroz-con-langostinos.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos/600/arroz-con-langostinos.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos/300/arroz-con-langostinos.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos/100/arroz-con-langostinos.jpg","width":100}],"premium":false,"total_time":40,"dificulty":null,"saved_count":5457,"folders_ids":[],"like_count":1446,"new":false,"liked":null,"favorited":null,"object_id":1501,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":10,"tags":["tupper","Arroz","pimiento verde","en pareja","arroces","langostinos"],"tip":"<p>\n    Puedes añadir un puñado de cilantro picado al arroz. Le dará sabor y colorido al plato.\n</p>","meta_description":"\n    Un arroz nunca cae mal. Y si es con langostinos a uno le entra incluso mejor. Prueba esta sencilla receta y comprueba que no hace falta ir a un restaurante para comerlo, tu mismo con tus manitas puedes hacerlo en tu propia casa.\n","meta_title":"recetas con arroz - recetas de cocina | Nooddle","published_at":"2018-12-27","views_count":0,"total_time_iso8601":"PT40M","rate_count":34,"cooked_date":null,"nutritional_balance":{"id":5643,"proteins":24.1570206341218,"veg_and_fruits":50.07549068948164,"grains":21.24923111334787,"total_weight_in_grams":894.15,"recipe_id":1501,"created_at":"2020-07-07T15:29:22.368Z","updated_at":"2020-07-07T15:29:22.368Z"},"author":null,"ingredients":[{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":33,"measure":"tazas","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":6,"measure":"cucharaditas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":235,"measure":"unidades","value":"12","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg","name":"langostino","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":18,"main_unit_grams_en":18,"grams":18,"nutrition":{"id":142,"usda_ndb_no":15270,"usda_shrt_desc":"CRUSTACEANS,SHRIMP,RAW (NOT PREVIOUSLY FROZEN)","carbohydrates":0,"sugars":0,"proteins":20.1,"fat":0.5,"saturated_fat":0.1,"fiber":0,"calories":85,"sodium":119,"ingredient_id":235,"created_at":"2020-04-15T07:03:15.998Z","updated_at":"2020-04-15T07:03:15.998Z"}},{"id":45,"measure":"unidad","value":"0.25","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg","name":"pimiento verde","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":85,"main_unit_grams_en":85,"grams":85,"nutrition":{"id":218,"usda_ndb_no":11821,"usda_shrt_desc":"PEPPERS,SWT,RED,RAW","carbohydrates":6,"sugars":4.2,"proteins":1,"fat":0.3,"saturated_fat":0,"fiber":2.1,"calories":31,"sodium":4,"ingredient_id":45,"created_at":"2020-04-15T07:03:17.700Z","updated_at":"2020-04-15T07:03:17.700Z"}},{"id":122,"measure":"unidades","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg","name":"guindilla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":118,"usda_ndb_no":11979,"usda_shrt_desc":"PEPPERS,JALAPENO,RAW","carbohydrates":6.5,"sugars":4.1,"proteins":0.9,"fat":0.4,"saturated_fat":0.1,"fiber":2.8,"calories":29,"sodium":3,"ingredient_id":122,"created_at":"2020-04-15T07:03:15.113Z","updated_at":"2020-04-15T07:03:15.113Z"}},{"id":5,"measure":"cucharadas","value":"5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":7,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg","name":"tomate","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":160,"main_unit_grams_en":160,"grams":160,"nutrition":{"id":280,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":7,"created_at":"2020-04-15T07:03:19.451Z","updated_at":"2020-04-15T07:03:19.451Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}}],"steps":[{"name":"Comienza preparando el arroz. Para ello, echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega el arroz. Da unas vueltas un par de minutos y añade el agua y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar con la tapa puesta un rato.","priority":0},{"name":"Pela los langostinos ya cocidos asegurándote de que no queda ninguna cáscara o piel. En otra sartén echa un chorro de aceite de oliva. Cuando esté caliente añade la guindilla y deja que el aceite adquiera su sabor. Saltea los langostinos de manera que queden bien sellados y resérvalos.","priority":1},{"name":"Pica el ajo, el pimiento verde, la cebolla y el tomate.","priority":2},{"name":"Prepara un sofrito. En una sartén amplia echa un buen chorro de aceite de oliva. Cuando esté caliente vierte el ajo picado y la cebolla. Sofríe a fuego medio durante 3 minutos. A continuación añade el pimiento verde y saltea durante un par de minutos más. Termina añadiendo el tomate picado y un poco de sal, y deja que se sofría todo a fuego medio durante 10-15 minutos. Puedes añadir un poquito de agua o caldo si ves que se queda un poco seco.","priority":3},{"name":"En la sartén que contiene el sofrito vierte el arroz que vas a emplear así como los langostinos ya pasados por la sartén que tienes reservados. Revuelve todo, deja que los sabores se integren y añade, si quieres, un poco del aceite con guindilla. Sirve en tu plato y ¡a comer!","priority":4}]},{"id":"arroz-salteado-con-calabacin-y-champinones","name":"Arroz Salteado con Calabacín y Champiñones","type":"recipe","rate":"4.6725663716814159","description":"\n    ¿Te atragantas sólo de pensara que te toca cocinar? Esperamos que ¡no te pase! Porque hay muchísimas recetas súper sencillas que te dejarán muy satisfecho. Y este salteado de calabacín y champiñones es una de ellas. ¡Exitazo total!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-salteado-con-calabacin-y-champinones/900/arroz-salteado-con-calabacin-y-champinones.jpg"],"image_title":"Arroz Salteado con Calabacín y Champiñones","image_alt_tag":"Arroz Salteado con Calabacín y Champiñones","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-salteado-con-calabacin-y-champinones/900/arroz-salteado-con-calabacin-y-champinones.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-salteado-con-calabacin-y-champinones/600/arroz-salteado-con-calabacin-y-champinones.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-salteado-con-calabacin-y-champinones/300/arroz-salteado-con-calabacin-y-champinones.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-salteado-con-calabacin-y-champinones/100/arroz-salteado-con-calabacin-y-champinones.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":17871,"folders_ids":[],"like_count":4824,"new":false,"liked":null,"favorited":null,"object_id":1696,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":8,"tags":["arroces","vegetariano","fitness","champiñón","Calabacín","tupper","salteados","Arroz"],"tip":"<p>\n    Puedes sustituir la sal por salsa de soja, le dará un extra de sabor.\n</p>\n<p>\n    Si quieres hacer más completo el plato puedes acompañar el salteado con un filete de pescado, pollo, pavo, tofu, etc.\n</p>","meta_description":"\n    ¿Te atragantas sólo de pensara que te toca cocinar? Esperamos que ¡no te pase! Porque hay muchísimas recetas súper sencillas que te dejarán muy satisfecho. Y este salteado de calabacín y champiñones es una de ellas. ¡Exitazo total!\n","meta_title":"recetas con arroz - recetas veganas | Nooddle","published_at":"2019-06-27","views_count":3,"total_time_iso8601":"PT25M","rate_count":226,"cooked_date":null,"nutritional_balance":{"id":5791,"proteins":0,"veg_and_fruits":69.5198329853862,"grains":26.44398051496173,"total_weight_in_grams":718.5,"recipe_id":1696,"created_at":"2020-07-07T15:29:33.001Z","updated_at":"2020-07-07T15:29:33.001Z"},"author":null,"ingredients":[{"id":6,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":86,"measure":"gramos","value":"150","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}},{"id":47,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg","name":"calabacín","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":500,"main_unit_grams_en":500,"grams":500,"nutrition":{"id":47,"usda_ndb_no":11477,"usda_shrt_desc":"SQUASH,SMMR,ZUCCHINI,INCL SKN,RAW","carbohydrates":3.1,"sugars":2.5,"proteins":1.2,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":17,"sodium":8,"ingredient_id":47,"created_at":"2020-04-15T07:03:13.361Z","updated_at":"2020-04-15T07:03:13.361Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":5,"measure":"cucharadas","value":"4","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":33,"measure":"tazas","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}}],"steps":[{"name":"Comienza preparando el arroz. Para ello, echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega el arroz. Da unas vueltas un par de minutos y añade el agua y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo se ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar con la tapa puesta un rato.","priority":0},{"name":"Mientras se hace el arroz prepara el resto de ingredientes. Lava y corta en trozos no muy grandes los champiñones y el calabacín, y corta en tiras la cebolla.","priority":1},{"name":"En una sartén amplia echa 2-3 cucharadas de aceite de oliva. Cuando esté caliente sofríe la cebolla y los champiñones a fuego medio durante 4 minutos. Añade los dados de calabacín y sofríe unos 7-8 minutos. Añade un poco de sal a todo.","priority":2},{"name":"Termina añadiendo 6-7 cucharadas de arroz, revuelve los ingredientes, deja en el fuego apenas 1-2 minutos más y sirve en un plato.","priority":3}]},{"id":"arroz-con-espinacas-y-tomates-secos","name":"Arroz con Espinacas y Tomates Secos","type":"recipe","rate":"4.4680851063829787","description":"\n    Con esta receta descubrirás un arroz muy sencillo y sabrosísimo. El toque de los tomates secos es genial. Le da un sabor muy especial. ¡Compruébalo!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-espinacas-y-tomates-secos/900/arroz-con-espinacas-y-tomates-secos.jpg"],"image_title":"Arroz con Espinacas y Tomates Secos","image_alt_tag":"Arroz con Espinacas y Tomates Secos","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-espinacas-y-tomates-secos/900/arroz-con-espinacas-y-tomates-secos.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-espinacas-y-tomates-secos/600/arroz-con-espinacas-y-tomates-secos.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-espinacas-y-tomates-secos/300/arroz-con-espinacas-y-tomates-secos.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-espinacas-y-tomates-secos/100/arroz-con-espinacas-y-tomates-secos.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":8932,"folders_ids":[],"like_count":2276,"new":false,"liked":null,"favorited":null,"object_id":1524,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["vegetariano","30 minutos o menos","tomate seco","tupper","arroces","Espinacas"],"tip":"","meta_description":"\n    Con esta receta descubrirás un arroz muy sencillo y sabrosísimo. El toque de los tomates secos es genial. Le da un sabor muy especial. ¡Compruébalo!\n","meta_title":"recetas con arroz - recetas de cocina | Nooddle","published_at":"2019-01-24","views_count":1,"total_time_iso8601":"PT30M","rate_count":94,"cooked_date":null,"nutritional_balance":{"id":5666,"proteins":0,"veg_and_fruits":73.3419188667096,"grains":24.46877012234385,"total_weight_in_grams":776.5,"recipe_id":1524,"created_at":"2020-07-07T15:29:23.891Z","updated_at":"2020-07-07T15:29:23.891Z"},"author":null,"ingredients":[{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":33,"measure":"tazas","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":221,"measure":"gramos","value":"100","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg","name":"espinaca","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":103,"usda_ndb_no":11457,"usda_shrt_desc":"SPINACH,RAW","carbohydrates":3.6,"sugars":0.4,"proteins":2.9,"fat":0.4,"saturated_fat":0.1,"fiber":2.2,"calories":23,"sodium":79,"ingredient_id":221,"created_at":"2020-04-15T07:03:14.674Z","updated_at":"2020-04-15T07:03:14.674Z"}},{"id":290,"measure":"gramos","value":"50","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates-secos.jpg","name":"tomate seco","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":283,"usda_ndb_no":11956,"usda_shrt_desc":"TOMATOES,SUN-DRIED,PACKED IN OIL,DRND","carbohydrates":23.3,"sugars":0,"proteins":5.1,"fat":14.1,"saturated_fat":1.9,"fiber":5.8,"calories":213,"sodium":266,"ingredient_id":290,"created_at":"2020-04-15T07:03:19.546Z","updated_at":"2020-04-15T07:03:19.546Z"}},{"id":6,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":7,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg","name":"tomate","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":160,"main_unit_grams_en":160,"grams":160,"nutrition":{"id":280,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":7,"created_at":"2020-04-15T07:03:19.451Z","updated_at":"2020-04-15T07:03:19.451Z"}}],"steps":[{"name":"Prepara los ingredientes de la siguiente manera: pica la cebolla y el diente de ajo. Lava y corta en tiras las espinacas. Corta los tomates secos en tiras o bien en trozos del tamaño que te agraden. Y, por último, ralla dos tomates y resérvalos en un cuenco.","priority":0},{"name":"En una sartén amplia sofríe la cebolla y el ajo durante 3-4 minutos.","priority":1},{"name":"A continuación vierte el arroz a la sartén y revuelve apenas medio minuto junto con la cebolla y el ajo.","priority":2},{"name":"Agrega ahora el tomate rallado, el agua y la sal. Cocina a fuego alto durante 6-7 minutos.","priority":3},{"name":"Pasado el tiempo indicado baja la intensidad del fuego y añade las espinacas y los tomates secos. Seguramente necesitarás añadir un poquito más de agua, en su caso añádela. Cocina a fuego suave durante 10-12 minutos aproximadamente. Comprueba si el arroz está en su punto y si es así, sírvelo en la mesa. Si sientes que aún sigue duro cocínalo durante un ratito más hasta que llegue al punto de cocción que a ti te gusta.","priority":4}]},{"id":"arroz-con-champinones-y-brocoli","name":"Arroz con Champiñones y Brócoli","type":"recipe","rate":"4.7283950617283951","description":"\n    Métele verduras a tu arroz y consigue un plato más completo y saludable. El brócoli y los champiñones van a darle vitaminas y minerales a tu cuerpo excelentes. Y está ¡tan rico!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-champinones-y-brocoli/900/arroz-con-champinones-y-brocoli.jpg"],"image_title":"Arroz con Champiñones y Brócoli","image_alt_tag":"Arroz con Champiñones y Brócoli","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-champinones-y-brocoli/900/arroz-con-champinones-y-brocoli.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-champinones-y-brocoli/600/arroz-con-champinones-y-brocoli.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-champinones-y-brocoli/300/arroz-con-champinones-y-brocoli.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-champinones-y-brocoli/100/arroz-con-champinones-y-brocoli.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":6200,"folders_ids":[],"like_count":1817,"new":false,"liked":null,"favorited":null,"object_id":1943,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["fitness","vegano","vegetariano","champiñón","tupper","arroces","Brócoli"],"tip":"","meta_description":"\n    Métele verduras a tu arroz y consigue un plato más completo y saludable. El brócoli y los champiñones van a darle vitaminas y minerales a tu cuerpo excelentes. Y está ¡tan rico!\n","meta_title":"recetas con arroz - recetas vegetarianas | Nooddle","published_at":"2020-01-09","views_count":4,"total_time_iso8601":"PT30M","rate_count":81,"cooked_date":null,"nutritional_balance":{"id":5950,"proteins":0,"veg_and_fruits":71.2898751733703,"grains":26.35228848821082,"total_weight_in_grams":721,"recipe_id":1943,"created_at":"2020-07-07T15:29:43.995Z","updated_at":"2020-07-07T15:29:43.995Z"},"author":null,"ingredients":[{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":86,"measure":"gramos","value":"200","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}},{"id":124,"measure":"gramos","value":"300","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg","name":"brócoli","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":350,"main_unit_grams_en":350,"grams":1,"nutrition":{"id":43,"usda_ndb_no":11090,"usda_shrt_desc":"BROCCOLI,RAW","carbohydrates":6.6,"sugars":1.7,"proteins":2.8,"fat":0.4,"saturated_fat":0,"fiber":2.6,"calories":34,"sodium":33,"ingredient_id":124,"created_at":"2020-04-15T07:03:13.286Z","updated_at":"2020-04-15T07:03:13.286Z"}},{"id":6,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":4,"measure":"diente","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":33,"measure":"tazas","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}}],"steps":[{"name":"Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 5-6 minutos y después baja el fuego y cocina a fuego lento 10 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.","priority":0},{"name":"Lava el brócoli y córtalo en ramilletes pequeños. En una cazuela cuécelo apenas 3-4 minutos. Pasado ese tiempo escúrrelo y reserva.","priority":1},{"name":"Lava los champiñones y córtalos en láminas.","priority":2},{"name":"En una sartén amplia echa un chorrito de aceite de oliva. Cuando esté caliente vierte un ajo finamente picado y los champiñones. Saltéalos a fuego medio durante 6-7 minutos. Pasado ese tiempo añade el brócoli a la sartén, un poco de sal, y saltea durante un par de minutos junto con los champiñones.","priority":3},{"name":"Por último vierte en la sartén 5-6 cucharadas del arroz que has preparado. Revuelve el arroz junto con el resto de ingredientes de modo que todos se integren y deja en el fuego apenas 1 minuto. Sirve en la mesa.","priority":4}]},{"id":"arroz-con-pollo-y-brocoli","name":"Arroz con Pollo y Brócoli","type":"recipe","rate":"4.7142857142857143","description":"\n    ¿Cómo? ¿Qué nunca has hecho arroz con pollo y brócoli? Una receta básica, muy nutritiva y perfecta para comer de maravilla sin romperte la cabeza. Verás qué satisfecho te quedas.\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-pollo-y-brocoli/900/arroz-con-pollo-y-brocoli.jpg"],"image_title":"Arroz con Pollo y Brócoli","image_alt_tag":"Arroz con Pollo y Brócoli","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-pollo-y-brocoli/900/arroz-con-pollo-y-brocoli.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-pollo-y-brocoli/600/arroz-con-pollo-y-brocoli.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-pollo-y-brocoli/300/arroz-con-pollo-y-brocoli.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-pollo-y-brocoli/100/arroz-con-pollo-y-brocoli.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":8720,"folders_ids":[],"like_count":2602,"new":false,"liked":null,"favorited":null,"object_id":2088,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["Arroz","arroces","Brócoli","champiñón","Pechuga de pollo","tupper","fitness"],"tip":"","meta_description":"\n    ¿Cómo? ¿Qué nunca has hecho arroz con pollo y brócoli? Una receta básica, muy nutritiva y perfecta para comer de maravilla sin romperte la cabeza. Verás qué satisfecho te quedas.\n","meta_title":"recetas con arroz - recetas con brócoli - recetas fáciles | Nooddle","published_at":"2020-05-04","views_count":14,"total_time_iso8601":"PT30M","rate_count":98,"cooked_date":null,"nutritional_balance":{"id":6050,"proteins":24.83854942871337,"veg_and_fruits":54.59513164431198,"grains":18.87729756582216,"total_weight_in_grams":1006.5,"recipe_id":2088,"created_at":"2020-07-07T15:29:49.981Z","updated_at":"2020-07-07T15:29:49.981Z"},"author":null,"ingredients":[{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":86,"measure":"unidades","value":"4","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":50,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}},{"id":124,"measure":"gramos","value":"250","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg","name":"brócoli","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":350,"main_unit_grams_en":350,"grams":1,"nutrition":{"id":43,"usda_ndb_no":11090,"usda_shrt_desc":"BROCCOLI,RAW","carbohydrates":6.6,"sugars":1.7,"proteins":2.8,"fat":0.4,"saturated_fat":0,"fiber":2.6,"calories":34,"sodium":33,"ingredient_id":124,"created_at":"2020-04-15T07:03:13.286Z","updated_at":"2020-04-15T07:03:13.286Z"}},{"id":6,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":33,"measure":"taza","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":29,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg","name":"pechuga de pollo","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":250,"nutrition":{"id":207,"usda_ndb_no":5057,"usda_shrt_desc":"CHICKEN,BROILERS OR FRYERS,BREAST,MEAT&SKN,RAW","carbohydrates":0,"sugars":0,"proteins":20.9,"fat":9.3,"saturated_fat":2.7,"fiber":0,"calories":172,"sodium":63,"ingredient_id":29,"created_at":"2020-04-15T07:03:17.351Z","updated_at":"2020-04-15T07:03:17.351Z"}}],"steps":[{"name":"Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.","priority":0},{"name":"Lava el brócoli y córtalo el ramilletes. En una cazuela algo amplia pon agua y una pizca de sal. Cuando hierva vierte los ramilletes de brócoli y cuécelos durante 5 minutos. Apaga el fuego y con cuidado retíralos.","priority":1},{"name":"En una tabla coloca la pechuga de pollo y córtala en trozos. Échale un poquito de sal y en una sartén, con un poco de aceite de oliva, cocina los trozos de pollo a la plancha. Una vez estén hechos retíralos.","priority":2},{"name":"En esa misma sartén y sin necesidad de limpiarla saltea la cebolla. Cuando esté blandita añade los champiñones cortados en trozos y láminas, y echa un poquito de sal.","priority":3},{"name":"Pasados 2-3 minutos vierte en la sartén el pollo, el arroz que vas a emplear, los ramilletes de brócoli y, con una cuchara de madera, revuelve los ingredientes y saltea apenas un par de minutos. Pasado ese tiempo sirve en tu mesa.","priority":4}]},{"id":"arroz-con-langostinos-y-calabacin","name":"Arroz con Langostinos y Calabacín","type":"recipe","rate":"4.6785714285714286","description":"\n    Hazte este arroz de langostinos y calabacín, que es súper facilito, y consigue un plato de lujo. ¡Te lo mereces!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos-y-calabacin/900/arroz-con-langostinos-y-calabacin.jpg"],"image_title":"Arroz con Langostinos y Calabacín","image_alt_tag":"Arroz con Langostinos y Calabacín","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos-y-calabacin/900/arroz-con-langostinos-y-calabacin.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos-y-calabacin/600/arroz-con-langostinos-y-calabacin.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos-y-calabacin/300/arroz-con-langostinos-y-calabacin.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos-y-calabacin/100/arroz-con-langostinos-y-calabacin.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":3248,"folders_ids":[],"like_count":911,"new":false,"liked":null,"favorited":null,"object_id":1753,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":8,"tags":["tupper","Calabacín","en pareja","arroces","langostino"],"tip":"<p>\n    En la receta nosotros empleamos langostinos frescos, sin cocer, porque dan bastante sabor, pero puedes emplear cocidos igualmente.\n</p>","meta_description":"\n    Hazte este arroz de langostinos y calabacín, que es súper facilito, y consigue un plato de lujo. ¡Te lo mereces!\n","meta_title":"recetas con arroz - recetas de cocina | Nooddle","published_at":"2019-08-22","views_count":1,"total_time_iso8601":"PT30M","rate_count":28,"cooked_date":null,"nutritional_balance":{"id":6373,"proteins":27.39130434782609,"veg_and_fruits":48.80434782608696,"grains":20.65217391304348,"total_weight_in_grams":920,"recipe_id":1753,"created_at":"2020-08-11T08:07:14.235Z","updated_at":"2020-08-11T08:07:14.235Z"},"author":null,"ingredients":[{"id":6,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"4","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":4,"measure":"diente","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":235,"measure":"unidad","value":"14","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg","name":"langostino","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":18,"main_unit_grams_en":18,"grams":18,"nutrition":{"id":142,"usda_ndb_no":15270,"usda_shrt_desc":"CRUSTACEANS,SHRIMP,RAW (NOT PREVIOUSLY FROZEN)","carbohydrates":0,"sugars":0,"proteins":20.1,"fat":0.5,"saturated_fat":0.1,"fiber":0,"calories":85,"sodium":119,"ingredient_id":235,"created_at":"2020-04-15T07:03:15.998Z","updated_at":"2020-04-15T07:03:15.998Z"}},{"id":33,"measure":"tazas","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":21,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":47,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg","name":"calabacín","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":500,"main_unit_grams_en":500,"grams":500,"nutrition":{"id":47,"usda_ndb_no":11477,"usda_shrt_desc":"SQUASH,SMMR,ZUCCHINI,INCL SKN,RAW","carbohydrates":3.1,"sugars":2.5,"proteins":1.2,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":17,"sodium":8,"ingredient_id":47,"created_at":"2020-04-15T07:03:13.361Z","updated_at":"2020-04-15T07:03:13.361Z"}}],"steps":[{"name":"Vierte el arroz a la sartén y mezcla con el sofrito y los langostinos. Saltea el arroz y resto de ingredientes durante un minuto.","priority":4},{"name":"Pica media cebolla y los dientes de ajo. Lava medio calabacín y córtalo en rodajas.","priority":0},{"name":"Pela los langostinos asegurándote de no dejar ninguna cáscara y reserva 3-4 enteros sin pelar para añadirlos enteros a modo de decoración.","priority":1},{"name":"En una sartén amplia echa un chorro generoso de aceite de oliva. Cuando el aceite esté caliente añade el ajo y la cebolla picada y sofríe a fuego medio-bajo durante 6-7 minutos.","priority":2},{"name":"Añade a la sartén los langostinos y sofríe junto con la cebolla durante 5 minutos. Puedes echar un poquito de sal a todo.","priority":3},{"name":"Añade el agua a la sartén, la sal y cocina durante 12-15 minutos. Añade entonces las rodajas de calabacín y cocina durante 6-7 minutos más. Mientras se cocina el arroz, si ves que necesita un poco más de agua, añade un poquito (¡pero poco! no te pases). Cuando el arroz lleve 20 minutos al fuego comprueba que esté en su punto de cocción y de sal, y corrige si lo ves necesario.","priority":5},{"name":"Sirve en la mesa. Puedes acompañarlo de varias rodajas de limón y de un puñado de cilantro picado.","priority":6}]},{"id":"arroz-frito-con-ternera","name":"Arroz Frito con Ternera","type":"recipe","rate":"4.5","description":"\n    Arroz frito, lleno de sabor y con toques asiáticos... ¡qué rico! ¿Quieres la receta? Pues sigue leyendo y ¡ponte el delantal!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/900/arroz-frito-con-ternera.jpg"],"image_title":"Arroz Frito con Ternera","image_alt_tag":"Arroz Frito con Ternera","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/900/arroz-frito-con-ternera.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/600/arroz-frito-con-ternera.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/300/arroz-frito-con-ternera.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/100/arroz-frito-con-ternera.jpg","width":100}],"premium":false,"total_time":35,"dificulty":null,"saved_count":4629,"folders_ids":[],"like_count":1547,"new":false,"liked":null,"favorited":null,"object_id":2301,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":10,"tags":["Filete de ternera","Arroz","puerro","arroces","asiático","zanahoria","tupper"],"tip":"<p>\n    Puedes añadir un puñado de semillas de sésamo cuando frías el arroz.\n</p>\n<p>\n    Puedes sustituir la salsa de soja por salsa de otras.\n</p>\n<p>\n    También puedes emplear aceite de sésamo si quires darle un toque más asiático al plato.\n</p>","meta_description":"\n    Arroz frito, lleno de sabor y con toques asiáticos... ¡qué rico! ¿Quieres la receta? Pues sigue leyendo y ¡ponte el delantal!\n","meta_title":"recetas de arroz - recetas fáciles | Nooddle","published_at":"2020-09-02","views_count":3,"total_time_iso8601":"PT35M","rate_count":38,"cooked_date":null,"nutritional_balance":{"id":6518,"proteins":36.01784955376115,"veg_and_fruits":41.86145346366341,"grains":20.18699532511687,"total_weight_in_grams":941.2,"recipe_id":2301,"created_at":"2020-09-02T04:02:01.112Z","updated_at":"2020-09-02T04:02:01.112Z"},"author":null,"ingredients":[{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":2,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg","name":"huevo","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":75,"main_unit_grams_en":75,"grams":75,"nutrition":{"id":131,"usda_ndb_no":1123,"usda_shrt_desc":"EGG,WHL,RAW,FRSH","carbohydrates":0.7,"sugars":0.4,"proteins":12.6,"fat":9.5,"saturated_fat":3.1,"fiber":0,"calories":143,"sodium":142,"ingredient_id":2,"created_at":"2020-04-15T07:03:15.570Z","updated_at":"2020-04-15T07:03:15.570Z"}},{"id":33,"measure":"tazas","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":8,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":48,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg","name":"puerro","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":180,"main_unit_grams_en":180,"grams":180,"nutrition":{"id":225,"usda_ndb_no":11246,"usda_shrt_desc":"LEEKS,(BULB&LOWER LEAF-PORTION),RAW","carbohydrates":14.2,"sugars":3.9,"proteins":1.5,"fat":0.3,"saturated_fat":0,"fiber":1.8,"calories":61,"sodium":20,"ingredient_id":48,"created_at":"2020-04-15T07:03:17.830Z","updated_at":"2020-04-15T07:03:17.830Z"}},{"id":42,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg","name":"salsa de soja","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":7,"nutrition":{"id":262,"usda_ndb_no":16123,"usda_shrt_desc":"SOY SAU MADE FROM SOY&WHEAT (SHOYU)","carbohydrates":4.9,"sugars":0.4,"proteins":8.1,"fat":0.6,"saturated_fat":0.1,"fiber":0.8,"calories":53,"sodium":5493,"ingredient_id":42,"created_at":"2020-04-15T07:03:18.810Z","updated_at":"2020-04-15T07:03:18.810Z"}},{"id":128,"measure":"filetes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg","name":"filete de ternera","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"filete","main_unit_en":"fillet","main_unit_grams_es":125,"main_unit_grams_en":1,"grams":125,"nutrition":{"id":107,"usda_ndb_no":17104,"usda_shrt_desc":"VEAL,LOIN,LN&FAT,RAW","carbohydrates":0.1,"sugars":0,"proteins":20.1,"fat":10.1,"saturated_fat":3.6,"fiber":0,"calories":177,"sodium":98,"ingredient_id":128,"created_at":"2020-04-15T07:03:14.761Z","updated_at":"2020-04-15T07:03:14.761Z"}}],"steps":[{"name":"Lava el puerro y córtalo en rodajas finas.","priority":0},{"name":"Lava y pela las zanahorias. Córtalas en trozos pequeños.","priority":1},{"name":"Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y, pasado este tiempo, añade en este momento el puerro y la zanahoria cortada en trozos a la olla. Después baja el fuego y cocina a fuego lento 8 minutos más. Si ves que se ha absorbido el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.","priority":2},{"name":"Bate el huevo y, en una sartén con un poco de aceite de oliva, cocina el huevo dándole forma de tortilla. A continuación colócala sobre una tabla y córtala en trozos pequeños.","priority":3},{"name":"En esa misma sartén echa un poquito de aceite de oliva y cocina a la plancha los filetes de ternera. Una vez estén listos colócalos sobre la tabla y córtala en trozos pequeños.","priority":4},{"name":"Mezcla la tortilla y la carne cortada en trozos con el arroz con verduras que has cocinado. Una vez esté mezclado saltéalo en una sartén añadiéndole la salsa de soja. Cuando el arroz esté frito apaga el fuego y sírvelo en la mesa.","priority":5}]}]
+[
+  {
+    "id": "arroz-frito-con-pollo-y-verduras",
+    "name": "Arroz Frito con Pollo y Verduras",
+    "type": "Arroces",
+    "description": "Porque todos los días hay que comer verduras ¿qué te parece añadirlas a tu plato de arroz con pollo de hoy? Te aseguramos que la combinación que te traemos es súper sabrosa. ¿Te animas? Sabemos que te va a encantar.",
+    "image_alt_tag": "Arroz Frito con Pollo y Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-pollo-y-verduras/900/arroz-frito-con-pollo-y-verduras.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/guisantes-conserva.jpg",
+        "name": "guisante en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Coloca el pollo sobre una tabla y córtalo en trozos tamaño medio. Échale un poco de sal y pimienta.",
+        "priority": 1
+      },
+      {
+        "name": "Echa un poco de aceite de oliva en una sartén y saltea el pollo durante 3-4 minutos, hasta que quede dorado. Una vez esté listo, colócalo en un plato y reserva.",
+        "priority": 2
+      },
+      {
+        "name": "Pica el otro diente de ajo, la cebolla y la zanahoria en trozos pequeños, y en la misma sartén que has empleado para cocinar el pollo, añade unas gotas más de aceite, y saltea estas verduras que acabas de cortar así como los guisantes. Saltea las verduras durante  4-5 minutos. ",
+        "priority": 3
+      },
+      {
+        "name": "A continuación añade a la sartén el pollo que tienes reservado, la salsa de soja y mezcla los ingredientes.",
+        "priority": 4
+      },
+      {
+        "name": "Por último, vierte el arroz que tienes preparado y mezcla todo de manera que queden los ingredientes bien integrados. Sirve en tu plato y ¡disfrútalo! ",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "arroz-de-calabacin-y-puerros",
+    "name": "Arroz de Calabacín y Puerros",
+    "type": "Arroces",
+    "description": "\n    Si tienes ganas de preparar arroz pero buscas una receta diferente. ¿Cómo ves este suave arroz de calabacín y puerro con queso parmesano? ¿No se te está haciendo la boca agua?\n",
+    "image_alt_tag": "Arroz de Calabacín y Puerros",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-de-calabacin-y-puerros/900/arroz-de-calabacin-y-puerros.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg",
+        "name": "puerro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "50",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-parmesano.jpg",
+        "name": "queso parmesano",
+        "shopping_list_category_es": "lacteos y huevos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Prepara los ingredientes de la siguiente manera: pica el ajo y los puerros que previamente debes haber lavado. Lava y corta en trozos tamaño medio el calabacín.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén amplia con un poco de aceite saltea el calabacín con una pizca de sal. Pasados 3 minutos apaga el fuego y reserva el calabacín, más adelante lo emplearás.",
+        "priority": 1
+      },
+      {
+        "name": "En esa misma sartén (añade un poquito más de aceite si fuera necesario) sofríe el puerro y el ajo durante 3-4 minutos con cuidado de que no se te queme.",
+        "priority": 2
+      },
+      {
+        "name": "A continuación vierte el arroz a la sartén y revuelve apenas medio minuto junto con el puerro y el ajo. Agrega a la sartén el agua y cocina a fuego alto durante 5-6 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado el tiempo indicado baja la intensidad del fuego y añade la sal. Seguramente necesitarás añadir un poquito más de agua porque se ha absorbido casi toda, en su caso añádela. Cocina a fuego suave durante 10 minutos. Añade ahora el calabacín que tenías reservado al arroz y cocina 4-5 minutos más. Comprueba si el arroz está en su punto y si es así, vierte entonces el queso parmesano. Revuelve y deja que con el calor del arroz se funda. Sírvelo en la mesa y a disfrutar. Si sientes que el arroz aún sigue un poco duro cocínalo durante un ratito más hasta que llegue al punto de cocción correcto y después añade el queso como explicábamos.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-langostinos",
+    "name": "Arroz con Langostinos",
+    "type": "Arroces",
+    "description": "\n    Un arroz nunca cae mal. Y si es con langostinos a uno le entra incluso mejor. Prueba esta sencilla receta y comprueba que no hace falta ir a un restaurante para comerlo, tu mismo con tus manitas puedes hacerlo en tu propia casa.\n",
+    "image_alt_tag": "Arroz con Langostinos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos/900/arroz-con-langostinos.jpg",
+    "total_time": 40,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "cucharaditas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidades",
+        "value": "12",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "guindilla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando el arroz. Para ello, echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega el arroz. Da unas vueltas un par de minutos y añade el agua y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar con la tapa puesta un rato.",
+        "priority": 0
+      },
+      {
+        "name": "Pela los langostinos ya cocidos asegurándote de que no queda ninguna cáscara o piel. En otra sartén echa un chorro de aceite de oliva. Cuando esté caliente añade la guindilla y deja que el aceite adquiera su sabor. Saltea los langostinos de manera que queden bien sellados y resérvalos.",
+        "priority": 1
+      },
+      {
+        "name": "Pica el ajo, el pimiento verde, la cebolla y el tomate.",
+        "priority": 2
+      },
+      {
+        "name": "Prepara un sofrito. En una sartén amplia echa un buen chorro de aceite de oliva. Cuando esté caliente vierte el ajo picado y la cebolla. Sofríe a fuego medio durante 3 minutos. A continuación añade el pimiento verde y saltea durante un par de minutos más. Termina añadiendo el tomate picado y un poco de sal, y deja que se sofría todo a fuego medio durante 10-15 minutos. Puedes añadir un poquito de agua o caldo si ves que se queda un poco seco.",
+        "priority": 3
+      },
+      {
+        "name": "En la sartén que contiene el sofrito vierte el arroz que vas a emplear así como los langostinos ya pasados por la sartén que tienes reservados. Revuelve todo, deja que los sabores se integren y añade, si quieres, un poco del aceite con guindilla. Sirve en tu plato y ¡a comer!",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-salteado-con-calabacin-y-champinones",
+    "name": "Arroz Salteado con Calabacín y Champiñones",
+    "type": "Arroces",
+    "description": "\n    ¿Te atragantas sólo de pensara que te toca cocinar? Esperamos que ¡no te pase! Porque hay muchísimas recetas súper sencillas que te dejarán muy satisfecho. Y este salteado de calabacín y champiñones es una de ellas. ¡Exitazo total!\n",
+    "image_alt_tag": "Arroz Salteado con Calabacín y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-salteado-con-calabacin-y-champinones/900/arroz-salteado-con-calabacin-y-champinones.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando el arroz. Para ello, echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega el arroz. Da unas vueltas un par de minutos y añade el agua y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo se ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar con la tapa puesta un rato.",
+        "priority": 0
+      },
+      {
+        "name": "Mientras se hace el arroz prepara el resto de ingredientes. Lava y corta en trozos no muy grandes los champiñones y el calabacín, y corta en tiras la cebolla.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa 2-3 cucharadas de aceite de oliva. Cuando esté caliente sofríe la cebolla y los champiñones a fuego medio durante 4 minutos. Añade los dados de calabacín y sofríe unos 7-8 minutos. Añade un poco de sal a todo.",
+        "priority": 2
+      },
+      {
+        "name": "Termina añadiendo 6-7 cucharadas de arroz, revuelve los ingredientes, deja en el fuego apenas 1-2 minutos más y sirve en un plato.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-espinacas-y-tomates-secos",
+    "name": "Arroz con Espinacas y Tomates Secos",
+    "type": "Arroces",
+    "description": "\n    Con esta receta descubrirás un arroz muy sencillo y sabrosísimo. El toque de los tomates secos es genial. Le da un sabor muy especial. ¡Compruébalo!\n",
+    "image_alt_tag": "Arroz con Espinacas y Tomates Secos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-espinacas-y-tomates-secos/900/arroz-con-espinacas-y-tomates-secos.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "50",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates-secos.jpg",
+        "name": "tomate seco",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Prepara los ingredientes de la siguiente manera: pica la cebolla y el diente de ajo. Lava y corta en tiras las espinacas. Corta los tomates secos en tiras o bien en trozos del tamaño que te agraden. Y, por último, ralla dos tomates y resérvalos en un cuenco.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén amplia sofríe la cebolla y el ajo durante 3-4 minutos.",
+        "priority": 1
+      },
+      {
+        "name": "A continuación vierte el arroz a la sartén y revuelve apenas medio minuto junto con la cebolla y el ajo.",
+        "priority": 2
+      },
+      {
+        "name": "Agrega ahora el tomate rallado, el agua y la sal. Cocina a fuego alto durante 6-7 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado el tiempo indicado baja la intensidad del fuego y añade las espinacas y los tomates secos. Seguramente necesitarás añadir un poquito más de agua, en su caso añádela. Cocina a fuego suave durante 10-12 minutos aproximadamente. Comprueba si el arroz está en su punto y si es así, sírvelo en la mesa. Si sientes que aún sigue duro cocínalo durante un ratito más hasta que llegue al punto de cocción que a ti te gusta.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-champinones-y-brocoli",
+    "name": "Arroz con Champiñones y Brócoli",
+    "type": "Arroces",
+    "description": "\n    Métele verduras a tu arroz y consigue un plato más completo y saludable. El brócoli y los champiñones van a darle vitaminas y minerales a tu cuerpo excelentes. Y está ¡tan rico!\n",
+    "image_alt_tag": "Arroz con Champiñones y Brócoli",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-champinones-y-brocoli/900/arroz-con-champinones-y-brocoli.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 5-6 minutos y después baja el fuego y cocina a fuego lento 10 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el brócoli y córtalo en ramilletes pequeños. En una cazuela cuécelo apenas 3-4 minutos. Pasado ese tiempo escúrrelo y reserva.",
+        "priority": 1
+      },
+      {
+        "name": "Lava los champiñones y córtalos en láminas.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén amplia echa un chorrito de aceite de oliva. Cuando esté caliente vierte un ajo finamente picado y los champiñones. Saltéalos a fuego medio durante 6-7 minutos. Pasado ese tiempo añade el brócoli a la sartén, un poco de sal, y saltea durante un par de minutos junto con los champiñones.",
+        "priority": 3
+      },
+      {
+        "name": "Por último vierte en la sartén 5-6 cucharadas del arroz que has preparado. Revuelve el arroz junto con el resto de ingredientes de modo que todos se integren y deja en el fuego apenas 1 minuto. Sirve en la mesa.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-pollo-y-brocoli",
+    "name": "Arroz con Pollo y Brócoli",
+    "type": "Arroces",
+    "description": "\n    ¿Cómo? ¿Qué nunca has hecho arroz con pollo y brócoli? Una receta básica, muy nutritiva y perfecta para comer de maravilla sin romperte la cabeza. Verás qué satisfecho te quedas.\n",
+    "image_alt_tag": "Arroz con Pollo y Brócoli",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-pollo-y-brocoli/900/arroz-con-pollo-y-brocoli.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el brócoli y córtalo el ramilletes. En una cazuela algo amplia pon agua y una pizca de sal. Cuando hierva vierte los ramilletes de brócoli y cuécelos durante 5 minutos. Apaga el fuego y con cuidado retíralos.",
+        "priority": 1
+      },
+      {
+        "name": "En una tabla coloca la pechuga de pollo y córtala en trozos. Échale un poquito de sal y en una sartén, con un poco de aceite de oliva, cocina los trozos de pollo a la plancha. Una vez estén hechos retíralos.",
+        "priority": 2
+      },
+      {
+        "name": "En esa misma sartén y sin necesidad de limpiarla saltea la cebolla. Cuando esté blandita añade los champiñones cortados en trozos y láminas, y echa un poquito de sal.",
+        "priority": 3
+      },
+      {
+        "name": "Pasados 2-3 minutos vierte en la sartén el pollo, el arroz que vas a emplear, los ramilletes de brócoli y, con una cuchara de madera, revuelve los ingredientes y saltea apenas un par de minutos. Pasado ese tiempo sirve en tu mesa.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-langostinos-y-calabacin",
+    "name": "Arroz con Langostinos y Calabacín",
+    "type": "Arroces",
+    "description": "\n    Hazte este arroz de langostinos y calabacín, que es súper facilito, y consigue un plato de lujo. ¡Te lo mereces!\n",
+    "image_alt_tag": "Arroz con Langostinos y Calabacín",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos-y-calabacin/900/arroz-con-langostinos-y-calabacin.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidad",
+        "value": "14",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Vierte el arroz a la sartén y mezcla con el sofrito y los langostinos. Saltea el arroz y resto de ingredientes durante un minuto.",
+        "priority": 4
+      },
+      {
+        "name": "Pica media cebolla y los dientes de ajo. Lava medio calabacín y córtalo en rodajas.",
+        "priority": 0
+      },
+      {
+        "name": "Pela los langostinos asegurándote de no dejar ninguna cáscara y reserva 3-4 enteros sin pelar para añadirlos enteros a modo de decoración.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un chorro generoso de aceite de oliva. Cuando el aceite esté caliente añade el ajo y la cebolla picada y sofríe a fuego medio-bajo durante 6-7 minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Añade a la sartén los langostinos y sofríe junto con la cebolla durante 5 minutos. Puedes echar un poquito de sal a todo.",
+        "priority": 3
+      },
+      {
+        "name": "Añade el agua a la sartén, la sal y cocina durante 12-15 minutos. Añade entonces las rodajas de calabacín y cocina durante 6-7 minutos más. Mientras se cocina el arroz, si ves que necesita un poco más de agua, añade un poquito (¡pero poco! no te pases). Cuando el arroz lleve 20 minutos al fuego comprueba que esté en su punto de cocción y de sal, y corrige si lo ves necesario.",
+        "priority": 5
+      },
+      {
+        "name": "Sirve en la mesa. Puedes acompañarlo de varias rodajas de limón y de un puñado de cilantro picado.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "arroz-frito-con-ternera",
+    "name": "Arroz Frito con Ternera",
+    "type": "Arroces",
+    "description": "\n    Arroz frito, lleno de sabor y con toques asiáticos... ¡qué rico! ¿Quieres la receta? Pues sigue leyendo y ¡ponte el delantal!\n",
+    "image_alt_tag": "Arroz Frito con Ternera",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/900/arroz-frito-con-ternera.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg",
+        "name": "puerro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg",
+        "name": "filete de ternera",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava el puerro y córtalo en rodajas finas.",
+        "priority": 0
+      },
+      {
+        "name": "Lava y pela las zanahorias. Córtalas en trozos pequeños.",
+        "priority": 1
+      },
+      {
+        "name": "Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y, pasado este tiempo, añade en este momento el puerro y la zanahoria cortada en trozos a la olla. Después baja el fuego y cocina a fuego lento 8 minutos más. Si ves que se ha absorbido el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 2
+      },
+      {
+        "name": "Bate el huevo y, en una sartén con un poco de aceite de oliva, cocina el huevo dándole forma de tortilla. A continuación colócala sobre una tabla y córtala en trozos pequeños.",
+        "priority": 3
+      },
+      {
+        "name": "En esa misma sartén echa un poquito de aceite de oliva y cocina a la plancha los filetes de ternera. Una vez estén listos colócalos sobre la tabla y córtala en trozos pequeños.",
+        "priority": 4
+      },
+      {
+        "name": "Mezcla la tortilla y la carne cortada en trozos con el arroz con verduras que has cocinado. Una vez esté mezclado saltéalo en una sartén añadiéndole la salsa de soja. Cuando el arroz esté frito apaga el fuego y sírvelo en la mesa.",
+        "priority": 5
+      }
+    ]
+  }
+]
