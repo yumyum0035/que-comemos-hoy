@@ -1,10 +1,45 @@
 @use "./variables" as *;
 
 * { box-sizing: border-box; }
-html { font-size: 16px; }
+html { font-size: 10px; }
 
 body {
   font-family: $font;
-  font-size: 1rem;
+  font-size: 1.6rem;
   font-weight: 300;
+}
+
+.red-bg {
+    background: $red;
+    color: $white;
+
+    &:active { 
+        color: $white;
+        background: $orange; 
+    }
+}
+
+h2, h3 { 
+    font-weight: 600;
+    margin: 1.6rem;
+}
+
+h2 { 
+    color: $red;
+    text-align: center;
+    font-size: 2.8rem;
+}
+
+h3 { 
+    color: $black;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+p { margin: .8rem 0; }
+
+.diff {
+    &.low { @include difficulty-stars(1); }
+    &.medium { @include difficulty-stars(2); }
+    &.high { @include difficulty-stars(3); }
 }
