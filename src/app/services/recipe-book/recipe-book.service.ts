@@ -1,22 +1,23 @@
 import { Injectable } from '@angular/core';
-import rice from '../../../assets/data/rice.json'
+import rice from '../../../assets/data/rice.json';
 import pasta from '../../../assets/data/pasta.json';
 import fish from '../../../assets/data/fish.json';
 import meat from '../../../assets/data/meat.json';
-import gluten from '../../../assets/data/glutenFree.json';
+import gluten from '../../../assets/data/gluten.json';
 import vegan from '../../../assets/data/vegan.json';
 import vegetables from '../../../assets/data/vegetables.json';
 import asiatic from '../../../assets/data/asiatic.json';
 import trend from '../../../assets/data/trending.json';
 import chicken from '../../../assets/data/chicken.json';
-import { runInThisContext } from 'vm';
+import { recipe, ingredient, step } from '../../interfaces/recipe';
+
 
 @Injectable({
   providedIn: 'root'
 })
 export class RecipeBookService {
 
-  allRecipes = [];
+  allRecipes:recipe[] = [];
   type = ['Pasta','Arroces','Pescado','Carne','Pollo','Verduras','Vegano','Sin Gluten','Asiático','Variado'];
   wizardRecipes = [];
   userRecipes = [];
@@ -25,16 +26,82 @@ export class RecipeBookService {
   dinner = [];
 
   constructor() {
-    this.allRecipes.push(pasta);
-    this.allRecipes.push(rice);
-    this.allRecipes.push(fish);
-    this.allRecipes.push(meat);
-    this.allRecipes.push(chicken);
-    this.allRecipes.push(vegetables);
-    this.allRecipes.push(vegan);
-    this.allRecipes.push(gluten);
-    this.allRecipes.push(asiatic);
-    this.allRecipes.push(trend);
+    /*
+    //DATA LIMPIA
+    chicken.forEach(element => {
+      let aux:recipe = {
+        id: element.id,
+        name: element.name,
+        type: element.type,
+        description: element.description,
+        image_alt_tag:element.image_alt_tag,
+        image: element.images[0].url,
+        total_time: element.total_time,
+        dificulty: 1,
+        favorited: false,
+        portion: element.portion,
+        ingredients_amount : element.ingredients_amount,
+        ingredients : [{
+          measure: '0',
+          value: '0',
+          ingredient_type:'0',
+          image:'0',
+          name: '0',
+          shopping_list_category_es: '0'
+        }],
+        steps:[{
+          name: '0',
+          priority:0
+        }]
+      };
+
+      element.ingredients.forEach(i => {
+        let ing: ingredient = {
+          measure:  i.measure,
+          value:i.value,
+          ingredient_type : i.ingredient_type,
+          image : i.image,
+          name : i.name,
+          shopping_list_category_es : i.shopping_list_category_es
+        }
+        aux.ingredients.push(ing);
+      });
+
+      element.steps.forEach(i => {
+        let st:step = {
+          name : i.name,
+          priority : i.priority
+        }
+        aux.steps.push(st);
+      });
+      console.log(aux);
+      this.data.push(aux);
+    });
+
+    console.log('LIMPIEZA DE DATOS');
+    console.log(this.data);
+
+    //eliminamos primer elemento:
+    this.data.forEach(element => {
+      element.ingredients.shift();
+      element.steps.shift();
+    });
+    console.log('LIMPIEZA DE DATOS 2');
+    console.log(this.data);
+    console.log(JSON.stringify(this.data));
+
+    */
+
+    this.allRecipes.push(pasta as recipe);
+    this.allRecipes.push(rice as recipe);
+    this.allRecipes.push(fish as recipe);
+    this.allRecipes.push(meat as recipe);
+    this.allRecipes.push(chicken as recipe);
+    this.allRecipes.push(vegetables as recipe);
+    this.allRecipes.push(vegan as recipe);
+    this.allRecipes.push(gluten as recipe);
+    this.allRecipes.push(asiatic as recipe);
+    this.allRecipes.push(trend as recipe);
     this.generateAllRandomRecipes();
     this.userRecipes = localStorage.getItem('userRecipes') ? JSON.parse(localStorage.getItem('userRecipes')) : this.userRecipes;
   }
@@ -203,17 +270,17 @@ export class RecipeBookService {
   }
 
   getMealById(id){
-    let recipe = [];
+    let receta = [];
     //Comprovamos si hay recetas del usuario
     if(this.userRecipes.length > 0){
       this.userRecipes.forEach(element => {
-        element.id == id ? recipe = element : null;
+        element.id == id ? receta = element : null;
       });
     }else{
       this.randomRecipes.forEach(element => {
-        element.id == id ? recipe = element : null;
+        element.id == id ? receta = element : null;
       });
     }
-    return recipe;
+    return receta;
   }
 }

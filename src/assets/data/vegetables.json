@@ -1,1 +1,895 @@
-[{"id":"falafels-de-batata","name":"Falafels de Batata","type":"recipe","rate":"4.8","description":"Estos falafels de batata están riquísimos y son muy versátiles. Puedes tomártelos de picoteo o puedes acompañarlos con lechuga, hummus, lima y pan de fajita, y hacerte un rico almuerzo. ¡Tienen mil opciones! ¡Sírvetelos como te apetezca!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg"],"image_title":"Falafels de Batata","image_alt_tag":"Falafels de Batata","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/600/falafels-de-batata.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/300/falafels-de-batata.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/100/falafels-de-batata.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":579,"folders_ids":[],"like_count":147,"new":false,"liked":null,"favorited":null,"object_id":2473,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["boniato","aperitivos y tapas","con amigos","Harina de trigo","sancking saludable"],"tip":"<p>Emplea harina integral en la receta, es más nutritiva.</p>","meta_description":"Estos falafels de batata están riquísimos y son muy versátiles. Puedes tomártelos de picoteo o puedes acompañarlos con lechuga, hummus, lima y pan de fajita, y hacerte un rico almuerzo. ¡Tienen mil opciones! ¡Sírvetelos como te apetezca!","meta_title":"recetas con boniato - recetas de falafel | Nooddle\n","published_at":"2021-04-15","views_count":2,"total_time_iso8601":"PT30M","rate_count":5,"cooked_date":null,"nutritional_balance":{"id":7851,"proteins":1.803751803751804,"veg_and_fruits":22.90764790764791,"grains":74.8556998556998,"total_weight_in_grams":554.4,"recipe_id":2473,"created_at":"2021-04-15T08:43:26.902Z","updated_at":"2021-04-15T08:43:26.902Z"},"author":{"id":101695,"first_name":"Leire","last_name":"Gamboa","image":"https://assets.gathercontent.com/1561526351_7983_c0a292af9d8f2ade659068f516a97d7e?s=1392b3cfa5eb92b1553768cb436d48fc","website":"\n","website_name":"\n","description":"¡Hola! Me llamo Leire, soy de San Sebastián (España) y me dedico a desarrollar recetas, buscar los ingredientes, cocinar, componer y fotografiar. Lo que más me gusta hacer es viajar y probar la comida de los sitios que visito. Disfruto mucho del deporte, del mar y de la montaña. Creo que mis recetas son una mezcla de todo esto, internacionales, saludables y con mucho color.","facebook":"https://www.facebook.com/leiregamboarecetas/\n","twitter":"\n","pinterest":"https://www.pinterest.es/leiregamboa/","youtube":"","instagram":"https://www.instagram.com/leiregamboa/?hl=es\n","name":"Leire Gamboa","current_folders_amount":1,"available_folders_amount":3,"has_premium":false,"revenue_premium":false,"email":"user_1616054468@nooddle.es"},"ingredients":[{"id":130,"measure":"gramos","value":"350","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg","name":"batata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":450,"main_unit_grams_en":450,"grams":1,"nutrition":{"id":37,"usda_ndb_no":11507,"usda_shrt_desc":"SWEET POTATO,RAW,UNPREP","carbohydrates":20.1,"sugars":4.2,"proteins":1.6,"fat":0.1,"saturated_fat":0,"fiber":3,"calories":86,"sodium":55,"ingredient_id":130,"created_at":"2020-04-15T07:03:13.155Z","updated_at":"2020-04-15T07:03:13.155Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":96,"measure":"puñado","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg","name":"cilantro","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":76,"usda_ndb_no":11165,"usda_shrt_desc":"CORIANDER (CILANTRO) LEAVES,RAW","carbohydrates":3.7,"sugars":0.9,"proteins":2.1,"fat":0.5,"saturated_fat":0,"fiber":2.8,"calories":23,"sodium":46,"ingredient_id":96,"created_at":"2020-04-15T07:03:13.875Z","updated_at":"2020-04-15T07:03:13.875Z"}},{"id":13,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg","name":"limón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":120,"main_unit_grams_en":120,"grams":120,"nutrition":{"id":155,"usda_ndb_no":9152,"usda_shrt_desc":"LEMON JUICE,RAW","carbohydrates":6.9,"sugars":2.5,"proteins":0.4,"fat":0.2,"saturated_fat":0,"fiber":0.3,"calories":22,"sodium":1,"ingredient_id":13,"created_at":"2020-04-15T07:03:16.299Z","updated_at":"2020-04-15T07:03:16.299Z"}},{"id":38,"measure":"taza","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/harina.jpg","name":"harina de trigo","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":130,"nutrition":{"id":125,"usda_ndb_no":20080,"usda_shrt_desc":"WHEAT FLOUR,WHOLE-GRAIN","carbohydrates":72,"sugars":0.4,"proteins":13.2,"fat":2.5,"saturated_fat":0.4,"fiber":10.7,"calories":340,"sodium":2,"ingredient_id":38,"created_at":"2020-04-15T07:03:15.354Z","updated_at":"2020-04-15T07:03:15.354Z"}},{"id":208,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg","name":"comino en polvo","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":86,"usda_ndb_no":2014,"usda_shrt_desc":"CUMIN SEED","carbohydrates":44.20000000000001,"sugars":2.3,"proteins":17.8,"fat":22.3,"saturated_fat":1.5,"fiber":10.5,"calories":375,"sodium":168,"ingredient_id":208,"created_at":"2020-04-15T07:03:14.118Z","updated_at":"2020-04-15T07:03:14.118Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":115,"measure":"puñado","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/semilla-de-sesamo.jpg","name":"semilla de sésamo","shopping_list_category_es":"semillas, frutos secos y deshidratados","shopping_list_category_en":"seeds and nuts","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":10,"nutrition":{"id":273,"usda_ndb_no":12023,"usda_shrt_desc":"SESAME SEEDS,WHOLE,DRIED","carbohydrates":23.5,"sugars":0.3,"proteins":17.7,"fat":49.7,"saturated_fat":7,"fiber":11.8,"calories":573,"sodium":11,"ingredient_id":115,"created_at":"2020-04-15T07:03:19.225Z","updated_at":"2020-04-15T07:03:19.225Z"}}],"steps":[{"name":"Precalienta el horno a 200ºC.","priority":0},{"name":"Pela y corta la batata en rodajas. Colócalas sobre una bandeja del horno forrada con papel vegetal y échales un poquito de aceite de oliva por encima. Mételas en el horno durante 30 minutos o hasta que veas que están blandas. Una vez estén blanditas, pasa al siguiente paso.","priority":1},{"name":"Coloca en el vaso de la batidora el ajo, el cilantro, el zumo de un limón, la batata ya cocinada, la harina indicada, el comino en polvo, un poco de sal y de pimienta, y tritura bien. ","priority":2},{"name":"Deja reposar la mezcla durante 1 hora en la nevera. ","priority":3},{"name":"Coloca un plato con un poquito de harina extra y saca la masa de la nevera. Coge un poco de masa y sin formar el falafel, lo pasas por el plato de harina. Ahora dale forma de falafel y ve colocándolos sobre la bandeja del horno. Añade un puñado de semillas de sésamo por encima y hornea durante 15 minutos a 200ºC.","priority":4}]},{"id":"pastelitos-de-batata-y-champinones","name":"Pastelitos de Batata y Champiñones","type":"recipe","rate":"4.1111111111111111","description":"\n    ¿Te apetece hacer algo original con esa batata que tienes muerta de risa en tu nevera? Se pueden hacer cosas muy interesantes como estos nuggets o pastelitos de batata con champiñones y cebolla. ¡Pruébalos!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastelitos-de-batata-y-champinones/900/pastelitos-de-batata-y-champinones.jpg"],"image_title":"Pastelitos de Batata y Champiñones","image_alt_tag":"Pastelitos de Batata y Champiñones","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastelitos-de-batata-y-champinones/900/pastelitos-de-batata-y-champinones.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastelitos-de-batata-y-champinones/600/pastelitos-de-batata-y-champinones.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastelitos-de-batata-y-champinones/300/pastelitos-de-batata-y-champinones.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastelitos-de-batata-y-champinones/100/pastelitos-de-batata-y-champinones.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":1702,"folders_ids":[],"like_count":515,"new":false,"liked":null,"favorited":null,"object_id":1924,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["con amigos","champiñón","vegetariano","aperitivos y tapas","batata"],"tip":"<p>\n    Sírvelos acompañados de una rica ensalada. Inspírate dentro de nuestra categoría \"Ensaladas y bowls\" y elige la que más te gusta.<br>\n</p>","meta_description":"\n    ¿Te apetece hacer algo original con esa batata que tienes muerta de risa en tu nevera? Se pueden hacer cosas muy interesantes como estos nuggets o pastelitos de batata con champiñones y cebolla. ¡Pruébalos!\n","meta_title":"recetas con batata - recetas vegetarianas | Nooddle","published_at":"2019-12-16","views_count":0,"total_time_iso8601":"PT30M","rate_count":9,"cooked_date":null,"nutritional_balance":{"id":5932,"proteins":11.0676602966133,"veg_and_fruits":24.53331365749281,"grains":63.4545857005829,"total_weight_in_grams":677.65,"recipe_id":1924,"created_at":"2020-07-07T15:29:42.542Z","updated_at":"2020-07-07T15:29:42.542Z"},"author":null,"ingredients":[{"id":6,"measure":"pizca","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":130,"measure":"gramos","value":"400","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg","name":"batata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":450,"main_unit_grams_en":450,"grams":1,"nutrition":{"id":37,"usda_ndb_no":11507,"usda_shrt_desc":"SWEET POTATO,RAW,UNPREP","carbohydrates":20.1,"sugars":4.2,"proteins":1.6,"fat":0.1,"saturated_fat":0,"fiber":3,"calories":86,"sodium":55,"ingredient_id":130,"created_at":"2020-04-15T07:03:13.155Z","updated_at":"2020-04-15T07:03:13.155Z"}},{"id":21,"measure":"unidad","value":"0.25","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":2,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg","name":"huevo","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":75,"main_unit_grams_en":75,"grams":75,"nutrition":{"id":131,"usda_ndb_no":1123,"usda_shrt_desc":"EGG,WHL,RAW,FRSH","carbohydrates":0.7,"sugars":0.4,"proteins":12.6,"fat":9.5,"saturated_fat":3.1,"fiber":0,"calories":143,"sodium":142,"ingredient_id":2,"created_at":"2020-04-15T07:03:15.570Z","updated_at":"2020-04-15T07:03:15.570Z"}},{"id":86,"measure":"gramos","value":"120","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}},{"id":56,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg","name":"pan rallado","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":200,"usda_ndb_no":18079,"usda_shrt_desc":"BREAD CRUMBS,DRY,GRATED,PLN","carbohydrates":72,"sugars":6.2,"proteins":13.4,"fat":5.3,"saturated_fat":1.2,"fiber":4.5,"calories":395,"sodium":732,"ingredient_id":56,"created_at":"2020-04-15T07:03:17.178Z","updated_at":"2020-04-15T07:03:17.178Z"}}],"steps":[{"name":"Precalienta el horno a 180ºC.","priority":0},{"name":"Lava la batata bien para quitarle toda la tierra y suciedad que pueda tener y hazle unos pequeños cortes en la piel. Para ello coge un tenedor y dale varios pinchazos (te costará porque ¡está dura!). Colócala en un plato y métela en el microondas. Cocina durante 8-10 minutos a máxima potencia (800-1000 vatios). Pasado este tiempo sácala del micro y extrae su carne con una cuchara. Haz un puré aplastando su carne con un tenedor y ponle una pizca de sal.","priority":1},{"name":"Lava los champiñones. En tu procesador de alimentos o picadora, a velocidad media, trocea la cebolla y los champiñones. En una sartén amplia echa un poquito de aceite de oliva y sofríe la cebolla y los champiñones con una pizca de sal durante 5-6 minutos.","priority":2},{"name":"Mezcla el puré de batata con los champiñones y cebolla sofrita.","priority":3},{"name":"Comienza a hacer bolitas, aplástalas un poco y dales forma de nuggets o pastelitos.","priority":4},{"name":"Pasa cada nugget por el huevo batido y a continuación por el pan rallado. Y, mételos en una bandeja con papel de horno. Deje que se cocinen en el horno entre 20-25 minutos. Verás que te quedan crujientes por fuera aunque blandos por dentro.","priority":5}]},{"id":"sopa-cremosa-de-patata-y-champinones","name":"Sopa Cremosa de Patata y Champiñones","type":"recipe","rate":"4.5405405405405405","description":"Si te gusta la patata, los champiñones y los platos de cuchara, esta sopa va a dejarte sin palabras. Y te aseguramos que es muy, muy facilita de hacer. ¡Te va a salir!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-champinones/900/sopa-cremosa-de-patata-y-champinones.jpg"],"image_title":"Sopa Cremosa de Patata y Champiñones","image_alt_tag":"Sopa Cremosa de Patata y Champiñones","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-champinones/900/sopa-cremosa-de-patata-y-champinones.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-champinones/600/sopa-cremosa-de-patata-y-champinones.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-champinones/300/sopa-cremosa-de-patata-y-champinones.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-champinones/100/sopa-cremosa-de-patata-y-champinones.jpg","width":100}],"premium":false,"total_time":35,"dificulty":null,"saved_count":2051,"folders_ids":[],"like_count":652,"new":false,"liked":null,"favorited":null,"object_id":2466,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["vegetariano","Patata","de cuchara","champiñón","sopas y cremas"],"tip":"<p>Puede emplear leche vegetal si sigues una dieta vegana.</p><p>Nosotros esparcimos un poco de cilantro picado por encima.</p><p>Si quieres hacer la sopa mas espesa, puedes sustituir la leche por nata líquida (crema de leche).</p>","meta_description":"Si te gusta la patata, los champiñones y los platos de cuchara, esta sopa va a dejarte sin palabras. Y te aseguramos que es muy, muy facilita de hacer. ¡Te va a salir!","meta_title":"sopas de patata - recetas de cuchara | Nooddle\n","published_at":"2021-02-01","views_count":2,"total_time_iso8601":"PT35M","rate_count":37,"cooked_date":null,"nutritional_balance":{"id":7526,"proteins":22.81585702062934,"veg_and_fruits":28.47228824032703,"grains":47.53303545964446,"total_weight_in_grams":1051.9,"recipe_id":2466,"created_at":"2021-02-01T04:02:22.938Z","updated_at":"2021-02-01T04:02:22.938Z"},"author":null,"ingredients":[{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":33,"measure":"taza","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":86,"measure":"unidades","value":"4","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":50,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}},{"id":35,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg","name":"patata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":250,"nutrition":{"id":203,"usda_ndb_no":11352,"usda_shrt_desc":"POTATOES,FLESH & SKN,RAW","carbohydrates":17.5,"sugars":0.8,"proteins":2.1,"fat":0.1,"saturated_fat":0,"fiber":2.1,"calories":77,"sodium":6,"ingredient_id":35,"created_at":"2020-04-15T07:03:17.249Z","updated_at":"2020-04-15T07:03:17.249Z"}},{"id":57,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg","name":"leche","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":143,"usda_ndb_no":1077,"usda_shrt_desc":"MILK,WHL,3.25% MILKFAT,W/ ADDED VITAMIN D","carbohydrates":4.8,"sugars":5.1,"proteins":3.2,"fat":3.3,"saturated_fat":1.9,"fiber":0,"calories":61,"sodium":43,"ingredient_id":57,"created_at":"2020-04-15T07:03:16.019Z","updated_at":"2020-04-15T07:03:16.019Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}}],"steps":[{"name":"Comienza preparando los ingredientes de la siguiente manera. Pela las patatas y córtalas en trozos no muy grandes, del tamaño que te agrade para comértelas en una sopa. Pica finamente el ajo y la cebolla y, por último, corta en láminas o trozos los champiñones.","priority":0},{"name":"En una cazuela echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte el ajo y la cebolla picada, sofríe durante varios minutos a fuego medio, con cuidado de que no se quemen.","priority":1},{"name":"Añade a la cazuela los champiñones cortados y saltea durante un 3-4 minutos, hasta que comiencen a dorarse.","priority":2},{"name":"Agrega a la cazuela las patatas y cubre los ingredientes con el agua y la leche. Añade un poco de sal y de pimiento y cubre con la tapa. Deja que se cocine a fuego medio durante 20-25 minutos aproximadamente. Pasado este tiempo comprueba que el líquido ha reducido y que esté sabrosa la sopa. Corrige el punto de sal si fuera necesario y déjalo más tiempo en el fuego si te gusta más espesa la sopa o añádele un poco de líquido si te gusta más suelta, a tu gusto.","priority":3}]},{"id":"salsa-agridulce","name":"Salsa Agridulce","type":"recipe","rate":"3.8571428571428571","description":"Si la comida asiática es de tus favoritas no puede faltarte la receta de ¡salsa agridulce! Es ¡tan rica! Y combina de manea tan espectacular con tantos ingredientes: tofu, pollo, verduras, fideos... Verás que la emplearás muchísimo. Hoy en día la venden en cualquier supermercado pero suelen ser salsas muy poco saludables, así anímate y hazla en casa. Es facilísima de hacer, ¡verás!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salsa-agridulce/900/salsa-agridulce.jpg"],"image_title":"Salsa Agridulce","image_alt_tag":"Salsa Agridulce","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salsa-agridulce/900/salsa-agridulce.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salsa-agridulce/600/salsa-agridulce.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salsa-agridulce/300/salsa-agridulce.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salsa-agridulce/100/salsa-agridulce.jpg","width":100}],"premium":false,"total_time":0,"dificulty":null,"saved_count":1124,"folders_ids":[],"like_count":398,"new":false,"liked":null,"favorited":null,"object_id":2219,"in_cart":false,"portions_added":null,"portion":3,"ingredients_amount":10,"tags":["azúcar moreno","asiático","ajo","vinagre de arroz","salsas"],"tip":"<p>Puedes emplear esta salsa para numerosos platos de inspiración oriental.</p><p>Puedes sustituir la salsa ketchup por una cucharada y media de pasta de tomate.</p>","meta_description":"Si la comida asiática es de tus favoritas no puede faltarte la receta de ¡salsa agridulce! Es ¡tan rica! Y combina de manea tan espectacular con tantos ingredientes: tofu, pollo, verduras, fideos... Verás que la emplearás muchísimo. Hoy en día la venden en cualquier supermercado pero suelen ser salsas muy poco saludables, así anímate y hazla en casa. Es facilísima de hacer, ¡verás!","meta_title":"recetas de salsa agridulce- recetas de salsa china - comida asiática - comida china | Nooddle\n","published_at":"2020-12-26","views_count":0,"total_time_iso8601":"-P","rate_count":7,"cooked_date":null,"nutritional_balance":{"id":7385,"proteins":6.352087114337568,"veg_and_fruits":6.352087114337568,"grains":1.814882032667877,"total_weight_in_grams":220.4,"recipe_id":2219,"created_at":"2020-12-26T04:00:47.672Z","updated_at":"2020-12-26T04:00:47.672Z"},"author":null,"ingredients":[{"id":33,"measure":"taza","value":"0.25","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":135,"measure":"taza","value":"0.25","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484118/ingredients/azucar-moreno.jpg","name":"azúcar moreno","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":210,"nutrition":{"id":33,"usda_ndb_no":19334,"usda_shrt_desc":"SUGARS,BROWN","carbohydrates":98.1,"sugars":97,"proteins":0.1,"fat":0,"saturated_fat":0,"fiber":0,"calories":380,"sodium":28,"ingredient_id":135,"created_at":"2020-04-15T07:03:12.987Z","updated_at":"2020-04-15T07:03:12.987Z"}},{"id":234,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/ketchup.jpg","name":"ketchup","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":140,"usda_ndb_no":6150,"usda_shrt_desc":"SAUCE,BARBECUE","carbohydrates":40.8,"sugars":33.20000000000001,"proteins":0.8,"fat":0.6,"saturated_fat":0,"fiber":0.9,"calories":172,"sodium":1027,"ingredient_id":234,"created_at":"2020-04-15T07:03:15.943Z","updated_at":"2020-04-15T07:03:15.943Z"}},{"id":294,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1504401669/ingredients/vinagre-de-manzana.jpg","name":"vinagre de manzana","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":293,"usda_ndb_no":2048,"usda_shrt_desc":"VINEGAR,CIDER","carbohydrates":0.9,"sugars":0.4,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":21,"sodium":5,"ingredient_id":294,"created_at":"2020-04-15T07:03:19.877Z","updated_at":"2020-04-15T07:03:19.877Z"}},{"id":292,"measure":"taza","value":"0.25","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/vinagre-arroz.jpg","name":"vinagre de arroz","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":291,"usda_ndb_no":2053,"usda_shrt_desc":"VINEGAR,DISTILLED","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":18,"sodium":2,"ingredient_id":292,"created_at":"2020-04-15T07:03:19.774Z","updated_at":"2020-04-15T07:03:19.774Z"}},{"id":42,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg","name":"salsa de soja","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":7,"nutrition":{"id":262,"usda_ndb_no":16123,"usda_shrt_desc":"SOY SAU MADE FROM SOY&WHEAT (SHOYU)","carbohydrates":4.9,"sugars":0.4,"proteins":8.1,"fat":0.6,"saturated_fat":0.1,"fiber":0.8,"calories":53,"sodium":5493,"ingredient_id":42,"created_at":"2020-04-15T07:03:18.810Z","updated_at":"2020-04-15T07:03:18.810Z"}},{"id":15,"measure":"pizcas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":170,"measure":"cucharadita","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/ajo-en-polvo.jpg","name":"ajo en polvo","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":10,"usda_ndb_no":2020,"usda_shrt_desc":"GARLIC POWDER","carbohydrates":72.7,"sugars":2.4,"proteins":16.6,"fat":0.7,"saturated_fat":0.2,"fiber":9,"calories":331,"sodium":60,"ingredient_id":170,"created_at":"2020-04-15T07:03:12.141Z","updated_at":"2020-04-15T07:03:12.141Z"}},{"id":244,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg","name":"maicena","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":4,"nutrition":{"id":161,"usda_ndb_no":28337,"usda_shrt_desc":"BREAD,GLUTEN-FREE,RICE FLOUR,CORN STARCH,AND/OR TAPIOCA","carbohydrates":45.8,"sugars":3.5,"proteins":4.3,"fat":5.2,"saturated_fat":1,"fiber":4.3,"calories":248,"sodium":447,"ingredient_id":244,"created_at":"2020-04-15T07:03:16.406Z","updated_at":"2020-04-15T07:03:16.406Z"}}],"steps":[{"name":"Coloca el agua en un recipiente y vierte la maicena. Mezcla de manera que la maicena se disuelva en el agua.","priority":0},{"name":"Pica finamente los ajos.","priority":1},{"name":"Vierte todos los ingredientes de la receta a excepción de la maicena disuelta en agua, en tu batidora o procesador de alimentos y bate muy bien.","priority":2},{"name":"Vierte lo anterior en un cazo y ponlo a fuego calienta a fuego medio-alto. Cuando comience a hervir, añade la maicena con agua que tienes reservada y sigue cocinando pero a fuego bajo. Poco a poco la salsa ira espesando. Una ve esté en el punto de espesor que te gusta, apaga el fuego y sirve.","priority":3}]},{"id":"crema-de-zanahoria-y-calabaza","name":"Crema de Zanahoria y Calabaza","type":"recipe","rate":"4.7054794520547945","description":"\n    ¿Es posible que esta crema tan rica y nutritiva se logre con tan pocos ingredientes y tan comunes? ¡Sí, lo es! Por eso, aprovecha ese trozo de calabaza y ese par de zanahorias que tienes en tu nevera, y cocina con ellos esta sabrosa crema de verduras. ¡No te arrepentirás!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-zanahoria-y-calabaza/900/crema-de-zanahoria-y-calabaza.jpg"],"image_title":"Crema de Zanahoria y Calabaza","image_alt_tag":"Crema de Zanahoria y Calabaza","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-zanahoria-y-calabaza/900/crema-de-zanahoria-y-calabaza.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-zanahoria-y-calabaza/600/crema-de-zanahoria-y-calabaza.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-zanahoria-y-calabaza/300/crema-de-zanahoria-y-calabaza.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-zanahoria-y-calabaza/100/crema-de-zanahoria-y-calabaza.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":7776,"folders_ids":[],"like_count":2278,"new":false,"liked":null,"favorited":null,"object_id":2042,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":6,"tags":["Calabaza","zanahoria","sopas y cremas","vegano","fitness","vegetariano"],"tip":"","meta_description":"\n    ¿Es posible que esta crema tan rica y nutritiva se logre con tan pocos ingredientes y tan comunes? ¡Sí, lo es! Por eso, aprovecha ese trozo de calabaza y ese par de zanahorias que tienes en tu nevera, y cocina con ellos esta sabrosa crema de verduras. ¡No te arrepentirás!\n","meta_title":"recetas con calabaza - recetas fitness | Nooddle","published_at":"2020-03-02","views_count":1,"total_time_iso8601":"PT25M","rate_count":146,"cooked_date":null,"nutritional_balance":{"id":6399,"proteins":0,"veg_and_fruits":68.935427574171,"grains":29.08667830133799,"total_weight_in_grams":859.5,"recipe_id":2042,"created_at":"2020-08-15T04:01:42.547Z","updated_at":"2020-08-15T04:01:42.547Z"},"author":null,"ingredients":[{"id":46,"measure":"gramos","value":"300","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg","name":"calabaza","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":1000,"main_unit_grams_en":1000,"grams":1,"nutrition":{"id":48,"usda_ndb_no":11422,"usda_shrt_desc":"PUMPKIN,RAW","carbohydrates":6.5,"sugars":2.8,"proteins":1,"fat":0.1,"saturated_fat":0.1,"fiber":0.5,"calories":26,"sodium":1,"ingredient_id":46,"created_at":"2020-04-15T07:03:13.377Z","updated_at":"2020-04-15T07:03:13.377Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":6,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":8,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":35,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg","name":"patata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":250,"nutrition":{"id":203,"usda_ndb_no":11352,"usda_shrt_desc":"POTATOES,FLESH & SKN,RAW","carbohydrates":17.5,"sugars":0.8,"proteins":2.1,"fat":0.1,"saturated_fat":0,"fiber":2.1,"calories":77,"sodium":6,"ingredient_id":35,"created_at":"2020-04-15T07:03:17.249Z","updated_at":"2020-04-15T07:03:17.249Z"}}],"steps":[{"name":"Pela las zanahorias, la calabaza y la patata, y corta estos ingredientes en trozos pequeños. También pica la cebolla.","priority":0},{"name":"En una olla echa un chorrito de aceite de oliva. Cuando el aceite esté caliente vierte los trozos de cebolla y sofríe durante 2-3 minutos a fuego medio, con cuidado de que no se quemen.","priority":1},{"name":"Añade a la olla los trozos de zanahoria y de calabaza, y cocina a fuego medio durante 10 minutos, hasta que las verduras comiencen a estar blanditas.","priority":2},{"name":"Añade la patata troceada y cubre todo con agua. Con 3 tazas de agua seguramente sea suficiente. Pon un poquito de sal, cubre con la tapa casi por completo (deja una pequeña abertura) y cocina aproximadamente durante 20 minutos, hasta que las verduras estén tiernas.","priority":3},{"name":"A continuación, pon todos los ingredientes en tu batidora y bate muy bien. Sirve en cuencos y ¡a comer!","priority":4}]},{"id":"sopa-cremosa-de-patata-y-zanahoria","name":"Sopa Cremosa de Patata y Zanahoria","type":"recipe","rate":"4.4899328859060403","description":"\n    Con ingredientes tan básicos como los de esta recta puedes lograr hacer una sopa de escándalo. No compres las sopas ya hechas en el supermercado... ¡las puedes hacer tú!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-zanahoria/900/sopa-cremosa-de-patata-y-zanahoria.jpg"],"image_title":"Sopa Cremosa de Patata y Zanahoria","image_alt_tag":"Sopa Cremosa de Patata y Zanahoria","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-zanahoria/900/sopa-cremosa-de-patata-y-zanahoria.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-zanahoria/600/sopa-cremosa-de-patata-y-zanahoria.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-zanahoria/300/sopa-cremosa-de-patata-y-zanahoria.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-zanahoria/100/sopa-cremosa-de-patata-y-zanahoria.jpg","width":100}],"premium":false,"total_time":35,"dificulty":null,"saved_count":7510,"folders_ids":[],"like_count":2269,"new":false,"liked":null,"favorited":null,"object_id":2066,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":8,"tags":["Patata","zanahoria","sopas y cremas","de cuchara"],"tip":"<p>\n    Puede emplear leche vegetal si sigues una dieta vegana.\n</p>\n<p>\n    Si quieres hacer la sopa mas espesa, puedes sustituir la leche por nata líquida (crema de leche).\n</p>\n<p>\n    Puedes terminar añadiendo un poco de pimienta al servir la sopa.\n</p>","meta_description":"\n    Con ingredientes tan básicos como los de esta recta puedes lograr hacer una sopa de escándalo. No compres las sopas ya hechas en el supermercado... ¡las puedes hacer tú!\n","meta_title":"recetas con patata - recetas con zanahoria - recetas de sopas | Nooddle","published_at":"2020-03-30","views_count":1,"total_time_iso8601":"PT35M","rate_count":149,"cooked_date":null,"nutritional_balance":{"id":6030,"proteins":22.82019587334792,"veg_and_fruits":28.47770276694875,"grains":47.54207473614148,"total_weight_in_grams":1051.7,"recipe_id":2066,"created_at":"2020-07-07T15:29:48.758Z","updated_at":"2020-07-07T15:29:48.758Z"},"author":null,"ingredients":[{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":8,"measure":"unidad","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":57,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg","name":"leche","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":143,"usda_ndb_no":1077,"usda_shrt_desc":"MILK,WHL,3.25% MILKFAT,W/ ADDED VITAMIN D","carbohydrates":4.8,"sugars":5.1,"proteins":3.2,"fat":3.3,"saturated_fat":1.9,"fiber":0,"calories":61,"sodium":43,"ingredient_id":57,"created_at":"2020-04-15T07:03:16.019Z","updated_at":"2020-04-15T07:03:16.019Z"}},{"id":35,"measure":"unidad","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg","name":"patata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":250,"nutrition":{"id":203,"usda_ndb_no":11352,"usda_shrt_desc":"POTATOES,FLESH & SKN,RAW","carbohydrates":17.5,"sugars":0.8,"proteins":2.1,"fat":0.1,"saturated_fat":0,"fiber":2.1,"calories":77,"sodium":6,"ingredient_id":35,"created_at":"2020-04-15T07:03:17.249Z","updated_at":"2020-04-15T07:03:17.249Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":33,"measure":"taza","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}}],"steps":[{"name":"Comienza preparando los ingredientes de la siguiente manera. Pela las patatas y córtalas en trozos no muy grandes, de un tamaño que te agrade para comértelas en una sopa. Pica finamente el ajo y la cebolla y, por último, pela y corta en rodajas la zanahoria.","priority":0},{"name":"En una cazuela echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte el ajo y la cebolla picada, y sofríe durante varios minutos a fuego medio, con cuidado de que no se quemen.","priority":1},{"name":"Añade a la cazuela la zanahoria cortada y saltea durante un par de minutos, hasta que comience a ablandar.","priority":2},{"name":"Pasados 5-7 minutos, agrega a la cazuela las patatas y cubre los ingredientes con el agua y la leche. Añade un poco de sal. Cubre con la tapa, sube un poco el fuego y cuece durante 20-25 minutos aproximadamente. Pasado este tiempo comprueba que el líquido ha reducido y que esté sabrosa la sopa. Corrige el punto de sal si fuera necesario y déjalo más tiempo en el fuego si te gusta más espesa la sopa o añádele un poco de líquido si te gusta más suelta, a tu gusto.","priority":3}]},{"id":"crema-de-calabaza-y-espinacas","name":"Crema de Calabaza y Espinacas","type":"recipe","rate":"4.7105263157894737","description":"\n    ¿Te apetece una cena ligera y nutritiva? Las cremas de verduras son opciones maravillosas. Esta crema de calabaza y espinacas resulta sabrosísima. ¡No te la pierdas!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-calabaza-y-espinacas/900/crema-de-calabaza-y-espinacas.jpg"],"image_title":"Crema de Calabaza y Espinacas","image_alt_tag":"Crema de Calabaza y Espinacas","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-calabaza-y-espinacas/900/crema-de-calabaza-y-espinacas.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-calabaza-y-espinacas/600/crema-de-calabaza-y-espinacas.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-calabaza-y-espinacas/300/crema-de-calabaza-y-espinacas.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-calabaza-y-espinacas/100/crema-de-calabaza-y-espinacas.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":3346,"folders_ids":[],"like_count":991,"new":false,"liked":null,"favorited":null,"object_id":1973,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["con niños","vegetariano","Espinacas","vegano","sopas y cremas","Calabaza"],"tip":"<p>\n    Puedes sustituir la cebolla por puerro. Y si quieres dar más sabor a la crema puedes sustituir el agua por caldo de pollo. También puedes meter una ramita de apio con el resto de las verduras. Cuando vayas a triturar la crema, retira la rama de apio.\n</p>","meta_description":"\n    ¿Te apetece una cena ligera y nutritiva? Las cremas de verduras son opciones maravillosas. Esta crema de calabaza y espinacas resulta sabrosísima. ¡No te la pierdas!\n","meta_title":"recetas con espinacas - recetas con calabaza - cenas fáciles - realfood - con niños | Nooddle","published_at":"2020-01-30","views_count":1,"total_time_iso8601":"PT25M","rate_count":38,"cooked_date":null,"nutritional_balance":{"id":5978,"proteins":0,"veg_and_fruits":68.935427574171,"grains":29.08667830133799,"total_weight_in_grams":859.5,"recipe_id":1973,"created_at":"2020-07-07T15:29:45.703Z","updated_at":"2020-07-07T15:29:45.703Z"},"author":null,"ingredients":[{"id":6,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":221,"measure":"gramos","value":"200","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg","name":"espinaca","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":103,"usda_ndb_no":11457,"usda_shrt_desc":"SPINACH,RAW","carbohydrates":3.6,"sugars":0.4,"proteins":2.9,"fat":0.4,"saturated_fat":0.1,"fiber":2.2,"calories":23,"sodium":79,"ingredient_id":221,"created_at":"2020-04-15T07:03:14.674Z","updated_at":"2020-04-15T07:03:14.674Z"}},{"id":46,"measure":"gramos","value":"300","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg","name":"calabaza","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":1000,"main_unit_grams_en":1000,"grams":1,"nutrition":{"id":48,"usda_ndb_no":11422,"usda_shrt_desc":"PUMPKIN,RAW","carbohydrates":6.5,"sugars":2.8,"proteins":1,"fat":0.1,"saturated_fat":0.1,"fiber":0.5,"calories":26,"sodium":1,"ingredient_id":46,"created_at":"2020-04-15T07:03:13.377Z","updated_at":"2020-04-15T07:03:13.377Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":33,"measure":"mililitros","value":"700","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":35,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg","name":"patata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":250,"nutrition":{"id":203,"usda_ndb_no":11352,"usda_shrt_desc":"POTATOES,FLESH & SKN,RAW","carbohydrates":17.5,"sugars":0.8,"proteins":2.1,"fat":0.1,"saturated_fat":0,"fiber":2.1,"calories":77,"sodium":6,"ingredient_id":35,"created_at":"2020-04-15T07:03:17.249Z","updated_at":"2020-04-15T07:03:17.249Z"}}],"steps":[{"name":"Corta la patata y la calabaza en trozos pequeños, y la cebolla en tiras finas. También lava las hojas de espinacas y córtalas en tiras.","priority":0},{"name":"En un olla, pon un chorrito de aceite y cocina durante varios minutos la cebolla hasta que se dore.","priority":1},{"name":"Añade la calabaza y saltéala durante 3-4 minutos a fuego medio. Cuando la calabaza esté blandita añade las espinacas y salte apenas un par de minutos más. Verás que reducen su volumen poco a poco. Termina añadiendo la patata cortada en dados y echa el agua hasta que se cubran todos los ingredientes. Pon un poquito de sal a todo, pon la tapa y cuece durante 20 minutos a fuego medio.","priority":2},{"name":"Pasado el tiempo tritura con la batidora y ¡lista tu crema!","priority":3}]},{"id":"berenjenas-rellenas-de-puerro-y-champinones","name":"Berenjenas Rellenas de Puerro y Champiñones","type":"recipe","rate":"4.2857142857142857","description":"\n    ¿Te cansa cocinar la verdura siempre de la misma manera? Sí, a todos nos pasa... por eso te animamos que le des un giro a la berenjena y esta vez la cocines una forma divertida y diferente.\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/berenjenas-rellenas-de-puerro-y-champinones/900/berenjenas-rellenas-de-puerro-y-champinones.jpg"],"image_title":"Berenjenas Rellenas de Puerro y Champiñones","image_alt_tag":"Berenjenas Rellenas de Puerro y Champiñones","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/berenjenas-rellenas-de-puerro-y-champinones/900/berenjenas-rellenas-de-puerro-y-champinones.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/berenjenas-rellenas-de-puerro-y-champinones/600/berenjenas-rellenas-de-puerro-y-champinones.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/berenjenas-rellenas-de-puerro-y-champinones/300/berenjenas-rellenas-de-puerro-y-champinones.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/berenjenas-rellenas-de-puerro-y-champinones/100/berenjenas-rellenas-de-puerro-y-champinones.jpg","width":100}],"premium":false,"total_time":40,"dificulty":"Media","saved_count":1162,"folders_ids":[],"like_count":352,"new":false,"liked":null,"favorited":null,"object_id":2044,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":8,"tags":["puerro","champiñón","al horno","berenjena","fitness","vegano","vegetariano"],"tip":"<p>\n    Si quieres, puedes añadir un poquito de queso por encima y gratinarlas unos minutos.\n</p>","meta_description":"\n    ¿Te cansa cocinar la verdura siempre de la misma manera? Sí, a todos nos pasa... por eso te animamos que le des un giro a la berenjena y esta vez la cocines una forma divertida y diferente.\n","meta_title":"recetas con berenjena - recetas fáciles - recetas vegetarianas | Nooddle","published_at":"2020-02-27","views_count":0,"total_time_iso8601":"PT40M","rate_count":7,"cooked_date":null,"nutritional_balance":{"id":6011,"proteins":0,"veg_and_fruits":87.3389494549059,"grains":11.14965312190287,"total_weight_in_grams":807.2,"recipe_id":2044,"created_at":"2020-07-07T15:29:47.588Z","updated_at":"2020-07-07T15:29:47.588Z"},"author":null,"ingredients":[{"id":44,"measure":"gramos","value":"90","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg","name":"maíz","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":162,"usda_ndb_no":11168,"usda_shrt_desc":"CORN,SWT,YEL,CKD,BLD,DRND,WO/SALT","carbohydrates":21,"sugars":4.5,"proteins":3.4,"fat":1.5,"saturated_fat":0.2,"fiber":2.4,"calories":96,"sodium":1,"ingredient_id":44,"created_at":"2020-04-15T07:03:16.422Z","updated_at":"2020-04-15T07:03:16.422Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":48,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg","name":"puerro","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":180,"main_unit_grams_en":180,"grams":180,"nutrition":{"id":225,"usda_ndb_no":11246,"usda_shrt_desc":"LEEKS,(BULB&LOWER LEAF-PORTION),RAW","carbohydrates":14.2,"sugars":3.9,"proteins":1.5,"fat":0.3,"saturated_fat":0,"fiber":1.8,"calories":61,"sodium":20,"ingredient_id":48,"created_at":"2020-04-15T07:03:17.830Z","updated_at":"2020-04-15T07:03:17.830Z"}},{"id":5,"measure":"cucharada","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":146,"measure":"unidad","value":"6","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceitunas-negras.jpg","name":"aceituna negra","shopping_list_category_es":"otros","shopping_list_category_en":"others","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":3,"nutrition":{"id":5,"usda_ndb_no":9195,"usda_shrt_desc":"OLIVES,PICKLED,CND OR BTLD,GRN","carbohydrates":3.8,"sugars":0.5,"proteins":1,"fat":15.3,"saturated_fat":2,"fiber":3.3,"calories":145,"sodium":1556,"ingredient_id":146,"created_at":"2020-04-15T07:03:12.023Z","updated_at":"2020-04-15T07:03:12.023Z"}},{"id":86,"measure":"unidad","value":"4","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":50,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}},{"id":26,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg","name":"berenjena","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":300,"main_unit_grams_en":300,"grams":300,"nutrition":{"id":39,"usda_ndb_no":11209,"usda_shrt_desc":"EGGPLANT,RAW","carbohydrates":5.9,"sugars":3.5,"proteins":1,"fat":0.2,"saturated_fat":0,"fiber":3,"calories":25,"sodium":2,"ingredient_id":26,"created_at":"2020-04-15T07:03:13.200Z","updated_at":"2020-04-15T07:03:13.200Z"}}],"steps":[{"name":"Precaliente el horno a 200ºC.","priority":0},{"name":"Corta la berenjena por la mitad con corte transversal, y hazle pequeños cortes en la pulpa de la verdura para que luego te resulte más fácil vaciarla. Échale un poquito de aceite y hornéala durante 18-20 minutos. Pasado ese tiempo, sácala y déjala enfriar unos minutos. A continuación vacía con cuidado la pulpa de la berenjena y resérvala.","priority":1},{"name":"Corta finamente el ajo, los champiñones y el puerro.","priority":2},{"name":"Echa un poco de aceite de oliva en una sartén y cuando esté caliente vierte en la misma el ajo y el puerro picado. Saltea durante un par de minutos.","priority":3},{"name":"A continuación añade la berenjena y los champiñones, y pon un poco de sal a todas las verduras. Saltea de nuevo las verduras hasta que veas que están doradas y tiernas.","priority":4},{"name":"Apaga el fuego, añade al salteado las aceitunas cortadas en rodajas y el maíz, y mezcla los ingredientes de manera que queden bien integrados entre sí y rellena las berenjenas con la mezcla del salteado. ¡Listas para disfrutar!","priority":5}]},{"id":"sopa-de-brocoli-patata-y-zanahoria","name":"Sopa de Brócoli, Patata y Zanahoria","type":"recipe","rate":"4.5466666666666667","description":"\n    ¡Mira qué sopa de verduras tan rica! Y, ¡aviso! Es tan fácil de hacer que hasta el más inexperto en la cocina puede con ella. No hay excusa para no hacerla.\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-de-brocoli-patata-y-zanahoria/900/sopa-de-brocoli-patata-y-zanahoria.jpg"],"image_title":"Sopa de Brócoli, Patata y Zanahoria","image_alt_tag":"Sopa de Brócoli, Patata y Zanahoria","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-de-brocoli-patata-y-zanahoria/900/sopa-de-brocoli-patata-y-zanahoria.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-de-brocoli-patata-y-zanahoria/600/sopa-de-brocoli-patata-y-zanahoria.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-de-brocoli-patata-y-zanahoria/300/sopa-de-brocoli-patata-y-zanahoria.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-de-brocoli-patata-y-zanahoria/100/sopa-de-brocoli-patata-y-zanahoria.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":6139,"folders_ids":[],"like_count":1942,"new":false,"liked":null,"favorited":null,"object_id":1968,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["vegetariano","vegano","zanahoria","Patata","de cuchara","sopas y cremas","Brócoli"],"tip":"<p>\n    Si tienes caldo de ave o de verduras puedes emplearlo en sustitución del agua para que la sopa adquiera mayor sabor.\n</p>","meta_description":"\n    ¡Mira qué sopa de verduras tan rica! Y, ¡aviso! Es tan fácil de hacer que hasta el más inexperto en la cocina puede con ella. No hay excusa para no hacerla.\n","meta_title":"recetas con brócoli - recetas vegetarianas | Nooddle","published_at":"2020-01-20","views_count":1,"total_time_iso8601":"PT30M","rate_count":75,"cooked_date":null,"nutritional_balance":{"id":5974,"proteins":0,"veg_and_fruits":54.66337245213094,"grains":30.88326127239037,"total_weight_in_grams":809.5,"recipe_id":1968,"created_at":"2020-07-07T15:29:45.472Z","updated_at":"2020-07-07T15:29:45.472Z"},"author":null,"ingredients":[{"id":6,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":8,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":35,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg","name":"patata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":250,"nutrition":{"id":203,"usda_ndb_no":11352,"usda_shrt_desc":"POTATOES,FLESH & SKN,RAW","carbohydrates":17.5,"sugars":0.8,"proteins":2.1,"fat":0.1,"saturated_fat":0,"fiber":2.1,"calories":77,"sodium":6,"ingredient_id":35,"created_at":"2020-04-15T07:03:17.249Z","updated_at":"2020-04-15T07:03:17.249Z"}},{"id":99,"measure":"mililitros","value":"100","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/vino-blanco.jpg","name":"vino blanco","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":296,"usda_ndb_no":14106,"usda_shrt_desc":"ALCOHOLIC BEV,WINE,TABLE,WHITE","carbohydrates":2.6,"sugars":1,"proteins":0.1,"fat":0,"saturated_fat":0,"fiber":0,"calories":82,"sodium":5,"ingredient_id":99,"created_at":"2020-04-15T07:03:19.977Z","updated_at":"2020-04-15T07:03:19.977Z"}},{"id":124,"measure":"gramos","value":"250","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg","name":"brócoli","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":350,"main_unit_grams_en":350,"grams":1,"nutrition":{"id":43,"usda_ndb_no":11090,"usda_shrt_desc":"BROCCOLI,RAW","carbohydrates":6.6,"sugars":1.7,"proteins":2.8,"fat":0.4,"saturated_fat":0,"fiber":2.6,"calories":34,"sodium":33,"ingredient_id":124,"created_at":"2020-04-15T07:03:13.286Z","updated_at":"2020-04-15T07:03:13.286Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}}],"steps":[{"name":"Comienza preparando las verduras de la siguiente manera. Pela y corta en rodajas la zanahoria. Lava el brócoli y córtalo en ramilletes pequeños. Corta la cebolla en láminas y, por último, pela y corta en trozos pequeños la patata.","priority":0},{"name":"En una olla echa un chorro de aceite de oliva. Cuando se caliente saltea la cebolla y la zanahoria hasta que ambas verduras ablanden.","priority":1},{"name":"Incorpora a la olla el brócoli y las patatas, y saltea durante un par de minutos más.","priority":2},{"name":"Vierte el vino blanco por encima y saltea las verduras, poco a poco el alcohol se ira evaporando.","priority":3},{"name":"Cubre todo con agua. Pon la tapa a la olla, sube un poco el fuego hasta que comience a hervir y, en ese momento, bájalo. Pon a punto de sal y deja cocer a fuego suave durante 20- 25 minutos aproximadamente. Pasado este tiempo comprueba que las verduras están tiernas (sobre todo la patata que le suele costar más), que el líquido ha reducido y que esté sabroso el caldo. Corrige el punto de sal si fuera necesario y déjalo más tiempo en el fuego si te gusta más espesa la sopa, a tu gusto.","priority":4}]}]
+[
+  {
+    "id": "falafels-de-batata",
+    "name": "Falafels de Batata",
+    "type": "Verduras",
+    "description": "Estos falafels de batata están riquísimos y son muy versátiles. Puedes tomártelos de picoteo o puedes acompañarlos con lechuga, hummus, lima y pan de fajita, y hacerte un rico almuerzo. ¡Tienen mil opciones! ¡Sírvetelos como te apetezca!",
+    "image_alt_tag": "Falafels de Batata",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg",
+        "name": "batata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/harina.jpg",
+        "name": "harina de trigo",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/semilla-de-sesamo.jpg",
+        "name": "semilla de sésamo",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Pela y corta la batata en rodajas. Colócalas sobre una bandeja del horno forrada con papel vegetal y échales un poquito de aceite de oliva por encima. Mételas en el horno durante 30 minutos o hasta que veas que están blandas. Una vez estén blanditas, pasa al siguiente paso.",
+        "priority": 1
+      },
+      {
+        "name": "Coloca en el vaso de la batidora el ajo, el cilantro, el zumo de un limón, la batata ya cocinada, la harina indicada, el comino en polvo, un poco de sal y de pimienta, y tritura bien. ",
+        "priority": 2
+      },
+      {
+        "name": "Deja reposar la mezcla durante 1 hora en la nevera. ",
+        "priority": 3
+      },
+      {
+        "name": "Coloca un plato con un poquito de harina extra y saca la masa de la nevera. Coge un poco de masa y sin formar el falafel, lo pasas por el plato de harina. Ahora dale forma de falafel y ve colocándolos sobre la bandeja del horno. Añade un puñado de semillas de sésamo por encima y hornea durante 15 minutos a 200ºC.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "pastelitos-de-batata-y-champinones",
+    "name": "Pastelitos de Batata y Champiñones",
+    "type": "Verduras",
+    "description": "\n    ¿Te apetece hacer algo original con esa batata que tienes muerta de risa en tu nevera? Se pueden hacer cosas muy interesantes como estos nuggets o pastelitos de batata con champiñones y cebolla. ¡Pruébalos!\n",
+    "image_alt_tag": "Pastelitos de Batata y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastelitos-de-batata-y-champinones/900/pastelitos-de-batata-y-champinones.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "400",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg",
+        "name": "batata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg",
+        "name": "pan rallado",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 180ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Lava la batata bien para quitarle toda la tierra y suciedad que pueda tener y hazle unos pequeños cortes en la piel. Para ello coge un tenedor y dale varios pinchazos (te costará porque ¡está dura!). Colócala en un plato y métela en el microondas. Cocina durante 8-10 minutos a máxima potencia (800-1000 vatios). Pasado este tiempo sácala del micro y extrae su carne con una cuchara. Haz un puré aplastando su carne con un tenedor y ponle una pizca de sal.",
+        "priority": 1
+      },
+      {
+        "name": "Lava los champiñones. En tu procesador de alimentos o picadora, a velocidad media, trocea la cebolla y los champiñones. En una sartén amplia echa un poquito de aceite de oliva y sofríe la cebolla y los champiñones con una pizca de sal durante 5-6 minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Mezcla el puré de batata con los champiñones y cebolla sofrita.",
+        "priority": 3
+      },
+      {
+        "name": "Comienza a hacer bolitas, aplástalas un poco y dales forma de nuggets o pastelitos.",
+        "priority": 4
+      },
+      {
+        "name": "Pasa cada nugget por el huevo batido y a continuación por el pan rallado. Y, mételos en una bandeja con papel de horno. Deje que se cocinen en el horno entre 20-25 minutos. Verás que te quedan crujientes por fuera aunque blandos por dentro.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "sopa-cremosa-de-patata-y-champinones",
+    "name": "Sopa Cremosa de Patata y Champiñones",
+    "type": "Verduras",
+    "description": "Si te gusta la patata, los champiñones y los platos de cuchara, esta sopa va a dejarte sin palabras. Y te aseguramos que es muy, muy facilita de hacer. ¡Te va a salir!",
+    "image_alt_tag": "Sopa Cremosa de Patata y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-champinones/900/sopa-cremosa-de-patata-y-champinones.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando los ingredientes de la siguiente manera. Pela las patatas y córtalas en trozos no muy grandes, del tamaño que te agrade para comértelas en una sopa. Pica finamente el ajo y la cebolla y, por último, corta en láminas o trozos los champiñones.",
+        "priority": 0
+      },
+      {
+        "name": "En una cazuela echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte el ajo y la cebolla picada, sofríe durante varios minutos a fuego medio, con cuidado de que no se quemen.",
+        "priority": 1
+      },
+      {
+        "name": "Añade a la cazuela los champiñones cortados y saltea durante un 3-4 minutos, hasta que comiencen a dorarse.",
+        "priority": 2
+      },
+      {
+        "name": "Agrega a la cazuela las patatas y cubre los ingredientes con el agua y la leche. Añade un poco de sal y de pimiento y cubre con la tapa. Deja que se cocine a fuego medio durante 20-25 minutos aproximadamente. Pasado este tiempo comprueba que el líquido ha reducido y que esté sabrosa la sopa. Corrige el punto de sal si fuera necesario y déjalo más tiempo en el fuego si te gusta más espesa la sopa o añádele un poco de líquido si te gusta más suelta, a tu gusto.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "salsa-agridulce",
+    "name": "Salsa Agridulce",
+    "type": "Verduras",
+    "description": "Si la comida asiática es de tus favoritas no puede faltarte la receta de ¡salsa agridulce! Es ¡tan rica! Y combina de manea tan espectacular con tantos ingredientes: tofu, pollo, verduras, fideos... Verás que la emplearás muchísimo. Hoy en día la venden en cualquier supermercado pero suelen ser salsas muy poco saludables, así anímate y hazla en casa. Es facilísima de hacer, ¡verás!",
+    "image_alt_tag": "Salsa Agridulce",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salsa-agridulce/900/salsa-agridulce.jpg",
+    "total_time": 0,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 3,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "taza",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.25",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484118/ingredients/azucar-moreno.jpg",
+        "name": "azúcar moreno",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/ketchup.jpg",
+        "name": "ketchup",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1504401669/ingredients/vinagre-de-manzana.jpg",
+        "name": "vinagre de manzana",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "taza",
+        "value": "0.25",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/vinagre-arroz.jpg",
+        "name": "vinagre de arroz",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/ajo-en-polvo.jpg",
+        "name": "ajo en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "maicena",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Coloca el agua en un recipiente y vierte la maicena. Mezcla de manera que la maicena se disuelva en el agua.",
+        "priority": 0
+      },
+      {
+        "name": "Pica finamente los ajos.",
+        "priority": 1
+      },
+      {
+        "name": "Vierte todos los ingredientes de la receta a excepción de la maicena disuelta en agua, en tu batidora o procesador de alimentos y bate muy bien.",
+        "priority": 2
+      },
+      {
+        "name": "Vierte lo anterior en un cazo y ponlo a fuego calienta a fuego medio-alto. Cuando comience a hervir, añade la maicena con agua que tienes reservada y sigue cocinando pero a fuego bajo. Poco a poco la salsa ira espesando. Una ve esté en el punto de espesor que te gusta, apaga el fuego y sirve.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "crema-de-zanahoria-y-calabaza",
+    "name": "Crema de Zanahoria y Calabaza",
+    "type": "Verduras",
+    "description": "\n    ¿Es posible que esta crema tan rica y nutritiva se logre con tan pocos ingredientes y tan comunes? ¡Sí, lo es! Por eso, aprovecha ese trozo de calabaza y ese par de zanahorias que tienes en tu nevera, y cocina con ellos esta sabrosa crema de verduras. ¡No te arrepentirás!\n",
+    "image_alt_tag": "Crema de Zanahoria y Calabaza",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-zanahoria-y-calabaza/900/crema-de-zanahoria-y-calabaza.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg",
+        "name": "calabaza",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela las zanahorias, la calabaza y la patata, y corta estos ingredientes en trozos pequeños. También pica la cebolla.",
+        "priority": 0
+      },
+      {
+        "name": "En una olla echa un chorrito de aceite de oliva. Cuando el aceite esté caliente vierte los trozos de cebolla y sofríe durante 2-3 minutos a fuego medio, con cuidado de que no se quemen.",
+        "priority": 1
+      },
+      {
+        "name": "Añade a la olla los trozos de zanahoria y de calabaza, y cocina a fuego medio durante 10 minutos, hasta que las verduras comiencen a estar blanditas.",
+        "priority": 2
+      },
+      {
+        "name": "Añade la patata troceada y cubre todo con agua. Con 3 tazas de agua seguramente sea suficiente. Pon un poquito de sal, cubre con la tapa casi por completo (deja una pequeña abertura) y cocina aproximadamente durante 20 minutos, hasta que las verduras estén tiernas.",
+        "priority": 3
+      },
+      {
+        "name": "A continuación, pon todos los ingredientes en tu batidora y bate muy bien. Sirve en cuencos y ¡a comer!",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "sopa-cremosa-de-patata-y-zanahoria",
+    "name": "Sopa Cremosa de Patata y Zanahoria",
+    "type": "Verduras",
+    "description": "\n    Con ingredientes tan básicos como los de esta recta puedes lograr hacer una sopa de escándalo. No compres las sopas ya hechas en el supermercado... ¡las puedes hacer tú!\n",
+    "image_alt_tag": "Sopa Cremosa de Patata y Zanahoria",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-zanahoria/900/sopa-cremosa-de-patata-y-zanahoria.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando los ingredientes de la siguiente manera. Pela las patatas y córtalas en trozos no muy grandes, de un tamaño que te agrade para comértelas en una sopa. Pica finamente el ajo y la cebolla y, por último, pela y corta en rodajas la zanahoria.",
+        "priority": 0
+      },
+      {
+        "name": "En una cazuela echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte el ajo y la cebolla picada, y sofríe durante varios minutos a fuego medio, con cuidado de que no se quemen.",
+        "priority": 1
+      },
+      {
+        "name": "Añade a la cazuela la zanahoria cortada y saltea durante un par de minutos, hasta que comience a ablandar.",
+        "priority": 2
+      },
+      {
+        "name": "Pasados 5-7 minutos, agrega a la cazuela las patatas y cubre los ingredientes con el agua y la leche. Añade un poco de sal. Cubre con la tapa, sube un poco el fuego y cuece durante 20-25 minutos aproximadamente. Pasado este tiempo comprueba que el líquido ha reducido y que esté sabrosa la sopa. Corrige el punto de sal si fuera necesario y déjalo más tiempo en el fuego si te gusta más espesa la sopa o añádele un poco de líquido si te gusta más suelta, a tu gusto.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "crema-de-calabaza-y-espinacas",
+    "name": "Crema de Calabaza y Espinacas",
+    "type": "Verduras",
+    "description": "\n    ¿Te apetece una cena ligera y nutritiva? Las cremas de verduras son opciones maravillosas. Esta crema de calabaza y espinacas resulta sabrosísima. ¡No te la pierdas!\n",
+    "image_alt_tag": "Crema de Calabaza y Espinacas",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-calabaza-y-espinacas/900/crema-de-calabaza-y-espinacas.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg",
+        "name": "calabaza",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "mililitros",
+        "value": "700",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la patata y la calabaza en trozos pequeños, y la cebolla en tiras finas. También lava las hojas de espinacas y córtalas en tiras.",
+        "priority": 0
+      },
+      {
+        "name": "En un olla, pon un chorrito de aceite y cocina durante varios minutos la cebolla hasta que se dore.",
+        "priority": 1
+      },
+      {
+        "name": "Añade la calabaza y saltéala durante 3-4 minutos a fuego medio. Cuando la calabaza esté blandita añade las espinacas y salte apenas un par de minutos más. Verás que reducen su volumen poco a poco. Termina añadiendo la patata cortada en dados y echa el agua hasta que se cubran todos los ingredientes. Pon un poquito de sal a todo, pon la tapa y cuece durante 20 minutos a fuego medio.",
+        "priority": 2
+      },
+      {
+        "name": "Pasado el tiempo tritura con la batidora y ¡lista tu crema!",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "berenjenas-rellenas-de-puerro-y-champinones",
+    "name": "Berenjenas Rellenas de Puerro y Champiñones",
+    "type": "Verduras",
+    "description": "\n    ¿Te cansa cocinar la verdura siempre de la misma manera? Sí, a todos nos pasa... por eso te animamos que le des un giro a la berenjena y esta vez la cocines una forma divertida y diferente.\n",
+    "image_alt_tag": "Berenjenas Rellenas de Puerro y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/berenjenas-rellenas-de-puerro-y-champinones/900/berenjenas-rellenas-de-puerro-y-champinones.jpg",
+    "total_time": 40,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "90",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg",
+        "name": "maíz",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg",
+        "name": "puerro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "6",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceitunas-negras.jpg",
+        "name": "aceituna negra",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "unidad",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg",
+        "name": "berenjena",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precaliente el horno a 200ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Corta la berenjena por la mitad con corte transversal, y hazle pequeños cortes en la pulpa de la verdura para que luego te resulte más fácil vaciarla. Échale un poquito de aceite y hornéala durante 18-20 minutos. Pasado ese tiempo, sácala y déjala enfriar unos minutos. A continuación vacía con cuidado la pulpa de la berenjena y resérvala.",
+        "priority": 1
+      },
+      {
+        "name": "Corta finamente el ajo, los champiñones y el puerro.",
+        "priority": 2
+      },
+      {
+        "name": "Echa un poco de aceite de oliva en una sartén y cuando esté caliente vierte en la misma el ajo y el puerro picado. Saltea durante un par de minutos.",
+        "priority": 3
+      },
+      {
+        "name": "A continuación añade la berenjena y los champiñones, y pon un poco de sal a todas las verduras. Saltea de nuevo las verduras hasta que veas que están doradas y tiernas.",
+        "priority": 4
+      },
+      {
+        "name": "Apaga el fuego, añade al salteado las aceitunas cortadas en rodajas y el maíz, y mezcla los ingredientes de manera que queden bien integrados entre sí y rellena las berenjenas con la mezcla del salteado. ¡Listas para disfrutar!",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "sopa-de-brocoli-patata-y-zanahoria",
+    "name": "Sopa de Brócoli, Patata y Zanahoria",
+    "type": "Verduras",
+    "description": "\n    ¡Mira qué sopa de verduras tan rica! Y, ¡aviso! Es tan fácil de hacer que hasta el más inexperto en la cocina puede con ella. No hay excusa para no hacerla.\n",
+    "image_alt_tag": "Sopa de Brócoli, Patata y Zanahoria",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-de-brocoli-patata-y-zanahoria/900/sopa-de-brocoli-patata-y-zanahoria.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "mililitros",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/vino-blanco.jpg",
+        "name": "vino blanco",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando las verduras de la siguiente manera. Pela y corta en rodajas la zanahoria. Lava el brócoli y córtalo en ramilletes pequeños. Corta la cebolla en láminas y, por último, pela y corta en trozos pequeños la patata.",
+        "priority": 0
+      },
+      {
+        "name": "En una olla echa un chorro de aceite de oliva. Cuando se caliente saltea la cebolla y la zanahoria hasta que ambas verduras ablanden.",
+        "priority": 1
+      },
+      {
+        "name": "Incorpora a la olla el brócoli y las patatas, y saltea durante un par de minutos más.",
+        "priority": 2
+      },
+      {
+        "name": "Vierte el vino blanco por encima y saltea las verduras, poco a poco el alcohol se ira evaporando.",
+        "priority": 3
+      },
+      {
+        "name": "Cubre todo con agua. Pon la tapa a la olla, sube un poco el fuego hasta que comience a hervir y, en ese momento, bájalo. Pon a punto de sal y deja cocer a fuego suave durante 20- 25 minutos aproximadamente. Pasado este tiempo comprueba que las verduras están tiernas (sobre todo la patata que le suele costar más), que el líquido ha reducido y que esté sabroso el caldo. Corrige el punto de sal si fuera necesario y déjalo más tiempo en el fuego si te gusta más espesa la sopa, a tu gusto.",
+        "priority": 4
+      }
+    ]
+  }
+]
