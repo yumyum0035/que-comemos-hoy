@@ -23,7 +23,7 @@
             "customWebpackConfig": {
               "path": "./webpack.config.js"
             },
-            "outputPath": "dist/que-comemos-hoy",
+            "outputPath": "public",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
