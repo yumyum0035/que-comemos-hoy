@@ -27,3 +27,4 @@ export interface ingredient{
   name?: string,
   shopping_list_category_es?:string
 }
+
