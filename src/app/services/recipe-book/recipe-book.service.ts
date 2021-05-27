@@ -19,11 +19,11 @@ export class RecipeBookService {
 
   allRecipes:recipe[] = [];
   type = ['Pasta','Arroces','Pescado','Carne','Pollo','Verduras','Vegano','Sin Gluten','Asiático','Variado'];
-  wizardRecipes = [];
-  userRecipes = [];
-  randomRecipes = [];
-  lunch = [];
-  dinner = [];
+  wizardRecipes:recipe[] = [];
+  userRecipes:recipe[] = [];
+  randomRecipes:recipe[] = [];
+  lunch:recipe[] = [];
+  dinner:recipe[] = [];
 
   constructor() {
     /*
@@ -111,62 +111,62 @@ export class RecipeBookService {
   }
 
   getPastaRecipes(){
-    const pastaRecipes = [];
-    pastaRecipes.push(pasta);
+    const pastaRecipes:recipe[] = [];
+    pastaRecipes.push(pasta as recipe);
     return pastaRecipes;
   }
 
   getRiceRecipes(){
-    const riceRecipes = [];
-    riceRecipes.push(rice);
+    const riceRecipes:recipe[] = [];
+    riceRecipes.push(rice as recipe);
     return riceRecipes;
   }
 
   getFishRecipes(){
-    const fishRecipes = [];
-    fishRecipes.push(fish);
+    const fishRecipes:recipe[] = [];
+    fishRecipes.push(fish as recipe);
     return fishRecipes;
   }
 
   getMeatRecipes(){
-    const meatRecipes = [];
-    meatRecipes.push(meat);
+    const meatRecipes:recipe[] = [];
+    meatRecipes.push(meat as recipe);
     return meatRecipes;
   }
 
   getChickenRecipes(){
-    const chickenRecipes = [];
-    chickenRecipes.push(chicken);
+    const chickenRecipes:recipe[] = [];
+    chickenRecipes.push(chicken as recipe);
     return chickenRecipes;
   }
 
   getVegetablesRecipes(){
-    const vegetablesRecipes = [];
-    vegetablesRecipes.push(vegetables);
+    const vegetablesRecipes:recipe[] = [];
+    vegetablesRecipes.push(vegetables as recipe);
     return vegetablesRecipes;
   }
 
   getVeganRecipes(){
-    const veganRecipes = [];
-    veganRecipes.push(vegan);
+    const veganRecipes:recipe[] = [];
+    veganRecipes.push(vegan as recipe);
     return veganRecipes;
   }
 
   getGlutenFreeRecipes(){
-    const glutenRecipes = [];
-    glutenRecipes.push(gluten);
+    const glutenRecipes:recipe[] = [];
+    glutenRecipes.push(gluten as recipe);
     return glutenRecipes;
   }
 
   getAsiaticRecipes(){
-    const asiaticRecipes = [];
-    asiaticRecipes.push(asiatic);
+    const asiaticRecipes:recipe[] = [];
+    asiaticRecipes.push(asiatic as recipe);
     return asiaticRecipes;
   }
 
   getTrendRecipes(){
-    const trendRecipes = [];
-    trendRecipes.push(trend);
+    const trendRecipes:recipe[] = [];
+    trendRecipes.push(trend as recipe);
     return trendRecipes;
   }
 
@@ -270,7 +270,7 @@ export class RecipeBookService {
   }
 
   getMealById(id){
-    let receta = [];
+    let receta:recipe;
     //Comprovamos si hay recetas del usuario
     if(this.userRecipes.length > 0){
       this.userRecipes.forEach(element => {

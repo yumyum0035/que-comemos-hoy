@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router, ActivatedRoute } from '@angular/router';
+import { recipe } from 'src/app/interfaces/recipe';
 import { RecipeBookService } from 'src/app/services/recipe-book/recipe-book.service';
 
 @Component({
@@ -10,7 +11,7 @@ import { RecipeBookService } from 'src/app/services/recipe-book/recipe-book.serv
 export class SelectedRecipeComponent implements OnInit {
 
   id:String;
-  recipe = [];
+  recipe:recipe;
   ingredientes = [];
   pasos = [];
 

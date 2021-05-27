@@ -5,7 +5,7 @@
       <h2 class="py-5 font-bold text-2xl">{{type[i]}}</h2>
       <div (click)="showDetail(recipe.id)" *ngFor="let recipe of category" class=" bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center mr-4 rounded">
         <div class="mb-4">
-          <img src="{{recipe.images[0].url}}" alt="" class="h-28 w-full object-cover">
+          <img src="{{recipe.image}}" alt="" class="h-28 w-full object-cover">
         </div>
         <p class="font-bold">{{recipe.name}}</p>
         <br>
