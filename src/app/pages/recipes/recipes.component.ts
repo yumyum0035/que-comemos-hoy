@@ -19,4 +19,7 @@ export class RecipesComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  showDetail(id){
+    this.router.navigateByUrl('/detail-recipe/'+id);
+  }
 }
