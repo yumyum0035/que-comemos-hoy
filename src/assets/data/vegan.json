@@ -1,1 +1,863 @@
-[{"id":"ensalada-fresca-de-arroz-y-frijoles","name":"Ensalada Fresca de Arroz y Frijoles","type":"recipe","rate":"5.0","description":"Seguro que tienes los ingredientes para hacer esta ensalada fresca, sabrosa, llena de nutrientes. ¡Una maravilla de colores! ¿Te animas?","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-fresca-de-arroz-y-frijoles/900/ensalada-fresca-de-arroz-y-frijoles.jpg"],"image_title":"Ensalada Fresca de Arroz y Frijoles","image_alt_tag":"Ensalada Fresca de Arroz y Frijoles","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-fresca-de-arroz-y-frijoles/900/ensalada-fresca-de-arroz-y-frijoles.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-fresca-de-arroz-y-frijoles/600/ensalada-fresca-de-arroz-y-frijoles.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-fresca-de-arroz-y-frijoles/300/ensalada-fresca-de-arroz-y-frijoles.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-fresca-de-arroz-y-frijoles/100/ensalada-fresca-de-arroz-y-frijoles.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":232,"folders_ids":[],"like_count":13,"new":false,"liked":null,"favorited":null,"object_id":2602,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":11,"tags":["Arroz","ensaladas y bowls","tupper","tomate cherry","alubia negra","tomates cherry","cilantro","vegetariano"],"tip":"","meta_description":"Seguro que tienes los ingredientes para hacer esta ensalada fresca, sabrosa, llena de nutrientes. ¡Una maravilla de colores! ¿Te animas?","meta_title":"recetas con frijoles - ensaladas de frijoles | Nooddle\n","published_at":"2021-05-07","views_count":4,"total_time_iso8601":"PT25M","rate_count":1,"cooked_date":null,"nutritional_balance":{"id":7918,"proteins":25.19496100779844,"veg_and_fruits":41.03179364127175,"grains":31.19376124775045,"total_weight_in_grams":833.5,"recipe_id":2602,"created_at":"2021-05-07T04:01:32.431Z","updated_at":"2021-05-07T04:01:32.431Z"},"author":null,"ingredients":[{"id":454,"measure":"bote pequeño","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1593728055/ingredients/alubia-negra.jpg","name":"alubia negra","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":210,"nutrition":{"id":761,"usda_ndb_no":16015,"usda_shrt_desc":"BEANS,BLACK,MATURE SEEDS,CKD,BLD,WO/SALT","carbohydrates":23.7,"sugars":0.3,"proteins":8.9,"fat":0.5,"saturated_fat":0.1,"fiber":8.7,"calories":132,"sodium":1,"ingredient_id":454,"created_at":"2020-07-03T13:31:04.456Z","updated_at":"2020-07-03T13:31:04.456Z"}},{"id":44,"measure":"gramos","value":"70","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg","name":"maíz","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":162,"usda_ndb_no":11168,"usda_shrt_desc":"CORN,SWT,YEL,CKD,BLD,DRND,WO/SALT","carbohydrates":21,"sugars":4.5,"proteins":3.4,"fat":1.5,"saturated_fat":0.2,"fiber":2.4,"calories":96,"sodium":1,"ingredient_id":44,"created_at":"2020-04-15T07:03:16.422Z","updated_at":"2020-04-15T07:03:16.422Z"}},{"id":6,"measure":"cucharadita","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":40,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aguacate.jpg","name":"aguacate","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":130,"main_unit_grams_en":130,"grams":130,"nutrition":{"id":8,"usda_ndb_no":9037,"usda_shrt_desc":"AVOCADOS,RAW,ALL COMM VAR","carbohydrates":8.5,"sugars":0.7,"proteins":2,"fat":14.7,"saturated_fat":2.1,"fiber":6.7,"calories":160,"sodium":7,"ingredient_id":40,"created_at":"2020-04-15T07:03:12.081Z","updated_at":"2020-04-15T07:03:12.081Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":289,"measure":"unidades","value":"6","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg","name":"tomate cherry","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":10,"main_unit_grams_en":10,"grams":10,"nutrition":{"id":281,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":289,"created_at":"2020-04-15T07:03:19.484Z","updated_at":"2020-04-15T07:03:19.484Z"}},{"id":192,"measure":"unidad","value":"0.25","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg","name":"cebolla morada","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":180,"main_unit_grams_en":180,"grams":180,"nutrition":{"id":60,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":192,"created_at":"2020-04-15T07:03:13.605Z","updated_at":"2020-04-15T07:03:13.605Z"}},{"id":96,"measure":"puñado","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg","name":"cilantro","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":76,"usda_ndb_no":11165,"usda_shrt_desc":"CORIANDER (CILANTRO) LEAVES,RAW","carbohydrates":3.7,"sugars":0.9,"proteins":2.1,"fat":0.5,"saturated_fat":0,"fiber":2.8,"calories":23,"sodium":46,"ingredient_id":96,"created_at":"2020-04-15T07:03:13.875Z","updated_at":"2020-04-15T07:03:13.875Z"}},{"id":41,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lima.jpg","name":"lima","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":154,"usda_ndb_no":9159,"usda_shrt_desc":"LIMES,RAW","carbohydrates":10.5,"sugars":1.7,"proteins":0.7,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":30,"sodium":2,"ingredient_id":41,"created_at":"2020-04-15T07:03:16.283Z","updated_at":"2020-04-15T07:03:16.283Z"}}],"steps":[{"name":"Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.","priority":0},{"name":"Corta los tomates cherry en mitades, la cebolla en tiras finas y el aguacate en trozos. También, escurre las alubias y el maíz de sus respectivos botes y pásalos por agua.","priority":1},{"name":"Vierte los ingredientes que acabas de preparar en tu ensaladera, añade el arroz y un manojo generoso de cilantro picado. Mezcla con suavidad y aliña la ensalada con aceite, el jugo de lima y un poco de sal.","priority":2}]},{"id":"verduras-al-horno-con-alubias-blancas","name":"Verduras al Horno con Alubias Blancas","type":"recipe","rate":"4.4","description":"Esta receta tan original y colorida, está llena de ingredientes súper sabrosos y saludables. Es una receta facilísima de hacer y comerás de maravilla. ¡No te las pierdas!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/verduras-al-horno-con-alubias-blancas/900/verduras-al-horno-con-alubias-blancas.jpg"],"image_title":"Verduras al Horno con Alubias Blancas","image_alt_tag":"Verduras al Horno con Alubias Blancas","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/verduras-al-horno-con-alubias-blancas/900/verduras-al-horno-con-alubias-blancas.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/verduras-al-horno-con-alubias-blancas/600/verduras-al-horno-con-alubias-blancas.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/verduras-al-horno-con-alubias-blancas/300/verduras-al-horno-con-alubias-blancas.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/verduras-al-horno-con-alubias-blancas/100/verduras-al-horno-con-alubias-blancas.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":611,"folders_ids":[],"like_count":189,"new":false,"liked":null,"favorited":null,"object_id":2564,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":6,"tags":["coles de bruselas","al horno","fitness","batata","Brócoli","alubia blanca","tupper"],"tip":"<p>Nosotros acompañamos este plato con una salsa hecha con un yogur, un diente de ajo muy picado y una cucharada de salsa sriracha. </p>","meta_description":"Esta receta tan original y colorida, está llena de ingredientes súper sabrosos y saludables. Es una receta facilísima de hacer y comerás de maravilla. ¡No te las pierdas!","meta_title":"recetas con coles de bruselas - ensaladas de coles de bruselas | Nooddle\n","published_at":"2021-03-30","views_count":4,"total_time_iso8601":"PT30M","rate_count":5,"cooked_date":null,"nutritional_balance":{"id":7783,"proteins":23.40615247436469,"veg_and_fruits":50.15604101649578,"grains":25.07802050824789,"total_weight_in_grams":897.2,"recipe_id":2564,"created_at":"2021-03-30T04:01:32.957Z","updated_at":"2021-03-30T04:01:32.957Z"},"author":null,"ingredients":[{"id":207,"measure":"gramos","value":"200","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/col-de-bruselas.jpg","name":"col de bruselas","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":83,"usda_ndb_no":11098,"usda_shrt_desc":"BRUSSELS SPROUTS,RAW","carbohydrates":9,"sugars":2.2,"proteins":3.4,"fat":0.3,"saturated_fat":0.1,"fiber":3.8,"calories":43,"sodium":25,"ingredient_id":207,"created_at":"2020-04-15T07:03:14.054Z","updated_at":"2020-04-15T07:03:14.054Z"}},{"id":124,"measure":"gramos","value":"250","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg","name":"brócoli","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":350,"main_unit_grams_en":350,"grams":1,"nutrition":{"id":43,"usda_ndb_no":11090,"usda_shrt_desc":"BROCCOLI,RAW","carbohydrates":6.6,"sugars":1.7,"proteins":2.8,"fat":0.4,"saturated_fat":0,"fiber":2.6,"calories":34,"sodium":33,"ingredient_id":124,"created_at":"2020-04-15T07:03:13.286Z","updated_at":"2020-04-15T07:03:13.286Z"}},{"id":130,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg","name":"batata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":450,"main_unit_grams_en":450,"grams":450,"nutrition":{"id":37,"usda_ndb_no":11507,"usda_shrt_desc":"SWEET POTATO,RAW,UNPREP","carbohydrates":20.1,"sugars":4.2,"proteins":1.6,"fat":0.1,"saturated_fat":0,"fiber":3,"calories":86,"sodium":55,"ingredient_id":130,"created_at":"2020-04-15T07:03:13.155Z","updated_at":"2020-04-15T07:03:13.155Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":148,"measure":"bote pequeño","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/alubias-blancas.jpg","name":"alubia blanca","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":210,"nutrition":{"id":20,"usda_ndb_no":16037,"usda_shrt_desc":"BEANS,NAVY,MATURE SEEDS,RAW","carbohydrates":60.8,"sugars":3.9,"proteins":22.3,"fat":1.5,"saturated_fat":0.2,"fiber":15.3,"calories":337,"sodium":5,"ingredient_id":148,"created_at":"2020-04-15T07:03:12.687Z","updated_at":"2020-04-15T07:03:12.687Z"}}],"steps":[{"name":"Precalienta el horno a 200ºC.","priority":0},{"name":"Prepara los ingredientes frescos de la siguiente manera: pela la batata y córtala en trozos no muy gruesos. Lava y trocea por la mitad las coles de bruselas y, por último, lava y corta en ramilletes el brócoli.","priority":1},{"name":"Extiende las verduras en la bandeja del horno y échales un poco de aceite de oliva y sal. Asegúrate de que quedan bien impregnadas del aceite.","priority":2},{"name":"Mete las verduras al horno y cocínalas durante 20 minutos. ","priority":3},{"name":"Pasado ese tiempo coloca las verduras sobre tu plato y añade las judías cocidas previamente escurridas de su bote. Puedes aliñarlas con aceite, vinagre y sal o, si te animas, haz el aderezo que te sugerimos en trucos y consejos.","priority":4}]},{"id":"macarrones-con-cebolla-y-tomates-cherry","name":"Macarrones con Cebolla y Tomates Cherry","type":"recipe","rate":"5.0","description":"¿Buscas una forma riquísima de añadir verdura a tus platos de pasta? ¡No te pierdas entonces esta delicia de receta!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/900/macarrones-con-cebolla-y-tomates-cherry.jpg"],"image_title":"Macarrones con Cebolla y Tomates Cherry","image_alt_tag":"Macarrones con Cebolla y Tomates Cherry","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/900/macarrones-con-cebolla-y-tomates-cherry.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/600/macarrones-con-cebolla-y-tomates-cherry.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/300/macarrones-con-cebolla-y-tomates-cherry.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/100/macarrones-con-cebolla-y-tomates-cherry.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":313,"folders_ids":[],"like_count":64,"new":false,"liked":null,"favorited":null,"object_id":2551,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["macarrón","pastas","tupper","tomate cherry","cebolla","vegetariano","al horno"],"tip":"<p>Puedes añadir los tomates frescos, en lugar de asados, aunque te recomiendo que pruebes al horno porque quedan de maravilla y no añaden tiempo de trabajo, ya que se cocinan al mismo tiempo que la pasta.</p>","meta_description":"¿Buscas una forma riquísima de añadir verdura a tus platos de pasta? ¡No te pierdas entonces esta delicia de receta!","meta_title":"recetas con tomate cherry - recetas de pasta con tomates cherry | Nooddle\n","published_at":"2021-05-01","views_count":5,"total_time_iso8601":"PT25M","rate_count":2,"cooked_date":null,"nutritional_balance":{"id":7904,"proteins":0,"veg_and_fruits":76.6699572227707,"grains":21.93704069321049,"total_weight_in_grams":911.7,"recipe_id":2551,"created_at":"2021-05-01T04:02:11.220Z","updated_at":"2021-05-01T04:02:11.220Z"},"author":null,"ingredients":[{"id":21,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":51,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg","name":"orégano","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.5,"nutrition":{"id":195,"usda_ndb_no":2027,"usda_shrt_desc":"SPICES,OREGANO,DRIED","carbohydrates":68.9,"sugars":4.1,"proteins":9,"fat":4.3,"saturated_fat":1.6,"fiber":42.5,"calories":265,"sodium":25,"ingredient_id":51,"created_at":"2020-04-15T07:03:17.045Z","updated_at":"2020-04-15T07:03:17.045Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":289,"measure":"gramos","value":"500","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg","name":"tomate cherry","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":10,"main_unit_grams_en":10,"grams":1,"nutrition":{"id":281,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":289,"created_at":"2020-04-15T07:03:19.484Z","updated_at":"2020-04-15T07:03:19.484Z"}},{"id":43,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg","name":"pasta","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":202,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":43,"created_at":"2020-04-15T07:03:17.235Z","updated_at":"2020-04-15T07:03:17.235Z"}}],"steps":[{"name":"Precalienta el horno a 180ºC. ","priority":0},{"name":"Lava los tomates y córtalos por la mitad. Colócalos en una fuente y añade el orégano, la sal y el aceite de oliva. Hornea durante 15 minutos.","priority":1},{"name":"Cuece la pasta según las instrucciones del paquete y, mientras tanto, pica la cebolla y los ajos y sofríelos entre 10 y 15 minutos, hasta que la cebolla esté transparente y tierna.","priority":2},{"name":"Cuando la pasta esté lista, escúrrela y mézclala con los tomates asados y la cebolla. Ajusta la sal a tu gusto.","priority":3}]},{"id":"naranja-con-chocolate-y-pistachos","name":"Naranja con Chocolate y Pistachos","type":"recipe","rate":"5.0","description":"¿Buscas una forma deliciosa de comer fruta? ¡No te pierdas estas naranjas con chocolate! Vas a alucinar con esta combinación tan rica.","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/naranja-con-chocolate-y-pistachos/900/naranja-con-chocolate-y-pistachos.jpg"],"image_title":"Naranja con Chocolate y Pistachos","image_alt_tag":"Naranja con Chocolate y Pistachos","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/naranja-con-chocolate-y-pistachos/900/naranja-con-chocolate-y-pistachos.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/naranja-con-chocolate-y-pistachos/600/naranja-con-chocolate-y-pistachos.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/naranja-con-chocolate-y-pistachos/300/naranja-con-chocolate-y-pistachos.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/naranja-con-chocolate-y-pistachos/100/naranja-con-chocolate-y-pistachos.jpg","width":100}],"premium":false,"total_time":15,"dificulty":null,"saved_count":340,"folders_ids":[],"like_count":106,"new":false,"liked":null,"favorited":null,"object_id":2582,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":4,"tags":["Naranja","postres","snacking saludable","chocolate negro","pistacho","con niños"],"tip":"<p>Si estás utilizando naranjas con una piel muy amarga, puedes pelarlas y hacer el resto de la receta igual.</p><p>Derrite el chocolate en un vaso alargado para que sea más fácil cubrir luego las naranjas.</p><p>Puedes sustituir los pistachos por el fruto seco que quieras.</p><p>Si te animas puedes añadir un poco de coco rallado para decorarlas.</p><p>Si te apetece puedes cambiar la naranja por otra fruta como fresas o plátano.</p>","meta_description":"¿Buscas una forma deliciosa de comer fruta? ¡No te pierdas estas naranjas con chocolate! Vas a alucinar con esta combinación tan rica.","meta_title":"Naranja con Chocolate y Pistachos","published_at":"2021-04-13","views_count":4,"total_time_iso8601":"PT15M","rate_count":3,"cooked_date":null,"nutritional_balance":{"id":7832,"proteins":1.917545541706616,"veg_and_fruits":80.5369127516779,"grains":0,"total_weight_in_grams":260.75,"recipe_id":2582,"created_at":"2021-04-13T04:02:26.238Z","updated_at":"2021-04-13T04:02:26.238Z"},"author":null,"ingredients":[{"id":72,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/naranjas.jpg","name":"naranja","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":210,"main_unit_grams_en":210,"grams":210,"nutrition":{"id":191,"usda_ndb_no":9201,"usda_shrt_desc":"ORANGES,RAW,CALIFORNIA,VALENCIAS","carbohydrates":11.9,"sugars":0,"proteins":1,"fat":0.3,"saturated_fat":0,"fiber":2.5,"calories":49,"sodium":0,"ingredient_id":72,"created_at":"2020-04-15T07:03:16.971Z","updated_at":"2020-04-15T07:03:16.971Z"}},{"id":199,"measure":"onzas","value":"6","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/chocolate-negro.jpg","name":"chocolate negro","shopping_list_category_es":"otros","shopping_list_category_en":"others","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":7,"nutrition":{"id":71,"usda_ndb_no":19904,"usda_shrt_desc":"CHOCOLATE,DK,70-85% CACAO SOL","carbohydrates":45.9,"sugars":24,"proteins":7.8,"fat":42.6,"saturated_fat":24.5,"fiber":10.9,"calories":598,"sodium":20,"ingredient_id":199,"created_at":"2020-04-15T07:03:13.764Z","updated_at":"2020-04-15T07:03:13.764Z"}},{"id":452,"measure":"cucharada","value":"0.25","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg","name":"aceite de coco","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":363,"usda_ndb_no":4047,"usda_shrt_desc":"OIL,COCNT","carbohydrates":0,"sugars":0,"proteins":0,"fat":99.1,"saturated_fat":82.5,"fiber":0,"calories":892,"sodium":0,"ingredient_id":452,"created_at":"2020-04-15T07:03:22.140Z","updated_at":"2020-04-15T07:03:22.140Z"}},{"id":323,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/pistacho.jpg","name":"pistacho","shopping_list_category_es":"semillas, frutos secos y deshidratados","shopping_list_category_en":"seeds and nuts","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":309,"usda_ndb_no":12652,"usda_shrt_desc":"PISTACHIO NUTS,DRY RSTD,W/SALT","carbohydrates":27.6,"sugars":7.7,"proteins":21.1,"fat":45.8,"saturated_fat":5.6,"fiber":10.3,"calories":569,"sodium":428,"ingredient_id":323,"created_at":"2020-04-15T07:03:20.872Z","updated_at":"2020-04-15T07:03:20.872Z"}}],"steps":[{"name":"Corta la naranja por la mitad y luego en cuartos. A partir de ahí ve haciendo láminas finas.","priority":0},{"name":"Trocea los pistachos.","priority":1},{"name":"Pon el chocolate y el aceite de coco en un vaso y caliéntalos en el microondas durante un par de minutos hasta que se derritan.","priority":2},{"name":"Mete la naranja en el vaso hasta la mitad, deja que escurra el exceso de chocolate y colócala sobre una rejilla o sobre papel vegetal.","priority":3},{"name":"Mientras aún está blando, añade los pistachos y con lo que las quieras decorar.","priority":4},{"name":"Haz lo mismo con el resto de la naranja y refrigera durante 1 hora.","priority":5}]},{"id":"ensalada-de-col","name":"Ensalada de Col","type":"recipe","rate":"5.0","description":"Si vas a hacer una barbacoa y quieres acompañarla de una ensalada fresca y súper sabrosa, ¡aquí la tienes! Un clásico que no te puedes perder, la famosa ¡coleslaw o ensalada de col!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-col/900/ensalada-de-col.jpg"],"image_title":"Ensalada de Col","image_alt_tag":"Ensalada de Col","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-col/900/ensalada-de-col.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-col/600/ensalada-de-col.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-col/300/ensalada-de-col.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-col/100/ensalada-de-col.jpg","width":100}],"premium":false,"total_time":15,"dificulty":null,"saved_count":234,"folders_ids":[],"like_count":6,"new":true,"liked":null,"favorited":null,"object_id":2612,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":6,"tags":["col","ensaladas y bowls","vegetariano","zanahoria","manzana","sin cocina"],"tip":"","meta_description":"Si vas a hacer una barbacoa y quieres acompañarla de una ensalada fresca y súper sabrosa, ¡aquí la tienes! Un clásico que no te puedes perder, la famosa ¡coleslaw o ensalada de col!","meta_title":"Ensalada de Col","published_at":"2021-05-17","views_count":25,"total_time_iso8601":"PT15M","rate_count":1,"cooked_date":null,"nutritional_balance":{"id":7969,"proteins":0,"veg_and_fruits":85.7938718662953,"grains":0,"total_weight_in_grams":897.5,"recipe_id":2612,"created_at":"2021-05-17T17:02:17.625Z","updated_at":"2021-05-17T17:02:17.625Z"},"author":null,"ingredients":[{"id":83,"measure":"gramos","value":"250","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/col.jpg","name":"col","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":82,"usda_ndb_no":11109,"usda_shrt_desc":"CABBAGE,RAW","carbohydrates":5.8,"sugars":3.2,"proteins":1.3,"fat":0.1,"saturated_fat":0,"fiber":2.5,"calories":25,"sodium":18,"ingredient_id":83,"created_at":"2020-04-15T07:03:14.035Z","updated_at":"2020-04-15T07:03:14.035Z"}},{"id":8,"measure":"unidades","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":32,"measure":"ramas","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/apio.jpg","name":"apio","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":200,"nutrition":{"id":25,"usda_ndb_no":11143,"usda_shrt_desc":"CELERY,RAW","carbohydrates":3,"sugars":1.3,"proteins":0.7,"fat":0.2,"saturated_fat":0,"fiber":1.6,"calories":16,"sodium":80,"ingredient_id":32,"created_at":"2020-04-15T07:03:12.815Z","updated_at":"2020-04-15T07:03:12.815Z"}},{"id":69,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/manzana-roja.jpg","name":"manzana","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":220,"main_unit_grams_en":220,"grams":220,"nutrition":{"id":167,"usda_ndb_no":9003,"usda_shrt_desc":"APPLES,RAW,WITH SKIN","carbohydrates":13.8,"sugars":10.4,"proteins":0.3,"fat":0.2,"saturated_fat":0,"fiber":2.4,"calories":52,"sodium":1,"ingredient_id":69,"created_at":"2020-04-15T07:03:16.531Z","updated_at":"2020-04-15T07:03:16.531Z"}},{"id":294,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1504401669/ingredients/vinagre-de-manzana.jpg","name":"vinagre de manzana","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":293,"usda_ndb_no":2048,"usda_shrt_desc":"VINEGAR,CIDER","carbohydrates":0.9,"sugars":0.4,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":21,"sodium":5,"ingredient_id":294,"created_at":"2020-04-15T07:03:19.877Z","updated_at":"2020-04-15T07:03:19.877Z"}},{"id":36,"measure":"taza","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mayonesa.jpg","name":"mayonesa","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":225,"nutrition":{"id":170,"usda_ndb_no":4708,"usda_shrt_desc":"MAYONNAISE,RED FAT,W/ OLIVE OIL","carbohydrates":0,"sugars":0,"proteins":0.4,"fat":40,"saturated_fat":5.4,"fiber":0,"calories":361,"sodium":800,"ingredient_id":36,"created_at":"2020-04-15T07:03:16.586Z","updated_at":"2020-04-15T07:03:16.586Z"}}],"steps":[{"name":"Corta la col (repollo) en tiras muy finas y colócalas en tu ensaladera.","priority":0},{"name":"Corta la rama de apio también finamente y añádela a la ensalada.","priority":1},{"name":"Pela la zanahoria y rállala y, por último, lava la manzana y córtala en trozos (con piel). Añade todo también a la ensalada. ","priority":2},{"name":"Vierte el vinagre en las verduras y mezcla.","priority":3},{"name":"Ahora agrega la mayonesa y mezcla de nuevo.  ","priority":4},{"name":"Mete la ensalada en la nevera y deja enfriar durante un rato, así estará mejor.","priority":5}]},{"id":"bowl-de-garbanzos-con-berenjena-y-arroz","name":"Bowl de Garbanzos con Berenjena y Arroz","type":"recipe","rate":"5.0","description":"Quien diga que comer garbanzos es aburrido ¡está muy confundido! Este bowl de garbanzos con verduras y arroz huele de maravilla, y sabe aún mejor. Una delicia de plato llena de ingredientes naturales y proteína vegetal absolutamente ¡irresistible!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-garbanzos-con-berenjena-y-arroz/900/bowl-de-garbanzos-con-berenjena-y-arroz.jpg"],"image_title":"Bowl de Garbanzos con Berenjena y Arroz","image_alt_tag":"Bowl de Garbanzos con Berenjena y Arroz","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-garbanzos-con-berenjena-y-arroz/900/bowl-de-garbanzos-con-berenjena-y-arroz.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-garbanzos-con-berenjena-y-arroz/600/bowl-de-garbanzos-con-berenjena-y-arroz.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-garbanzos-con-berenjena-y-arroz/300/bowl-de-garbanzos-con-berenjena-y-arroz.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-garbanzos-con-berenjena-y-arroz/100/bowl-de-garbanzos-con-berenjena-y-arroz.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":266,"folders_ids":[],"like_count":7,"new":true,"liked":null,"favorited":null,"object_id":2624,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":12,"tags":["berenjena","ensaladas y bowls","tupper","garbanzo en conserva","Arroz","vegetariano","fitness"],"tip":"","meta_description":"Quien diga que comer garbanzos es aburrido ¡está muy confundido! Este bowl de garbanzos con verduras y arroz huele de maravilla, y sabe aún mejor. Una delicia de plato llena de ingredientes naturales y proteína vegetal absolutamente ¡irresistible!","meta_title":"recetas con garbanzos - recetas con berenjenas | Nooddle\n","published_at":"2021-05-15","views_count":11,"total_time_iso8601":"PT25M","rate_count":1,"cooked_date":null,"nutritional_balance":{"id":7959,"proteins":0,"veg_and_fruits":77.616763969975,"grains":19.80817347789825,"total_weight_in_grams":959.2,"recipe_id":2624,"created_at":"2021-05-15T04:02:02.015Z","updated_at":"2021-05-15T04:02:02.015Z"},"author":null,"ingredients":[{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":26,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg","name":"berenjena","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":300,"main_unit_grams_en":300,"grams":300,"nutrition":{"id":39,"usda_ndb_no":11209,"usda_shrt_desc":"EGGPLANT,RAW","carbohydrates":5.9,"sugars":3.5,"proteins":1,"fat":0.2,"saturated_fat":0,"fiber":3,"calories":25,"sodium":2,"ingredient_id":26,"created_at":"2020-04-15T07:03:13.200Z","updated_at":"2020-04-15T07:03:13.200Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":16,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg","name":"pimiento rojo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":85,"main_unit_grams_en":85,"grams":85,"nutrition":{"id":217,"usda_ndb_no":11821,"usda_shrt_desc":"PEPPERS,SWT,RED,RAW","carbohydrates":6,"sugars":4.2,"proteins":1,"fat":0.3,"saturated_fat":0,"fiber":2.1,"calories":31,"sodium":4,"ingredient_id":16,"created_at":"2020-04-15T07:03:17.681Z","updated_at":"2020-04-15T07:03:17.681Z"}},{"id":7,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg","name":"tomate","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":160,"main_unit_grams_en":160,"grams":160,"nutrition":{"id":280,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":7,"created_at":"2020-04-15T07:03:19.451Z","updated_at":"2020-04-15T07:03:19.451Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":125,"measure":"gramos","value":"250","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg","name":"tomate triturado","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":284,"usda_ndb_no":11693,"usda_shrt_desc":"TOMATOES,CRUSHED,CANNED","carbohydrates":7.3,"sugars":4.400000000000001,"proteins":1.6,"fat":0.3,"saturated_fat":0,"fiber":1.9,"calories":32,"sodium":186,"ingredient_id":125,"created_at":"2020-04-15T07:03:19.571Z","updated_at":"2020-04-15T07:03:19.571Z"}},{"id":216,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/curry.jpg","name":"curry","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":95,"usda_ndb_no":2015,"usda_shrt_desc":"CURRY POWDER","carbohydrates":55.8,"sugars":2.8,"proteins":14.3,"fat":14,"saturated_fat":1.6,"fiber":53.2,"calories":325,"sodium":52,"ingredient_id":216,"created_at":"2020-04-15T07:03:14.448Z","updated_at":"2020-04-15T07:03:14.448Z"}},{"id":208,"measure":"cucharadita","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg","name":"comino en polvo","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":86,"usda_ndb_no":2014,"usda_shrt_desc":"CUMIN SEED","carbohydrates":44.20000000000001,"sugars":2.3,"proteins":17.8,"fat":22.3,"saturated_fat":1.5,"fiber":10.5,"calories":375,"sodium":168,"ingredient_id":208,"created_at":"2020-04-15T07:03:14.118Z","updated_at":"2020-04-15T07:03:14.118Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}}],"steps":[{"name":"Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.","priority":0},{"name":"Corta en trozos la cebolla . Lava y corta en dados pequeños la berenjena, el tomate y el pimiento rojo. ","priority":1},{"name":"En una sartén echa el aceite y cuando esté caliente, agrega la cebolla y cocínala a fuego medio durante un par de minutos.","priority":2},{"name":"A continuación añade a la sartén los trozos de berenjena y saltéala otros 3-4 minutos.","priority":3},{"name":"Incorpora el pimiento rojo y el tomate troceado y cocina durante un par de minutos más.","priority":4},{"name":"Añade a la sartén el tomate triturado y las especias. Cocina a fuego medio durante 2 minutos y añade los garbanzos cocidos.","priority":5},{"name":"Deja en la sartén a fuego suave los ingredientes durante 5-6 minutos   y pasado este tiempo sirve en un plato acompañado del arroz.","priority":6}]},{"id":"falafels-de-batata","name":"Falafels de Batata","type":"recipe","rate":"4.8","description":"Estos falafels de batata están riquísimos y son muy versátiles. Puedes tomártelos de picoteo o puedes acompañarlos con lechuga, hummus, lima y pan de fajita, y hacerte un rico almuerzo. ¡Tienen mil opciones! ¡Sírvetelos como te apetezca!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg"],"image_title":"Falafels de Batata","image_alt_tag":"Falafels de Batata","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/600/falafels-de-batata.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/300/falafels-de-batata.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/100/falafels-de-batata.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":579,"folders_ids":[],"like_count":147,"new":false,"liked":null,"favorited":null,"object_id":2473,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["boniato","aperitivos y tapas","con amigos","Harina de trigo","sancking saludable"],"tip":"<p>Emplea harina integral en la receta, es más nutritiva.</p>","meta_description":"Estos falafels de batata están riquísimos y son muy versátiles. Puedes tomártelos de picoteo o puedes acompañarlos con lechuga, hummus, lima y pan de fajita, y hacerte un rico almuerzo. ¡Tienen mil opciones! ¡Sírvetelos como te apetezca!","meta_title":"recetas con boniato - recetas de falafel | Nooddle\n","published_at":"2021-04-15","views_count":3,"total_time_iso8601":"PT30M","rate_count":5,"cooked_date":null,"nutritional_balance":{"id":7851,"proteins":1.803751803751804,"veg_and_fruits":22.90764790764791,"grains":74.8556998556998,"total_weight_in_grams":554.4,"recipe_id":2473,"created_at":"2021-04-15T08:43:26.902Z","updated_at":"2021-04-15T08:43:26.902Z"},"author":{"id":101695,"first_name":"Leire","last_name":"Gamboa","image":"https://assets.gathercontent.com/1561526351_7983_c0a292af9d8f2ade659068f516a97d7e?s=1392b3cfa5eb92b1553768cb436d48fc","website":"\n","website_name":"\n","description":"¡Hola! Me llamo Leire, soy de San Sebastián (España) y me dedico a desarrollar recetas, buscar los ingredientes, cocinar, componer y fotografiar. Lo que más me gusta hacer es viajar y probar la comida de los sitios que visito. Disfruto mucho del deporte, del mar y de la montaña. Creo que mis recetas son una mezcla de todo esto, internacionales, saludables y con mucho color.","facebook":"https://www.facebook.com/leiregamboarecetas/\n","twitter":"\n","pinterest":"https://www.pinterest.es/leiregamboa/","youtube":"","instagram":"https://www.instagram.com/leiregamboa/?hl=es\n","name":"Leire Gamboa","current_folders_amount":1,"available_folders_amount":3,"has_premium":false,"revenue_premium":false,"email":"user_1616054468@nooddle.es"},"ingredients":[{"id":130,"measure":"gramos","value":"350","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg","name":"batata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":450,"main_unit_grams_en":450,"grams":1,"nutrition":{"id":37,"usda_ndb_no":11507,"usda_shrt_desc":"SWEET POTATO,RAW,UNPREP","carbohydrates":20.1,"sugars":4.2,"proteins":1.6,"fat":0.1,"saturated_fat":0,"fiber":3,"calories":86,"sodium":55,"ingredient_id":130,"created_at":"2020-04-15T07:03:13.155Z","updated_at":"2020-04-15T07:03:13.155Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":96,"measure":"puñado","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg","name":"cilantro","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":76,"usda_ndb_no":11165,"usda_shrt_desc":"CORIANDER (CILANTRO) LEAVES,RAW","carbohydrates":3.7,"sugars":0.9,"proteins":2.1,"fat":0.5,"saturated_fat":0,"fiber":2.8,"calories":23,"sodium":46,"ingredient_id":96,"created_at":"2020-04-15T07:03:13.875Z","updated_at":"2020-04-15T07:03:13.875Z"}},{"id":13,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg","name":"limón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":120,"main_unit_grams_en":120,"grams":120,"nutrition":{"id":155,"usda_ndb_no":9152,"usda_shrt_desc":"LEMON JUICE,RAW","carbohydrates":6.9,"sugars":2.5,"proteins":0.4,"fat":0.2,"saturated_fat":0,"fiber":0.3,"calories":22,"sodium":1,"ingredient_id":13,"created_at":"2020-04-15T07:03:16.299Z","updated_at":"2020-04-15T07:03:16.299Z"}},{"id":38,"measure":"taza","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/harina.jpg","name":"harina de trigo","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":130,"nutrition":{"id":125,"usda_ndb_no":20080,"usda_shrt_desc":"WHEAT FLOUR,WHOLE-GRAIN","carbohydrates":72,"sugars":0.4,"proteins":13.2,"fat":2.5,"saturated_fat":0.4,"fiber":10.7,"calories":340,"sodium":2,"ingredient_id":38,"created_at":"2020-04-15T07:03:15.354Z","updated_at":"2020-04-15T07:03:15.354Z"}},{"id":208,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg","name":"comino en polvo","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":86,"usda_ndb_no":2014,"usda_shrt_desc":"CUMIN SEED","carbohydrates":44.20000000000001,"sugars":2.3,"proteins":17.8,"fat":22.3,"saturated_fat":1.5,"fiber":10.5,"calories":375,"sodium":168,"ingredient_id":208,"created_at":"2020-04-15T07:03:14.118Z","updated_at":"2020-04-15T07:03:14.118Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":115,"measure":"puñado","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/semilla-de-sesamo.jpg","name":"semilla de sésamo","shopping_list_category_es":"semillas, frutos secos y deshidratados","shopping_list_category_en":"seeds and nuts","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":10,"nutrition":{"id":273,"usda_ndb_no":12023,"usda_shrt_desc":"SESAME SEEDS,WHOLE,DRIED","carbohydrates":23.5,"sugars":0.3,"proteins":17.7,"fat":49.7,"saturated_fat":7,"fiber":11.8,"calories":573,"sodium":11,"ingredient_id":115,"created_at":"2020-04-15T07:03:19.225Z","updated_at":"2020-04-15T07:03:19.225Z"}}],"steps":[{"name":"Precalienta el horno a 200ºC.","priority":0},{"name":"Pela y corta la batata en rodajas. Colócalas sobre una bandeja del horno forrada con papel vegetal y échales un poquito de aceite de oliva por encima. Mételas en el horno durante 30 minutos o hasta que veas que están blandas. Una vez estén blanditas, pasa al siguiente paso.","priority":1},{"name":"Coloca en el vaso de la batidora el ajo, el cilantro, el zumo de un limón, la batata ya cocinada, la harina indicada, el comino en polvo, un poco de sal y de pimienta, y tritura bien. ","priority":2},{"name":"Deja reposar la mezcla durante 1 hora en la nevera. ","priority":3},{"name":"Coloca un plato con un poquito de harina extra y saca la masa de la nevera. Coge un poco de masa y sin formar el falafel, lo pasas por el plato de harina. Ahora dale forma de falafel y ve colocándolos sobre la bandeja del horno. Añade un puñado de semillas de sésamo por encima y hornea durante 15 minutos a 200ºC.","priority":4}]},{"id":"pate-de-anacardos-y-ajo","name":"Paté de Anacardos y Ajo","type":"recipe","rate":"0.0","description":"Si los aperitivos te pierden y te encanta prepararlos para compartirlos con tus amigos y familiares, ¡no te pierdas este riquísimo y nutritivo paté! Tiene un sabor suave a la vez de que delicioso. Verás que no va a sobrar ni un poquito.","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pate-de-anacardos-y-ajo/900/pate-de-anacardos-y-ajo.jpg"],"image_title":"Paté de Anacardos y Ajo","image_alt_tag":"Paté de Anacardos y Ajo","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pate-de-anacardos-y-ajo/900/pate-de-anacardos-y-ajo.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pate-de-anacardos-y-ajo/600/pate-de-anacardos-y-ajo.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pate-de-anacardos-y-ajo/300/pate-de-anacardos-y-ajo.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pate-de-anacardos-y-ajo/100/pate-de-anacardos-y-ajo.jpg","width":100}],"premium":false,"total_time":35,"dificulty":null,"saved_count":80,"folders_ids":[],"like_count":2,"new":true,"liked":null,"favorited":null,"object_id":2664,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":5,"tags":["ajo","horno","aperitivos y tapas","Anacardo","con amigos"],"tip":"<p>Añade un poco de pimienta negra y unas finas hierbas para darle un sabor aún más rico.</p><p>Si tienes levadura de cerveza o nutricional, añade dos cucharadas antes de triturar y aumentarás los nutrientes y el sabor, quedará riquísimo.</p>","meta_description":"Si los aperitivos te pierden y te encanta prepararlos para compartirlos con tus amigos y familiares, ¡no te pierdas este riquísimo y nutritivo paté! Tiene un sabor suave a la vez de que delicioso. Verás que no va a sobrar ni un poquito.","meta_title":"patés vegetales - paté de anacardos | Nooddle | Ekilu \n","published_at":"2021-05-18","views_count":17,"total_time_iso8601":"PT35M","rate_count":0,"cooked_date":null,"nutritional_balance":{"id":8004,"proteins":63.04558680892338,"veg_and_fruits":33.94762366634336,"grains":0,"total_weight_in_grams":206.2,"recipe_id":2664,"created_at":"2021-05-18T04:01:57.028Z","updated_at":"2021-05-18T04:01:57.028Z"},"author":null,"ingredients":[{"id":4,"measure":"dientes","value":"10","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":175,"measure":"gramos","value":"100","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/anacardos.jpg","name":"anacardo","shopping_list_category_es":"semillas, frutos secos y deshidratados","shopping_list_category_en":"seeds and nuts","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":22,"usda_ndb_no":12585,"usda_shrt_desc":"CASHEW NUTS,DRY RSTD,W/SALT","carbohydrates":32.70000000000001,"sugars":5,"proteins":15.3,"fat":46.4,"saturated_fat":9.2,"fiber":3,"calories":574,"sodium":640,"ingredient_id":175,"created_at":"2020-04-15T07:03:12.751Z","updated_at":"2020-04-15T07:03:12.751Z"}},{"id":5,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":239,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/leche-vegetal.jpg","name":"leche vegetal","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":149,"usda_ndb_no":14091,"usda_shrt_desc":"BEVERAGES,ALMOND MILK,UNSWTND,SHELF STABLE","carbohydrates":0.6,"sugars":0,"proteins":0.6,"fat":1.1,"saturated_fat":0,"fiber":0,"calories":15,"sodium":71,"ingredient_id":239,"created_at":"2020-04-15T07:03:16.145Z","updated_at":"2020-04-15T07:03:16.145Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}}],"steps":[{"name":"Pon los anacardos a remojo en agua caliente (o déjalos toda la noche).","priority":0},{"name":"Precalienta el horno a 200ºC.","priority":1},{"name":"Coge la cabeza de ajos y sin desmontarla haz un corte con el que quites el extremo de todos los dientes, de tal forma que, aunque aún estén juntos y con la piel, se vea el ajo. ","priority":2},{"name":"Coloca la cabeza de ajos en una fuente pequeña para el horno, añade un chorrito de aceite de oliva y hornea durante 30 minutos.","priority":3},{"name":"Pasado este tiempo, sácalos y déjalos enfriar un poco antes de pelarlos y añadir los ajos a un procesador de alimentos o picadora junto a los anacardos escurridos, la leche vegetal, la sal y el aceite (te recomiendo que para dar más sabor mires el apartado de trucos y consejos) y tritura unos segundos hasta que tenga una consistencia que te guste.","priority":4}]},{"id":"mug-cake-de-cacahuete-y-chocolate","name":"Mug Cake de Cacahuete y Chocolate","type":"recipe","rate":"4.6428571428571429","description":"Comienza tu mañana con este delicioso mug cake de crema de cacahuete y chips de chocolate. Lo tendrás listo en menos de 5 minutos. ¡Qué forma tan deliciosa de comenzar tu día!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/mug-cake-de-cacahuete-y-chocolate/900/mug-cake-de-cacahuete-y-chocolate.jpg"],"image_title":"Mug Cake de Cacahuete y Chocolate","image_alt_tag":"Mug Cake de Cacahuete y Chocolate","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/mug-cake-de-cacahuete-y-chocolate/900/mug-cake-de-cacahuete-y-chocolate.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/mug-cake-de-cacahuete-y-chocolate/600/mug-cake-de-cacahuete-y-chocolate.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/mug-cake-de-cacahuete-y-chocolate/300/mug-cake-de-cacahuete-y-chocolate.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/mug-cake-de-cacahuete-y-chocolate/100/mug-cake-de-cacahuete-y-chocolate.jpg","width":100}],"premium":false,"total_time":5,"dificulty":null,"saved_count":1400,"folders_ids":[],"like_count":414,"new":false,"liked":null,"favorited":null,"object_id":2548,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":6,"tags":["Harina de avena","desayunos","snacking saludable","crema de cacahuete","chocolate negro"],"tip":"<p>El tiempo en el microondas dependerá de la potencia de cada microondas. Si tu microondas es muy potente tal vez con 45 segundos sea suficiente. Si no tienes un microondas más normal, tal vez con 1 minuto o incluso 1 minuto y medio será suficiente. Una vez lo metas, no lo quites el ojo y mira si sube la mezcla. Cuando suba, lo dejas un par de segundos más y estará listo.</p><p>Puedes sustituir el azúcar por sirope de agave, miel, etc.</p>","meta_description":"Comienza tu mañana con este delicioso mug cake de crema de cacahuete y chips de chocolate. Lo tendrás listo en menos de 5 minutos. ¡Qué forma tan deliciosa de comenzar tu día!","meta_title":"recetas de mug cake - desayunos saludables | Nooddle\n","published_at":"2021-04-01","views_count":8,"total_time_iso8601":"PT5M","rate_count":14,"cooked_date":null,"nutritional_balance":{"id":7787,"proteins":40.95563139931741,"veg_and_fruits":0,"grains":27.30375426621161,"total_weight_in_grams":293,"recipe_id":2548,"created_at":"2021-04-01T04:02:34.161Z","updated_at":"2021-04-01T04:02:34.161Z"},"author":null,"ingredients":[{"id":140,"measure":"cucharadas","value":"8","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/harina-de-avena.jpg","name":"harina de avena","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":10,"nutrition":{"id":122,"usda_ndb_no":20038,"usda_shrt_desc":"OATS","carbohydrates":66.3,"sugars":0,"proteins":16.9,"fat":6.9,"saturated_fat":1.2,"fiber":10.6,"calories":389,"sodium":2,"ingredient_id":140,"created_at":"2020-04-15T07:03:15.192Z","updated_at":"2020-04-15T07:03:15.192Z"}},{"id":39,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/levadura.jpg","name":"levadura","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":153,"usda_ndb_no":18369,"usda_shrt_desc":"LEAVENING AGENTS,BAKING PDR,DOUBLE-ACTING,NA AL SULFATE","carbohydrates":27.7,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0.2,"calories":53,"sodium":10600,"ingredient_id":39,"created_at":"2020-04-15T07:03:16.264Z","updated_at":"2020-04-15T07:03:16.264Z"}},{"id":135,"measure":"cucharada","value":"1.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484118/ingredients/azucar-moreno.jpg","name":"azúcar moreno","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":12,"nutrition":{"id":33,"usda_ndb_no":19334,"usda_shrt_desc":"SUGARS,BROWN","carbohydrates":98.1,"sugars":97,"proteins":0.1,"fat":0,"saturated_fat":0,"fiber":0,"calories":380,"sodium":28,"ingredient_id":135,"created_at":"2020-04-15T07:03:12.987Z","updated_at":"2020-04-15T07:03:12.987Z"}},{"id":239,"measure":"mililitros","value":"120","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/leche-vegetal.jpg","name":"leche vegetal","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":149,"usda_ndb_no":14091,"usda_shrt_desc":"BEVERAGES,ALMOND MILK,UNSWTND,SHELF STABLE","carbohydrates":0.6,"sugars":0,"proteins":0.6,"fat":1.1,"saturated_fat":0,"fiber":0,"calories":15,"sodium":71,"ingredient_id":239,"created_at":"2020-04-15T07:03:16.145Z","updated_at":"2020-04-15T07:03:16.145Z"}},{"id":214,"measure":"cucharadas","value":"4","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/crema-de-cacahuete.jpg","name":"crema de cacahuete","shopping_list_category_es":"otros","shopping_list_category_en":"breakfast foods","shopp_list_type_es":0,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":92,"usda_ndb_no":16150,"usda_shrt_desc":"PEANUT BUTTER,SMOOTH,RED FAT","carbohydrates":35.70000000000001,"sugars":9.3,"proteins":25.9,"fat":34,"saturated_fat":5.8,"fiber":5.2,"calories":520,"sodium":540,"ingredient_id":214,"created_at":"2020-04-15T07:03:14.339Z","updated_at":"2020-04-15T07:03:14.339Z"}},{"id":199,"measure":"onzas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/chocolate-negro.jpg","name":"chocolate negro","shopping_list_category_es":"otros","shopping_list_category_en":"others","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":7,"nutrition":{"id":71,"usda_ndb_no":19904,"usda_shrt_desc":"CHOCOLATE,DK,70-85% CACAO SOL","carbohydrates":45.9,"sugars":24,"proteins":7.8,"fat":42.6,"saturated_fat":24.5,"fiber":10.9,"calories":598,"sodium":20,"ingredient_id":199,"created_at":"2020-04-15T07:03:13.764Z","updated_at":"2020-04-15T07:03:13.764Z"}}],"steps":[{"name":"En un recipiente vierte la harina, la levadura, el azúcar, la leche, la crema de cacahuete y el chocolate cortado en trozos (o chips de chocolate). Mezcla bien.","priority":0},{"name":"Vierte la mezcla en dos tazas. ","priority":1},{"name":"Mete cada taza en el microondas a máxima potencia durante 1 minuto aproximadamente. Pasado ese tiempo la mezcla habrá subido y estará lista para comer.","priority":2},{"name":"Puedes terminar añadiendo un poquito más de crema de cacahuete y chips de chocolate por encima, a modo de decoración.","priority":3}]}]
+[
+  {
+    "id": "ensalada-fresca-de-arroz-y-frijoles",
+    "name": "Ensalada Fresca de Arroz y Frijoles",
+    "type": "Vegano",
+    "description": "Seguro que tienes los ingredientes para hacer esta ensalada fresca, sabrosa, llena de nutrientes. ¡Una maravilla de colores! ¿Te animas?",
+    "image_alt_tag": "Ensalada Fresca de Arroz y Frijoles",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-fresca-de-arroz-y-frijoles/900/ensalada-fresca-de-arroz-y-frijoles.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1593728055/ingredients/alubia-negra.jpg",
+        "name": "alubia negra",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "70",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg",
+        "name": "maíz",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aguacate.jpg",
+        "name": "aguacate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidades",
+        "value": "6",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lima.jpg",
+        "name": "lima",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Corta los tomates cherry en mitades, la cebolla en tiras finas y el aguacate en trozos. También, escurre las alubias y el maíz de sus respectivos botes y pásalos por agua.",
+        "priority": 1
+      },
+      {
+        "name": "Vierte los ingredientes que acabas de preparar en tu ensaladera, añade el arroz y un manojo generoso de cilantro picado. Mezcla con suavidad y aliña la ensalada con aceite, el jugo de lima y un poco de sal.",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "id": "verduras-al-horno-con-alubias-blancas",
+    "name": "Verduras al Horno con Alubias Blancas",
+    "type": "Vegano",
+    "description": "Esta receta tan original y colorida, está llena de ingredientes súper sabrosos y saludables. Es una receta facilísima de hacer y comerás de maravilla. ¡No te las pierdas!",
+    "image_alt_tag": "Verduras al Horno con Alubias Blancas",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/verduras-al-horno-con-alubias-blancas/900/verduras-al-horno-con-alubias-blancas.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/col-de-bruselas.jpg",
+        "name": "col de bruselas",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg",
+        "name": "batata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/alubias-blancas.jpg",
+        "name": "alubia blanca",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Prepara los ingredientes frescos de la siguiente manera: pela la batata y córtala en trozos no muy gruesos. Lava y trocea por la mitad las coles de bruselas y, por último, lava y corta en ramilletes el brócoli.",
+        "priority": 1
+      },
+      {
+        "name": "Extiende las verduras en la bandeja del horno y échales un poco de aceite de oliva y sal. Asegúrate de que quedan bien impregnadas del aceite.",
+        "priority": 2
+      },
+      {
+        "name": "Mete las verduras al horno y cocínalas durante 20 minutos. ",
+        "priority": 3
+      },
+      {
+        "name": "Pasado ese tiempo coloca las verduras sobre tu plato y añade las judías cocidas previamente escurridas de su bote. Puedes aliñarlas con aceite, vinagre y sal o, si te animas, haz el aderezo que te sugerimos en trucos y consejos.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "macarrones-con-cebolla-y-tomates-cherry",
+    "name": "Macarrones con Cebolla y Tomates Cherry",
+    "type": "Vegano",
+    "description": "¿Buscas una forma riquísima de añadir verdura a tus platos de pasta? ¡No te pierdas entonces esta delicia de receta!",
+    "image_alt_tag": "Macarrones con Cebolla y Tomates Cherry",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/900/macarrones-con-cebolla-y-tomates-cherry.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg",
+        "name": "orégano",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "500",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 180ºC. ",
+        "priority": 0
+      },
+      {
+        "name": "Lava los tomates y córtalos por la mitad. Colócalos en una fuente y añade el orégano, la sal y el aceite de oliva. Hornea durante 15 minutos.",
+        "priority": 1
+      },
+      {
+        "name": "Cuece la pasta según las instrucciones del paquete y, mientras tanto, pica la cebolla y los ajos y sofríelos entre 10 y 15 minutos, hasta que la cebolla esté transparente y tierna.",
+        "priority": 2
+      },
+      {
+        "name": "Cuando la pasta esté lista, escúrrela y mézclala con los tomates asados y la cebolla. Ajusta la sal a tu gusto.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "naranja-con-chocolate-y-pistachos",
+    "name": "Naranja con Chocolate y Pistachos",
+    "type": "Vegano",
+    "description": "¿Buscas una forma deliciosa de comer fruta? ¡No te pierdas estas naranjas con chocolate! Vas a alucinar con esta combinación tan rica.",
+    "image_alt_tag": "Naranja con Chocolate y Pistachos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/naranja-con-chocolate-y-pistachos/900/naranja-con-chocolate-y-pistachos.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 4,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/naranjas.jpg",
+        "name": "naranja",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "onzas",
+        "value": "6",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/chocolate-negro.jpg",
+        "name": "chocolate negro",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "cucharada",
+        "value": "0.25",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "aceite de coco",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/pistacho.jpg",
+        "name": "pistacho",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la naranja por la mitad y luego en cuartos. A partir de ahí ve haciendo láminas finas.",
+        "priority": 0
+      },
+      {
+        "name": "Trocea los pistachos.",
+        "priority": 1
+      },
+      {
+        "name": "Pon el chocolate y el aceite de coco en un vaso y caliéntalos en el microondas durante un par de minutos hasta que se derritan.",
+        "priority": 2
+      },
+      {
+        "name": "Mete la naranja en el vaso hasta la mitad, deja que escurra el exceso de chocolate y colócala sobre una rejilla o sobre papel vegetal.",
+        "priority": 3
+      },
+      {
+        "name": "Mientras aún está blando, añade los pistachos y con lo que las quieras decorar.",
+        "priority": 4
+      },
+      {
+        "name": "Haz lo mismo con el resto de la naranja y refrigera durante 1 hora.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-col",
+    "name": "Ensalada de Col",
+    "type": "Vegano",
+    "description": "Si vas a hacer una barbacoa y quieres acompañarla de una ensalada fresca y súper sabrosa, ¡aquí la tienes! Un clásico que no te puedes perder, la famosa ¡coleslaw o ensalada de col!",
+    "image_alt_tag": "Ensalada de Col",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-col/900/ensalada-de-col.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/col.jpg",
+        "name": "col",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "ramas",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/apio.jpg",
+        "name": "apio",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/manzana-roja.jpg",
+        "name": "manzana",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1504401669/ingredients/vinagre-de-manzana.jpg",
+        "name": "vinagre de manzana",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mayonesa.jpg",
+        "name": "mayonesa",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la col (repollo) en tiras muy finas y colócalas en tu ensaladera.",
+        "priority": 0
+      },
+      {
+        "name": "Corta la rama de apio también finamente y añádela a la ensalada.",
+        "priority": 1
+      },
+      {
+        "name": "Pela la zanahoria y rállala y, por último, lava la manzana y córtala en trozos (con piel). Añade todo también a la ensalada. ",
+        "priority": 2
+      },
+      {
+        "name": "Vierte el vinagre en las verduras y mezcla.",
+        "priority": 3
+      },
+      {
+        "name": "Ahora agrega la mayonesa y mezcla de nuevo.  ",
+        "priority": 4
+      },
+      {
+        "name": "Mete la ensalada en la nevera y deja enfriar durante un rato, así estará mejor.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "bowl-de-garbanzos-con-berenjena-y-arroz",
+    "name": "Bowl de Garbanzos con Berenjena y Arroz",
+    "type": "Vegano",
+    "description": "Quien diga que comer garbanzos es aburrido ¡está muy confundido! Este bowl de garbanzos con verduras y arroz huele de maravilla, y sabe aún mejor. Una delicia de plato llena de ingredientes naturales y proteína vegetal absolutamente ¡irresistible!",
+    "image_alt_tag": "Bowl de Garbanzos con Berenjena y Arroz",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-garbanzos-con-berenjena-y-arroz/900/bowl-de-garbanzos-con-berenjena-y-arroz.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 12,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg",
+        "name": "berenjena",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/curry.jpg",
+        "name": "curry",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Corta en trozos la cebolla . Lava y corta en dados pequeños la berenjena, el tomate y el pimiento rojo. ",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén echa el aceite y cuando esté caliente, agrega la cebolla y cocínala a fuego medio durante un par de minutos.",
+        "priority": 2
+      },
+      {
+        "name": "A continuación añade a la sartén los trozos de berenjena y saltéala otros 3-4 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Incorpora el pimiento rojo y el tomate troceado y cocina durante un par de minutos más.",
+        "priority": 4
+      },
+      {
+        "name": "Añade a la sartén el tomate triturado y las especias. Cocina a fuego medio durante 2 minutos y añade los garbanzos cocidos.",
+        "priority": 5
+      },
+      {
+        "name": "Deja en la sartén a fuego suave los ingredientes durante 5-6 minutos   y pasado este tiempo sirve en un plato acompañado del arroz.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "falafels-de-batata",
+    "name": "Falafels de Batata",
+    "type": "Vegano",
+    "description": "Estos falafels de batata están riquísimos y son muy versátiles. Puedes tomártelos de picoteo o puedes acompañarlos con lechuga, hummus, lima y pan de fajita, y hacerte un rico almuerzo. ¡Tienen mil opciones! ¡Sírvetelos como te apetezca!",
+    "image_alt_tag": "Falafels de Batata",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg",
+        "name": "batata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/harina.jpg",
+        "name": "harina de trigo",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/semilla-de-sesamo.jpg",
+        "name": "semilla de sésamo",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Pela y corta la batata en rodajas. Colócalas sobre una bandeja del horno forrada con papel vegetal y échales un poquito de aceite de oliva por encima. Mételas en el horno durante 30 minutos o hasta que veas que están blandas. Una vez estén blanditas, pasa al siguiente paso.",
+        "priority": 1
+      },
+      {
+        "name": "Coloca en el vaso de la batidora el ajo, el cilantro, el zumo de un limón, la batata ya cocinada, la harina indicada, el comino en polvo, un poco de sal y de pimienta, y tritura bien. ",
+        "priority": 2
+      },
+      {
+        "name": "Deja reposar la mezcla durante 1 hora en la nevera. ",
+        "priority": 3
+      },
+      {
+        "name": "Coloca un plato con un poquito de harina extra y saca la masa de la nevera. Coge un poco de masa y sin formar el falafel, lo pasas por el plato de harina. Ahora dale forma de falafel y ve colocándolos sobre la bandeja del horno. Añade un puñado de semillas de sésamo por encima y hornea durante 15 minutos a 200ºC.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "pate-de-anacardos-y-ajo",
+    "name": "Paté de Anacardos y Ajo",
+    "type": "Vegano",
+    "description": "Si los aperitivos te pierden y te encanta prepararlos para compartirlos con tus amigos y familiares, ¡no te pierdas este riquísimo y nutritivo paté! Tiene un sabor suave a la vez de que delicioso. Verás que no va a sobrar ni un poquito.",
+    "image_alt_tag": "Paté de Anacardos y Ajo",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pate-de-anacardos-y-ajo/900/pate-de-anacardos-y-ajo.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 5,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/anacardos.jpg",
+        "name": "anacardo",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/leche-vegetal.jpg",
+        "name": "leche vegetal",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pon los anacardos a remojo en agua caliente (o déjalos toda la noche).",
+        "priority": 0
+      },
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 1
+      },
+      {
+        "name": "Coge la cabeza de ajos y sin desmontarla haz un corte con el que quites el extremo de todos los dientes, de tal forma que, aunque aún estén juntos y con la piel, se vea el ajo. ",
+        "priority": 2
+      },
+      {
+        "name": "Coloca la cabeza de ajos en una fuente pequeña para el horno, añade un chorrito de aceite de oliva y hornea durante 30 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado este tiempo, sácalos y déjalos enfriar un poco antes de pelarlos y añadir los ajos a un procesador de alimentos o picadora junto a los anacardos escurridos, la leche vegetal, la sal y el aceite (te recomiendo que para dar más sabor mires el apartado de trucos y consejos) y tritura unos segundos hasta que tenga una consistencia que te guste.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "mug-cake-de-cacahuete-y-chocolate",
+    "name": "Mug Cake de Cacahuete y Chocolate",
+    "type": "Vegano",
+    "description": "Comienza tu mañana con este delicioso mug cake de crema de cacahuete y chips de chocolate. Lo tendrás listo en menos de 5 minutos. ¡Qué forma tan deliciosa de comenzar tu día!",
+    "image_alt_tag": "Mug Cake de Cacahuete y Chocolate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/mug-cake-de-cacahuete-y-chocolate/900/mug-cake-de-cacahuete-y-chocolate.jpg",
+    "total_time": 5,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "cucharadas",
+        "value": "8",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/harina-de-avena.jpg",
+        "name": "harina de avena",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/levadura.jpg",
+        "name": "levadura",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484118/ingredients/azucar-moreno.jpg",
+        "name": "azúcar moreno",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "mililitros",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/leche-vegetal.jpg",
+        "name": "leche vegetal",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/crema-de-cacahuete.jpg",
+        "name": "crema de cacahuete",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "onzas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/chocolate-negro.jpg",
+        "name": "chocolate negro",
+        "shopping_list_category_es": "otros"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En un recipiente vierte la harina, la levadura, el azúcar, la leche, la crema de cacahuete y el chocolate cortado en trozos (o chips de chocolate). Mezcla bien.",
+        "priority": 0
+      },
+      {
+        "name": "Vierte la mezcla en dos tazas. ",
+        "priority": 1
+      },
+      {
+        "name": "Mete cada taza en el microondas a máxima potencia durante 1 minuto aproximadamente. Pasado ese tiempo la mezcla habrá subido y estará lista para comer.",
+        "priority": 2
+      },
+      {
+        "name": "Puedes terminar añadiendo un poquito más de crema de cacahuete y chips de chocolate por encima, a modo de decoración.",
+        "priority": 3
+      }
+    ]
+  }
+]
