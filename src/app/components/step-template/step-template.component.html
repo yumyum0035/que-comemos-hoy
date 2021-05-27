@@ -5,7 +5,6 @@
     <div class="step-content-label text-center">For a better experience please select your preferences:</div>
     <button *ngFor="let categories of listCategories" class="step-complete-btn  mb-1" (click)="addType(categories)">
         <span class="completed-step-check material-icons">
-            <!-- {{ step.isComplete ? 'check_circle' : 'panorama_fish_eye' }} -->
             {{ selectedCategories.indexOf(categories) > -1 ? 'check_circle' : 'panorama_fish_eye' }}
         </span>{{categories}}
     </button>
@@ -13,12 +12,56 @@
 
   <div *ngIf="step.stepIndex == 2">
     <div class="step-content-label">Finally, please select your meal plan:</div>
-    <button (click)="onCompleteStep()" class="step-complete-btn  mb-1">
+
+    <button (click)="selectWeek('toda')" class="step-complete-btn  mb-1">
       <span class="completed-step-check material-icons">
-        <!-- {{ step.isComplete ? 'check_circle' : 'panorama_fish_eye' }} -->
-        {{  step.isComplete ? 'check_circle' : 'panorama_fish_eye' }}
+        {{  selectedWeek.indexOf('toda') > -1 ? 'check_circle' : 'panorama_fish_eye' }}
       </span>Toda la semana
     </button>
+
+    <button (click)="selectWeek('lunes')" class="step-complete-btn  mb-1">
+      <span class="completed-step-check material-icons">
+        {{ selectedWeek.indexOf('lunes') > -1 || selectedWeek.indexOf('toda')> -1 ? 'check_circle' : 'panorama_fish_eye' }}
+      </span>Lunes
+    </button>
+
+    <button (click)="selectWeek('martes')" class="step-complete-btn  mb-1">
+      <span class="completed-step-check material-icons">
+        {{ selectedWeek.indexOf('martes') > -1 || selectedWeek.indexOf('toda')> -1 ? 'check_circle' : 'panorama_fish_eye' }}
+      </span>Martes
+    </button>
+
+    <button (click)="selectWeek('miercoles')" class="step-complete-btn  mb-1">
+      <span class="completed-step-check material-icons">
+        {{ selectedWeek.indexOf('miercoles') > -1 || selectedWeek.indexOf('toda')> -1 ? 'check_circle' : 'panorama_fish_eye' }}
+
+      </span>Miércoles
+    </button>
+
+    <button (click)="selectWeek('jueves')" class="step-complete-btn  mb-1">
+      <span class="completed-step-check material-icons">
+        {{ selectedWeek.indexOf('jueves') > -1 || selectedWeek.indexOf('toda')> -1 ? 'check_circle' : 'panorama_fish_eye' }}
+      </span>Jueves
+    </button>
+
+    <button (click)="selectWeek('viernes')" class="step-complete-btn  mb-1">
+      <span class="completed-step-check material-icons">
+        {{ selectedWeek.indexOf('viernes') > -1 || selectedWeek.indexOf('toda')> -1 ? 'check_circle' : 'panorama_fish_eye' }}
+      </span>Viernes
+    </button>
+
+    <button (click)="selectWeek('sabado')" class="step-complete-btn  mb-1">
+      <span class="completed-step-check material-icons">
+        {{ selectedWeek.indexOf('sabado') > -1 || selectedWeek.indexOf('toda')> -1 ? 'check_circle' : 'panorama_fish_eye' }}
+      </span>Sábado
+    </button>
+
+    <button (click)="selectWeek('domingo')" class="step-complete-btn  mb-1">
+      <span class="completed-step-check material-icons">
+        {{ selectedWeek.indexOf('domingo') > -1 || selectedWeek.indexOf('toda')> -1 ? 'check_circle' : 'panorama_fish_eye' }}
+      </span>Domingo
+    </button>
+
   </div>
 
   <div *ngIf="step.stepIndex == 3">
