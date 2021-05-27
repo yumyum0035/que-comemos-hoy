@@ -1,1 +1,879 @@
-[{"id":"ensalada-de-espinacas-con-garbanzos-y-atun","name":"Ensalada de Espinacas con Garbanzos y Atún","type":"recipe","rate":"4.7777777777777778","description":"¡No te pierdas esta ensalada riquísima y súper completa, cargadísima de nutrientes y que puedes prepararla en tan sólo 5 minutos!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-espinacas-con-garbanzos-y-atun/900/ensalada-de-espinacas-con-garbanzos-y-atun.jpg"],"image_title":"Ensalada de Espinacas con Garbanzos y Atún","image_alt_tag":"Ensalada de Espinacas con Garbanzos y Atún","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-espinacas-con-garbanzos-y-atun/900/ensalada-de-espinacas-con-garbanzos-y-atun.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-espinacas-con-garbanzos-y-atun/600/ensalada-de-espinacas-con-garbanzos-y-atun.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-espinacas-con-garbanzos-y-atun/300/ensalada-de-espinacas-con-garbanzos-y-atun.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-espinacas-con-garbanzos-y-atun/100/ensalada-de-espinacas-con-garbanzos-y-atun.jpg","width":100}],"premium":false,"total_time":5,"dificulty":null,"saved_count":692,"folders_ids":[],"like_count":223,"new":false,"liked":null,"favorited":null,"object_id":2596,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["garbanzo en conserva","ensaldas y bowls","tupper","atún en conserva","queso fresco","fitness","sin cocina"],"tip":"<p>Añade unas aceitunas o unos pepinillos para que esté aún más rica.</p><p>Sustituye las espinacas por el tipo de hojas verdes que más te guste, como lechuga o la rúcula.</p><p>Cambia las verduras según te apetezca o aprovechar a usar las que tengas a mano.</p>","meta_description":"¡No te pierdas esta ensalada riquísima y súper completa, cargadísima de nutrientes y que puedes prepararla en tan sólo 5 minutos!","meta_title":"recetas con garbanzos - recetas fitness | Nooddle\n","published_at":"2021-04-19","views_count":1,"total_time_iso8601":"PT5M","rate_count":9,"cooked_date":null,"nutritional_balance":{"id":7864,"proteins":59.4781273983116,"veg_and_fruits":39.33231005372218,"grains":0,"total_weight_in_grams":521.2,"recipe_id":2596,"created_at":"2021-04-19T07:43:18.541Z","updated_at":"2021-04-19T07:43:18.541Z"},"author":null,"ingredients":[{"id":221,"measure":"puñados","value":"3","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg","name":"espinaca","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":35,"nutrition":{"id":103,"usda_ndb_no":11457,"usda_shrt_desc":"SPINACH,RAW","carbohydrates":3.6,"sugars":0.4,"proteins":2.9,"fat":0.4,"saturated_fat":0.1,"fiber":2.2,"calories":23,"sodium":79,"ingredient_id":221,"created_at":"2020-04-15T07:03:14.674Z","updated_at":"2020-04-15T07:03:14.674Z"}},{"id":289,"measure":"unidad","value":"10","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg","name":"tomate cherry","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":10,"main_unit_grams_en":10,"grams":10,"nutrition":{"id":281,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":289,"created_at":"2020-04-15T07:03:19.484Z","updated_at":"2020-04-15T07:03:19.484Z"}},{"id":149,"measure":"gramos","value":"100","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-fresco.jpg","name":"queso fresco","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":238,"usda_ndb_no":1228,"usda_shrt_desc":"CHEESE,FRSH,QUESO FRESCO","carbohydrates":3,"sugars":2.3,"proteins":18.1,"fat":23.8,"saturated_fat":12.9,"fiber":0,"calories":299,"sodium":751,"ingredient_id":149,"created_at":"2020-04-15T07:03:18.132Z","updated_at":"2020-04-15T07:03:18.132Z"}},{"id":14,"measure":"bote pequeño","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/garbanzos.jpg","name":"garbanzo en conserva","shopping_list_category_es":"conservas","shopping_list_category_en":"canned foods","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":210,"nutrition":{"id":116,"usda_ndb_no":16359,"usda_shrt_desc":"CHICKPEAS,MATURE SEEDS,CND,DRND,RINSED IN TAP H2O","carbohydrates":22.9,"sugars":4,"proteins":7,"fat":2.5,"saturated_fat":0.2,"fiber":6.3,"calories":138,"sodium":212,"ingredient_id":14,"created_at":"2020-04-15T07:03:15.057Z","updated_at":"2020-04-15T07:03:15.057Z"}},{"id":24,"measure":"lata pequeña","value":"","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/atun-conserva.jpg","name":"atún en conserva","shopping_list_category_es":"conservas","shopping_list_category_en":"canned foods","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":70,"nutrition":{"id":28,"usda_ndb_no":15126,"usda_shrt_desc":"TUNA,WHITE,CND IN H2O,DRND SOL","carbohydrates":0,"sugars":0,"proteins":23.6,"fat":3,"saturated_fat":0.8,"fiber":0,"calories":128,"sodium":377,"ingredient_id":24,"created_at":"2020-04-15T07:03:12.896Z","updated_at":"2020-04-15T07:03:12.896Z"}},{"id":5,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}}],"steps":[{"name":"Lava los garbanzos y escurre el agua. ","priority":0},{"name":"Corta los tomates cherry en cuartos y el queso fresco en trozos tamaño medio.","priority":1},{"name":"En un recipiente coloca con los tomates cherry troceados, las espinacas, el queso cortado y el atún en conserva.","priority":2},{"name":"Adereza con aceite de oliva y sal.","priority":3}]},{"id":"bowl-de-salmon-con-judias-verdes-y-pure-de-patata","name":"Bowl de Salmón con Judías Verdes y Puré de Patata","type":"recipe","rate":"4.8333333333333333","description":"Menudo gusto almorzar con platos como este, ¿no crees? Una maravilla alimentarse así de bien. Y hay que reconocer que no es complicado, sólo necesitas pocos ingredientes y 20 minutos de tu tiempo. ","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-salmon-con-judias-verdes-y-pure-de-patata/900/bowl-de-salmon-con-judias-verdes-y-pure-de-patata.jpg"],"image_title":"Bowl de Salmón con Judías Verdes y Puré de Patata","image_alt_tag":"Bowl de Salmón con Judías Verdes y Puré de Patata","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-salmon-con-judias-verdes-y-pure-de-patata/900/bowl-de-salmon-con-judias-verdes-y-pure-de-patata.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-salmon-con-judias-verdes-y-pure-de-patata/600/bowl-de-salmon-con-judias-verdes-y-pure-de-patata.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-salmon-con-judias-verdes-y-pure-de-patata/300/bowl-de-salmon-con-judias-verdes-y-pure-de-patata.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-salmon-con-judias-verdes-y-pure-de-patata/100/bowl-de-salmon-con-judias-verdes-y-pure-de-patata.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":3491,"folders_ids":[],"like_count":1327,"new":false,"liked":null,"favorited":null,"object_id":2392,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":5,"tags":["salmón","Patata","judía verde","tupper","vegetariano","20 minutos o menos","fitness","ensaladas y bowls"],"tip":"<p>Si tu patata no es muy grande emplea dos. Y si quieres mejorar el puré puedes echarle un chorrito de leche al mismo y una pizca de mantequilla (con el calor se fundirá) y mezclar.</p><p>Las judías puedes aliñarlas con aceite, vinagre y sal o, si te animas, puedes sofreír un diente de ajo en una sartén con un poco de aceite y saltearlas.</p>","meta_description":"Menudo gusto almorzar con platos como este, ¿no crees? Una maravilla alimentarse así de bien. Y hay que reconocer que no es complicado, sólo necesitas pocos ingredientes y 20 minutos de tu tiempo. ","meta_title":"recetas con salmón - recetas fitness | Nooddle\n","published_at":"2020-12-28","views_count":0,"total_time_iso8601":"PT20M","rate_count":18,"cooked_date":null,"nutritional_balance":{"id":7396,"proteins":70.0607192900514,"veg_and_fruits":0,"grains":29.19196637085475,"total_weight_in_grams":856.4,"recipe_id":2392,"created_at":"2020-12-28T04:01:36.101Z","updated_at":"2020-12-28T04:01:36.101Z"},"author":null,"ingredients":[{"id":54,"measure":"filetes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg","name":"salmón","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"filete","main_unit_en":"fillet","main_unit_grams_es":150,"main_unit_grams_en":150,"grams":150,"nutrition":{"id":257,"usda_ndb_no":15076,"usda_shrt_desc":"SALMON,ATLANTIC,WILD,RAW","carbohydrates":0,"sugars":0,"proteins":19.8,"fat":6.3,"saturated_fat":1,"fiber":0,"calories":142,"sodium":44,"ingredient_id":54,"created_at":"2020-04-15T07:03:18.545Z","updated_at":"2020-04-15T07:03:18.545Z"}},{"id":35,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg","name":"patata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":250,"nutrition":{"id":203,"usda_ndb_no":11352,"usda_shrt_desc":"POTATOES,FLESH & SKN,RAW","carbohydrates":17.5,"sugars":0.8,"proteins":2.1,"fat":0.1,"saturated_fat":0,"fiber":2.1,"calories":77,"sodium":6,"ingredient_id":35,"created_at":"2020-04-15T07:03:17.249Z","updated_at":"2020-04-15T07:03:17.249Z"}},{"id":5,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"pizca","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":76,"measure":"gramos","value":"300","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/judias-verdes.jpg","name":"judía verde","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":139,"usda_ndb_no":11052,"usda_shrt_desc":"BEANS,SNAP,GREEN,RAW","carbohydrates":7,"sugars":3.3,"proteins":1.8,"fat":0.2,"saturated_fat":0.1,"fiber":2.7,"calories":31,"sodium":6,"ingredient_id":76,"created_at":"2020-04-15T07:03:15.929Z","updated_at":"2020-04-15T07:03:15.929Z"}}],"steps":[{"name":"Pela la patata, córtala en cubos no muy grandes y ponlas a cocer en agua hirviendo con un poquito de sal. Cuando estén tiernas (seguramente en unos diez minutos si las has cortado no muy grandes) escúrrelas y con un tenedor machácalas hasta alcanzar textura tipo puré.","priority":0},{"name":"En otra cazuela con agua hirviendo cuece las judías verdes. Cuando estén cocidas a tu gusto, retíralas, escúrrelas y resérvalas.","priority":1},{"name":"En una sartén, con unas gotitas de aceite, cocina el salmón a la plancha con un poquito de sal.","priority":2},{"name":"Coloca el salmón en un plato y acompáñalo del puré de patata y de las judías verdes.","priority":3}]},{"id":"salmon-con-cuscus-y-verduras","name":"Salmón con Cuscús y Verduras","type":"recipe","rate":"4.6818181818181818","description":"\n    El salmón y el cuscús es una combinación ganadora. Y si todavía no te has animado a prepararla, ¡ya estás tardando! Con esta receta descubre lo bien que combinan todos sus sabores.\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-cuscus-y-verduras/900/salmon-con-cuscus-y-verduras.jpg"],"image_title":"Salmón con Cuscús y Verduras","image_alt_tag":"Salmón con Cuscús y Verduras","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-cuscus-y-verduras/900/salmon-con-cuscus-y-verduras.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-cuscus-y-verduras/600/salmon-con-cuscus-y-verduras.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-cuscus-y-verduras/300/salmon-con-cuscus-y-verduras.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-cuscus-y-verduras/100/salmon-con-cuscus-y-verduras.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":3513,"folders_ids":[],"like_count":1219,"new":false,"liked":null,"favorited":null,"object_id":2320,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["salmón","Calabaza","20 minutos o menos","Calabacín","tupper","Cuscús","fitness","ensaladas y bowls"],"tip":"<p>\n    Puedes terminar añadiendo un puñado de cilantro picado por encima del salmón.\n</p>\n<p>\n    Si prefieres, puedes cocinar el salmón al horno.\n</p>","meta_description":"\n    El salmón y el cuscús es una combinación ganadora. Y si todavía no te has animado a prepararla, ¡ya estás tardando! Con esta receta descubre lo bien que combinan todos sus sabores.\n","meta_title":"recetas con cuscús - recetas con salmón - recetas fitness | Nooddle","published_at":"2020-10-26","views_count":1,"total_time_iso8601":"PT20M","rate_count":22,"cooked_date":null,"nutritional_balance":{"id":6923,"proteins":22.98146162095909,"veg_and_fruits":61.82013176037996,"grains":13.78887697257546,"total_weight_in_grams":1305.4,"recipe_id":2320,"created_at":"2020-10-26T04:01:07.839Z","updated_at":"2020-10-26T04:01:07.839Z"},"author":null,"ingredients":[{"id":54,"measure":"filetes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg","name":"salmón","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"filete","main_unit_en":"fillet","main_unit_grams_es":150,"main_unit_grams_en":150,"grams":150,"nutrition":{"id":257,"usda_ndb_no":15076,"usda_shrt_desc":"SALMON,ATLANTIC,WILD,RAW","carbohydrates":0,"sugars":0,"proteins":19.8,"fat":6.3,"saturated_fat":1,"fiber":0,"calories":142,"sodium":44,"ingredient_id":54,"created_at":"2020-04-15T07:03:18.545Z","updated_at":"2020-04-15T07:03:18.545Z"}},{"id":47,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg","name":"calabacín","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":500,"main_unit_grams_en":500,"grams":500,"nutrition":{"id":47,"usda_ndb_no":11477,"usda_shrt_desc":"SQUASH,SMMR,ZUCCHINI,INCL SKN,RAW","carbohydrates":3.1,"sugars":2.5,"proteins":1.2,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":17,"sodium":8,"ingredient_id":47,"created_at":"2020-04-15T07:03:13.361Z","updated_at":"2020-04-15T07:03:13.361Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":217,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1544563983/ingredients/cuscus.jpg","name":"cuscús","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":180,"nutrition":{"id":96,"usda_ndb_no":20028,"usda_shrt_desc":"COUSCOUS,DRY","carbohydrates":77.4,"sugars":0,"proteins":12.8,"fat":0.6,"saturated_fat":0.1,"fiber":5,"calories":376,"sodium":10,"ingredient_id":217,"created_at":"2020-04-15T07:03:14.478Z","updated_at":"2020-04-15T07:03:14.478Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"pizcas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":46,"measure":"gramos","value":"300","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg","name":"calabaza","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":1000,"main_unit_grams_en":1000,"grams":1,"nutrition":{"id":48,"usda_ndb_no":11422,"usda_shrt_desc":"PUMPKIN,RAW","carbohydrates":6.5,"sugars":2.8,"proteins":1,"fat":0.1,"saturated_fat":0.1,"fiber":0.5,"calories":26,"sodium":1,"ingredient_id":46,"created_at":"2020-04-15T07:03:13.377Z","updated_at":"2020-04-15T07:03:13.377Z"}}],"steps":[{"name":"Pon al fuego una taza de agua con un poco de sal. Cuando rompa a hervir, añade la taza de cuscús y apaga el fuego. Déjalo reposar hasta que se hidrate.","priority":0},{"name":"Lava el calabacín y córtalo en trozos. Corta la calabaza y córtala en trozos finos. Pica el ajo en trocitos. En una plancha o sartén, con un poquito de aceite de oliva y una pizca de sal, saltea las verduras a fuego medio durante 8-10 minutos, hasta que estén blanditas.","priority":1},{"name":"En esa misma plancha o sartén que has empleado, con un poquito más de aceite de oliva, cocina los filetes de salmón. Échales un poquito de sal.","priority":2},{"name":"En un recipiente coloca el cuscús con verduras que has preparado y coloca los filetes de salmón encima.","priority":3}]},{"id":"hamburguesas-de-atun-y-calabacin","name":"Hamburguesas de Atún y Calabacín","type":"recipe","rate":"4.7768595041322314","description":"Si tienes un par de latas de atún por tu despensa y te apetece hacer una receta original con ellas, estas hamburguesas riquísimas de atún y calabacín son súper agradables al paladar y muy sanas. ¿Te animas?","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/hamburguesas-de-atun-y-calabacin/900/hamburguesas-de-atun-y-calabacin.jpg"],"image_title":"Hamburguesas de Atún y Calabacín","image_alt_tag":"Hamburguesas de Atún y Calabacín","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/hamburguesas-de-atun-y-calabacin/900/hamburguesas-de-atun-y-calabacin.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/hamburguesas-de-atun-y-calabacin/600/hamburguesas-de-atun-y-calabacin.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/hamburguesas-de-atun-y-calabacin/300/hamburguesas-de-atun-y-calabacin.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/hamburguesas-de-atun-y-calabacin/100/hamburguesas-de-atun-y-calabacin.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":7778,"folders_ids":[],"like_count":2353,"new":false,"liked":null,"favorited":null,"object_id":2345,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":6,"tags":["atún en conserva","hamburguesas","Calabacín","con niños","20 minutos o menos","tupper"],"tip":"<p>Nosotros acompañamos las hamburguesas con un poco de arroz.</p><p>Si sientes que la mezcla está un poco líquida puedes añadir un lata más de atún o un poco más de pan rallado.</p>","meta_description":"<p>Si tienes un par de latas de atún por tu despensa y te apetece hacer una receta original con ellas, estas hamburguesas riquísimas de atún y calabacín son súper agradables al paladar y muy sanas. ¿Te animas?</p>","meta_title":"recetas con atún  - hamburguesas vegetales | Nooddle","published_at":"2020-11-04","views_count":3,"total_time_iso8601":"PT20M","rate_count":121,"cooked_date":null,"nutritional_balance":{"id":6977,"proteins":46.40000000000002,"veg_and_fruits":41.12000000000001,"grains":9.6,"total_weight_in_grams":625,"recipe_id":2345,"created_at":"2020-11-04T04:01:25.536Z","updated_at":"2020-11-04T04:01:25.536Z"},"author":null,"ingredients":[{"id":2,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg","name":"huevo","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":75,"main_unit_grams_en":75,"grams":75,"nutrition":{"id":131,"usda_ndb_no":1123,"usda_shrt_desc":"EGG,WHL,RAW,FRSH","carbohydrates":0.7,"sugars":0.4,"proteins":12.6,"fat":9.5,"saturated_fat":3.1,"fiber":0,"calories":143,"sodium":142,"ingredient_id":2,"created_at":"2020-04-15T07:03:15.570Z","updated_at":"2020-04-15T07:03:15.570Z"}},{"id":47,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg","name":"calabacín","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":500,"main_unit_grams_en":500,"grams":500,"nutrition":{"id":47,"usda_ndb_no":11477,"usda_shrt_desc":"SQUASH,SMMR,ZUCCHINI,INCL SKN,RAW","carbohydrates":3.1,"sugars":2.5,"proteins":1.2,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":17,"sodium":8,"ingredient_id":47,"created_at":"2020-04-15T07:03:13.361Z","updated_at":"2020-04-15T07:03:13.361Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":24,"measure":"lata pequeña","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/atun-conserva.jpg","name":"atún en conserva","shopping_list_category_es":"conservas","shopping_list_category_en":"canned foods","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":70,"nutrition":{"id":28,"usda_ndb_no":15126,"usda_shrt_desc":"TUNA,WHITE,CND IN H2O,DRND SOL","carbohydrates":0,"sugars":0,"proteins":23.6,"fat":3,"saturated_fat":0.8,"fiber":0,"calories":128,"sodium":377,"ingredient_id":24,"created_at":"2020-04-15T07:03:12.896Z","updated_at":"2020-04-15T07:03:12.896Z"}},{"id":56,"measure":"cucharadas","value":"4","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg","name":"pan rallado","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":200,"usda_ndb_no":18079,"usda_shrt_desc":"BREAD CRUMBS,DRY,GRATED,PLN","carbohydrates":72,"sugars":6.2,"proteins":13.4,"fat":5.3,"saturated_fat":1.2,"fiber":4.5,"calories":395,"sodium":732,"ingredient_id":56,"created_at":"2020-04-15T07:03:17.178Z","updated_at":"2020-04-15T07:03:17.178Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}}],"steps":[{"name":"Pica un diente de ajo muy finamente.","priority":0},{"name":"Lava el calabacín y rállalo. Colócalo en un escurrido y con tus propias manos trata de extraerle la mayor parte de agua posible.","priority":1},{"name":"Coloca el ajo picado, el calabacín rallado y el atún escurrido de sus latas en un recipiente un poco hondo. Añade los huevos batidos, un poco de sal y mezcla. Añade el pan rallado y mezcla bien todo. Deja que repose durante 5-10 minutos.","priority":2},{"name":"Toma un poco de la mezcla y haz forma de bolita. Aplástala un poco y logra así la forma de una hamburguesa. Repite la operación hasta terminar la masa.","priority":3},{"name":"Echa un poco aceite de oliva en una sartén. Cuando esté caliente fríe las hamburguesas.","priority":4}]},{"id":"salmon-con-ensalada-de-quinua","name":"Salmón con Ensalada de Quinua","type":"recipe","rate":"4.2","description":"Hazte platos ricos, llenos de ingredientes sabrosos, frescos, coloridos, ¡que te enamores al verlos! Mira qué maravilla de plato, facilísimo de hacer: salmón acompañada de ensalada de quinua, espinacas, tomates y rábanos. ","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-ensalada-de-quinua/900/salmon-con-ensalada-de-quinua.jpg"],"image_title":"Salmón con Ensalada de Quinua","image_alt_tag":"Salmón con Ensalada de Quinua","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-ensalada-de-quinua/900/salmon-con-ensalada-de-quinua.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-ensalada-de-quinua/600/salmon-con-ensalada-de-quinua.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-ensalada-de-quinua/300/salmon-con-ensalada-de-quinua.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-ensalada-de-quinua/100/salmon-con-ensalada-de-quinua.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":402,"folders_ids":[],"like_count":149,"new":false,"liked":null,"favorited":null,"object_id":2475,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["quinua","ensaladas y bowls","fitness","salmón","tomate cherry"],"tip":"<p>Puedes acompañar el salmón con una sencilla salsa de yogur. En un cuenco vierte un yogur, un poco de sal y pimienta, medio diente de ajo muy picado y un chorrito de zumo de limón. Revuelve bien y ¡lista la salsa!</p>","meta_description":"Hazte platos ricos, llenos de ingredientes sabrosos, frescos, coloridos, ¡que te enamores al verlos! Mira qué maravilla de plato, facilísimo de hacer: salmón acompañada de ensalada de quinua, espinacas, tomates y rábanos. ","meta_title":"recetas con quinua - recetas con salmón - recetas de quinua y salmón | Nooddle\n","published_at":"2021-02-22","views_count":0,"total_time_iso8601":"PT25M","rate_count":5,"cooked_date":null,"nutritional_balance":{"id":7632,"proteins":30.54367745876604,"veg_and_fruits":47.8517613520668,"grains":20.36245163917736,"total_weight_in_grams":982.2,"recipe_id":2475,"created_at":"2021-02-22T04:00:44.641Z","updated_at":"2021-02-22T04:00:44.641Z"},"author":null,"ingredients":[{"id":54,"measure":"filetes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg","name":"salmón","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"filete","main_unit_en":"fillet","main_unit_grams_es":150,"main_unit_grams_en":150,"grams":150,"nutrition":{"id":257,"usda_ndb_no":15076,"usda_shrt_desc":"SALMON,ATLANTIC,WILD,RAW","carbohydrates":0,"sugars":0,"proteins":19.8,"fat":6.3,"saturated_fat":1,"fiber":0,"calories":142,"sodium":44,"ingredient_id":54,"created_at":"2020-04-15T07:03:18.545Z","updated_at":"2020-04-15T07:03:18.545Z"}},{"id":289,"measure":"unidades","value":"8","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg","name":"tomate cherry","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":10,"main_unit_grams_en":10,"grams":10,"nutrition":{"id":281,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":289,"created_at":"2020-04-15T07:03:19.484Z","updated_at":"2020-04-15T07:03:19.484Z"}},{"id":116,"measure":"unidades","value":"4","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/rabano.jpg","name":"rábano","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":60,"main_unit_grams_en":60,"grams":60,"nutrition":{"id":250,"usda_ndb_no":11429,"usda_shrt_desc":"RADISHES,RAW","carbohydrates":3.4,"sugars":1.9,"proteins":0.7,"fat":0.1,"saturated_fat":0,"fiber":1.6,"calories":16,"sodium":39,"ingredient_id":116,"created_at":"2020-04-15T07:03:18.406Z","updated_at":"2020-04-15T07:03:18.406Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":221,"measure":"gramos","value":"150","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg","name":"espinaca","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":103,"usda_ndb_no":11457,"usda_shrt_desc":"SPINACH,RAW","carbohydrates":3.6,"sugars":0.4,"proteins":2.9,"fat":0.4,"saturated_fat":0.1,"fiber":2.2,"calories":23,"sodium":79,"ingredient_id":221,"created_at":"2020-04-15T07:03:14.674Z","updated_at":"2020-04-15T07:03:14.674Z"}},{"id":75,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/quinua.jpg","name":"quinua","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":249,"usda_ndb_no":20035,"usda_shrt_desc":"QUINOA,UNCKD","carbohydrates":64.2,"sugars":0,"proteins":14.1,"fat":6.1,"saturated_fat":0.7,"fiber":7,"calories":368,"sodium":5,"ingredient_id":75,"created_at":"2020-04-15T07:03:18.388Z","updated_at":"2020-04-15T07:03:18.388Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}}],"steps":[{"name":"Lava la quinua debajo del chorro del agua. En una olla pon una taza y media de agua aproximadamente. Cuando el agua hierva, vierte la quinua, una pizca de sal y cocínala durante 20 minutos aproximadamente, hasta que la semilla se abra. Retira, escurre y deja que se enfríe.","priority":0},{"name":"Lava las hojas de espinacas, los tomates cherry y los rábanos. Corta en mitades los tomates y en láminas finas los rábanos.","priority":1},{"name":"En una sartén echa un poco de aceite de oliva. Cuando esté caliente cocina los filetes de salmón a la plancha. Ponles un poquito de sal.","priority":2},{"name":"En cada plato coloca la mitad de la quinua y de las espinacas. Añade la mitad de los tomates y de los rábanos cortados, y acompaña esta sencilla ensalada con uno de los filetes se salmón que acabas de cocinar.","priority":3}]},{"id":"espaguetis-con-champinones-y-langostinos","name":"Espaguetis con Champiñones y Langostinos","type":"recipe","rate":"4.6136363636363636","description":"¿Te apetecen unos espaguetis súper cremosos? Es difícil resistirse a un plato de pasta acompañado de una buena salsa, ¿verdad? Te traemos una propuesta increíble.","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-champinones-y-langostinos/900/espaguetis-con-champinones-y-langostinos.jpg"],"image_title":"Espaguetis con Champiñones y Langostinos","image_alt_tag":"Espaguetis con Champiñones y Langostinos","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-champinones-y-langostinos/900/espaguetis-con-champinones-y-langostinos.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-champinones-y-langostinos/600/espaguetis-con-champinones-y-langostinos.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-champinones-y-langostinos/300/espaguetis-con-champinones-y-langostinos.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-champinones-y-langostinos/100/espaguetis-con-champinones-y-langostinos.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":3953,"folders_ids":[],"like_count":1189,"new":false,"liked":null,"favorited":null,"object_id":2331,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":10,"tags":["langostinos","espaguetis","pastas","20 minutos o menos","champiñón","en pareja"],"tip":"<p>Nosotros empleamos langostinos frescos, sin cocer. Pero puedes hacer la receta con langostinos cocidos.</p>","meta_description":"<p>¿Te apetecen unos espaguetis súper cremosos? Seguramente sí porque es difícil resistirse a un plato de pasta que lo acompaña una buena salsa, ¿verdad? Te traemos una propuesta increíble.</p>","meta_title":"recetas de pasta con langostinos - recetas con langostinos - recetas de pasta | Nooddle\n","published_at":"2021-01-18","views_count":8,"total_time_iso8601":"PT20M","rate_count":44,"cooked_date":null,"nutritional_balance":{"id":7442,"proteins":41.44888780843564,"veg_and_fruits":33.97350188404036,"grains":23.09468822170901,"total_weight_in_grams":822.7,"recipe_id":2331,"created_at":"2021-01-18T08:45:10.332Z","updated_at":"2021-01-18T08:45:10.332Z"},"author":null,"ingredients":[{"id":235,"measure":"unidades","value":"12","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg","name":"langostino","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":18,"main_unit_grams_en":18,"grams":18,"nutrition":{"id":142,"usda_ndb_no":15270,"usda_shrt_desc":"CRUSTACEANS,SHRIMP,RAW (NOT PREVIOUSLY FROZEN)","carbohydrates":0,"sugars":0,"proteins":20.1,"fat":0.5,"saturated_fat":0.1,"fiber":0,"calories":85,"sodium":119,"ingredient_id":235,"created_at":"2020-04-15T07:03:15.998Z","updated_at":"2020-04-15T07:03:15.998Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":139,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg","name":"yogur","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":125,"nutrition":{"id":299,"usda_ndb_no":1116,"usda_shrt_desc":"YOGURT,PLN,WHL MILK,8 GRAMS PROT PER 8 OZ","carbohydrates":4.7,"sugars":4.7,"proteins":3.5,"fat":3.3,"saturated_fat":2.1,"fiber":0,"calories":61,"sodium":46,"ingredient_id":139,"created_at":"2020-04-15T07:03:20.130Z","updated_at":"2020-04-15T07:03:20.130Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":33,"measure":"taza","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":38,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/harina.jpg","name":"harina de trigo","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":10,"nutrition":{"id":125,"usda_ndb_no":20080,"usda_shrt_desc":"WHEAT FLOUR,WHOLE-GRAIN","carbohydrates":72,"sugars":0.4,"proteins":13.2,"fat":2.5,"saturated_fat":0.4,"fiber":10.7,"calories":340,"sodium":2,"ingredient_id":38,"created_at":"2020-04-15T07:03:15.354Z","updated_at":"2020-04-15T07:03:15.354Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":220,"measure":"gramos","value":"180","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/espagueti.jpg","name":"espagueti","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":100,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":220,"created_at":"2020-04-15T07:03:14.593Z","updated_at":"2020-04-15T07:03:14.593Z"}},{"id":86,"measure":"gramos","value":"180","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}}],"steps":[{"name":"En una olla con agua hirviendo cuece la pasta el tiempo que pone en su envase.","priority":0},{"name":"Pela los langostinos quitándoles sus cáscaras y pieles. Resérvalos porque los emplearás más adelante.","priority":1},{"name":"Lava y corta los champiñones en láminas. Corta la cebolla en tiras. Y pica el diente de ajo muy finamente.","priority":2},{"name":"En una sartén por un poquito de aceite de oliva. Cuando el aceite esté caliente vierte en ella los champiñones, la cebolla y el ajo picado. Añade un poco de sal a los ingredientes y sofríe durante 6-8 minutos a fuego medio. Tres minutos antes de finalizar el tiempo indicado añade los langostinos pelados y saltéalos junto con las verduras que estas cocinando.","priority":3},{"name":"Añade la sartén el agua y continúa cocinando los ingredientes a fuego medio durante 3 minutos más.","priority":4},{"name":"Agrega a la sartén la harina y mezcla con el líquido de la salsa que se ha formado.","priority":5},{"name":"Termina añadiendo el yogur, revuelve e integra.","priority":6},{"name":"Añade a la sartén los espaguetis y mezcla con la salsa. ¡A comer!","priority":7}]},{"id":"tacos-de-langostinos-con-aguacate","name":"Tacos de Langostinos con Aguacate","type":"recipe","rate":"5.0","description":"Supérate con estos tacos de langostinos tan rápidos como sencillos de hacer. Sólo hay que cortar, mezclar y ¡montarlos! En 15 minutos los tendrás encima de tu mesa. Recetas como estas son las que buscas, ¿eh?","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-langostinos-con-aguacate/900/tacos-de-langostinos-con-aguacate.jpg"],"image_title":"Tacos de Langostinos con Aguacate","image_alt_tag":"Tacos de Langostinos con Aguacate","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-langostinos-con-aguacate/900/tacos-de-langostinos-con-aguacate.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-langostinos-con-aguacate/600/tacos-de-langostinos-con-aguacate.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-langostinos-con-aguacate/300/tacos-de-langostinos-con-aguacate.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-langostinos-con-aguacate/100/tacos-de-langostinos-con-aguacate.jpg","width":100}],"premium":false,"total_time":15,"dificulty":null,"saved_count":997,"folders_ids":[],"like_count":310,"new":false,"liked":null,"favorited":null,"object_id":2539,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":8,"tags":["langostino","mexicano","sin cocina","con amigos","tortillas de harina","aguacate","tomate cherry","20 minutos o menos"],"tip":"","meta_description":"Supérate con estos tacos de langostinos tan rápidos como sencillos de hacer. Sólo hay que cortar, mezclar y ¡montarlos! En 15 minutos los tendrás encima de tu mesa. Recetas como estas son las que buscas, ¿eh?","meta_title":"recetas de tacos de gambas - tacos de langostinos - tacos de pescado | Nooddle\n","published_at":"2021-03-25","views_count":3,"total_time_iso8601":"PT15M","rate_count":8,"cooked_date":null,"nutritional_balance":{"id":7806,"proteins":22.3533064265756,"veg_and_fruits":55.107109593294,"grains":22.3533064265756,"total_weight_in_grams":644.2,"recipe_id":2539,"created_at":"2021-04-06T18:08:49.065Z","updated_at":"2021-04-06T18:08:49.065Z"},"author":null,"ingredients":[{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":40,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aguacate.jpg","name":"aguacate","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":130,"main_unit_grams_en":130,"grams":130,"nutrition":{"id":8,"usda_ndb_no":9037,"usda_shrt_desc":"AVOCADOS,RAW,ALL COMM VAR","carbohydrates":8.5,"sugars":0.7,"proteins":2,"fat":14.7,"saturated_fat":2.1,"fiber":6.7,"calories":160,"sodium":7,"ingredient_id":40,"created_at":"2020-04-15T07:03:12.081Z","updated_at":"2020-04-15T07:03:12.081Z"}},{"id":289,"measure":"unidades","value":"8","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg","name":"tomate cherry","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":10,"main_unit_grams_en":10,"grams":10,"nutrition":{"id":281,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":289,"created_at":"2020-04-15T07:03:19.484Z","updated_at":"2020-04-15T07:03:19.484Z"}},{"id":192,"measure":"unidad","value":"0.25","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg","name":"cebolla morada","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":180,"main_unit_grams_en":180,"grams":180,"nutrition":{"id":60,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":192,"created_at":"2020-04-15T07:03:13.605Z","updated_at":"2020-04-15T07:03:13.605Z"}},{"id":96,"measure":"cucharada","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg","name":"cilantro","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":76,"usda_ndb_no":11165,"usda_shrt_desc":"CORIANDER (CILANTRO) LEAVES,RAW","carbohydrates":3.7,"sugars":0.9,"proteins":2.1,"fat":0.5,"saturated_fat":0,"fiber":2.8,"calories":23,"sodium":46,"ingredient_id":96,"created_at":"2020-04-15T07:03:13.875Z","updated_at":"2020-04-15T07:03:13.875Z"}},{"id":235,"measure":"unidades","value":"8","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg","name":"langostino","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":18,"main_unit_grams_en":18,"grams":18,"nutrition":{"id":142,"usda_ndb_no":15270,"usda_shrt_desc":"CRUSTACEANS,SHRIMP,RAW (NOT PREVIOUSLY FROZEN)","carbohydrates":0,"sugars":0,"proteins":20.1,"fat":0.5,"saturated_fat":0.1,"fiber":0,"calories":85,"sodium":119,"ingredient_id":235,"created_at":"2020-04-15T07:03:15.998Z","updated_at":"2020-04-15T07:03:15.998Z"}},{"id":291,"measure":"unidades","value":"4","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492964376/ingredients/tortilla-de-trigo.jpg","name":"tortilla de trigo","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":36,"main_unit_grams_en":36,"grams":36,"nutrition":{"id":287,"usda_ndb_no":28295,"usda_shrt_desc":"TORTILLAS,RTB OR -FRY,WHL WHEAT","carbohydrates":45.9,"sugars":2.4,"proteins":9.8,"fat":9.8,"saturated_fat":4.9,"fiber":9.8,"calories":310,"sodium":512,"ingredient_id":291,"created_at":"2020-04-15T07:03:19.645Z","updated_at":"2020-04-15T07:03:19.645Z"}},{"id":41,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lima.jpg","name":"lima","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":154,"usda_ndb_no":9159,"usda_shrt_desc":"LIMES,RAW","carbohydrates":10.5,"sugars":1.7,"proteins":0.7,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":30,"sodium":2,"ingredient_id":41,"created_at":"2020-04-15T07:03:16.283Z","updated_at":"2020-04-15T07:03:16.283Z"}}],"steps":[{"name":"Pela los langostinos cocidos y con cuidado quítales la piel. Una vez estén limpios, sin cáscaras, córtalos en trozos de tamaño medio.","priority":0},{"name":"Corta los tomates cherry en mitades y el aguacate en dados. Corta también en láminas o trozos pequeños la cebolla y termina picando finamente el cilantro.","priority":1},{"name":"En un recipiente mezcla todos los ingredientes que acabas de cortar: los langostinos, los tomates cherry, el aguacate, la cebolla y el cilantro picado. Exprime el zumo de la lima por encima, añade un poco de sal y mezcla con suavidad.","priority":2},{"name":"Rellena cada tortilla con lo anterior y, si eres amante del picante, no dudes en añadir unas gotas de picante por encima.","priority":3}]},{"id":"salmon-con-arroz-de-coliflor-y-verduras","name":"Salmón con Arroz de Coliflor y Verduras","type":"recipe","rate":"4.0909090909090909","description":"La coliflor puede cocinarse de muchas maneras y en esta receta te vas a sorprender haciendo un delicioso arroz de coliflor acompañado de verduras de aquí te espero. Acompáñalo de un buen filete de salmón y verás qué plata tan rico te queda.","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-arroz-de-coliflor-y-verduras/900/salmon-con-arroz-de-coliflor-y-verduras.jpg"],"image_title":"Salmón con Arroz de Coliflor y Verduras","image_alt_tag":"Salmón con Arroz de Coliflor y Verduras","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-arroz-de-coliflor-y-verduras/900/salmon-con-arroz-de-coliflor-y-verduras.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-arroz-de-coliflor-y-verduras/600/salmon-con-arroz-de-coliflor-y-verduras.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-arroz-de-coliflor-y-verduras/300/salmon-con-arroz-de-coliflor-y-verduras.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-arroz-de-coliflor-y-verduras/100/salmon-con-arroz-de-coliflor-y-verduras.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":938,"folders_ids":[],"like_count":352,"new":false,"liked":null,"favorited":null,"object_id":2350,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["salmón","coliflor","espinaca","fitness","champiñón","vegetariano","ensaladas y bowls"],"tip":"<p>Puedes añadir al salteado todos los trozos de verduras que tengas por tu nevera. ¡Aprovecha!</p>","meta_description":"La coliflor puede cocinarse de muchas maneras y en esta receta te vas a sorprender haciendo un delicioso arroz de coliflor acompañado de verduras de aquí te espero. Acompáñalo de un buen filete de salmón y verás qué plata tan rico te queda.","meta_title":"recetas con salmón - recetas de arroz de coliflor - recetas fitness | Nooddle\n","published_at":"2020-12-07","views_count":0,"total_time_iso8601":"PT20M","rate_count":11,"cooked_date":null,"nutritional_balance":{"id":7227,"proteins":28.74801011330649,"veg_and_fruits":69.5289821144302,"grains":0,"total_weight_in_grams":1067.9,"recipe_id":2350,"created_at":"2020-12-07T04:01:22.268Z","updated_at":"2020-12-07T04:01:22.268Z"},"author":null,"ingredients":[{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":86,"measure":"gramos","value":"200","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}},{"id":221,"measure":"gramos","value":"150","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg","name":"espinaca","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":103,"usda_ndb_no":11457,"usda_shrt_desc":"SPINACH,RAW","carbohydrates":3.6,"sugars":0.4,"proteins":2.9,"fat":0.4,"saturated_fat":0.1,"fiber":2.2,"calories":23,"sodium":79,"ingredient_id":221,"created_at":"2020-04-15T07:03:14.674Z","updated_at":"2020-04-15T07:03:14.674Z"}},{"id":91,"measure":"gramos","value":"300","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/coliflor.jpg","name":"coliflor","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":400,"main_unit_grams_en":400,"grams":1,"nutrition":{"id":85,"usda_ndb_no":11135,"usda_shrt_desc":"CAULIFLOWER,RAW","carbohydrates":5,"sugars":1.9,"proteins":1.9,"fat":0.3,"saturated_fat":0.1,"fiber":2,"calories":25,"sodium":30,"ingredient_id":91,"created_at":"2020-04-15T07:03:14.101Z","updated_at":"2020-04-15T07:03:14.101Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":42,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg","name":"salsa de soja","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":7,"nutrition":{"id":262,"usda_ndb_no":16123,"usda_shrt_desc":"SOY SAU MADE FROM SOY&WHEAT (SHOYU)","carbohydrates":4.9,"sugars":0.4,"proteins":8.1,"fat":0.6,"saturated_fat":0.1,"fiber":0.8,"calories":53,"sodium":5493,"ingredient_id":42,"created_at":"2020-04-15T07:03:18.810Z","updated_at":"2020-04-15T07:03:18.810Z"}},{"id":54,"measure":"filete","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg","name":"salmón","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"filete","main_unit_en":"fillet","main_unit_grams_es":150,"main_unit_grams_en":150,"grams":150,"nutrition":{"id":257,"usda_ndb_no":15076,"usda_shrt_desc":"SALMON,ATLANTIC,WILD,RAW","carbohydrates":0,"sugars":0,"proteins":19.8,"fat":6.3,"saturated_fat":1,"fiber":0,"calories":142,"sodium":44,"ingredient_id":54,"created_at":"2020-04-15T07:03:18.545Z","updated_at":"2020-04-15T07:03:18.545Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}}],"steps":[{"name":"Lava la coliflor y córtala en trozos. Una vez que la has cortado, debes picarla con un procesador de alimento o bien con un cuchillo, aunque te llevará más tiempo. La coliflor debe quedar hecha migajas.","priority":0},{"name":"Preparando el resto de vegetales de la siguiente manera: lava las hojas de espinacas y córtalas en caso de que sean muy grandes. También lava y corta en trozos los champiñones, y corta en tiras la cebolla.","priority":1},{"name":"En una sartén, echa una cucharada de aceite y, cuando esté caliente, vierte la cebolla y los champiñones, y cocínalos a fuego medio durante un par de minutos.","priority":2},{"name":"Pasado ese tiempo añade la coliflor hecha migas y la salsa de soja, saltéala con las otras verduras durante 5 minutos.","priority":3},{"name":"Añade la espinaca troceada y cocina apenas 3-4 minutos más. Comprueba que el punto de sal es el correcto y, en su caso, añade un poquito más de salsa de soja. Reserva.","priority":4},{"name":"En esa misma sartén, limpiándola un poco si fuese necesario, echa un chorrito de aceite de oliva y cocina los filetes de salmón a tu gusto y añádeles una pizca de sal y pimienta.","priority":5},{"name":"Sirve en el plato el salmón y acompáñalo del arroz de coliflor con verduras.","priority":6}]},{"id":"bacalao-con-brocoli-y-arroz","name":"Bacalao con Brócoli y Arroz","type":"recipe","rate":"5.0","description":"Si te faltan ideas a la hora de cocinar el bacalao, te traemos una original forma original de prepararlo. El toque crujiente que recubre el pescado lo hace muy, muy original. ","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bacalao-con-brocoli-y-arroz/900/bacalao-con-brocoli-y-arroz.jpg"],"image_title":"Bacalao con Brócoli y Arroz","image_alt_tag":"Bacalao con Brócoli y Arroz","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bacalao-con-brocoli-y-arroz/900/bacalao-con-brocoli-y-arroz.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bacalao-con-brocoli-y-arroz/600/bacalao-con-brocoli-y-arroz.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bacalao-con-brocoli-y-arroz/300/bacalao-con-brocoli-y-arroz.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bacalao-con-brocoli-y-arroz/100/bacalao-con-brocoli-y-arroz.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":316,"folders_ids":[],"like_count":113,"new":false,"liked":null,"favorited":null,"object_id":2556,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["bacalao","al horno","fitness","Brócoli","Arroz","pescados y mariscos"],"tip":"<p>Puedes emplear panko, en vez de pan rallado, y será más original.</p><p>Puedes añadir muchas más especias al pan rallado para aumentar su sabor. Por ejemplo, pimentón, sal de ajo, etc.</p>","meta_description":"Si te faltan ideas a la hora de cocinar el bacalao, te traemos una original forma original de prepararlo. El toque crujiente que recubre el pescado lo hace muy, muy original. ","meta_title":"recetas con bacalao - recetas fitness | Nooddle\n","published_at":"2021-03-28","views_count":1,"total_time_iso8601":"PT30M","rate_count":4,"cooked_date":null,"nutritional_balance":{"id":7772,"proteins":25.06014434643144,"veg_and_fruits":48.51643945469126,"grains":24.55894145950281,"total_weight_in_grams":997.6,"recipe_id":2556,"created_at":"2021-03-28T17:39:36.993Z","updated_at":"2021-03-28T17:39:36.993Z"},"author":null,"ingredients":[{"id":160,"measure":"gramos","value":"250","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1504397795/ingredients/bacalao.jpg","name":"bacalao","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":34,"usda_ndb_no":15015,"usda_shrt_desc":"COD,ATLANTIC,RAW","carbohydrates":0,"sugars":0,"proteins":17.8,"fat":0.7,"saturated_fat":0.1,"fiber":0,"calories":82,"sodium":54,"ingredient_id":160,"created_at":"2020-04-15T07:03:13.003Z","updated_at":"2020-04-15T07:03:13.003Z"}},{"id":124,"measure":"gramos","value":"350","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg","name":"brócoli","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":350,"main_unit_grams_en":350,"grams":1,"nutrition":{"id":43,"usda_ndb_no":11090,"usda_shrt_desc":"BROCCOLI,RAW","carbohydrates":6.6,"sugars":1.7,"proteins":2.8,"fat":0.4,"saturated_fat":0,"fiber":2.6,"calories":34,"sodium":33,"ingredient_id":124,"created_at":"2020-04-15T07:03:13.286Z","updated_at":"2020-04-15T07:03:13.286Z"}},{"id":13,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg","name":"limón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":120,"main_unit_grams_en":120,"grams":120,"nutrition":{"id":155,"usda_ndb_no":9152,"usda_shrt_desc":"LEMON JUICE,RAW","carbohydrates":6.9,"sugars":2.5,"proteins":0.4,"fat":0.2,"saturated_fat":0,"fiber":0.3,"calories":22,"sodium":1,"ingredient_id":13,"created_at":"2020-04-15T07:03:16.299Z","updated_at":"2020-04-15T07:03:16.299Z"}},{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":25,"measure":"puñado","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg","name":"perejil","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":210,"usda_ndb_no":11297,"usda_shrt_desc":"PARSLEY,FRSH","carbohydrates":6.3,"sugars":0.9,"proteins":3,"fat":0.8,"saturated_fat":0.1,"fiber":3.3,"calories":36,"sodium":56,"ingredient_id":25,"created_at":"2020-04-15T07:03:17.428Z","updated_at":"2020-04-15T07:03:17.428Z"}},{"id":34,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":56,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg","name":"pan rallado","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":200,"usda_ndb_no":18079,"usda_shrt_desc":"BREAD CRUMBS,DRY,GRATED,PLN","carbohydrates":72,"sugars":6.2,"proteins":13.4,"fat":5.3,"saturated_fat":1.2,"fiber":4.5,"calories":395,"sodium":732,"ingredient_id":56,"created_at":"2020-04-15T07:03:17.178Z","updated_at":"2020-04-15T07:03:17.178Z"}},{"id":6,"measure":"pizcas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}}],"steps":[{"name":"Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade 400 mililitros de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.","priority":0},{"name":"Pica finamente un diente de ajo y viértelo en un recipiente. Añade a este recipiente el pan rallado, un poco de sal, una cucharada de zumo de limón, el perejil finamente picado y una cucharada de aceite de oliva. Mezcla todos los ingredientes y reserva.","priority":1},{"name":"Echa un poco de sal y pimienta a los trozos de bacalao y colócalos en una fuente apto para horno. Coloca la mezcla de pan rallado que acabas de preparar por encima de los trozos de bacalao, a modo de capa. ","priority":2},{"name":"Coloca el brócoli cortado en ramilletes en la bandeja de horno, rocíalos con un poco de aceite y sal, y mete la bandeja al horno. Cocina a 200ºC durante 15 minutos aproximadamente.","priority":3},{"name":"Sirve en dos platos, acompáñalo con algunas rodajas de limón y ¡a disfrutar tu comida!","priority":4}]}]
+[
+  {
+    "id": "ensalada-de-espinacas-con-garbanzos-y-atun",
+    "name": "Ensalada de Espinacas con Garbanzos y Atún",
+    "type": "Pescado",
+    "description": "¡No te pierdas esta ensalada riquísima y súper completa, cargadísima de nutrientes y que puedes prepararla en tan sólo 5 minutos!",
+    "image_alt_tag": "Ensalada de Espinacas con Garbanzos y Atún",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-espinacas-con-garbanzos-y-atun/900/ensalada-de-espinacas-con-garbanzos-y-atun.jpg",
+    "total_time": 5,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "puñados",
+        "value": "3",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-fresco.jpg",
+        "name": "queso fresco",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/garbanzos.jpg",
+        "name": "garbanzo en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "lata pequeña",
+        "value": "",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/atun-conserva.jpg",
+        "name": "atún en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava los garbanzos y escurre el agua. ",
+        "priority": 0
+      },
+      {
+        "name": "Corta los tomates cherry en cuartos y el queso fresco en trozos tamaño medio.",
+        "priority": 1
+      },
+      {
+        "name": "En un recipiente coloca con los tomates cherry troceados, las espinacas, el queso cortado y el atún en conserva.",
+        "priority": 2
+      },
+      {
+        "name": "Adereza con aceite de oliva y sal.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "bowl-de-salmon-con-judias-verdes-y-pure-de-patata",
+    "name": "Bowl de Salmón con Judías Verdes y Puré de Patata",
+    "type": "Pescado",
+    "description": "Menudo gusto almorzar con platos como este, ¿no crees? Una maravilla alimentarse así de bien. Y hay que reconocer que no es complicado, sólo necesitas pocos ingredientes y 20 minutos de tu tiempo. ",
+    "image_alt_tag": "Bowl de Salmón con Judías Verdes y Puré de Patata",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-salmon-con-judias-verdes-y-pure-de-patata/900/bowl-de-salmon-con-judias-verdes-y-pure-de-patata.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 5,
+    "ingredients": [
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg",
+        "name": "salmón",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/judias-verdes.jpg",
+        "name": "judía verde",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela la patata, córtala en cubos no muy grandes y ponlas a cocer en agua hirviendo con un poquito de sal. Cuando estén tiernas (seguramente en unos diez minutos si las has cortado no muy grandes) escúrrelas y con un tenedor machácalas hasta alcanzar textura tipo puré.",
+        "priority": 0
+      },
+      {
+        "name": "En otra cazuela con agua hirviendo cuece las judías verdes. Cuando estén cocidas a tu gusto, retíralas, escúrrelas y resérvalas.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén, con unas gotitas de aceite, cocina el salmón a la plancha con un poquito de sal.",
+        "priority": 2
+      },
+      {
+        "name": "Coloca el salmón en un plato y acompáñalo del puré de patata y de las judías verdes.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "salmon-con-cuscus-y-verduras",
+    "name": "Salmón con Cuscús y Verduras",
+    "type": "Pescado",
+    "description": "\n    El salmón y el cuscús es una combinación ganadora. Y si todavía no te has animado a prepararla, ¡ya estás tardando! Con esta receta descubre lo bien que combinan todos sus sabores.\n",
+    "image_alt_tag": "Salmón con Cuscús y Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-cuscus-y-verduras/900/salmon-con-cuscus-y-verduras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg",
+        "name": "salmón",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1544563983/ingredients/cuscus.jpg",
+        "name": "cuscús",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg",
+        "name": "calabaza",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pon al fuego una taza de agua con un poco de sal. Cuando rompa a hervir, añade la taza de cuscús y apaga el fuego. Déjalo reposar hasta que se hidrate.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el calabacín y córtalo en trozos. Corta la calabaza y córtala en trozos finos. Pica el ajo en trocitos. En una plancha o sartén, con un poquito de aceite de oliva y una pizca de sal, saltea las verduras a fuego medio durante 8-10 minutos, hasta que estén blanditas.",
+        "priority": 1
+      },
+      {
+        "name": "En esa misma plancha o sartén que has empleado, con un poquito más de aceite de oliva, cocina los filetes de salmón. Échales un poquito de sal.",
+        "priority": 2
+      },
+      {
+        "name": "En un recipiente coloca el cuscús con verduras que has preparado y coloca los filetes de salmón encima.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "hamburguesas-de-atun-y-calabacin",
+    "name": "Hamburguesas de Atún y Calabacín",
+    "type": "Pescado",
+    "description": "Si tienes un par de latas de atún por tu despensa y te apetece hacer una receta original con ellas, estas hamburguesas riquísimas de atún y calabacín son súper agradables al paladar y muy sanas. ¿Te animas?",
+    "image_alt_tag": "Hamburguesas de Atún y Calabacín",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/hamburguesas-de-atun-y-calabacin/900/hamburguesas-de-atun-y-calabacin.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "lata pequeña",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/atun-conserva.jpg",
+        "name": "atún en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg",
+        "name": "pan rallado",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pica un diente de ajo muy finamente.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el calabacín y rállalo. Colócalo en un escurrido y con tus propias manos trata de extraerle la mayor parte de agua posible.",
+        "priority": 1
+      },
+      {
+        "name": "Coloca el ajo picado, el calabacín rallado y el atún escurrido de sus latas en un recipiente un poco hondo. Añade los huevos batidos, un poco de sal y mezcla. Añade el pan rallado y mezcla bien todo. Deja que repose durante 5-10 minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Toma un poco de la mezcla y haz forma de bolita. Aplástala un poco y logra así la forma de una hamburguesa. Repite la operación hasta terminar la masa.",
+        "priority": 3
+      },
+      {
+        "name": "Echa un poco aceite de oliva en una sartén. Cuando esté caliente fríe las hamburguesas.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "salmon-con-ensalada-de-quinua",
+    "name": "Salmón con Ensalada de Quinua",
+    "type": "Pescado",
+    "description": "Hazte platos ricos, llenos de ingredientes sabrosos, frescos, coloridos, ¡que te enamores al verlos! Mira qué maravilla de plato, facilísimo de hacer: salmón acompañada de ensalada de quinua, espinacas, tomates y rábanos. ",
+    "image_alt_tag": "Salmón con Ensalada de Quinua",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-ensalada-de-quinua/900/salmon-con-ensalada-de-quinua.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg",
+        "name": "salmón",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/rabano.jpg",
+        "name": "rábano",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/quinua.jpg",
+        "name": "quinua",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava la quinua debajo del chorro del agua. En una olla pon una taza y media de agua aproximadamente. Cuando el agua hierva, vierte la quinua, una pizca de sal y cocínala durante 20 minutos aproximadamente, hasta que la semilla se abra. Retira, escurre y deja que se enfríe.",
+        "priority": 0
+      },
+      {
+        "name": "Lava las hojas de espinacas, los tomates cherry y los rábanos. Corta en mitades los tomates y en láminas finas los rábanos.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén echa un poco de aceite de oliva. Cuando esté caliente cocina los filetes de salmón a la plancha. Ponles un poquito de sal.",
+        "priority": 2
+      },
+      {
+        "name": "En cada plato coloca la mitad de la quinua y de las espinacas. Añade la mitad de los tomates y de los rábanos cortados, y acompaña esta sencilla ensalada con uno de los filetes se salmón que acabas de cocinar.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "espaguetis-con-champinones-y-langostinos",
+    "name": "Espaguetis con Champiñones y Langostinos",
+    "type": "Pescado",
+    "description": "¿Te apetecen unos espaguetis súper cremosos? Es difícil resistirse a un plato de pasta acompañado de una buena salsa, ¿verdad? Te traemos una propuesta increíble.",
+    "image_alt_tag": "Espaguetis con Champiñones y Langostinos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-champinones-y-langostinos/900/espaguetis-con-champinones-y-langostinos.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidades",
+        "value": "12",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg",
+        "name": "yogur",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/harina.jpg",
+        "name": "harina de trigo",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "180",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/espagueti.jpg",
+        "name": "espagueti",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "180",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En una olla con agua hirviendo cuece la pasta el tiempo que pone en su envase.",
+        "priority": 0
+      },
+      {
+        "name": "Pela los langostinos quitándoles sus cáscaras y pieles. Resérvalos porque los emplearás más adelante.",
+        "priority": 1
+      },
+      {
+        "name": "Lava y corta los champiñones en láminas. Corta la cebolla en tiras. Y pica el diente de ajo muy finamente.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén por un poquito de aceite de oliva. Cuando el aceite esté caliente vierte en ella los champiñones, la cebolla y el ajo picado. Añade un poco de sal a los ingredientes y sofríe durante 6-8 minutos a fuego medio. Tres minutos antes de finalizar el tiempo indicado añade los langostinos pelados y saltéalos junto con las verduras que estas cocinando.",
+        "priority": 3
+      },
+      {
+        "name": "Añade la sartén el agua y continúa cocinando los ingredientes a fuego medio durante 3 minutos más.",
+        "priority": 4
+      },
+      {
+        "name": "Agrega a la sartén la harina y mezcla con el líquido de la salsa que se ha formado.",
+        "priority": 5
+      },
+      {
+        "name": "Termina añadiendo el yogur, revuelve e integra.",
+        "priority": 6
+      },
+      {
+        "name": "Añade a la sartén los espaguetis y mezcla con la salsa. ¡A comer!",
+        "priority": 7
+      }
+    ]
+  },
+  {
+    "id": "tacos-de-langostinos-con-aguacate",
+    "name": "Tacos de Langostinos con Aguacate",
+    "type": "Pescado",
+    "description": "Supérate con estos tacos de langostinos tan rápidos como sencillos de hacer. Sólo hay que cortar, mezclar y ¡montarlos! En 15 minutos los tendrás encima de tu mesa. Recetas como estas son las que buscas, ¿eh?",
+    "image_alt_tag": "Tacos de Langostinos con Aguacate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-langostinos-con-aguacate/900/tacos-de-langostinos-con-aguacate.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aguacate.jpg",
+        "name": "aguacate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492964376/ingredients/tortilla-de-trigo.jpg",
+        "name": "tortilla de trigo",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lima.jpg",
+        "name": "lima",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela los langostinos cocidos y con cuidado quítales la piel. Una vez estén limpios, sin cáscaras, córtalos en trozos de tamaño medio.",
+        "priority": 0
+      },
+      {
+        "name": "Corta los tomates cherry en mitades y el aguacate en dados. Corta también en láminas o trozos pequeños la cebolla y termina picando finamente el cilantro.",
+        "priority": 1
+      },
+      {
+        "name": "En un recipiente mezcla todos los ingredientes que acabas de cortar: los langostinos, los tomates cherry, el aguacate, la cebolla y el cilantro picado. Exprime el zumo de la lima por encima, añade un poco de sal y mezcla con suavidad.",
+        "priority": 2
+      },
+      {
+        "name": "Rellena cada tortilla con lo anterior y, si eres amante del picante, no dudes en añadir unas gotas de picante por encima.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "salmon-con-arroz-de-coliflor-y-verduras",
+    "name": "Salmón con Arroz de Coliflor y Verduras",
+    "type": "Pescado",
+    "description": "La coliflor puede cocinarse de muchas maneras y en esta receta te vas a sorprender haciendo un delicioso arroz de coliflor acompañado de verduras de aquí te espero. Acompáñalo de un buen filete de salmón y verás qué plata tan rico te queda.",
+    "image_alt_tag": "Salmón con Arroz de Coliflor y Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-arroz-de-coliflor-y-verduras/900/salmon-con-arroz-de-coliflor-y-verduras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/coliflor.jpg",
+        "name": "coliflor",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "filete",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg",
+        "name": "salmón",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava la coliflor y córtala en trozos. Una vez que la has cortado, debes picarla con un procesador de alimento o bien con un cuchillo, aunque te llevará más tiempo. La coliflor debe quedar hecha migajas.",
+        "priority": 0
+      },
+      {
+        "name": "Preparando el resto de vegetales de la siguiente manera: lava las hojas de espinacas y córtalas en caso de que sean muy grandes. También lava y corta en trozos los champiñones, y corta en tiras la cebolla.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén, echa una cucharada de aceite y, cuando esté caliente, vierte la cebolla y los champiñones, y cocínalos a fuego medio durante un par de minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Pasado ese tiempo añade la coliflor hecha migas y la salsa de soja, saltéala con las otras verduras durante 5 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Añade la espinaca troceada y cocina apenas 3-4 minutos más. Comprueba que el punto de sal es el correcto y, en su caso, añade un poquito más de salsa de soja. Reserva.",
+        "priority": 4
+      },
+      {
+        "name": "En esa misma sartén, limpiándola un poco si fuese necesario, echa un chorrito de aceite de oliva y cocina los filetes de salmón a tu gusto y añádeles una pizca de sal y pimienta.",
+        "priority": 5
+      },
+      {
+        "name": "Sirve en el plato el salmón y acompáñalo del arroz de coliflor con verduras.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "bacalao-con-brocoli-y-arroz",
+    "name": "Bacalao con Brócoli y Arroz",
+    "type": "Pescado",
+    "description": "Si te faltan ideas a la hora de cocinar el bacalao, te traemos una original forma original de prepararlo. El toque crujiente que recubre el pescado lo hace muy, muy original. ",
+    "image_alt_tag": "Bacalao con Brócoli y Arroz",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bacalao-con-brocoli-y-arroz/900/bacalao-con-brocoli-y-arroz.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1504397795/ingredients/bacalao.jpg",
+        "name": "bacalao",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "perejil",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg",
+        "name": "pan rallado",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade 400 mililitros de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Pica finamente un diente de ajo y viértelo en un recipiente. Añade a este recipiente el pan rallado, un poco de sal, una cucharada de zumo de limón, el perejil finamente picado y una cucharada de aceite de oliva. Mezcla todos los ingredientes y reserva.",
+        "priority": 1
+      },
+      {
+        "name": "Echa un poco de sal y pimienta a los trozos de bacalao y colócalos en una fuente apto para horno. Coloca la mezcla de pan rallado que acabas de preparar por encima de los trozos de bacalao, a modo de capa. ",
+        "priority": 2
+      },
+      {
+        "name": "Coloca el brócoli cortado en ramilletes en la bandeja de horno, rocíalos con un poco de aceite y sal, y mete la bandeja al horno. Cocina a 200ºC durante 15 minutos aproximadamente.",
+        "priority": 3
+      },
+      {
+        "name": "Sirve en dos platos, acompáñalo con algunas rodajas de limón y ¡a disfrutar tu comida!",
+        "priority": 4
+      }
+    ]
+  }
+]
