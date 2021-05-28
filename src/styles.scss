@@ -9,6 +9,14 @@ body {
   font-weight: 300;
 }
 
+main {
+    @include grid-size(1, 95vw, 2, auto, 2.5rem);
+
+    &:last-child {
+        margin-bottom: 5rem;
+    }
+}
+
 .red-bg {
     background: $red;
     color: $white;
@@ -38,8 +46,30 @@ h3 {
 
 p { margin: .8rem 0; }
 
+button { 
+    font-family: $font;
+    font-size: 1.6rem;
+    border: none; 
+}
+
 .diff {
     &.low { @include difficulty-stars(1); }
     &.medium { @include difficulty-stars(2); }
     &.high { @include difficulty-stars(3); }
+}
+
+.text-center { text-align: center; }
+.container-center { 
+    align-self: center;
+    justify-self: center;
+}
+
+/* media queries (styles) */
+@include breakpoint('tablet') {
+    main {
+        @include grid-size(2, 45vw, 2, auto, .5rem);
+        justify-content: center;
+
+        h2 { grid-column: 1 / 3;}
+    }
 }
