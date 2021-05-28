@@ -15,6 +15,7 @@ export class MenuService {
 
   constructor(private recipes: RecipeBookService) {
 
+    this.menuSemanal = localStorage.getItem('weeklyMenu') ? JSON.parse(localStorage.getItem('weeklyMenu')) : this.menuSemanal;
   }
 
   setWeek(week){

@@ -205,7 +205,7 @@ export class RecipeBookService {
     }
 
     this.userRecipes = this.randomWizard(this.wizardRecipes);
-    //localStorage.setItem('userRecipes',JSON.stringify(this.userRecipes));
+    localStorage.setItem('userRecipes',JSON.stringify(this.userRecipes));
     return this.userRecipes;
   }
 
