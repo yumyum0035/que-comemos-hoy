@@ -26,7 +26,6 @@ export class MenuService {
     this.lunch = this.recipes.getLunch();
     this.dinner = this.recipes.getDinner();
     this.menuSemanal = [];
-    console.log('hola', this.lunch);
     this.semana.forEach((day, index) => {
       let menu:menu = {
         dia: day,
@@ -45,5 +44,8 @@ export class MenuService {
     return this.menuSemanal;
   }
 
+  updateLocalStorage(){
+    localStorage.setItem('weeklyMenu',JSON.stringify(this.menuSemanal));
+  }
 
 }
