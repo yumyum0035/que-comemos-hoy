@@ -24,24 +24,20 @@ export class ShoppingListComponent implements OnInit {
   ngOnInit(): void {
     this.ownedIngredients = localStorage.getItem('ownedIngredients') ? JSON.parse(localStorage.getItem('ownedIngredients'))  : this.ownedIngredients;
     this.missingIngredients = localStorage.getItem('missingIngredients') ? JSON.parse(localStorage.getItem('missingIngredients'))  : this.missingIngredients;
-
+    this.userRecipes = localStorage.getItem('userRecipes') ? JSON.parse(localStorage.getItem('userRecipes'))  : this.userRecipes;
+    this.getEverything()
 
   }
 
-  getAllRecipes() {
-    /* random */
-    this.allRecipes = this.util.generateAllRandomRecipes()
-  }
   getUserRecipes() {
     this.userRecipes = this.util.getUserRecipes()
-    console.log('getUserRecipes',this.userRecipes);
   }
 
   getEverything() {
-    this.getAllRecipes()
-    this.getIngredientFromRecipe(this.allRecipes)
+    this.userRecipes == undefined? alert('You Havent done the wizard!') : console.log('All good');
+    this.getIngredientFromRecipe(this.userRecipes)
     this.filterOnlyUniqueId()
-    console.log(' From generateAllRandomRecipes() remember to change this.allRecipes to this.userRecipes');
+    
   }
 
   addIngredient(missingIngredient) {
