@@ -1,36 +1,35 @@
+@use "src/variables" as *;
+$accent-color: $red;
+
 .form-steps-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 32px;
-  margin-top: 32px;
+  @include flex(row, nowrap, center, space-between, center);
 }
 
 .step-bubble {
-  padding: 1rem;
-  border: 3px solid blue;
-  width: 12px;
-  height: 12px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  padding: 2rem;
+  border: .3rem solid $accent-color;
+  width: 1.2rem;
+  height: 1.2rem;
+
+  @include flex(row, nowrap, center, center, center);
+
   border-radius: 50%;
-  color: blue;
-  font-size: 1em;
+  color: $accent-color;
+
   cursor: pointer;
   user-select: none;
 }
 
 .step-divider {
   height: 2px;
-  background: blue;
+  background: $accent-color;
   flex: 1;
-  margin: 0px 10px;
+  margin: 0px 1rem;
 }
 
 .step-current, .step-complete {
-  background: blue;
-  color: white;
+  background: $accent-color;
+  color: $white;
 }
 
 .step-incomplete {
