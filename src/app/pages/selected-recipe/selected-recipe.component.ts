@@ -31,12 +31,13 @@ export class SelectedRecipeComponent implements OnInit {
   }
 
   addFav(){
+    console.log(this.recipe);
     if(this.recipe.favorited){
       this.recipe.favorited = false;
     }else{
       this.recipe.favorited = true;
     }
-    this.recipesServ.setMealById(this.id,this.recipe);
+    this.recipesServ.setMealById(this.id,this.recipe.favorited);
   }
 
 
