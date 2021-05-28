@@ -4,7 +4,6 @@ nav {
   background: $orange;
   color: $white;
   border-radius: 5rem;
-  margin: 0 1.5rem 3rem;
 
   // cuando esté el login hecho cambiar 3 columnas por 4 para el config:
   @include grid-size(3, 5rem, 1, auto, 0);

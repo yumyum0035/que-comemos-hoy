@@ -1,6 +1,7 @@
 <main>
   <div class="form-page-container">
     <app-steps></app-steps>
+
     <div class="step-page-container">
       <div class="form-step">
           <ng-container [ngSwitch]="(currentStep | async)?.stepIndex">
@@ -16,11 +17,12 @@
           </ng-container>
       </div>
     </div>
-    <div class="container-center">
-      <button (click)="onNextStep()" [disabled]="!(currentStep | async)?.isComplete" class="continue-btn red-bg">
-        {{ showButtonLabel() }}
-      </button>
-    </div>
+  </div>
+  
+  <div class="container-center">
+    <button (click)="onNextStep()" [disabled]="!(currentStep | async)?.isComplete" class="continue-btn red-bg">
+      {{ showButtonLabel() }}
+    </button>
   </div>
 </main>
 
