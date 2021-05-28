@@ -283,4 +283,18 @@ export class RecipeBookService {
     }
     return receta;
   }
+
+  setMealById(id,recipe){
+    //Comprovamos si hay recetas del usuario
+    if(this.userRecipes.length > 0){
+      this.userRecipes.forEach(element => {
+        element.id == id ? element.favorited = recipe : null;
+      });
+    }else{
+      this.randomRecipes.forEach(element => {
+        element.id == id ? element.favorited = recipe: null;
+      });
+    }
+
+  }
 }
