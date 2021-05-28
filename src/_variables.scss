@@ -55,26 +55,26 @@ $ingredient-width: 10rem;
 }
 
 //grid with same column/row size
-@mixin grid-size ($number-of-columns, $column-size, $number-of-rows, $row-size,  $grid-gap) {
+@mixin grid-size ($columnNumber, $columnSize, $rowNumber, $rowSize,  $gridGap) {
     display: grid;
-    grid-template-columns: repeat($number-of-columns, $column-size);
-    grid-template-rows: repeat($number-of-rows, $row-size);
-    grid-gap: $grid-gap;
+    grid-template-columns: repeat($columnNumber, $columnSize);
+    grid-template-rows: repeat($rowNumber, $rowSize);
+    grid-gap: $gridGap;
 }
 
 //grid with different values
-@mixin grid ($grid-gap) {
+@mixin grid ($gridGap) {
     display: grid;
-    grid-gap: $grid-gap;
+    grid-gap: $gridGap;
 }
 
 //flex centered
-@mixin flex($direction, $wrap, $align-content, $justify-content, $align-items) {
+@mixin flex($direction, $wrap, $alignContent, $justifyContent, $alignItems) {
     display: flex;
     flex-flow: $direction $wrap;
-    align-content: $align-content;
-    justify-content: $justify-content;
-    align-items: $align-items;
+    align-content: $alignContent;
+    justify-content: $justifyContent;
+    align-items: $alignItems;
 }
 
 //stars dificulty !! it works i do be amazing
