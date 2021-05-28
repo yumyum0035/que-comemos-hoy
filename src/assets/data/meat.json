@@ -1,1 +1,1039 @@
-[{"id":"pasta-con-ternera-espinacas-y-champinones","name":"Pasta con Ternera, Espinacas y Champiñones","type":"recipe","rate":"4.375","description":"\n    ¿Tienes algún filete de ternera por la nevera y no se te ocurre nada original que hacer? Pues si lo combinas con algunas verduras y con alguna pasta corta te puede quedar un plato de lujo.\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-ternera-espinacas-y-champinones/900/pasta-con-ternera-espinacas-y-champinones.jpg"],"image_title":"Pasta con Ternera, Espinacas y Champiñones","image_alt_tag":"Pasta con Ternera, Espinacas y Champiñones","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-ternera-espinacas-y-champinones/900/pasta-con-ternera-espinacas-y-champinones.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-ternera-espinacas-y-champinones/600/pasta-con-ternera-espinacas-y-champinones.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-ternera-espinacas-y-champinones/300/pasta-con-ternera-espinacas-y-champinones.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-ternera-espinacas-y-champinones/100/pasta-con-ternera-espinacas-y-champinones.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":1445,"folders_ids":[],"like_count":444,"new":false,"liked":null,"favorited":null,"object_id":1884,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":10,"tags":["champiñones","pastas","espinaca","tupper","Filete de ternera","ensaladas y bowls"],"tip":"","meta_description":"\n    ¿Tienes algún filete de ternera por la nevera y no se te ocurre nada original que hacer? Pues si lo combinas con algunas verduras y con alguna pasta corta te puede quedar un plato de lujo.\n","meta_title":"recetas con ternera - recetas tupper | Nooddle","published_at":"2019-11-28","views_count":1,"total_time_iso8601":"PT30M","rate_count":8,"cooked_date":null,"nutritional_balance":{"id":5924,"proteins":26.06202762574929,"veg_and_fruits":50.95126400833986,"grains":20.84962210059943,"total_weight_in_grams":959.25,"recipe_id":1884,"created_at":"2020-07-07T15:29:41.971Z","updated_at":"2020-07-07T15:29:41.971Z"},"author":null,"ingredients":[{"id":221,"measure":"gramos","value":"100","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg","name":"espinaca","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":103,"usda_ndb_no":11457,"usda_shrt_desc":"SPINACH,RAW","carbohydrates":3.6,"sugars":0.4,"proteins":2.9,"fat":0.4,"saturated_fat":0.1,"fiber":2.2,"calories":23,"sodium":79,"ingredient_id":221,"created_at":"2020-04-15T07:03:14.674Z","updated_at":"2020-04-15T07:03:14.674Z"}},{"id":45,"measure":"unidad","value":"0.25","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg","name":"pimiento verde","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":85,"main_unit_grams_en":85,"grams":85,"nutrition":{"id":218,"usda_ndb_no":11821,"usda_shrt_desc":"PEPPERS,SWT,RED,RAW","carbohydrates":6,"sugars":4.2,"proteins":1,"fat":0.3,"saturated_fat":0,"fiber":2.1,"calories":31,"sodium":4,"ingredient_id":45,"created_at":"2020-04-15T07:03:17.700Z","updated_at":"2020-04-15T07:03:17.700Z"}},{"id":128,"measure":"filetes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg","name":"filete de ternera","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"filete","main_unit_en":"fillet","main_unit_grams_es":125,"main_unit_grams_en":1,"grams":125,"nutrition":{"id":107,"usda_ndb_no":17104,"usda_shrt_desc":"VEAL,LOIN,LN&FAT,RAW","carbohydrates":0.1,"sugars":0,"proteins":20.1,"fat":10.1,"saturated_fat":3.6,"fiber":0,"calories":177,"sodium":98,"ingredient_id":128,"created_at":"2020-04-15T07:03:14.761Z","updated_at":"2020-04-15T07:03:14.761Z"}},{"id":16,"measure":"unidad","value":"0.25","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg","name":"pimiento rojo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":85,"main_unit_grams_en":85,"grams":85,"nutrition":{"id":217,"usda_ndb_no":11821,"usda_shrt_desc":"PEPPERS,SWT,RED,RAW","carbohydrates":6,"sugars":4.2,"proteins":1,"fat":0.3,"saturated_fat":0,"fiber":2.1,"calories":31,"sodium":4,"ingredient_id":16,"created_at":"2020-04-15T07:03:17.681Z","updated_at":"2020-04-15T07:03:17.681Z"}},{"id":43,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg","name":"pasta","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":202,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":43,"created_at":"2020-04-15T07:03:17.235Z","updated_at":"2020-04-15T07:03:17.235Z"}},{"id":125,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg","name":"tomate triturado","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":284,"usda_ndb_no":11693,"usda_shrt_desc":"TOMATOES,CRUSHED,CANNED","carbohydrates":7.3,"sugars":4.400000000000001,"proteins":1.6,"fat":0.3,"saturated_fat":0,"fiber":1.9,"calories":32,"sodium":186,"ingredient_id":125,"created_at":"2020-04-15T07:03:19.571Z","updated_at":"2020-04-15T07:03:19.571Z"}},{"id":6,"measure":"cucharadita","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":21,"measure":"unidad","value":"0.25","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":86,"measure":"gramos","value":"100","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}}],"steps":[{"name":"Corta la carne en tiras, trozos o como te resulte más agradable.","priority":0},{"name":"Pica los pimientos y la cebolla en tiras finas. Lava las espinacas y, por último, lava y corta en láminas los champiñones.","priority":1},{"name":"En una sartén amplia vierte el aceite de oliva. Cuando esté caliente vierte la cebolla, el pimiento y los champiñones, y saltea a fuego suave durante 5 minutos hasta que los ingredientes queden muy blanditos.","priority":2},{"name":"A continuación vierte en la sartén la carne, sube un poco el fuego, y saltéala junto con las verduras a fuego medio apenas un par de minutos, no más.","priority":3},{"name":"Añade ahora a la sartén el tomate triturado, un poco de sal, baja la intensidad del fuego y pon tapa a la sartén. Cocina a fuego suave durante 15-20 minutos. Echa un ojo de vez en cuando para comprobar que no se te \"resecan\" los ingredientes. En su caso añade un poquito de agua. 5 minutos antes de que pasen los 20 minutos vierte a la sartén las espinacas.","priority":4},{"name":"Mientras se cocina la carne aprovecha para cocinar la pasta. Echa agua en una olla. Cuando comience a hervir, vierte un poco de sal y la pasta. Cocínala el tiempo que indica las instrucciones de su envase.","priority":5},{"name":"En un plato sirve la pasta y coloca sobre la misma la carne cocinada.","priority":6}]},{"id":"macarrones-cremosos-con-carne","name":"Macarrones Cremosos con Carne","type":"recipe","rate":"4.5384615384615385","description":"Si en tu casa la pasta y la carne forman parte de vuestra dieta, sorprende a los tuyos sirviendo esta pasta súper jugosa, gratinada con un montón de queso. No te va a sobrar ¡ni una cucharada!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/900/macarrones-cremosos-con-carne.jpg"],"image_title":"Macarrones Cremosos con Carne","image_alt_tag":"Macarrones Cremosos con Carne","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/900/macarrones-cremosos-con-carne.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/600/macarrones-cremosos-con-carne.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/300/macarrones-cremosos-con-carne.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/100/macarrones-cremosos-con-carne.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":1088,"folders_ids":[],"like_count":297,"new":false,"liked":null,"favorited":null,"object_id":2565,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":11,"tags":["carne picada","pastas","al horno","macarrón","queso rallado","yogur","tomate triturado","con niños"],"tip":"","meta_description":"Si en tu casa la pasta y la carne forman parte de vuestra dieta, sorprende a los tuyos sirviendo esta pasta súper jugosa, gratinada con un montón de queso. No te va a sobrar ¡ni una cucharada!","meta_title":"recetas con carne picada - recetas de macarrones con carne picada | Nooddle\n","published_at":"2021-04-12","views_count":5,"total_time_iso8601":"PT25M","rate_count":13,"cooked_date":null,"nutritional_balance":{"id":7829,"proteins":35.63541457538647,"veg_and_fruits":42.5617345914475,"grains":20.07628990162618,"total_weight_in_grams":996.2,"recipe_id":2565,"created_at":"2021-04-12T04:02:04.694Z","updated_at":"2021-04-12T04:02:04.694Z"},"author":null,"ingredients":[{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":139,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg","name":"yogur","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":125,"nutrition":{"id":299,"usda_ndb_no":1116,"usda_shrt_desc":"YOGURT,PLN,WHL MILK,8 GRAMS PROT PER 8 OZ","carbohydrates":4.7,"sugars":4.7,"proteins":3.5,"fat":3.3,"saturated_fat":2.1,"fiber":0,"calories":61,"sodium":46,"ingredient_id":139,"created_at":"2020-04-15T07:03:20.130Z","updated_at":"2020-04-15T07:03:20.130Z"}},{"id":18,"measure":"taza","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/albahaca.jpg","name":"albahaca","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":10,"nutrition":{"id":11,"usda_ndb_no":2044,"usda_shrt_desc":"BASIL,FRESH","carbohydrates":2.7,"sugars":0.3,"proteins":3.2,"fat":0.6,"saturated_fat":0,"fiber":1.6,"calories":23,"sodium":4,"ingredient_id":18,"created_at":"2020-04-15T07:03:12.211Z","updated_at":"2020-04-15T07:03:12.211Z"}},{"id":53,"measure":"taza","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-rallado.jpg","name":"queso rallado","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":60,"nutrition":{"id":243,"usda_ndb_no":1032,"usda_shrt_desc":"CHEESE,PARMESAN,GRATED","carbohydrates":13.9,"sugars":0.1,"proteins":28.4,"fat":27.8,"saturated_fat":15.4,"fiber":0,"calories":420,"sodium":1804,"ingredient_id":53,"created_at":"2020-04-15T07:03:18.227Z","updated_at":"2020-04-15T07:03:18.227Z"}},{"id":125,"measure":"lata pequeña","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg","name":"tomate triturado","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":400,"nutrition":{"id":284,"usda_ndb_no":11693,"usda_shrt_desc":"TOMATOES,CRUSHED,CANNED","carbohydrates":7.3,"sugars":4.400000000000001,"proteins":1.6,"fat":0.3,"saturated_fat":0,"fiber":1.9,"calories":32,"sodium":186,"ingredient_id":125,"created_at":"2020-04-15T07:03:19.571Z","updated_at":"2020-04-15T07:03:19.571Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"cucharadita","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":30,"measure":"cucharadita","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/azucar.jpg","name":"azúcar","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":32,"usda_ndb_no":19335,"usda_shrt_desc":"SUGARS,GRANULATED","carbohydrates":100,"sugars":99.8,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":387,"sodium":1,"ingredient_id":30,"created_at":"2020-04-15T07:03:12.972Z","updated_at":"2020-04-15T07:03:12.972Z"}},{"id":243,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg","name":"macarrón","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":160,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":243,"created_at":"2020-04-15T07:03:16.390Z","updated_at":"2020-04-15T07:03:16.390Z"}},{"id":55,"measure":"gramos","value":"200","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg","name":"carne picada","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":56,"usda_ndb_no":13047,"usda_shrt_desc":"BEEF,GRASS-FED,GROUND,RAW","carbohydrates":0,"sugars":0,"proteins":19.4,"fat":12.7,"saturated_fat":5.3,"fiber":0,"calories":198,"sodium":68,"ingredient_id":55,"created_at":"2020-04-15T07:03:13.527Z","updated_at":"2020-04-15T07:03:13.527Z"}}],"steps":[{"name":"Echa agua en una olla y cocina la pasta el tiempo que indica sus instrucciones. Escúrrela y resérvala, la emplearás más adelante.","priority":0},{"name":"Coloca la carne en un recipiente y échale sal y pimienta.","priority":1},{"name":"En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte la carne picada salpimentada y saltéala a fuego medio hasta que quede ligeramente dorada. Retírala y resérvala.","priority":2},{"name":"En esa misma sartén, sin necesidad de limpiarla, vierte los ajos picados finamente y sofríelos a fuego medio con cuidado de no quemarlos (si necesitas un poquito más de aceite añádelo). Cuando los ajos estén dorados añade el tomate triturado a la sartén, un poco de sal y de azúcar, y cocina a fuego medio durante 10 minutos.","priority":3},{"name":"Pasado ese tiempo añade la albahaca y el yogur. Mezcla y cocina a fuego suave durante varios minutos más. Comprueba que el punto de sal es el correcto y, en su caso, rectifica.","priority":4},{"name":"Vierte en la sartén la carne que tenías reservada y mezcla con la salsa.","priority":5},{"name":"Cuando la carne esté bien impregnada de la salsa, añade la pasta que tienes reservada y mezcla de nuevo todos los ingredientes.","priority":6},{"name":"Vierte lo anterior a una bandeja apta para horno, esparce abundante queso rallado por encima y mete a gratinar varios minutos. Cuando veas el queso fundido y gratinado a tu gusto puedes servirlo en tu mesa.","priority":7}]},{"id":"macarrones-con-calabacin-y-carne-picada","name":"Macarrones con Calabacín y Carne Picada","type":"recipe","rate":"4.4803921568627451","description":"\n    Si te apetece comer hoy plato único y además te apetece pasta ¿cómo ves la receta que te hemos preparado? Especialmente hecha para ti. ¡Disfrútala!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-calabacin-y-carne-picada/900/macarrones-con-calabacin-y-carne-picada.jpg"],"image_title":"Macarrones con Calabacín y Carne Picada","image_alt_tag":"Macarrones con Calabacín y Carne Picada","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-calabacin-y-carne-picada/900/macarrones-con-calabacin-y-carne-picada.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-calabacin-y-carne-picada/600/macarrones-con-calabacin-y-carne-picada.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-calabacin-y-carne-picada/300/macarrones-con-calabacin-y-carne-picada.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-calabacin-y-carne-picada/100/macarrones-con-calabacin-y-carne-picada.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":8246,"folders_ids":[],"like_count":2197,"new":false,"liked":null,"favorited":null,"object_id":2098,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["macarrones","carne picada","tupper","Calabacín","fitness","20 minutos o menos","pastas"],"tip":"","meta_description":"\n    Si te apetece comer hoy plato único y además te apetece pasta ¿cómo ves la receta que te hemos preparado? Especialmente hecha para ti. ¡Disfrútala!\n","meta_title":"recetas con carne picada - recetas de pasta | Nooddle","published_at":"2020-05-07","views_count":4,"total_time_iso8601":"PT20M","rate_count":102,"cooked_date":null,"nutritional_balance":{"id":6060,"proteins":22.55554302469832,"veg_and_fruits":53.51302582609676,"grains":22.55554302469832,"total_weight_in_grams":886.7,"recipe_id":2098,"created_at":"2020-07-07T15:29:50.618Z","updated_at":"2020-07-07T15:29:50.618Z"},"author":null,"ingredients":[{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":47,"measure":"unidad","value":"0.75","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg","name":"calabacín","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":500,"main_unit_grams_en":500,"grams":500,"nutrition":{"id":47,"usda_ndb_no":11477,"usda_shrt_desc":"SQUASH,SMMR,ZUCCHINI,INCL SKN,RAW","carbohydrates":3.1,"sugars":2.5,"proteins":1.2,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":17,"sodium":8,"ingredient_id":47,"created_at":"2020-04-15T07:03:13.361Z","updated_at":"2020-04-15T07:03:13.361Z"}},{"id":55,"measure":"gramos","value":"200","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg","name":"carne picada","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":56,"usda_ndb_no":13047,"usda_shrt_desc":"BEEF,GRASS-FED,GROUND,RAW","carbohydrates":0,"sugars":0,"proteins":19.4,"fat":12.7,"saturated_fat":5.3,"fiber":0,"calories":198,"sodium":68,"ingredient_id":55,"created_at":"2020-04-15T07:03:13.527Z","updated_at":"2020-04-15T07:03:13.527Z"}},{"id":243,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg","name":"macarrón","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":160,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":243,"created_at":"2020-04-15T07:03:16.390Z","updated_at":"2020-04-15T07:03:16.390Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}}],"steps":[{"name":"Calienta agua en una cazuela y cuando rompa a hervir vierte los macarrones. Cuece la pasta el tiempo que indica las instrucciones.","priority":0},{"name":"Lava el calabacín y córtalo en trozos no muy grandes. También pica media cebolla y un diente de ajo.","priority":1},{"name":"En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente sofríe el diente de ajo a fuego medio con cuidado de que no se queme. Añade ahora la carne picada, previamente salpimentada. Saltea a fuego medio durante 2-3 minutos. Apaga el fuego y reserva la carne.","priority":2},{"name":"En esa misma sartén, añadiendo un poco más de aceite de oliva si lo ves necesario, sofríe la cebolla durante un par de minutos a fuego medio. Añade a la sartén los dados de calabacín y echa un poco de sal a la verduras. Cocina a fuego medio durante 6-7 minutos, hasta que las verduras estén blandas.","priority":3},{"name":"Cuando las verduras estén blanditas añade la carne picada y mezcla los ingredientes.","priority":4},{"name":"Incorpora a la sartén los macarrones, revuelve y deja que se integren los sabores durante un par de minutos al fuego. ¡Ya puedes servir tus macarrones a la mesa!","priority":5}]},{"id":"lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias","name":"Lomo de Cerdo con Guarnición de Patatas y Zanahorias","type":"recipe","rate":"4.3055555555555556","description":"\n    Hoy te traemos una receta de lomo de cerdo muy sencilla y sabrosa que te va a resultar estupenda para cocinar y marcarte un platazo sin mucho esfuerzo. ¿Te apetece probarla?\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias/900/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias.jpg"],"image_title":"Lomo de Cerdo con Guarnición de Patatas y Zanahorias","image_alt_tag":"Lomo de Cerdo con Guarnición de Patatas y Zanahorias","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias/900/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias/600/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias/300/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias/100/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias.jpg","width":100}],"premium":false,"total_time":45,"dificulty":null,"saved_count":3238,"folders_ids":[],"like_count":1029,"new":false,"liked":null,"favorited":null,"object_id":1948,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["zanahoria","Patata","en pareja","al horno","Lomo de cerdo"],"tip":"","meta_description":"\n    Hoy te traemos una receta de lomo de cerdo muy sencilla y sabrosa que te va a resultar estupenda para cocinar y marcarte un platazo sin mucho esfuerzo. ¿Te apetece probarla?\n","meta_title":"recetas con lomo de cerdo - recetas de cocina | Nooddle","published_at":"2019-12-23","views_count":3,"total_time_iso8601":"PT45M","rate_count":36,"cooked_date":null,"nutritional_balance":{"id":5955,"proteins":28.78857669276831,"veg_and_fruits":23.03086135421465,"grains":34.54629203132198,"total_weight_in_grams":868.4,"recipe_id":1948,"created_at":"2020-07-07T15:29:44.354Z","updated_at":"2020-07-07T15:29:44.354Z"},"author":null,"ingredients":[{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":80,"measure":"gramos","value":"250","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lomo-de-cerdo.jpg","name":"lomo de cerdo","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"filete","main_unit_en":"fillet","main_unit_grams_es":60,"main_unit_grams_en":60,"grams":1,"nutrition":{"id":157,"usda_ndb_no":10020,"usda_shrt_desc":"PORK,FRSH,LOIN,WHL,LN&FAT,RAW","carbohydrates":0,"sugars":0,"proteins":19.7,"fat":12.6,"saturated_fat":4.400000000000001,"fiber":0,"calories":198,"sodium":50,"ingredient_id":80,"created_at":"2020-04-15T07:03:16.338Z","updated_at":"2020-04-15T07:03:16.338Z"}},{"id":35,"measure":"gramos","value":"300","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg","name":"patata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":1,"nutrition":{"id":203,"usda_ndb_no":11352,"usda_shrt_desc":"POTATOES,FLESH & SKN,RAW","carbohydrates":17.5,"sugars":0.8,"proteins":2.1,"fat":0.1,"saturated_fat":0,"fiber":2.1,"calories":77,"sodium":6,"ingredient_id":35,"created_at":"2020-04-15T07:03:17.249Z","updated_at":"2020-04-15T07:03:17.249Z"}},{"id":99,"measure":"mililitros","value":"100","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/vino-blanco.jpg","name":"vino blanco","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":296,"usda_ndb_no":14106,"usda_shrt_desc":"ALCOHOLIC BEV,WINE,TABLE,WHITE","carbohydrates":2.6,"sugars":1,"proteins":0.1,"fat":0,"saturated_fat":0,"fiber":0,"calories":82,"sodium":5,"ingredient_id":99,"created_at":"2020-04-15T07:03:19.977Z","updated_at":"2020-04-15T07:03:19.977Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":8,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}}],"steps":[{"name":"Pela las patatas y las zanahorias y corta ambos ingredientes en rodajas no muy gruesas.","priority":0},{"name":"Sobre un recipiente de horno coloca las patatas y las zanahorias que acabas de cortar y riégalo con un poco de aceite y sal. Mete en el horno a 200ºC durante 10 minutos, removiendo de vez en cuando.","priority":1},{"name":"Mientras las patatas y las zanahorias comienzan a hacerse, aprovecha para limpiar el lomo de cerdo. Con un cuchillo quítale los trozos de grasa que pueda tener y asegúrate de que queda limpio y atractivo. Colócalo sobre una tabla y échale sal y pimienta por todos lados.","priority":2},{"name":"En una sartén con un poco de aceite de oliva sella el lomo de cerdo. No es necesario que se haga, sólo que se haga por fuera. Vé dándole vueltas hasta lograr que se selle por todos los lados.","priority":3},{"name":"Cuando hayan pasado los 10 minutos abre el horno, saca el recipiente y coloca en el mismo el lomo de cerdo sellado. Con una espátula vierte el aceite y jugos de la sartén donde has sellado el lomo y vierte también el vino blanco. Aprovecha para remover las patatas y las zanahorias.","priority":4},{"name":"Mete en el horno 20 minutos. De vez en cuando puedes dar alguna vuelta a la guarnición (patatas y zanahorias) para asegurarte que se cocinan bien.","priority":5}]},{"id":"arroz-frito-con-ternera","name":"Arroz Frito con Ternera","type":"recipe","rate":"4.5","description":"\n    Arroz frito, lleno de sabor y con toques asiáticos... ¡qué rico! ¿Quieres la receta? Pues sigue leyendo y ¡ponte el delantal!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/900/arroz-frito-con-ternera.jpg"],"image_title":"Arroz Frito con Ternera","image_alt_tag":"Arroz Frito con Ternera","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/900/arroz-frito-con-ternera.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/600/arroz-frito-con-ternera.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/300/arroz-frito-con-ternera.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/100/arroz-frito-con-ternera.jpg","width":100}],"premium":false,"total_time":35,"dificulty":null,"saved_count":4629,"folders_ids":[],"like_count":1547,"new":false,"liked":null,"favorited":null,"object_id":2301,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":10,"tags":["Filete de ternera","Arroz","puerro","arroces","asiático","zanahoria","tupper"],"tip":"<p>\n    Puedes añadir un puñado de semillas de sésamo cuando frías el arroz.\n</p>\n<p>\n    Puedes sustituir la salsa de soja por salsa de otras.\n</p>\n<p>\n    También puedes emplear aceite de sésamo si quires darle un toque más asiático al plato.\n</p>","meta_description":"\n    Arroz frito, lleno de sabor y con toques asiáticos... ¡qué rico! ¿Quieres la receta? Pues sigue leyendo y ¡ponte el delantal!\n","meta_title":"recetas de arroz - recetas fáciles | Nooddle","published_at":"2020-09-02","views_count":2,"total_time_iso8601":"PT35M","rate_count":38,"cooked_date":null,"nutritional_balance":{"id":6518,"proteins":36.01784955376115,"veg_and_fruits":41.86145346366341,"grains":20.18699532511687,"total_weight_in_grams":941.2,"recipe_id":2301,"created_at":"2020-09-02T04:02:01.112Z","updated_at":"2020-09-02T04:02:01.112Z"},"author":null,"ingredients":[{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":2,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg","name":"huevo","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":75,"main_unit_grams_en":75,"grams":75,"nutrition":{"id":131,"usda_ndb_no":1123,"usda_shrt_desc":"EGG,WHL,RAW,FRSH","carbohydrates":0.7,"sugars":0.4,"proteins":12.6,"fat":9.5,"saturated_fat":3.1,"fiber":0,"calories":143,"sodium":142,"ingredient_id":2,"created_at":"2020-04-15T07:03:15.570Z","updated_at":"2020-04-15T07:03:15.570Z"}},{"id":33,"measure":"tazas","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg","name":"agua","shopping_list_category_es":"bebidas","shopping_list_category_en":"drinks","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":6,"usda_ndb_no":14555,"usda_shrt_desc":"WATER,BTLD,GENERIC","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":2,"ingredient_id":33,"created_at":"2020-04-15T07:03:12.046Z","updated_at":"2020-04-15T07:03:12.046Z"}},{"id":8,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":34,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg","name":"arroz","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":190,"nutrition":{"id":27,"usda_ndb_no":20044,"usda_shrt_desc":"RICE,WHITE,LONG-GRAIN,REG,RAW,ENR","carbohydrates":80,"sugars":0.1,"proteins":7.1,"fat":0.7,"saturated_fat":0.2,"fiber":1.3,"calories":365,"sodium":5,"ingredient_id":34,"created_at":"2020-04-15T07:03:12.866Z","updated_at":"2020-04-15T07:03:12.866Z"}},{"id":48,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg","name":"puerro","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":180,"main_unit_grams_en":180,"grams":180,"nutrition":{"id":225,"usda_ndb_no":11246,"usda_shrt_desc":"LEEKS,(BULB&LOWER LEAF-PORTION),RAW","carbohydrates":14.2,"sugars":3.9,"proteins":1.5,"fat":0.3,"saturated_fat":0,"fiber":1.8,"calories":61,"sodium":20,"ingredient_id":48,"created_at":"2020-04-15T07:03:17.830Z","updated_at":"2020-04-15T07:03:17.830Z"}},{"id":42,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg","name":"salsa de soja","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":7,"nutrition":{"id":262,"usda_ndb_no":16123,"usda_shrt_desc":"SOY SAU MADE FROM SOY&WHEAT (SHOYU)","carbohydrates":4.9,"sugars":0.4,"proteins":8.1,"fat":0.6,"saturated_fat":0.1,"fiber":0.8,"calories":53,"sodium":5493,"ingredient_id":42,"created_at":"2020-04-15T07:03:18.810Z","updated_at":"2020-04-15T07:03:18.810Z"}},{"id":128,"measure":"filetes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg","name":"filete de ternera","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"filete","main_unit_en":"fillet","main_unit_grams_es":125,"main_unit_grams_en":1,"grams":125,"nutrition":{"id":107,"usda_ndb_no":17104,"usda_shrt_desc":"VEAL,LOIN,LN&FAT,RAW","carbohydrates":0.1,"sugars":0,"proteins":20.1,"fat":10.1,"saturated_fat":3.6,"fiber":0,"calories":177,"sodium":98,"ingredient_id":128,"created_at":"2020-04-15T07:03:14.761Z","updated_at":"2020-04-15T07:03:14.761Z"}}],"steps":[{"name":"Lava el puerro y córtalo en rodajas finas.","priority":0},{"name":"Lava y pela las zanahorias. Córtalas en trozos pequeños.","priority":1},{"name":"Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y, pasado este tiempo, añade en este momento el puerro y la zanahoria cortada en trozos a la olla. Después baja el fuego y cocina a fuego lento 8 minutos más. Si ves que se ha absorbido el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.","priority":2},{"name":"Bate el huevo y, en una sartén con un poco de aceite de oliva, cocina el huevo dándole forma de tortilla. A continuación colócala sobre una tabla y córtala en trozos pequeños.","priority":3},{"name":"En esa misma sartén echa un poquito de aceite de oliva y cocina a la plancha los filetes de ternera. Una vez estén listos colócalos sobre la tabla y córtala en trozos pequeños.","priority":4},{"name":"Mezcla la tortilla y la carne cortada en trozos con el arroz con verduras que has cocinado. Una vez esté mezclado saltéalo en una sartén añadiéndole la salsa de soja. Cuando el arroz esté frito apaga el fuego y sírvelo en la mesa.","priority":5}]},{"id":"tacos-de-carne-con-pimiento-rojo","name":"Tacos de Carne con Pimiento Rojo","type":"recipe","rate":"4.8333333333333333","description":"¡Levanta la mano si eres fan de la comida mexicana! ¡Lo sabíamos, sabíamos que te encanta! Por eso te hemos traído estos tacos rellenos de carne facilísimos de hacer que están absolutamente deliciosos. Funcionan para cualquier día de la semana porque apetecen ¡siempre!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-carne-con-pimiento-rojo/900/tacos-de-carne-con-pimiento-rojo.jpg"],"image_title":"Tacos de Carne con Pimiento Rojo","image_alt_tag":"Tacos de Carne con Pimiento Rojo","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-carne-con-pimiento-rojo/900/tacos-de-carne-con-pimiento-rojo.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-carne-con-pimiento-rojo/600/tacos-de-carne-con-pimiento-rojo.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-carne-con-pimiento-rojo/300/tacos-de-carne-con-pimiento-rojo.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-carne-con-pimiento-rojo/100/tacos-de-carne-con-pimiento-rojo.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":2538,"folders_ids":[],"like_count":805,"new":false,"liked":null,"favorited":null,"object_id":2394,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["carne picada","tortillas de maíz","con amigos","pimiento rojo","mexicano"],"tip":"<p>Añade un poco de picante a los tacos, ¡lo piden!</p><p>Si quieres darles un toque fresco, lava un poco de lechuga y córtala en tiras muy finas. Luego, puedes añadir un puñado de lechuga encima de cada taco.</p><p>Si eres de los que pones queso a todo, añade un puñado de queso por encima de cada taco, mételos al horno apenas unos minutos, deja que se funda el queso, y ¡directos a la mesa!</p>","meta_description":"¡Levanta la mano si eres fan de la comida mexicana! ¡Lo sabíamos, sabíamos que te encanta! Por eso te hemos traído estos tacos rellenos de carne facilísimos de hacer que están absolutamente deliciosos. Funcionan para cualquier día de la semana porque apetecen ¡siempre!","meta_title":"recetas de tacos - comida mexicana | Nooddle\n","published_at":"2020-12-14","views_count":3,"total_time_iso8601":"PT20M","rate_count":18,"cooked_date":null,"nutritional_balance":{"id":7306,"proteins":39.0991554582421,"veg_and_fruits":28.46418517360025,"grains":23.45949327494526,"total_weight_in_grams":639.4,"recipe_id":2394,"created_at":"2020-12-14T04:01:00.551Z","updated_at":"2020-12-14T04:01:00.551Z"},"author":null,"ingredients":[{"id":55,"measure":"gramos","value":"250","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg","name":"carne picada","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":56,"usda_ndb_no":13047,"usda_shrt_desc":"BEEF,GRASS-FED,GROUND,RAW","carbohydrates":0,"sugars":0,"proteins":19.4,"fat":12.7,"saturated_fat":5.3,"fiber":0,"calories":198,"sodium":68,"ingredient_id":55,"created_at":"2020-04-15T07:03:13.527Z","updated_at":"2020-04-15T07:03:13.527Z"}},{"id":16,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg","name":"pimiento rojo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":85,"main_unit_grams_en":85,"grams":85,"nutrition":{"id":217,"usda_ndb_no":11821,"usda_shrt_desc":"PEPPERS,SWT,RED,RAW","carbohydrates":6,"sugars":4.2,"proteins":1,"fat":0.3,"saturated_fat":0,"fiber":2.1,"calories":31,"sodium":4,"ingredient_id":16,"created_at":"2020-04-15T07:03:17.681Z","updated_at":"2020-04-15T07:03:17.681Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":192,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg","name":"cebolla morada","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":180,"main_unit_grams_en":180,"grams":180,"nutrition":{"id":60,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":192,"created_at":"2020-04-15T07:03:13.605Z","updated_at":"2020-04-15T07:03:13.605Z"}},{"id":136,"measure":"unidades","value":"6","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/tortilla-de-maiz.jpg","name":"tortilla de maíz","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":25,"main_unit_grams_en":25,"grams":25,"nutrition":{"id":286,"usda_ndb_no":18363,"usda_shrt_desc":"TORTILLAS,RTB OR -FRY,CORN","carbohydrates":44.6,"sugars":0.9,"proteins":5.7,"fat":2.9,"saturated_fat":0.5,"fiber":6.3,"calories":218,"sodium":45,"ingredient_id":136,"created_at":"2020-04-15T07:03:19.626Z","updated_at":"2020-04-15T07:03:19.626Z"}},{"id":27,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg","name":"tomate frito","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":282,"usda_ndb_no":6931,"usda_shrt_desc":"SAUCE,PASTA,SPAGHETTI/MARINARA,RTS","carbohydrates":7.4,"sugars":4.9,"proteins":1.4,"fat":1.6,"saturated_fat":0.2,"fiber":1.8,"calories":50,"sodium":437,"ingredient_id":27,"created_at":"2020-04-15T07:03:19.517Z","updated_at":"2020-04-15T07:03:19.517Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}}],"steps":[{"name":"Pica el ajo finamente, y corta en trozos pequeños la cebolla y el pimiento rojo. ","priority":0},{"name":"Echa un poco de aceite en una sartén. Cuando esté caliente vierte el diente del ajo y sofríelo a fuego medio durante medio minuto.","priority":1},{"name":"A continuación añade a la sartén la cebolla y el pimiento rojo, y deja que las verduras se cocinen durante 5 minutos a fuego medio. ","priority":2},{"name":"Agrega la carne picada y echa un poco de sal y de pimienta a todo. Saltea durante 5 minutos aproximadamente, revolviendo de vez en cuando.","priority":3},{"name":"Añade la salsa de tomate, baja el fuego al mínimo y deja que se cocinen los ingredientes durante 3-4 minutos más.","priority":4},{"name":"Calienta cada tortilla y rellénala con la carne que acabas de preparar.","priority":5}]},{"id":"pimientos-rellenos-de-lentejas-y-carne-picada","name":"Pimientos Rellenos de Lentejas y Carne Picada","type":"recipe","rate":"4.6666666666666667","description":"Seguro que te ha pasado alguna vez que compras pimientos y luego no sabes qué hacer con ellos. Si estás en esa situación mira estos pimientos rellenos de lentejas y carne que hemos preparado. Ricos, sabrosos y nutritivos. ¡Perfectos!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pimientos-rellenos-de-lentejas-y-carne-picada/900/pimientos-rellenos-de-lentejas-y-carne-picada.jpg"],"image_title":"Pimientos Rellenos de Lentejas y Carne Picada","image_alt_tag":"Pimientos Rellenos de Lentejas y Carne Picada","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pimientos-rellenos-de-lentejas-y-carne-picada/900/pimientos-rellenos-de-lentejas-y-carne-picada.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pimientos-rellenos-de-lentejas-y-carne-picada/600/pimientos-rellenos-de-lentejas-y-carne-picada.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pimientos-rellenos-de-lentejas-y-carne-picada/300/pimientos-rellenos-de-lentejas-y-carne-picada.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pimientos-rellenos-de-lentejas-y-carne-picada/100/pimientos-rellenos-de-lentejas-y-carne-picada.jpg","width":100}],"premium":false,"total_time":30,"dificulty":null,"saved_count":1699,"folders_ids":[],"like_count":515,"new":false,"liked":null,"favorited":null,"object_id":1867,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":10,"tags":["tupper","pimiento amarillo","carne picada","en pareja","al horno","pimiento verde"],"tip":"","meta_description":"<p>Seguro que te ha pasado alguna vez que compras pimientos y luego no sabes qué hacer con ellos. Si estás en esa situación mira estos pimientos rellenos de lentejas y carne que hemos preparado. Ricos, sabrosos y nutritivos. ¡Perfectos!</p>","meta_title":"recetas con pimientos - recetas con carne picada - pimientos al horno - recetas fáciles | Nooddle","published_at":"2019-10-31","views_count":1,"total_time_iso8601":"PT30M","rate_count":12,"cooked_date":null,"nutritional_balance":{"id":7213,"proteins":31.33341069977951,"veg_and_fruits":58.5470581408843,"grains":0,"total_weight_in_grams":861.7,"recipe_id":1867,"created_at":"2020-12-04T04:02:04.108Z","updated_at":"2020-12-04T04:02:04.108Z"},"author":null,"ingredients":[{"id":45,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg","name":"pimiento verde","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":85,"main_unit_grams_en":85,"grams":85,"nutrition":{"id":218,"usda_ndb_no":11821,"usda_shrt_desc":"PEPPERS,SWT,RED,RAW","carbohydrates":6,"sugars":4.2,"proteins":1,"fat":0.3,"saturated_fat":0,"fiber":2.1,"calories":31,"sodium":4,"ingredient_id":45,"created_at":"2020-04-15T07:03:17.700Z","updated_at":"2020-04-15T07:03:17.700Z"}},{"id":263,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-amarillo.jpg","name":"pimiento amarillo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":220,"main_unit_grams_en":220,"grams":220,"nutrition":{"id":215,"usda_ndb_no":11951,"usda_shrt_desc":"PEPPERS,SWEET,YELLOW,RAW","carbohydrates":6.3,"sugars":0,"proteins":1,"fat":0.2,"saturated_fat":0,"fiber":0.9,"calories":27,"sodium":2,"ingredient_id":263,"created_at":"2020-04-15T07:03:17.621Z","updated_at":"2020-04-15T07:03:17.621Z"}},{"id":8,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":55,"measure":"gramos","value":"150","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg","name":"carne picada","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":56,"usda_ndb_no":13047,"usda_shrt_desc":"BEEF,GRASS-FED,GROUND,RAW","carbohydrates":0,"sugars":0,"proteins":19.4,"fat":12.7,"saturated_fat":5.3,"fiber":0,"calories":198,"sodium":68,"ingredient_id":55,"created_at":"2020-04-15T07:03:13.527Z","updated_at":"2020-04-15T07:03:13.527Z"}},{"id":10,"measure":"gramos","value":"120","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lentejas.jpg","name":"lenteja en conserva","shopping_list_category_es":"conservas","shopping_list_category_en":"canned foods","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":152,"usda_ndb_no":16370,"usda_shrt_desc":"LENTILS,MATURE SEEDS,CKD,BLD,W/SALT","carbohydrates":19.5,"sugars":1.8,"proteins":9,"fat":0.4,"saturated_fat":0.1,"fiber":7.9,"calories":114,"sodium":238,"ingredient_id":10,"created_at":"2020-04-15T07:03:16.228Z","updated_at":"2020-04-15T07:03:16.228Z"}},{"id":27,"measure":"cucharadas","value":"5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg","name":"tomate frito","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":282,"usda_ndb_no":6931,"usda_shrt_desc":"SAUCE,PASTA,SPAGHETTI/MARINARA,RTS","carbohydrates":7.4,"sugars":4.9,"proteins":1.4,"fat":1.6,"saturated_fat":0.2,"fiber":1.8,"calories":50,"sodium":437,"ingredient_id":27,"created_at":"2020-04-15T07:03:19.517Z","updated_at":"2020-04-15T07:03:19.517Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}}],"steps":[{"name":"En un pequeño cuenco vierte dos cucharadas de aceite y una pizca de sal. Remueve.","priority":0},{"name":"Lava los pimientos y córtales la parte de arriba. Vacíalos de las semillas que puedan tener y colócalos sobre una bandeja forrada con papel de horno. Rocíalos con el aceite y sal que acabas de preparar y mételos en el horno a 180ºC durante 20 minutos.","priority":1},{"name":"Mientras se cocinan los pimientos aprovecha para preparar el relleno. Para ello pica finamente un diente de ajo y la cebolla.","priority":2},{"name":"En una sartén amplia sofríe el ajo y la cebolla picada durante un par de minutos.","priority":3},{"name":"Salpimenta la carne picada que tienes y vierte la carne a la sartén. Saltéala durante 1-2 minutos.","priority":4},{"name":"Pasado ese tiempo añade las lentejas y saltéalas apenas 1-2 minutos también.","priority":5},{"name":"Vierte la salsa de tomate (si es casera mejor que mejor) y revuelve todos los ingredientes. Cocina a fuego suave durante 6-7 minutos.","priority":6},{"name":"Cuando los pimientos estén listos sácalos del horno. Con cuidado de no romperlos (porque están blandos y calientes) colócalos sobre un plato y rellénalos con el contenido de la sartén. Sirve en la mesa y ¡a comer!","priority":7}]},{"id":"carne-picada-con-berenjenas-y-cuscus","name":"Carne Picada con Berenjenas y Cuscús","type":"recipe","rate":"4.7368421052631579","description":"\n    Saca partido a esa carne picada que compraste el otro día, saltéala con algunas verduras y acompáñala con cuscús y verás qué rico plato te queda. ¡Sencillo y sabroso!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/carne-picada-con-berenjenas-y-cuscus/900/carne-picada-con-berenjenas-y-cuscus.jpg"],"image_title":"Carne Picada con Berenjenas y Cuscús","image_alt_tag":"Carne Picada con Berenjenas y Cuscús","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/carne-picada-con-berenjenas-y-cuscus/900/carne-picada-con-berenjenas-y-cuscus.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/carne-picada-con-berenjenas-y-cuscus/600/carne-picada-con-berenjenas-y-cuscus.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/carne-picada-con-berenjenas-y-cuscus/300/carne-picada-con-berenjenas-y-cuscus.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/carne-picada-con-berenjenas-y-cuscus/100/carne-picada-con-berenjenas-y-cuscus.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":1694,"folders_ids":[],"like_count":490,"new":false,"liked":null,"favorited":null,"object_id":2083,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["carne picada","tomate","Cuscús","salteados","berenjena","tupper"],"tip":"","meta_description":"\n    Saca partido a esa carne picada que compraste el otro día, saltéala con algunas verduras y acompáñala con cuscús y verás qué rico plato te queda. ¡Sencillo y sabroso!\n","meta_title":"recetas con carne picada - recetas con cuscús - recetas tupper | Nooddle","published_at":"2020-04-16","views_count":3,"total_time_iso8601":"PT25M","rate_count":19,"cooked_date":null,"nutritional_balance":{"id":6045,"proteins":24.51526632493871,"veg_and_fruits":53.93358591486518,"grains":20.05794517494986,"total_weight_in_grams":897.4,"recipe_id":2083,"created_at":"2020-07-07T15:29:49.636Z","updated_at":"2020-07-07T15:29:49.636Z"},"author":null,"ingredients":[{"id":4,"measure":"diente","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":7,"measure":"unidad","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg","name":"tomate","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":160,"main_unit_grams_en":160,"grams":160,"nutrition":{"id":280,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":7,"created_at":"2020-04-15T07:03:19.451Z","updated_at":"2020-04-15T07:03:19.451Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":26,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg","name":"berenjena","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":300,"main_unit_grams_en":300,"grams":300,"nutrition":{"id":39,"usda_ndb_no":11209,"usda_shrt_desc":"EGGPLANT,RAW","carbohydrates":5.9,"sugars":3.5,"proteins":1,"fat":0.2,"saturated_fat":0,"fiber":3,"calories":25,"sodium":2,"ingredient_id":26,"created_at":"2020-04-15T07:03:13.200Z","updated_at":"2020-04-15T07:03:13.200Z"}},{"id":217,"measure":"taza","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1544563983/ingredients/cuscus.jpg","name":"cuscús","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":180,"nutrition":{"id":96,"usda_ndb_no":20028,"usda_shrt_desc":"COUSCOUS,DRY","carbohydrates":77.4,"sugars":0,"proteins":12.8,"fat":0.6,"saturated_fat":0.1,"fiber":5,"calories":376,"sodium":10,"ingredient_id":217,"created_at":"2020-04-15T07:03:14.478Z","updated_at":"2020-04-15T07:03:14.478Z"}},{"id":55,"measure":"gramos","value":"220","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg","name":"carne picada","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":56,"usda_ndb_no":13047,"usda_shrt_desc":"BEEF,GRASS-FED,GROUND,RAW","carbohydrates":0,"sugars":0,"proteins":19.4,"fat":12.7,"saturated_fat":5.3,"fiber":0,"calories":198,"sodium":68,"ingredient_id":55,"created_at":"2020-04-15T07:03:13.527Z","updated_at":"2020-04-15T07:03:13.527Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":208,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg","name":"comino en polvo","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":86,"usda_ndb_no":2014,"usda_shrt_desc":"CUMIN SEED","carbohydrates":44.20000000000001,"sugars":2.3,"proteins":17.8,"fat":22.3,"saturated_fat":1.5,"fiber":10.5,"calories":375,"sodium":168,"ingredient_id":208,"created_at":"2020-04-15T07:03:14.118Z","updated_at":"2020-04-15T07:03:14.118Z"}}],"steps":[{"name":"Comienza preparando los ingredientes de la siguiente manera. Lava la berenjena y córtala en trozos no muy gruesos. Lava, pela los tomates y pícalos muy finamente. También pica muy finamente un diente de ajo.","priority":0},{"name":"En una sartén con un poco de aceite de oliva fríe el ajo picado. Mientras se cocina, echa un poco de sal y pimienta a la carne, y a continuación añádela a la sartén. Saltéala durante 1-2 minutos y retírala del fuego. Colócala en un plato y resérvala porque más adelante la necesitarás.","priority":1},{"name":"En esa misma sartén y sin necesidad de limpiarla, echa un poquito más de aceite de oliva y otro diente de ajo picado. Una vez esté dorado el ajo añade las berenjenas a la sartén y saltéalas durante varios minutos, hasta que ablanden un poco.","priority":2},{"name":"Vierte ahora el tomate cortado en trozos muy pequeños, el comino, una pizca de sal y, si te apetece, una pimienta cayena. Con una cuchara de madera mezcla las berenjenas y el tomate de manera que queden bien integradas. Deja que los ingredientes se cocinen durante 5 minutos.","priority":3},{"name":"Añade a la sartén la carne picada que tienes reservada y mézclala con las verduras.","priority":4},{"name":"Pon a hervir una taza de agua con un poco de sal y chorrito de aceite de oliva. Antes de que rompa a hervir, añade la taza de cuscús y apaga el fuego. Déjalo reposar hasta que se hidrate.","priority":5},{"name":"En un plato coloca el cuscús y vierte sobre el cuscús la carne picada con verduras.","priority":6}]},{"id":"pastel-de-carne-con-pure-de-patata","name":"Pastel de Carne con Puré de Patata","type":"recipe","rate":"4.6022727272727273","description":"\n    No te rompas la cabeza con la comida de hoy, te lo ponemos fácil. Con esta receta de pastel de carne con puré de patata triunfarás en casa y alimentarás de maravilla a tu familia. ¡Disfrútalo!\n","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastel-de-carne-con-pure-de-patata/900/pastel-de-carne-con-pure-de-patata.jpg"],"image_title":"Pastel de Carne con Puré de Patata","image_alt_tag":"Pastel de Carne con Puré de Patata","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastel-de-carne-con-pure-de-patata/900/pastel-de-carne-con-pure-de-patata.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastel-de-carne-con-pure-de-patata/600/pastel-de-carne-con-pure-de-patata.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastel-de-carne-con-pure-de-patata/300/pastel-de-carne-con-pure-de-patata.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastel-de-carne-con-pure-de-patata/100/pastel-de-carne-con-pure-de-patata.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":12580,"folders_ids":[],"like_count":3756,"new":false,"liked":null,"favorited":null,"object_id":1934,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":8,"tags":["con niños","tomate frito","carne picada","en pareja","tupper","Patata"],"tip":"<p>\n    Como te sugerimos puedes añadir un puñado de queso por encima de todo el pastel y meterlo a gratinar. El gratinado le da un toque fantástico.\n</p>\n<p>\n    No te preocupes si al servirlo se te deshace la forma de pastel, no es estéticamente ideal pero de sabor está estupendo.\n</p>\n<p>\n    Añade más salsa de tomate si quieres que sea más jugoso el relleno.\n</p>","meta_description":"\n    No te rompas la cabeza con la comida de hoy, te lo ponemos fácil. Con esta receta de pastel de carne con puré de patata triunfarás en casa y alimentarás de maravilla a tu familia. ¡Disfrútalo!\n","meta_title":"recetas con carne picada - recetas fáciles | Nooddle","published_at":"2019-12-12","views_count":4,"total_time_iso8601":"PT25M","rate_count":176,"cooked_date":null,"nutritional_balance":{"id":5941,"proteins":20.7572235137828,"veg_and_fruits":32.54732646961142,"grains":24.90866821653936,"total_weight_in_grams":1204.4,"recipe_id":1934,"created_at":"2020-07-07T15:29:43.295Z","updated_at":"2020-07-07T15:29:43.295Z"},"author":null,"ingredients":[{"id":6,"measure":"pizcas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":35,"measure":"gramos","value":"300","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg","name":"patata","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":1,"nutrition":{"id":203,"usda_ndb_no":11352,"usda_shrt_desc":"POTATOES,FLESH & SKN,RAW","carbohydrates":17.5,"sugars":0.8,"proteins":2.1,"fat":0.1,"saturated_fat":0,"fiber":2.1,"calories":77,"sodium":6,"ingredient_id":35,"created_at":"2020-04-15T07:03:17.249Z","updated_at":"2020-04-15T07:03:17.249Z"}},{"id":27,"measure":"mililitros","value":"250","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg","name":"tomate frito","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":282,"usda_ndb_no":6931,"usda_shrt_desc":"SAUCE,PASTA,SPAGHETTI/MARINARA,RTS","carbohydrates":7.4,"sugars":4.9,"proteins":1.4,"fat":1.6,"saturated_fat":0.2,"fiber":1.8,"calories":50,"sodium":437,"ingredient_id":27,"created_at":"2020-04-15T07:03:19.517Z","updated_at":"2020-04-15T07:03:19.517Z"}},{"id":55,"measure":"gramos","value":"250","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg","name":"carne picada","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":56,"usda_ndb_no":13047,"usda_shrt_desc":"BEEF,GRASS-FED,GROUND,RAW","carbohydrates":0,"sugars":0,"proteins":19.4,"fat":12.7,"saturated_fat":5.3,"fiber":0,"calories":198,"sodium":68,"ingredient_id":55,"created_at":"2020-04-15T07:03:13.527Z","updated_at":"2020-04-15T07:03:13.527Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":21,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":8,"measure":"unidades","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}}],"steps":[{"name":"Comienza preparando el puré de patata. Para ello debes pelar las patatas y cortarlas en rodajas o trozos finos. Luego, vierte agua en una olla y, cuando comience a hervir añades un poco de sal al agua. Vierte las rodajas o trozos de patata a la olla y deja que se cocinen durante 10-15 minutos. Cuando los trozos de patata estén blanditos apaga el fuego, escurre y aplástalos con un tenedor. Opcionalmente para mejorar el puré, puedes añadir un poquito de margarina o mantequilla al puré y un poquito de leche (de vaca o vegetal) al mismo, y mezclar estos ingredientes con las patatas.","priority":0},{"name":"Mientras se cuecen las patatas aprovecha para pelar y cortar en trozos muy pequeños la zanahoria. También pica el diente de ajo y la cebolla.","priority":1},{"name":"En una sartén amplia echa un chorrito de aceite de oliva y sofríe las verduras que acabas de picar: zanahoria, cebolla y el ajo. Sofríe las verduras a fuego medio durante 10 minutos, hasta que las veas blanditas. Añade entones la carne picada, a la que previamente debes ponerle un poquito de sal y pimienta, y saltea la carne junto con las verduras hasta que la carne deje de estar rosada.","priority":2},{"name":"Añade a la sartén la salsa de tomate y cocina a fuego suave durante 10 minutos.","priority":3},{"name":"En un recipiente apto para horno vierte la carne pica y sobre la misma colocas sobre la misma el puré de patata. Puedes terminar añadiendo un poco de queso por encima y meter al horno, posición gratinado, apenas un par de minutos, hasta que veas que el queso se ha fundido.","priority":4}]}]
+[
+  {
+    "id": "pasta-con-ternera-espinacas-y-champinones",
+    "name": "Pasta con Ternera, Espinacas y Champiñones",
+    "type": "Carne",
+    "description": "\n    ¿Tienes algún filete de ternera por la nevera y no se te ocurre nada original que hacer? Pues si lo combinas con algunas verduras y con alguna pasta corta te puede quedar un plato de lujo.\n",
+    "image_alt_tag": "Pasta con Ternera, Espinacas y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-ternera-espinacas-y-champinones/900/pasta-con-ternera-espinacas-y-champinones.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg",
+        "name": "filete de ternera",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la carne en tiras, trozos o como te resulte más agradable.",
+        "priority": 0
+      },
+      {
+        "name": "Pica los pimientos y la cebolla en tiras finas. Lava las espinacas y, por último, lava y corta en láminas los champiñones.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia vierte el aceite de oliva. Cuando esté caliente vierte la cebolla, el pimiento y los champiñones, y saltea a fuego suave durante 5 minutos hasta que los ingredientes queden muy blanditos.",
+        "priority": 2
+      },
+      {
+        "name": "A continuación vierte en la sartén la carne, sube un poco el fuego, y saltéala junto con las verduras a fuego medio apenas un par de minutos, no más.",
+        "priority": 3
+      },
+      {
+        "name": "Añade ahora a la sartén el tomate triturado, un poco de sal, baja la intensidad del fuego y pon tapa a la sartén. Cocina a fuego suave durante 15-20 minutos. Echa un ojo de vez en cuando para comprobar que no se te \"resecan\" los ingredientes. En su caso añade un poquito de agua. 5 minutos antes de que pasen los 20 minutos vierte a la sartén las espinacas.",
+        "priority": 4
+      },
+      {
+        "name": "Mientras se cocina la carne aprovecha para cocinar la pasta. Echa agua en una olla. Cuando comience a hervir, vierte un poco de sal y la pasta. Cocínala el tiempo que indica las instrucciones de su envase.",
+        "priority": 5
+      },
+      {
+        "name": "En un plato sirve la pasta y coloca sobre la misma la carne cocinada.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "macarrones-cremosos-con-carne",
+    "name": "Macarrones Cremosos con Carne",
+    "type": "Carne",
+    "description": "Si en tu casa la pasta y la carne forman parte de vuestra dieta, sorprende a los tuyos sirviendo esta pasta súper jugosa, gratinada con un montón de queso. No te va a sobrar ¡ni una cucharada!",
+    "image_alt_tag": "Macarrones Cremosos con Carne",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/900/macarrones-cremosos-con-carne.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg",
+        "name": "yogur",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/albahaca.jpg",
+        "name": "albahaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-rallado.jpg",
+        "name": "queso rallado",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "lata pequeña",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/azucar.jpg",
+        "name": "azúcar",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Echa agua en una olla y cocina la pasta el tiempo que indica sus instrucciones. Escúrrela y resérvala, la emplearás más adelante.",
+        "priority": 0
+      },
+      {
+        "name": "Coloca la carne en un recipiente y échale sal y pimienta.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte la carne picada salpimentada y saltéala a fuego medio hasta que quede ligeramente dorada. Retírala y resérvala.",
+        "priority": 2
+      },
+      {
+        "name": "En esa misma sartén, sin necesidad de limpiarla, vierte los ajos picados finamente y sofríelos a fuego medio con cuidado de no quemarlos (si necesitas un poquito más de aceite añádelo). Cuando los ajos estén dorados añade el tomate triturado a la sartén, un poco de sal y de azúcar, y cocina a fuego medio durante 10 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado ese tiempo añade la albahaca y el yogur. Mezcla y cocina a fuego suave durante varios minutos más. Comprueba que el punto de sal es el correcto y, en su caso, rectifica.",
+        "priority": 4
+      },
+      {
+        "name": "Vierte en la sartén la carne que tenías reservada y mezcla con la salsa.",
+        "priority": 5
+      },
+      {
+        "name": "Cuando la carne esté bien impregnada de la salsa, añade la pasta que tienes reservada y mezcla de nuevo todos los ingredientes.",
+        "priority": 6
+      },
+      {
+        "name": "Vierte lo anterior a una bandeja apta para horno, esparce abundante queso rallado por encima y mete a gratinar varios minutos. Cuando veas el queso fundido y gratinado a tu gusto puedes servirlo en tu mesa.",
+        "priority": 7
+      }
+    ]
+  },
+  {
+    "id": "macarrones-con-calabacin-y-carne-picada",
+    "name": "Macarrones con Calabacín y Carne Picada",
+    "type": "Carne",
+    "description": "\n    Si te apetece comer hoy plato único y además te apetece pasta ¿cómo ves la receta que te hemos preparado? Especialmente hecha para ti. ¡Disfrútala!\n",
+    "image_alt_tag": "Macarrones con Calabacín y Carne Picada",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-calabacin-y-carne-picada/900/macarrones-con-calabacin-y-carne-picada.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.75",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Calienta agua en una cazuela y cuando rompa a hervir vierte los macarrones. Cuece la pasta el tiempo que indica las instrucciones.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el calabacín y córtalo en trozos no muy grandes. También pica media cebolla y un diente de ajo.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente sofríe el diente de ajo a fuego medio con cuidado de que no se queme. Añade ahora la carne picada, previamente salpimentada. Saltea a fuego medio durante 2-3 minutos. Apaga el fuego y reserva la carne.",
+        "priority": 2
+      },
+      {
+        "name": "En esa misma sartén, añadiendo un poco más de aceite de oliva si lo ves necesario, sofríe la cebolla durante un par de minutos a fuego medio. Añade a la sartén los dados de calabacín y echa un poco de sal a la verduras. Cocina a fuego medio durante 6-7 minutos, hasta que las verduras estén blandas.",
+        "priority": 3
+      },
+      {
+        "name": "Cuando las verduras estén blanditas añade la carne picada y mezcla los ingredientes.",
+        "priority": 4
+      },
+      {
+        "name": "Incorpora a la sartén los macarrones, revuelve y deja que se integren los sabores durante un par de minutos al fuego. ¡Ya puedes servir tus macarrones a la mesa!",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias",
+    "name": "Lomo de Cerdo con Guarnición de Patatas y Zanahorias",
+    "type": "Carne",
+    "description": "\n    Hoy te traemos una receta de lomo de cerdo muy sencilla y sabrosa que te va a resultar estupenda para cocinar y marcarte un platazo sin mucho esfuerzo. ¿Te apetece probarla?\n",
+    "image_alt_tag": "Lomo de Cerdo con Guarnición de Patatas y Zanahorias",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias/900/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias.jpg",
+    "total_time": 45,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lomo-de-cerdo.jpg",
+        "name": "lomo de cerdo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "mililitros",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/vino-blanco.jpg",
+        "name": "vino blanco",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela las patatas y las zanahorias y corta ambos ingredientes en rodajas no muy gruesas.",
+        "priority": 0
+      },
+      {
+        "name": "Sobre un recipiente de horno coloca las patatas y las zanahorias que acabas de cortar y riégalo con un poco de aceite y sal. Mete en el horno a 200ºC durante 10 minutos, removiendo de vez en cuando.",
+        "priority": 1
+      },
+      {
+        "name": "Mientras las patatas y las zanahorias comienzan a hacerse, aprovecha para limpiar el lomo de cerdo. Con un cuchillo quítale los trozos de grasa que pueda tener y asegúrate de que queda limpio y atractivo. Colócalo sobre una tabla y échale sal y pimienta por todos lados.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén con un poco de aceite de oliva sella el lomo de cerdo. No es necesario que se haga, sólo que se haga por fuera. Vé dándole vueltas hasta lograr que se selle por todos los lados.",
+        "priority": 3
+      },
+      {
+        "name": "Cuando hayan pasado los 10 minutos abre el horno, saca el recipiente y coloca en el mismo el lomo de cerdo sellado. Con una espátula vierte el aceite y jugos de la sartén donde has sellado el lomo y vierte también el vino blanco. Aprovecha para remover las patatas y las zanahorias.",
+        "priority": 4
+      },
+      {
+        "name": "Mete en el horno 20 minutos. De vez en cuando puedes dar alguna vuelta a la guarnición (patatas y zanahorias) para asegurarte que se cocinan bien.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "arroz-frito-con-ternera",
+    "name": "Arroz Frito con Ternera",
+    "type": "Carne",
+    "description": "\n    Arroz frito, lleno de sabor y con toques asiáticos... ¡qué rico! ¿Quieres la receta? Pues sigue leyendo y ¡ponte el delantal!\n",
+    "image_alt_tag": "Arroz Frito con Ternera",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/900/arroz-frito-con-ternera.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg",
+        "name": "puerro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg",
+        "name": "filete de ternera",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava el puerro y córtalo en rodajas finas.",
+        "priority": 0
+      },
+      {
+        "name": "Lava y pela las zanahorias. Córtalas en trozos pequeños.",
+        "priority": 1
+      },
+      {
+        "name": "Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y, pasado este tiempo, añade en este momento el puerro y la zanahoria cortada en trozos a la olla. Después baja el fuego y cocina a fuego lento 8 minutos más. Si ves que se ha absorbido el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 2
+      },
+      {
+        "name": "Bate el huevo y, en una sartén con un poco de aceite de oliva, cocina el huevo dándole forma de tortilla. A continuación colócala sobre una tabla y córtala en trozos pequeños.",
+        "priority": 3
+      },
+      {
+        "name": "En esa misma sartén echa un poquito de aceite de oliva y cocina a la plancha los filetes de ternera. Una vez estén listos colócalos sobre la tabla y córtala en trozos pequeños.",
+        "priority": 4
+      },
+      {
+        "name": "Mezcla la tortilla y la carne cortada en trozos con el arroz con verduras que has cocinado. Una vez esté mezclado saltéalo en una sartén añadiéndole la salsa de soja. Cuando el arroz esté frito apaga el fuego y sírvelo en la mesa.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "tacos-de-carne-con-pimiento-rojo",
+    "name": "Tacos de Carne con Pimiento Rojo",
+    "type": "Carne",
+    "description": "¡Levanta la mano si eres fan de la comida mexicana! ¡Lo sabíamos, sabíamos que te encanta! Por eso te hemos traído estos tacos rellenos de carne facilísimos de hacer que están absolutamente deliciosos. Funcionan para cualquier día de la semana porque apetecen ¡siempre!",
+    "image_alt_tag": "Tacos de Carne con Pimiento Rojo",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-carne-con-pimiento-rojo/900/tacos-de-carne-con-pimiento-rojo.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "6",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/tortilla-de-maiz.jpg",
+        "name": "tortilla de maíz",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate frito",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pica el ajo finamente, y corta en trozos pequeños la cebolla y el pimiento rojo. ",
+        "priority": 0
+      },
+      {
+        "name": "Echa un poco de aceite en una sartén. Cuando esté caliente vierte el diente del ajo y sofríelo a fuego medio durante medio minuto.",
+        "priority": 1
+      },
+      {
+        "name": "A continuación añade a la sartén la cebolla y el pimiento rojo, y deja que las verduras se cocinen durante 5 minutos a fuego medio. ",
+        "priority": 2
+      },
+      {
+        "name": "Agrega la carne picada y echa un poco de sal y de pimienta a todo. Saltea durante 5 minutos aproximadamente, revolviendo de vez en cuando.",
+        "priority": 3
+      },
+      {
+        "name": "Añade la salsa de tomate, baja el fuego al mínimo y deja que se cocinen los ingredientes durante 3-4 minutos más.",
+        "priority": 4
+      },
+      {
+        "name": "Calienta cada tortilla y rellénala con la carne que acabas de preparar.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "pimientos-rellenos-de-lentejas-y-carne-picada",
+    "name": "Pimientos Rellenos de Lentejas y Carne Picada",
+    "type": "Carne",
+    "description": "Seguro que te ha pasado alguna vez que compras pimientos y luego no sabes qué hacer con ellos. Si estás en esa situación mira estos pimientos rellenos de lentejas y carne que hemos preparado. Ricos, sabrosos y nutritivos. ¡Perfectos!",
+    "image_alt_tag": "Pimientos Rellenos de Lentejas y Carne Picada",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pimientos-rellenos-de-lentejas-y-carne-picada/900/pimientos-rellenos-de-lentejas-y-carne-picada.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-amarillo.jpg",
+        "name": "pimiento amarillo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lentejas.jpg",
+        "name": "lenteja en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate frito",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En un pequeño cuenco vierte dos cucharadas de aceite y una pizca de sal. Remueve.",
+        "priority": 0
+      },
+      {
+        "name": "Lava los pimientos y córtales la parte de arriba. Vacíalos de las semillas que puedan tener y colócalos sobre una bandeja forrada con papel de horno. Rocíalos con el aceite y sal que acabas de preparar y mételos en el horno a 180ºC durante 20 minutos.",
+        "priority": 1
+      },
+      {
+        "name": "Mientras se cocinan los pimientos aprovecha para preparar el relleno. Para ello pica finamente un diente de ajo y la cebolla.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén amplia sofríe el ajo y la cebolla picada durante un par de minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Salpimenta la carne picada que tienes y vierte la carne a la sartén. Saltéala durante 1-2 minutos.",
+        "priority": 4
+      },
+      {
+        "name": "Pasado ese tiempo añade las lentejas y saltéalas apenas 1-2 minutos también.",
+        "priority": 5
+      },
+      {
+        "name": "Vierte la salsa de tomate (si es casera mejor que mejor) y revuelve todos los ingredientes. Cocina a fuego suave durante 6-7 minutos.",
+        "priority": 6
+      },
+      {
+        "name": "Cuando los pimientos estén listos sácalos del horno. Con cuidado de no romperlos (porque están blandos y calientes) colócalos sobre un plato y rellénalos con el contenido de la sartén. Sirve en la mesa y ¡a comer!",
+        "priority": 7
+      }
+    ]
+  },
+  {
+    "id": "carne-picada-con-berenjenas-y-cuscus",
+    "name": "Carne Picada con Berenjenas y Cuscús",
+    "type": "Carne",
+    "description": "\n    Saca partido a esa carne picada que compraste el otro día, saltéala con algunas verduras y acompáñala con cuscús y verás qué rico plato te queda. ¡Sencillo y sabroso!\n",
+    "image_alt_tag": "Carne Picada con Berenjenas y Cuscús",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/carne-picada-con-berenjenas-y-cuscus/900/carne-picada-con-berenjenas-y-cuscus.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg",
+        "name": "berenjena",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1544563983/ingredients/cuscus.jpg",
+        "name": "cuscús",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "220",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando los ingredientes de la siguiente manera. Lava la berenjena y córtala en trozos no muy gruesos. Lava, pela los tomates y pícalos muy finamente. También pica muy finamente un diente de ajo.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén con un poco de aceite de oliva fríe el ajo picado. Mientras se cocina, echa un poco de sal y pimienta a la carne, y a continuación añádela a la sartén. Saltéala durante 1-2 minutos y retírala del fuego. Colócala en un plato y resérvala porque más adelante la necesitarás.",
+        "priority": 1
+      },
+      {
+        "name": "En esa misma sartén y sin necesidad de limpiarla, echa un poquito más de aceite de oliva y otro diente de ajo picado. Una vez esté dorado el ajo añade las berenjenas a la sartén y saltéalas durante varios minutos, hasta que ablanden un poco.",
+        "priority": 2
+      },
+      {
+        "name": "Vierte ahora el tomate cortado en trozos muy pequeños, el comino, una pizca de sal y, si te apetece, una pimienta cayena. Con una cuchara de madera mezcla las berenjenas y el tomate de manera que queden bien integradas. Deja que los ingredientes se cocinen durante 5 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Añade a la sartén la carne picada que tienes reservada y mézclala con las verduras.",
+        "priority": 4
+      },
+      {
+        "name": "Pon a hervir una taza de agua con un poco de sal y chorrito de aceite de oliva. Antes de que rompa a hervir, añade la taza de cuscús y apaga el fuego. Déjalo reposar hasta que se hidrate.",
+        "priority": 5
+      },
+      {
+        "name": "En un plato coloca el cuscús y vierte sobre el cuscús la carne picada con verduras.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "pastel-de-carne-con-pure-de-patata",
+    "name": "Pastel de Carne con Puré de Patata",
+    "type": "Carne",
+    "description": "\n    No te rompas la cabeza con la comida de hoy, te lo ponemos fácil. Con esta receta de pastel de carne con puré de patata triunfarás en casa y alimentarás de maravilla a tu familia. ¡Disfrútalo!\n",
+    "image_alt_tag": "Pastel de Carne con Puré de Patata",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastel-de-carne-con-pure-de-patata/900/pastel-de-carne-con-pure-de-patata.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "mililitros",
+        "value": "250",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate frito",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando el puré de patata. Para ello debes pelar las patatas y cortarlas en rodajas o trozos finos. Luego, vierte agua en una olla y, cuando comience a hervir añades un poco de sal al agua. Vierte las rodajas o trozos de patata a la olla y deja que se cocinen durante 10-15 minutos. Cuando los trozos de patata estén blanditos apaga el fuego, escurre y aplástalos con un tenedor. Opcionalmente para mejorar el puré, puedes añadir un poquito de margarina o mantequilla al puré y un poquito de leche (de vaca o vegetal) al mismo, y mezclar estos ingredientes con las patatas.",
+        "priority": 0
+      },
+      {
+        "name": "Mientras se cuecen las patatas aprovecha para pelar y cortar en trozos muy pequeños la zanahoria. También pica el diente de ajo y la cebolla.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un chorrito de aceite de oliva y sofríe las verduras que acabas de picar: zanahoria, cebolla y el ajo. Sofríe las verduras a fuego medio durante 10 minutos, hasta que las veas blanditas. Añade entones la carne picada, a la que previamente debes ponerle un poquito de sal y pimienta, y saltea la carne junto con las verduras hasta que la carne deje de estar rosada.",
+        "priority": 2
+      },
+      {
+        "name": "Añade a la sartén la salsa de tomate y cocina a fuego suave durante 10 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "En un recipiente apto para horno vierte la carne pica y sobre la misma colocas sobre la misma el puré de patata. Puedes terminar añadiendo un poco de queso por encima y meter al horno, posición gratinado, apenas un par de minutos, hasta que veas que el queso se ha fundido.",
+        "priority": 4
+      }
+    ]
+  }
+]

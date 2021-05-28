@@ -1,55 +1,45 @@
-/* You can add global styles to this file, and also import other style files */
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
-
-/** colors **/
-$orange: #FE9166;
-$red: #FF5B5C;
-$light-orange: rgba($orange, .2);
-$light-red: rgba($red, .8);
-$black: #000;
-$white: #fff;
-$light-gray: #ddd;
-$medium-gray: #c4c4c4;
-
-/** font **/
-$font: 'Quicksand', sans-serif;
-
-/** utilities **/
-$box-shadow: 0px 10px 15px rgba($black, 0.1);
-$small-shadow: 0 2px 4px $light-gray;
-$border-radius-big: 30px;
-
-/********  end of variables ********/
+@use "./variables" as *;
 
 * { box-sizing: border-box; }
-html { font-size: 16px; }
+html { font-size: 10px; }
 
 body {
   font-family: $font;
-  font-size: 1rem;
+  font-size: 1.6rem;
   font-weight: 300;
 }
 
-nav {
-    background: $orange;
+.red-bg {
+    background: $red;
     color: $white;
-    border-radius: 50px;
-    margin: 0 15px 30px;
 
-    display: grid;
-    grid-template-columns: repeat(4, 50px);
-
-    justify-content: space-around;
-    text-align: center;
-    padding: 10px;
-
-    div {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+    &:active { 
+        color: $white;
+        background: $orange; 
     }
+}
+
+h2, h3 { 
+    font-weight: 600;
+    margin: 1.6rem;
+}
+
+h2 { 
+    color: $red;
+    text-align: center;
+    font-size: 2.8rem;
+}
+
+h3 { 
+    color: $black;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+p { margin: .8rem 0; }
+
+.diff {
+    &.low { @include difficulty-stars(1); }
+    &.medium { @include difficulty-stars(2); }
+    &.high { @include difficulty-stars(3); }
 }

@@ -1,1 +1,939 @@
-[{"id":"espaguetis-con-coliflor-y-queso-azul","name":"Espaguetis con Coliflor y Queso Azul","type":"recipe","rate":"0.0","description":"¿Se te había ocurrido alguna vez combinar coliflor, queso azul y pasta? ¡Ya estás tardando! Porque esta combinación resulta tan original y sorprendente como sabrosa. ","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-coliflor-y-queso-azul/900/espaguetis-con-coliflor-y-queso-azul.jpg"],"image_title":"Espaguetis con Coliflor y Queso Azul","image_alt_tag":"Espaguetis con Coliflor y Queso Azul","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-coliflor-y-queso-azul/900/espaguetis-con-coliflor-y-queso-azul.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-coliflor-y-queso-azul/600/espaguetis-con-coliflor-y-queso-azul.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-coliflor-y-queso-azul/300/espaguetis-con-coliflor-y-queso-azul.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-coliflor-y-queso-azul/100/espaguetis-con-coliflor-y-queso-azul.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":189,"folders_ids":[],"like_count":10,"new":false,"liked":null,"favorited":null,"object_id":2627,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":8,"tags":["espaguetis","pastas","20 minutos o menos","vegetariano","queso azul","coliflor"],"tip":"<p>Esta pasta debe comerse en el momento pues si la dejas para más tarde la salsa de queso perderá su textura original.</p>","meta_description":"¿Se te había ocurrido alguna vez combinar coliflor, queso azul y pasta? ¡Ya estás tardando! Porque esta combinación resulta tan original y sorprendente como sabrosa. ","meta_title":"recetas con coliflor - pasta con coliflor- pasta con coliflor y queso azul | Nooddle\n","published_at":"2021-05-13","views_count":4,"total_time_iso8601":"PT20M","rate_count":0,"cooked_date":null,"nutritional_balance":{"id":7954,"proteins":22.40143369175627,"veg_and_fruits":52.99539170506912,"grains":23.04147465437788,"total_weight_in_grams":781.2,"recipe_id":2627,"created_at":"2021-05-13T04:02:39.433Z","updated_at":"2021-05-13T04:02:39.433Z"},"author":null,"ingredients":[{"id":91,"measure":"gramos","value":"400","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/coliflor.jpg","name":"coliflor","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":400,"main_unit_grams_en":400,"grams":1,"nutrition":{"id":85,"usda_ndb_no":11135,"usda_shrt_desc":"CAULIFLOWER,RAW","carbohydrates":5,"sugars":1.9,"proteins":1.9,"fat":0.3,"saturated_fat":0.1,"fiber":2,"calories":25,"sodium":30,"ingredient_id":91,"created_at":"2020-04-15T07:03:14.101Z","updated_at":"2020-04-15T07:03:14.101Z"}},{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":220,"measure":"gramos","value":"180","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/espagueti.jpg","name":"espagueti","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":100,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":220,"created_at":"2020-04-15T07:03:14.593Z","updated_at":"2020-04-15T07:03:14.593Z"}},{"id":106,"measure":"gramos","value":"100","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-azul.jpg","name":"queso azul","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":228,"usda_ndb_no":1004,"usda_shrt_desc":"CHEESE,BLUE","carbohydrates":2.3,"sugars":0.5,"proteins":21.4,"fat":28.7,"saturated_fat":18.7,"fiber":0,"calories":353,"sodium":1146,"ingredient_id":106,"created_at":"2020-04-15T07:03:17.918Z","updated_at":"2020-04-15T07:03:17.918Z"}},{"id":57,"measure":"cucharadas","value":"3","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg","name":"leche","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":15,"nutrition":{"id":143,"usda_ndb_no":1077,"usda_shrt_desc":"MILK,WHL,3.25% MILKFAT,W/ ADDED VITAMIN D","carbohydrates":4.8,"sugars":5.1,"proteins":3.2,"fat":3.3,"saturated_fat":1.9,"fiber":0,"calories":61,"sodium":43,"ingredient_id":57,"created_at":"2020-04-15T07:03:16.019Z","updated_at":"2020-04-15T07:03:16.019Z"}},{"id":77,"measure":"gramos","value":"30","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-parmesano.jpg","name":"queso parmesano","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":242,"usda_ndb_no":1033,"usda_shrt_desc":"CHEESE,PARMESAN,HARD","carbohydrates":3.2,"sugars":0.8,"proteins":35.8,"fat":25.8,"saturated_fat":16.4,"fiber":0,"calories":392,"sodium":1376,"ingredient_id":77,"created_at":"2020-04-15T07:03:18.198Z","updated_at":"2020-04-15T07:03:18.198Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}}],"steps":[{"name":"En una cazuela calienta agua y cuando rompa a hervir cuece la pasta el tiempo que indica sus instrucciones. Resérvala.","priority":0},{"name":"Lava la coliflor y córtala en ramilletes. ","priority":1},{"name":"Pon a hervir agua en una olla con un poquito de sal y cuece los ramilletes de coliflor apenas 5-6 minutos. Pasado ese tiempo retíralos y escúrrelos del agua. ","priority":2},{"name":"Calienta un poco de aceite en una sartén. Añade el ajo cortado en láminas y cocínalo a fuego medio durante varios minutos con cuidado de que no se queme. Añade los trozos de coliflor y cocínala durante 5 minutos removiéndola de vez en cuando.","priority":3},{"name":"Añade a la sartén los espaguetis y mézclalos con la coliflor. Baja el fuego y deja que se integren los sabores durante un par de minutos.","priority":4},{"name":"Mientras aprovecha para preparar la salsa. En una sartén coloca el queso azul cortado en trozos y la leche. Ponlo a fuego medio, poco a poco el queso se irá derritiendo hasta hacerse una salsa. ","priority":5},{"name":"Añade la salsa de queso a la sartén que contiene la pasta y la coliflor y sirve la pasta con un poco de queso parmesano rallado por encima. ¡A comer!","priority":6}]},{"id":"ensalada-de-pasta-con-alubias-negras","name":"Ensalada de Pasta con Alubias Negras ","type":"recipe","rate":"4.0","description":"Si la pasta es parte de tu dieta, anímate a prepararte esta nutritiva ensalada de orzo acompañada de legumbres y verduras. Una combinación de ingredientes maravillosa que te resultará muy rica al paladar. ¡A por ella!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-alubias-negras/900/ensalada-de-pasta-con-alubias-negras.jpg"],"image_title":"Ensalada de Pasta con Alubias Negras ","image_alt_tag":"Ensalada de Pasta con Alubias Negras ","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-alubias-negras/900/ensalada-de-pasta-con-alubias-negras.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-alubias-negras/600/ensalada-de-pasta-con-alubias-negras.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-alubias-negras/300/ensalada-de-pasta-con-alubias-negras.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-alubias-negras/100/ensalada-de-pasta-con-alubias-negras.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":572,"folders_ids":[],"like_count":183,"new":false,"liked":null,"favorited":null,"object_id":2449,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["pasta","alubia negra","tupper","fitness","pimiento rojo","mexicano","ensaladas y bowls","20 minutos o menos"],"tip":"<p>Añade cilantro picado y un poco de picante, y alucina con la ensalada que te va a quedar.</p>","meta_description":"Si la pasta es parte de tu dieta, anímate a prepararte esta nutritiva ensalada de orzo acompañada de legumbres y verduras. Una combinación de ingredientes maravillosa que te resultará muy rica al paladar. ¡A por ella!","meta_title":"ensalada de frijoles - recetas con pasta - recetas fitness | Nooddle\n","published_at":"2021-03-19","views_count":5,"total_time_iso8601":"PT20M","rate_count":4,"cooked_date":null,"nutritional_balance":{"id":7740,"proteins":35.47896604156108,"veg_and_fruits":32.35343808075689,"grains":32.10001689474574,"total_weight_in_grams":591.9,"recipe_id":2449,"created_at":"2021-03-23T09:32:30.823Z","updated_at":"2021-03-23T09:32:30.823Z"},"author":null,"ingredients":[{"id":16,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg","name":"pimiento rojo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":85,"main_unit_grams_en":85,"grams":85,"nutrition":{"id":217,"usda_ndb_no":11821,"usda_shrt_desc":"PEPPERS,SWT,RED,RAW","carbohydrates":6,"sugars":4.2,"proteins":1,"fat":0.3,"saturated_fat":0,"fiber":2.1,"calories":31,"sodium":4,"ingredient_id":16,"created_at":"2020-04-15T07:03:17.681Z","updated_at":"2020-04-15T07:03:17.681Z"}},{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":43,"measure":"gramos","value":"120","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg","name":"pasta","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":202,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":43,"created_at":"2020-04-15T07:03:17.235Z","updated_at":"2020-04-15T07:03:17.235Z"}},{"id":454,"measure":"bote pequeño","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1593728055/ingredients/alubia-negra.jpg","name":"alubia negra","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":210,"nutrition":{"id":761,"usda_ndb_no":16015,"usda_shrt_desc":"BEANS,BLACK,MATURE SEEDS,CKD,BLD,WO/SALT","carbohydrates":23.7,"sugars":0.3,"proteins":8.9,"fat":0.5,"saturated_fat":0.1,"fiber":8.7,"calories":132,"sodium":1,"ingredient_id":454,"created_at":"2020-07-03T13:31:04.456Z","updated_at":"2020-07-03T13:31:04.456Z"}},{"id":44,"measure":"gramos","value":"70","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg","name":"maíz","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":162,"usda_ndb_no":11168,"usda_shrt_desc":"CORN,SWT,YEL,CKD,BLD,DRND,WO/SALT","carbohydrates":21,"sugars":4.5,"proteins":3.4,"fat":1.5,"saturated_fat":0.2,"fiber":2.4,"calories":96,"sodium":1,"ingredient_id":44,"created_at":"2020-04-15T07:03:16.422Z","updated_at":"2020-04-15T07:03:16.422Z"}},{"id":6,"measure":"pizcas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}}],"steps":[{"name":"Cuando las verduras estén tiernas añade las alubias cocidas a la sartén y el maíz, y saltea durante varios minutos.","priority":3},{"name":"Vierte en la sartén la pasta que has preparado y mezcla con los ingredientes. Deja en el fuego apenas 1 minuto y sirve en tu plato. ","priority":4},{"name":"Calienta agua en un cazo y cuando hierva cuece la pasta el tiempo que indica sus instrucciones.","priority":0},{"name":"Pica la cebolla y corta el pimiento rojo en trozos. También, escurre las alubias y el maíz de sus respectivos botes y pásalos por agua.","priority":1},{"name":"A continuación, en una sartén amplia echa un poco de aceite de oliva y sofríe la cebolla y el pimiento que acabas de cortar.","priority":2}]},{"id":"macarrones-con-pollo-al-ajillo-y-espinacas","name":"Macarrones con Pollo al Ajillo y Espinacas","type":"recipe","rate":"4.8235294117647059","description":"¿Buscas un plato de pasta completo, sencillo y súper rico? ¡Anímate con estos macarrones con pollo al ajillo y descubre una forma riquísima de incluir verdura y nutrientes en tus platos favoritos!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-pollo-al-ajillo-y-espinacas/900/macarrones-con-pollo-al-ajillo-y-espinacas.jpg"],"image_title":"Macarrones con Pollo al Ajillo y Espinacas","image_alt_tag":"Macarrones con Pollo al Ajillo y Espinacas","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-pollo-al-ajillo-y-espinacas/900/macarrones-con-pollo-al-ajillo-y-espinacas.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-pollo-al-ajillo-y-espinacas/600/macarrones-con-pollo-al-ajillo-y-espinacas.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-pollo-al-ajillo-y-espinacas/300/macarrones-con-pollo-al-ajillo-y-espinacas.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-pollo-al-ajillo-y-espinacas/100/macarrones-con-pollo-al-ajillo-y-espinacas.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":1879,"folders_ids":[],"like_count":616,"new":false,"liked":null,"favorited":null,"object_id":2531,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":6,"tags":["Pechuga de pollo","pastas","tupper","ajo","20 minutos o menos","con niños"],"tip":"<p>Para dar más sabor puedes añadir una cucharita de ajo en polvo y una pizca de pimienta negra al pollo antes de echarlo en la sartén.</p><p>También puedes añadir orégano seco, albahaca seca o tus especias favoritas cuando ya hayas añadido los ajos a la sartén para potenciar el sabor.</p><p>Si quieres puedes servir el plato con un poco de queso rallado y salsa de tomate.</p>","meta_description":"¿Buscas un plato de pasta completo, sencillo y súper rico? ¡Anímate con estos macarrones con pollo al ajillo y descubre una forma riquísima de incluir verdura y nutrientes en tus platos favoritos!","meta_title":"recetas de pasta con pollo - recetas fáciles | Nooddle\n","published_at":"2021-03-26","views_count":11,"total_time_iso8601":"PT20M","rate_count":17,"cooked_date":null,"nutritional_balance":{"id":7755,"proteins":42.77159965782721,"veg_and_fruits":23.95209580838324,"grains":30.79555175363559,"total_weight_in_grams":584.5,"recipe_id":2531,"created_at":"2021-03-26T08:36:06.950Z","updated_at":"2021-03-26T08:36:06.950Z"},"author":null,"ingredients":[{"id":29,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg","name":"pechuga de pollo","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":250,"main_unit_grams_en":250,"grams":250,"nutrition":{"id":207,"usda_ndb_no":5057,"usda_shrt_desc":"CHICKEN,BROILERS OR FRYERS,BREAST,MEAT&SKN,RAW","carbohydrates":0,"sugars":0,"proteins":20.9,"fat":9.3,"saturated_fat":2.7,"fiber":0,"calories":172,"sodium":63,"ingredient_id":29,"created_at":"2020-04-15T07:03:17.351Z","updated_at":"2020-04-15T07:03:17.351Z"}},{"id":221,"measure":"tazas","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg","name":"espinaca","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":35,"nutrition":{"id":103,"usda_ndb_no":11457,"usda_shrt_desc":"SPINACH,RAW","carbohydrates":3.6,"sugars":0.4,"proteins":2.9,"fat":0.4,"saturated_fat":0.1,"fiber":2.2,"calories":23,"sodium":79,"ingredient_id":221,"created_at":"2020-04-15T07:03:14.674Z","updated_at":"2020-04-15T07:03:14.674Z"}},{"id":4,"measure":"dientes","value":"10","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":6,"measure":"cucharadita","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":43,"measure":"gramos","value":"180","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg","name":"pasta","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":202,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":43,"created_at":"2020-04-15T07:03:17.235Z","updated_at":"2020-04-15T07:03:17.235Z"}}],"steps":[{"name":"Cuece la pasta según las instrucciones del paquete.","priority":0},{"name":"Pela y trocea los ajos en rodajas y reserva.","priority":1},{"name":"Trocea la pechuga de pollo en tacos y ponles una pizca de sal.","priority":2},{"name":"En una sartén, pon un chorrito de aceite de oliva a calentar y añade el pollo troceado. ","priority":3},{"name":"En 1-2 minutos el pollo se pondrá blanco por fuera, cuando ocurra, añade los ajos y saltea todo junto durante de 5 minutos, hasta que el pollo y el ajo estén dorados.","priority":4},{"name":"Cuando la pasta esté lista, escúrrela y mézclala con el salteado de ajo y pollo. Añade las espinacas y remueve bien para que se ablanden con el calor de la pasta.","priority":5},{"name":"Ajusta la sal si lo consideras necesario y ¡a comer!","priority":6}]},{"id":"noquis-con-parmesano","name":"Ñoquis con Parmesano","type":"recipe","rate":"4.4","description":"¿Te apetece algo fácil pero a la vez rico y nutritivo? Estos simples ñoquis de patata con queso parmesano se preparan en pocos minutos y están muy sabrosos.","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noquis-con-parmesano/900/noquis-con-parmesano.jpg"],"image_title":"Ñoquis con Parmesano","image_alt_tag":"Ñoquis con Parmesano","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noquis-con-parmesano/900/noquis-con-parmesano.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noquis-con-parmesano/600/noquis-con-parmesano.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noquis-con-parmesano/300/noquis-con-parmesano.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noquis-con-parmesano/100/noquis-con-parmesano.jpg","width":100}],"premium":false,"total_time":15,"dificulty":null,"saved_count":373,"folders_ids":[],"like_count":150,"new":false,"liked":null,"favorited":null,"object_id":2463,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":8,"tags":["ñoqui","orégano","pastas","queso parmesano","vegetariano"],"tip":"","meta_description":"¿Te apetece algo fácil pero a la vez rico y nutritivo? Estos simples ñoquis de patata con queso parmesano se preparan en pocos minutos y están muy sabrosos.","meta_title":"recetas de ñoquis - recetas vegetarianas | Nooddle\n","published_at":"2021-03-08","views_count":1,"total_time_iso8601":"PT15M","rate_count":5,"cooked_date":null,"nutritional_balance":{"id":7671,"proteins":18.95277867009316,"veg_and_fruits":0,"grains":80.30838419531,"total_weight_in_grams":311.3,"recipe_id":2463,"created_at":"2021-03-08T04:01:13.198Z","updated_at":"2021-03-08T04:01:13.198Z"},"author":null,"ingredients":[{"id":31,"measure":"hoja","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/hojas-de-laurel.jpg","name":"hoja de laurel","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.3,"nutrition":{"id":128,"usda_ndb_no":2004,"usda_shrt_desc":"SPICES,BAY LEAF","carbohydrates":75,"sugars":0,"proteins":7.6,"fat":8.4,"saturated_fat":2.3,"fiber":26.3,"calories":313,"sodium":23,"ingredient_id":31,"created_at":"2020-04-15T07:03:15.463Z","updated_at":"2020-04-15T07:03:15.463Z"}},{"id":6,"measure":"pizca","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":15,"measure":"pizca","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":58,"measure":"cucharadita","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mantequilla.jpg","name":"mantequilla","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":4.5,"nutrition":{"id":166,"usda_ndb_no":1001,"usda_shrt_desc":"BUTTER,WITH SALT","carbohydrates":0.1,"sugars":0.1,"proteins":0.9,"fat":81.1,"saturated_fat":51.4,"fiber":0,"calories":717,"sodium":643,"ingredient_id":58,"created_at":"2020-04-15T07:03:16.495Z","updated_at":"2020-04-15T07:03:16.495Z"}},{"id":51,"measure":"cucharadita","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg","name":"orégano","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.5,"nutrition":{"id":195,"usda_ndb_no":2027,"usda_shrt_desc":"SPICES,OREGANO,DRIED","carbohydrates":68.9,"sugars":4.1,"proteins":9,"fat":4.3,"saturated_fat":1.6,"fiber":42.5,"calories":265,"sodium":25,"ingredient_id":51,"created_at":"2020-04-15T07:03:17.045Z","updated_at":"2020-04-15T07:03:17.045Z"}},{"id":110,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/nuez-moscada.jpg","name":"nuez moscada","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":194,"usda_ndb_no":2025,"usda_shrt_desc":"NUTMEG,GROUND","carbohydrates":49.3,"sugars":3,"proteins":5.8,"fat":36.3,"saturated_fat":25.9,"fiber":20.8,"calories":525,"sodium":16,"ingredient_id":110,"created_at":"2020-04-15T07:03:17.030Z","updated_at":"2020-04-15T07:03:17.030Z"}},{"id":77,"measure":"gramos","value":"50","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-parmesano.jpg","name":"queso parmesano","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":242,"usda_ndb_no":1033,"usda_shrt_desc":"CHEESE,PARMESAN,HARD","carbohydrates":3.2,"sugars":0.8,"proteins":35.8,"fat":25.8,"saturated_fat":16.4,"fiber":0,"calories":392,"sodium":1376,"ingredient_id":77,"created_at":"2020-04-15T07:03:18.198Z","updated_at":"2020-04-15T07:03:18.198Z"}},{"id":375,"measure":"gramos","value":"250","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg","name":"ñoqui","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":352,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":375,"created_at":"2020-04-15T07:03:21.853Z","updated_at":"2020-04-15T07:03:21.853Z"}}],"steps":[{"name":"Llena una cazo mediano con agua y llévalo a ebullición. Cuando comience a hervir añade la sal, los ñoquis y la hoja de laurel. Cuando veas que los ñoquis salen a la superficie están listos.","priority":0},{"name":"En un cuenco añade la mantequilla, el orégano, la nuez moscada y los ñoquis bien calientes. El calor de los ñoquis te ayudará a derretir la mantequilla. Mezcla todos los ingredientes y añade el queso parmesano y un poco de pimienta. Mezcla y ¡a comer!","priority":1}]},{"id":"pasta-cremosa-con-coliflor-al-horno","name":"Pasta Cremosa con Coliflor al Horno","type":"recipe","rate":"4.8333333333333333","description":"Aprovecha un trozo de tu coliflor para hacer esta sabrosa y cremosa pasta. Un pasta que va a dejar sorprendido a todos en casa por lo rica y original que es la combinación pasta-coliflor. ¿A que no se lo esperaban?","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-cremosa-con-coliflor-al-horno/900/pasta-cremosa-con-coliflor-al-horno.jpg"],"image_title":"Pasta Cremosa con Coliflor al Horno","image_alt_tag":"Pasta Cremosa con Coliflor al Horno","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-cremosa-con-coliflor-al-horno/900/pasta-cremosa-con-coliflor-al-horno.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-cremosa-con-coliflor-al-horno/600/pasta-cremosa-con-coliflor-al-horno.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-cremosa-con-coliflor-al-horno/300/pasta-cremosa-con-coliflor-al-horno.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-cremosa-con-coliflor-al-horno/100/pasta-cremosa-con-coliflor-al-horno.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":676,"folders_ids":[],"like_count":196,"new":false,"liked":null,"favorited":null,"object_id":2532,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":9,"tags":["coliflor","pastas","al horno","queso rallado","champiñón","macarrón","vegetariano"],"tip":"","meta_description":"Aprovecha un trozo de tu coliflor para hacer esta sabrosa y cremosa pasta. Un pasta que va a dejar sorprendido a todos en casa por lo rica y original que es la combinación pasta-coliflor. ¿A que no se lo esperaban?","meta_title":"recetas de pasta con coliflor - recetas fáciles - recetas originales | Nooddle\n","published_at":"2021-04-05","views_count":1,"total_time_iso8601":"PT25M","rate_count":6,"cooked_date":null,"nutritional_balance":{"id":7804,"proteins":28.32806967173892,"veg_and_fruits":51.91884390850798,"grains":19.14058761603981,"total_weight_in_grams":1044.9,"recipe_id":2532,"created_at":"2021-04-06T04:02:12.153Z","updated_at":"2021-04-06T04:02:12.153Z"},"author":null,"ingredients":[{"id":21,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":53,"measure":"taza","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-rallado.jpg","name":"queso rallado","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":60,"nutrition":{"id":243,"usda_ndb_no":1032,"usda_shrt_desc":"CHEESE,PARMESAN,GRATED","carbohydrates":13.9,"sugars":0.1,"proteins":28.4,"fat":27.8,"saturated_fat":15.4,"fiber":0,"calories":420,"sodium":1804,"ingredient_id":53,"created_at":"2020-04-15T07:03:18.227Z","updated_at":"2020-04-15T07:03:18.227Z"}},{"id":109,"measure":"taza","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/nata-liquida.jpg","name":"nata líquida","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1.4,"main_unit_grams_en":1.4,"grams":352,"nutrition":{"id":192,"usda_ndb_no":1049,"usda_shrt_desc":"CREAM,FLUID,HALF AND HALF","carbohydrates":4.7,"sugars":4.1,"proteins":3.1,"fat":10.4,"saturated_fat":7,"fiber":0,"calories":123,"sodium":61,"ingredient_id":109,"created_at":"2020-04-15T07:03:16.989Z","updated_at":"2020-04-15T07:03:16.989Z"}},{"id":57,"measure":"taza","value":"0.25","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg","name":"leche","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":240,"nutrition":{"id":143,"usda_ndb_no":1077,"usda_shrt_desc":"MILK,WHL,3.25% MILKFAT,W/ ADDED VITAMIN D","carbohydrates":4.8,"sugars":5.1,"proteins":3.2,"fat":3.3,"saturated_fat":1.9,"fiber":0,"calories":61,"sodium":43,"ingredient_id":57,"created_at":"2020-04-15T07:03:16.019Z","updated_at":"2020-04-15T07:03:16.019Z"}},{"id":6,"measure":"pizcas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":91,"measure":"gramos","value":"350","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/coliflor.jpg","name":"coliflor","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":400,"main_unit_grams_en":400,"grams":1,"nutrition":{"id":85,"usda_ndb_no":11135,"usda_shrt_desc":"CAULIFLOWER,RAW","carbohydrates":5,"sugars":1.9,"proteins":1.9,"fat":0.3,"saturated_fat":0.1,"fiber":2,"calories":25,"sodium":30,"ingredient_id":91,"created_at":"2020-04-15T07:03:14.101Z","updated_at":"2020-04-15T07:03:14.101Z"}},{"id":86,"measure":"gramos","value":"100","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg","name":"champiñón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":65,"usda_ndb_no":11260,"usda_shrt_desc":"MUSHROOMS,WHITE,RAW","carbohydrates":3.3,"sugars":2,"proteins":3.1,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":22,"sodium":5,"ingredient_id":86,"created_at":"2020-04-15T07:03:13.678Z","updated_at":"2020-04-15T07:03:13.678Z"}},{"id":243,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg","name":"macarrón","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":160,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":243,"created_at":"2020-04-15T07:03:16.390Z","updated_at":"2020-04-15T07:03:16.390Z"}},{"id":5,"measure":"cucharada","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}}],"steps":[{"name":"En una olla con agua y una pizca de sal, cocina la pasta el tiempo que indica las instrucciones de su envase. Una vez lista, escúrrela.","priority":0},{"name":"Lava y corta la coliflor. Vierte los trozos de coliflor en una olla y cúbrela de agua para cocerla. Echa un poco de sal y ponla al fuego. Cocínala durante aproximadamente 10 minutos. Pasado ese tiempo escúrrela y resérvala.","priority":1},{"name":"Lava y corta en rodajas los champiñones y la cebolla.","priority":2},{"name":"En una sartén algo amplia echa un poco de aceite de oliva. Sofríe a fuego medio los champiñones y la cebolla durante 5 minutos. Echa un poquito de sal y añade la nata y la leche. Revuelve y deja que se cocine a fuego suave durante 5-7 minutos. Pasado ese tiempo tritura con la batidora hasta conseguir una salsa uniforme.","priority":3},{"name":"Mezcla la pasta con la coliflor y viértela en un recipiente apto para horno. Agrega sobre los ingredientes la salsa que acabas de hacer y, con una cuchara, mezcla de forma que la salsa quede bien distribuida.","priority":4},{"name":"Esparce el queso rallado por encima y mete en el horno apenas 5 minutos, hasta que veas que el queso se funde.","priority":5}]},{"id":"pasta-con-verduras","name":"Pasta con Verduras","type":"recipe","rate":"4.9","description":"Esta divertida y sabrosa pasta con verduras puede ser tu comida o cena perfecta para tus próximos días. Compleméntala con tu proteína vegetal o animal favorita y ¡todos a la mesa!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-verduras/900/pasta-con-verduras.jpg"],"image_title":"Pasta con Verduras","image_alt_tag":"Pasta con Verduras","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-verduras/900/pasta-con-verduras.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-verduras/600/pasta-con-verduras.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-verduras/300/pasta-con-verduras.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-verduras/100/pasta-con-verduras.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":2107,"folders_ids":[],"like_count":598,"new":false,"liked":null,"favorited":null,"object_id":2525,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["macarrón","pastas","20 minutos o menos","zanahoria","Calabacín","tomate cherry"],"tip":"","meta_description":"Esta divertida y sabrosa pasta con verduras puede ser tu comida o cena perfecta para tus próximos días. Compleméntala con tu proteína vegetal o animal favorita y ¡todos a la mesa!","meta_title":"recetas de pasta con verduras - recetas de pasta fáciles | Nooddle\n","published_at":"2021-03-15","views_count":8,"total_time_iso8601":"PT20M","rate_count":40,"cooked_date":null,"nutritional_balance":{"id":7703,"proteins":0,"veg_and_fruits":66.2535748331745,"grains":31.77629488401653,"total_weight_in_grams":629.4,"recipe_id":2525,"created_at":"2021-03-15T04:01:49.668Z","updated_at":"2021-03-15T04:01:49.668Z"},"author":null,"ingredients":[{"id":4,"measure":"diente","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":8,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":47,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg","name":"calabacín","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":500,"main_unit_grams_en":500,"grams":500,"nutrition":{"id":47,"usda_ndb_no":11477,"usda_shrt_desc":"SQUASH,SMMR,ZUCCHINI,INCL SKN,RAW","carbohydrates":3.1,"sugars":2.5,"proteins":1.2,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":17,"sodium":8,"ingredient_id":47,"created_at":"2020-04-15T07:03:13.361Z","updated_at":"2020-04-15T07:03:13.361Z"}},{"id":289,"measure":"unidades","value":"6","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg","name":"tomate cherry","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":10,"main_unit_grams_en":10,"grams":10,"nutrition":{"id":281,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":289,"created_at":"2020-04-15T07:03:19.484Z","updated_at":"2020-04-15T07:03:19.484Z"}},{"id":243,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg","name":"macarrón","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":160,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":243,"created_at":"2020-04-15T07:03:16.390Z","updated_at":"2020-04-15T07:03:16.390Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"pizcas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}}],"steps":[{"name":"Calienta agua en una cazuela. Cuando rompa a hervir añade un poco de sal y vierte los macarrones. Cuece la pasta el tiempo que indica sus instrucciones.","priority":0},{"name":"Mientras se cuece la pasta prepara las verduras de la siguiente manera: pica finamente el diente de ajo. Lava, pela y corta en rodajas finas la zanahoria. Lava el calabacín y córtalo en rodajas y, por último, lava los tomates cherry y córtalos en mitades.","priority":1},{"name":"En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente vierte el ajo picado y la zanahoria cortada en trozos. Saltea a fuego medio durante 5 minutos. ","priority":2},{"name":"Pasado ese tiempo vierte los trozos de calabacín y saltéalos durante 3-4 minutos junto con el resto de verduras.","priority":3},{"name":"Por último añade a la sartén los tomates cherry y echa un poco de sal a las verduras. ","priority":4},{"name":"Pasados un par de minutos, vierte en la sartén los macarrones y mézclalos con las verduras. ","priority":5}]},{"id":"macarrones-cremosos-con-carne","name":"Macarrones Cremosos con Carne","type":"recipe","rate":"4.5384615384615385","description":"Si en tu casa la pasta y la carne forman parte de vuestra dieta, sorprende a los tuyos sirviendo esta pasta súper jugosa, gratinada con un montón de queso. No te va a sobrar ¡ni una cucharada!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/900/macarrones-cremosos-con-carne.jpg"],"image_title":"Macarrones Cremosos con Carne","image_alt_tag":"Macarrones Cremosos con Carne","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/900/macarrones-cremosos-con-carne.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/600/macarrones-cremosos-con-carne.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/300/macarrones-cremosos-con-carne.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/100/macarrones-cremosos-con-carne.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":1088,"folders_ids":[],"like_count":297,"new":false,"liked":null,"favorited":null,"object_id":2565,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":11,"tags":["carne picada","pastas","al horno","macarrón","queso rallado","yogur","tomate triturado","con niños"],"tip":"","meta_description":"Si en tu casa la pasta y la carne forman parte de vuestra dieta, sorprende a los tuyos sirviendo esta pasta súper jugosa, gratinada con un montón de queso. No te va a sobrar ¡ni una cucharada!","meta_title":"recetas con carne picada - recetas de macarrones con carne picada | Nooddle\n","published_at":"2021-04-12","views_count":6,"total_time_iso8601":"PT25M","rate_count":13,"cooked_date":null,"nutritional_balance":{"id":7829,"proteins":35.63541457538647,"veg_and_fruits":42.5617345914475,"grains":20.07628990162618,"total_weight_in_grams":996.2,"recipe_id":2565,"created_at":"2021-04-12T04:02:04.694Z","updated_at":"2021-04-12T04:02:04.694Z"},"author":null,"ingredients":[{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":139,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg","name":"yogur","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":125,"nutrition":{"id":299,"usda_ndb_no":1116,"usda_shrt_desc":"YOGURT,PLN,WHL MILK,8 GRAMS PROT PER 8 OZ","carbohydrates":4.7,"sugars":4.7,"proteins":3.5,"fat":3.3,"saturated_fat":2.1,"fiber":0,"calories":61,"sodium":46,"ingredient_id":139,"created_at":"2020-04-15T07:03:20.130Z","updated_at":"2020-04-15T07:03:20.130Z"}},{"id":18,"measure":"taza","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/albahaca.jpg","name":"albahaca","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":10,"nutrition":{"id":11,"usda_ndb_no":2044,"usda_shrt_desc":"BASIL,FRESH","carbohydrates":2.7,"sugars":0.3,"proteins":3.2,"fat":0.6,"saturated_fat":0,"fiber":1.6,"calories":23,"sodium":4,"ingredient_id":18,"created_at":"2020-04-15T07:03:12.211Z","updated_at":"2020-04-15T07:03:12.211Z"}},{"id":53,"measure":"taza","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-rallado.jpg","name":"queso rallado","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":60,"nutrition":{"id":243,"usda_ndb_no":1032,"usda_shrt_desc":"CHEESE,PARMESAN,GRATED","carbohydrates":13.9,"sugars":0.1,"proteins":28.4,"fat":27.8,"saturated_fat":15.4,"fiber":0,"calories":420,"sodium":1804,"ingredient_id":53,"created_at":"2020-04-15T07:03:18.227Z","updated_at":"2020-04-15T07:03:18.227Z"}},{"id":125,"measure":"lata pequeña","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg","name":"tomate triturado","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":400,"nutrition":{"id":284,"usda_ndb_no":11693,"usda_shrt_desc":"TOMATOES,CRUSHED,CANNED","carbohydrates":7.3,"sugars":4.400000000000001,"proteins":1.6,"fat":0.3,"saturated_fat":0,"fiber":1.9,"calories":32,"sodium":186,"ingredient_id":125,"created_at":"2020-04-15T07:03:19.571Z","updated_at":"2020-04-15T07:03:19.571Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"cucharadita","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}},{"id":30,"measure":"cucharadita","value":"0.5","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/azucar.jpg","name":"azúcar","shopping_list_category_es":"panaderia y pasteleria","shopping_list_category_en":"bread, bakery and baking","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":5,"nutrition":{"id":32,"usda_ndb_no":19335,"usda_shrt_desc":"SUGARS,GRANULATED","carbohydrates":100,"sugars":99.8,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":387,"sodium":1,"ingredient_id":30,"created_at":"2020-04-15T07:03:12.972Z","updated_at":"2020-04-15T07:03:12.972Z"}},{"id":243,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg","name":"macarrón","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":160,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":243,"created_at":"2020-04-15T07:03:16.390Z","updated_at":"2020-04-15T07:03:16.390Z"}},{"id":55,"measure":"gramos","value":"200","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg","name":"carne picada","shopping_list_category_es":"carnes, pescados y mariscos","shopping_list_category_en":"meats and seafood","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":56,"usda_ndb_no":13047,"usda_shrt_desc":"BEEF,GRASS-FED,GROUND,RAW","carbohydrates":0,"sugars":0,"proteins":19.4,"fat":12.7,"saturated_fat":5.3,"fiber":0,"calories":198,"sodium":68,"ingredient_id":55,"created_at":"2020-04-15T07:03:13.527Z","updated_at":"2020-04-15T07:03:13.527Z"}}],"steps":[{"name":"Echa agua en una olla y cocina la pasta el tiempo que indica sus instrucciones. Escúrrela y resérvala, la emplearás más adelante.","priority":0},{"name":"Coloca la carne en un recipiente y échale sal y pimienta.","priority":1},{"name":"En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte la carne picada salpimentada y saltéala a fuego medio hasta que quede ligeramente dorada. Retírala y resérvala.","priority":2},{"name":"En esa misma sartén, sin necesidad de limpiarla, vierte los ajos picados finamente y sofríelos a fuego medio con cuidado de no quemarlos (si necesitas un poquito más de aceite añádelo). Cuando los ajos estén dorados añade el tomate triturado a la sartén, un poco de sal y de azúcar, y cocina a fuego medio durante 10 minutos.","priority":3},{"name":"Pasado ese tiempo añade la albahaca y el yogur. Mezcla y cocina a fuego suave durante varios minutos más. Comprueba que el punto de sal es el correcto y, en su caso, rectifica.","priority":4},{"name":"Vierte en la sartén la carne que tenías reservada y mezcla con la salsa.","priority":5},{"name":"Cuando la carne esté bien impregnada de la salsa, añade la pasta que tienes reservada y mezcla de nuevo todos los ingredientes.","priority":6},{"name":"Vierte lo anterior a una bandeja apta para horno, esparce abundante queso rallado por encima y mete a gratinar varios minutos. Cuando veas el queso fundido y gratinado a tu gusto puedes servirlo en tu mesa.","priority":7}]},{"id":"macarrones-con-cebolla-y-tomates-cherry","name":"Macarrones con Cebolla y Tomates Cherry","type":"recipe","rate":"5.0","description":"¿Buscas una forma riquísima de añadir verdura a tus platos de pasta? ¡No te pierdas entonces esta delicia de receta!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/900/macarrones-con-cebolla-y-tomates-cherry.jpg"],"image_title":"Macarrones con Cebolla y Tomates Cherry","image_alt_tag":"Macarrones con Cebolla y Tomates Cherry","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/900/macarrones-con-cebolla-y-tomates-cherry.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/600/macarrones-con-cebolla-y-tomates-cherry.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/300/macarrones-con-cebolla-y-tomates-cherry.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/100/macarrones-con-cebolla-y-tomates-cherry.jpg","width":100}],"premium":false,"total_time":25,"dificulty":null,"saved_count":313,"folders_ids":[],"like_count":64,"new":false,"liked":null,"favorited":null,"object_id":2551,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":7,"tags":["macarrón","pastas","tupper","tomate cherry","cebolla","vegetariano","al horno"],"tip":"<p>Puedes añadir los tomates frescos, en lugar de asados, aunque te recomiendo que pruebes al horno porque quedan de maravilla y no añaden tiempo de trabajo, ya que se cocinan al mismo tiempo que la pasta.</p>","meta_description":"¿Buscas una forma riquísima de añadir verdura a tus platos de pasta? ¡No te pierdas entonces esta delicia de receta!","meta_title":"recetas con tomate cherry - recetas de pasta con tomates cherry | Nooddle\n","published_at":"2021-05-01","views_count":4,"total_time_iso8601":"PT25M","rate_count":2,"cooked_date":null,"nutritional_balance":{"id":7904,"proteins":0,"veg_and_fruits":76.6699572227707,"grains":21.93704069321049,"total_weight_in_grams":911.7,"recipe_id":2551,"created_at":"2021-05-01T04:02:11.220Z","updated_at":"2021-05-01T04:02:11.220Z"},"author":null,"ingredients":[{"id":21,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg","name":"cebolla","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":185,"main_unit_grams_en":185,"grams":185,"nutrition":{"id":58,"usda_ndb_no":11282,"usda_shrt_desc":"ONIONS,RAW","carbohydrates":9.3,"sugars":4.2,"proteins":1.1,"fat":0.1,"saturated_fat":0,"fiber":1.7,"calories":40,"sodium":4,"ingredient_id":21,"created_at":"2020-04-15T07:03:13.566Z","updated_at":"2020-04-15T07:03:13.566Z"}},{"id":4,"measure":"dientes","value":"2","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg","name":"ajo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"diente","main_unit_en":"clove","main_unit_grams_es":7,"main_unit_grams_en":7,"grams":7,"nutrition":{"id":9,"usda_ndb_no":11215,"usda_shrt_desc":"GARLIC,RAW","carbohydrates":33.1,"sugars":1,"proteins":6.4,"fat":0.5,"saturated_fat":0.1,"fiber":2.1,"calories":149,"sodium":17,"ingredient_id":4,"created_at":"2020-04-15T07:03:12.105Z","updated_at":"2020-04-15T07:03:12.105Z"}},{"id":51,"measure":"cucharadita","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg","name":"orégano","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.5,"nutrition":{"id":195,"usda_ndb_no":2027,"usda_shrt_desc":"SPICES,OREGANO,DRIED","carbohydrates":68.9,"sugars":4.1,"proteins":9,"fat":4.3,"saturated_fat":1.6,"fiber":42.5,"calories":265,"sodium":25,"ingredient_id":51,"created_at":"2020-04-15T07:03:17.045Z","updated_at":"2020-04-15T07:03:17.045Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":289,"measure":"gramos","value":"500","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg","name":"tomate cherry","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":10,"main_unit_grams_en":10,"grams":1,"nutrition":{"id":281,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":289,"created_at":"2020-04-15T07:03:19.484Z","updated_at":"2020-04-15T07:03:19.484Z"}},{"id":43,"measure":"gramos","value":"200","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg","name":"pasta","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":202,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":43,"created_at":"2020-04-15T07:03:17.235Z","updated_at":"2020-04-15T07:03:17.235Z"}}],"steps":[{"name":"Precalienta el horno a 180ºC. ","priority":0},{"name":"Lava los tomates y córtalos por la mitad. Colócalos en una fuente y añade el orégano, la sal y el aceite de oliva. Hornea durante 15 minutos.","priority":1},{"name":"Cuece la pasta según las instrucciones del paquete y, mientras tanto, pica la cebolla y los ajos y sofríelos entre 10 y 15 minutos, hasta que la cebolla esté transparente y tierna.","priority":2},{"name":"Cuando la pasta esté lista, escúrrela y mézclala con los tomates asados y la cebolla. Ajusta la sal a tu gusto.","priority":3}]},{"id":"ensalada-de-pasta-con-verduras-asadas-y-feta","name":"Ensalada de Pasta con Verduras Asadas y Feta","type":"recipe","rate":"5.0","description":"Ahora que se acerca el buen tiempo y sabemos que sueles cocinarte ensaladas de pasta, hemos pensado que esta no puede faltar en tu repertorio. Llena de verduras asadas, con un poquito de queso feta y aliñada con aceite, sal y limón... ¡uf! ¡Resultado espectacular!","files":["https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-verduras-asadas-y-feta/900/ensalada-de-pasta-con-verduras-asadas-y-feta.jpg"],"image_title":"Ensalada de Pasta con Verduras Asadas y Feta","image_alt_tag":"Ensalada de Pasta con Verduras Asadas y Feta","images":[{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-verduras-asadas-y-feta/900/ensalada-de-pasta-con-verduras-asadas-y-feta.jpg","width":900},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-verduras-asadas-y-feta/600/ensalada-de-pasta-con-verduras-asadas-y-feta.jpg","width":600},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-verduras-asadas-y-feta/300/ensalada-de-pasta-con-verduras-asadas-y-feta.jpg","width":300},{"url":"https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-verduras-asadas-y-feta/100/ensalada-de-pasta-con-verduras-asadas-y-feta.jpg","width":100}],"premium":false,"total_time":20,"dificulty":null,"saved_count":41,"folders_ids":[],"like_count":5,"new":true,"liked":null,"favorited":null,"object_id":2672,"in_cart":false,"portions_added":null,"portion":2,"ingredients_amount":10,"tags":["pasta","al horno","ensaladas y bowls","Calabacín","pimiento rojo","zanahoria","queso feta","vegetariano"],"tip":"","meta_description":"Ahora que se acerca el buen tiempo y sabemos que sueles cocinarte ensaladas de pasta, hemos pensado que esta no puede faltar en tu repertorio. Llena de verduras asadas, con un poquito de queso feta y aliñada con aceite, sal y limón... ¡uf! ¡Resultado espectacular!","meta_title":"recetas de ensaladas de pasta - ensaladas de pasta frescas - receta fintess | Nooddle | Ekilu\n","published_at":"2021-05-20","views_count":12,"total_time_iso8601":"PT20M","rate_count":1,"cooked_date":null,"nutritional_balance":{"id":8014,"proteins":12.38543472875898,"veg_and_fruits":71.2162496903641,"grains":14.86252167451077,"total_weight_in_grams":807.4,"recipe_id":2672,"created_at":"2021-05-20T04:01:36.041Z","updated_at":"2021-05-20T04:01:36.041Z"},"author":null,"ingredients":[{"id":47,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg","name":"calabacín","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":500,"main_unit_grams_en":500,"grams":500,"nutrition":{"id":47,"usda_ndb_no":11477,"usda_shrt_desc":"SQUASH,SMMR,ZUCCHINI,INCL SKN,RAW","carbohydrates":3.1,"sugars":2.5,"proteins":1.2,"fat":0.3,"saturated_fat":0.1,"fiber":1,"calories":17,"sodium":8,"ingredient_id":47,"created_at":"2020-04-15T07:03:13.361Z","updated_at":"2020-04-15T07:03:13.361Z"}},{"id":16,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg","name":"pimiento rojo","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":85,"main_unit_grams_en":85,"grams":85,"nutrition":{"id":217,"usda_ndb_no":11821,"usda_shrt_desc":"PEPPERS,SWT,RED,RAW","carbohydrates":6,"sugars":4.2,"proteins":1,"fat":0.3,"saturated_fat":0,"fiber":2.1,"calories":31,"sodium":4,"ingredient_id":16,"created_at":"2020-04-15T07:03:17.681Z","updated_at":"2020-04-15T07:03:17.681Z"}},{"id":8,"measure":"unidad","value":"1","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg","name":"zanahoria","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":100,"main_unit_grams_en":100,"grams":100,"nutrition":{"id":303,"usda_ndb_no":11124,"usda_shrt_desc":"CARROTS,RAW","carbohydrates":9.6,"sugars":4.7,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":2.8,"calories":41,"sodium":69,"ingredient_id":8,"created_at":"2020-04-15T07:03:20.345Z","updated_at":"2020-04-15T07:03:20.345Z"}},{"id":289,"measure":"unidades","value":"8","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg","name":"tomate cherry","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":10,"main_unit_grams_en":10,"grams":10,"nutrition":{"id":281,"usda_ndb_no":11529,"usda_shrt_desc":"TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE","carbohydrates":3.9,"sugars":2.6,"proteins":0.9,"fat":0.2,"saturated_fat":0,"fiber":1.2,"calories":18,"sodium":5,"ingredient_id":289,"created_at":"2020-04-15T07:03:19.484Z","updated_at":"2020-04-15T07:03:19.484Z"}},{"id":71,"measure":"gramos","value":"100","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-feta.jpg","name":"queso feta","shopping_list_category_es":"lacteos y huevos","shopping_list_category_en":"dairy and eggs","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":237,"usda_ndb_no":1019,"usda_shrt_desc":"CHEESE,FETA","carbohydrates":4.1,"sugars":4.1,"proteins":14.2,"fat":21.3,"saturated_fat":14.9,"fiber":0,"calories":264,"sodium":917,"ingredient_id":71,"created_at":"2020-04-15T07:03:18.115Z","updated_at":"2020-04-15T07:03:18.115Z"}},{"id":13,"measure":"unidad","value":"0.5","ingredient_type":"kitchen","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg","name":"limón","shopping_list_category_es":"frutas y vegetales","shopping_list_category_en":"fruits and vegetables","shopp_list_type_es":0,"shopp_list_type_en":0,"main_unit_es":"unidad","main_unit_en":"unit","main_unit_grams_es":120,"main_unit_grams_en":120,"grams":120,"nutrition":{"id":155,"usda_ndb_no":9152,"usda_shrt_desc":"LEMON JUICE,RAW","carbohydrates":6.9,"sugars":2.5,"proteins":0.4,"fat":0.2,"saturated_fat":0,"fiber":0.3,"calories":22,"sodium":1,"ingredient_id":13,"created_at":"2020-04-15T07:03:16.299Z","updated_at":"2020-04-15T07:03:16.299Z"}},{"id":43,"measure":"gramos","value":"120","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg","name":"pasta","shopping_list_category_es":"pasta, arroz y legumbres","shopping_list_category_en":"pasta, rice and beans","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":1,"nutrition":{"id":202,"usda_ndb_no":20420,"usda_shrt_desc":"PASTA,DRY,UNENR","carbohydrates":74.7,"sugars":2.7,"proteins":13,"fat":1.5,"saturated_fat":0.3,"fiber":3.2,"calories":371,"sodium":6,"ingredient_id":43,"created_at":"2020-04-15T07:03:17.235Z","updated_at":"2020-04-15T07:03:17.235Z"}},{"id":5,"measure":"cucharadas","value":"2","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg","name":"aceite de oliva","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"mililitro","main_unit_en":"milliliter","main_unit_grams_es":0.91,"main_unit_grams_en":0.91,"grams":6,"nutrition":{"id":2,"usda_ndb_no":4053,"usda_shrt_desc":"OIL,OLIVE,SALAD OR COOKING","carbohydrates":0,"sugars":0,"proteins":0,"fat":100,"saturated_fat":13.8,"fiber":0,"calories":884,"sodium":2,"ingredient_id":5,"created_at":"2020-04-15T07:03:11.825Z","updated_at":"2020-04-15T07:03:11.825Z"}},{"id":6,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg","name":"sal","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":254,"usda_ndb_no":2047,"usda_shrt_desc":"SALT,TABLE","carbohydrates":0,"sugars":0,"proteins":0,"fat":0,"saturated_fat":0,"fiber":0,"calories":0,"sodium":38758,"ingredient_id":6,"created_at":"2020-04-15T07:03:18.490Z","updated_at":"2020-04-15T07:03:18.490Z"}},{"id":15,"measure":"pizca","value":"1","ingredient_type":"pantry","image":"https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg","name":"pimienta negra","shopping_list_category_es":"condimentos, hierbas y especias","shopping_list_category_en":"condiments, herbs and spices","shopp_list_type_es":1,"shopp_list_type_en":1,"main_unit_es":"gramo","main_unit_en":"gr","main_unit_grams_es":1,"main_unit_grams_en":1,"grams":0.2,"nutrition":{"id":214,"usda_ndb_no":2030,"usda_shrt_desc":"PEPPER,BLACK","carbohydrates":64,"sugars":0.6,"proteins":10.4,"fat":3.3,"saturated_fat":1.4,"fiber":25.3,"calories":251,"sodium":20,"ingredient_id":15,"created_at":"2020-04-15T07:03:17.592Z","updated_at":"2020-04-15T07:03:17.592Z"}}],"steps":[{"name":"Precalienta el horno a 200Cº.","priority":0},{"name":"Comienza preparando las verduras de la siguiente manera: lava el calabacín y córtalo en rodajas no muy gruesas. Pela y corta en rodajas las zanahorias. Y corta en tiras el pimiento rojo. ","priority":1},{"name":"Coloca las verduras que acabas de cortar en una bandeja de horno, agrega un poco de aceite de oliva por encima, una pizca de sal y de pimienta y hornea a 200ºC durante 15 minutos. Una vez pase este tiempo, saca las verduras del horno y deja que se enfríen un poco.","priority":2},{"name":"Mientras se asan las verduras cocina la pasta en una olla con agua hirviendo el tiempo que indica sus instrucciones. Pasado ese tiempo cuélala y deja que se enfríe.","priority":3},{"name":"En una ensaladera coloca la pasta, añade las verduras asadas, esparce el queso feto desmenuzado por encima y mezcla. Añade los tomates cherry cortado en mitades por encima y aliña la ensalada con aceite, un poco de sal y jugo de limón.","priority":4}]}]
+[
+  {
+    "id": "espaguetis-con-coliflor-y-queso-azul",
+    "name": "Espaguetis con Coliflor y Queso Azul",
+    "type": "Pasta",
+    "description": "¿Se te había ocurrido alguna vez combinar coliflor, queso azul y pasta? ¡Ya estás tardando! Porque esta combinación resulta tan original y sorprendente como sabrosa. ",
+    "image_alt_tag": "Espaguetis con Coliflor y Queso Azul",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-coliflor-y-queso-azul/900/espaguetis-con-coliflor-y-queso-azul.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "400",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/coliflor.jpg",
+        "name": "coliflor",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "180",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/espagueti.jpg",
+        "name": "espagueti",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-azul.jpg",
+        "name": "queso azul",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "30",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-parmesano.jpg",
+        "name": "queso parmesano",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En una cazuela calienta agua y cuando rompa a hervir cuece la pasta el tiempo que indica sus instrucciones. Resérvala.",
+        "priority": 0
+      },
+      {
+        "name": "Lava la coliflor y córtala en ramilletes. ",
+        "priority": 1
+      },
+      {
+        "name": "Pon a hervir agua en una olla con un poquito de sal y cuece los ramilletes de coliflor apenas 5-6 minutos. Pasado ese tiempo retíralos y escúrrelos del agua. ",
+        "priority": 2
+      },
+      {
+        "name": "Calienta un poco de aceite en una sartén. Añade el ajo cortado en láminas y cocínalo a fuego medio durante varios minutos con cuidado de que no se queme. Añade los trozos de coliflor y cocínala durante 5 minutos removiéndola de vez en cuando.",
+        "priority": 3
+      },
+      {
+        "name": "Añade a la sartén los espaguetis y mézclalos con la coliflor. Baja el fuego y deja que se integren los sabores durante un par de minutos.",
+        "priority": 4
+      },
+      {
+        "name": "Mientras aprovecha para preparar la salsa. En una sartén coloca el queso azul cortado en trozos y la leche. Ponlo a fuego medio, poco a poco el queso se irá derritiendo hasta hacerse una salsa. ",
+        "priority": 5
+      },
+      {
+        "name": "Añade la salsa de queso a la sartén que contiene la pasta y la coliflor y sirve la pasta con un poco de queso parmesano rallado por encima. ¡A comer!",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-pasta-con-alubias-negras",
+    "name": "Ensalada de Pasta con Alubias Negras ",
+    "type": "Pasta",
+    "description": "Si la pasta es parte de tu dieta, anímate a prepararte esta nutritiva ensalada de orzo acompañada de legumbres y verduras. Una combinación de ingredientes maravillosa que te resultará muy rica al paladar. ¡A por ella!",
+    "image_alt_tag": "Ensalada de Pasta con Alubias Negras ",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-alubias-negras/900/ensalada-de-pasta-con-alubias-negras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1593728055/ingredients/alubia-negra.jpg",
+        "name": "alubia negra",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "70",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg",
+        "name": "maíz",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Cuando las verduras estén tiernas añade las alubias cocidas a la sartén y el maíz, y saltea durante varios minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Vierte en la sartén la pasta que has preparado y mezcla con los ingredientes. Deja en el fuego apenas 1 minuto y sirve en tu plato. ",
+        "priority": 4
+      },
+      {
+        "name": "Calienta agua en un cazo y cuando hierva cuece la pasta el tiempo que indica sus instrucciones.",
+        "priority": 0
+      },
+      {
+        "name": "Pica la cebolla y corta el pimiento rojo en trozos. También, escurre las alubias y el maíz de sus respectivos botes y pásalos por agua.",
+        "priority": 1
+      },
+      {
+        "name": "A continuación, en una sartén amplia echa un poco de aceite de oliva y sofríe la cebolla y el pimiento que acabas de cortar.",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "id": "macarrones-con-pollo-al-ajillo-y-espinacas",
+    "name": "Macarrones con Pollo al Ajillo y Espinacas",
+    "type": "Pasta",
+    "description": "¿Buscas un plato de pasta completo, sencillo y súper rico? ¡Anímate con estos macarrones con pollo al ajillo y descubre una forma riquísima de incluir verdura y nutrientes en tus platos favoritos!",
+    "image_alt_tag": "Macarrones con Pollo al Ajillo y Espinacas",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-pollo-al-ajillo-y-espinacas/900/macarrones-con-pollo-al-ajillo-y-espinacas.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "180",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Cuece la pasta según las instrucciones del paquete.",
+        "priority": 0
+      },
+      {
+        "name": "Pela y trocea los ajos en rodajas y reserva.",
+        "priority": 1
+      },
+      {
+        "name": "Trocea la pechuga de pollo en tacos y ponles una pizca de sal.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén, pon un chorrito de aceite de oliva a calentar y añade el pollo troceado. ",
+        "priority": 3
+      },
+      {
+        "name": "En 1-2 minutos el pollo se pondrá blanco por fuera, cuando ocurra, añade los ajos y saltea todo junto durante de 5 minutos, hasta que el pollo y el ajo estén dorados.",
+        "priority": 4
+      },
+      {
+        "name": "Cuando la pasta esté lista, escúrrela y mézclala con el salteado de ajo y pollo. Añade las espinacas y remueve bien para que se ablanden con el calor de la pasta.",
+        "priority": 5
+      },
+      {
+        "name": "Ajusta la sal si lo consideras necesario y ¡a comer!",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "noquis-con-parmesano",
+    "name": "Ñoquis con Parmesano",
+    "type": "Pasta",
+    "description": "¿Te apetece algo fácil pero a la vez rico y nutritivo? Estos simples ñoquis de patata con queso parmesano se preparan en pocos minutos y están muy sabrosos.",
+    "image_alt_tag": "Ñoquis con Parmesano",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noquis-con-parmesano/900/noquis-con-parmesano.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "hoja",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/hojas-de-laurel.jpg",
+        "name": "hoja de laurel",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mantequilla.jpg",
+        "name": "mantequilla",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg",
+        "name": "orégano",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/nuez-moscada.jpg",
+        "name": "nuez moscada",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "50",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-parmesano.jpg",
+        "name": "queso parmesano",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "ñoqui",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Llena una cazo mediano con agua y llévalo a ebullición. Cuando comience a hervir añade la sal, los ñoquis y la hoja de laurel. Cuando veas que los ñoquis salen a la superficie están listos.",
+        "priority": 0
+      },
+      {
+        "name": "En un cuenco añade la mantequilla, el orégano, la nuez moscada y los ñoquis bien calientes. El calor de los ñoquis te ayudará a derretir la mantequilla. Mezcla todos los ingredientes y añade el queso parmesano y un poco de pimienta. Mezcla y ¡a comer!",
+        "priority": 1
+      }
+    ]
+  },
+  {
+    "id": "pasta-cremosa-con-coliflor-al-horno",
+    "name": "Pasta Cremosa con Coliflor al Horno",
+    "type": "Pasta",
+    "description": "Aprovecha un trozo de tu coliflor para hacer esta sabrosa y cremosa pasta. Un pasta que va a dejar sorprendido a todos en casa por lo rica y original que es la combinación pasta-coliflor. ¿A que no se lo esperaban?",
+    "image_alt_tag": "Pasta Cremosa con Coliflor al Horno",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-cremosa-con-coliflor-al-horno/900/pasta-cremosa-con-coliflor-al-horno.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-rallado.jpg",
+        "name": "queso rallado",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/nata-liquida.jpg",
+        "name": "nata líquida",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "0.25",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/coliflor.jpg",
+        "name": "coliflor",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En una olla con agua y una pizca de sal, cocina la pasta el tiempo que indica las instrucciones de su envase. Una vez lista, escúrrela.",
+        "priority": 0
+      },
+      {
+        "name": "Lava y corta la coliflor. Vierte los trozos de coliflor en una olla y cúbrela de agua para cocerla. Echa un poco de sal y ponla al fuego. Cocínala durante aproximadamente 10 minutos. Pasado ese tiempo escúrrela y resérvala.",
+        "priority": 1
+      },
+      {
+        "name": "Lava y corta en rodajas los champiñones y la cebolla.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén algo amplia echa un poco de aceite de oliva. Sofríe a fuego medio los champiñones y la cebolla durante 5 minutos. Echa un poquito de sal y añade la nata y la leche. Revuelve y deja que se cocine a fuego suave durante 5-7 minutos. Pasado ese tiempo tritura con la batidora hasta conseguir una salsa uniforme.",
+        "priority": 3
+      },
+      {
+        "name": "Mezcla la pasta con la coliflor y viértela en un recipiente apto para horno. Agrega sobre los ingredientes la salsa que acabas de hacer y, con una cuchara, mezcla de forma que la salsa quede bien distribuida.",
+        "priority": 4
+      },
+      {
+        "name": "Esparce el queso rallado por encima y mete en el horno apenas 5 minutos, hasta que veas que el queso se funde.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "pasta-con-verduras",
+    "name": "Pasta con Verduras",
+    "type": "Pasta",
+    "description": "Esta divertida y sabrosa pasta con verduras puede ser tu comida o cena perfecta para tus próximos días. Compleméntala con tu proteína vegetal o animal favorita y ¡todos a la mesa!",
+    "image_alt_tag": "Pasta con Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-verduras/900/pasta-con-verduras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "6",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Calienta agua en una cazuela. Cuando rompa a hervir añade un poco de sal y vierte los macarrones. Cuece la pasta el tiempo que indica sus instrucciones.",
+        "priority": 0
+      },
+      {
+        "name": "Mientras se cuece la pasta prepara las verduras de la siguiente manera: pica finamente el diente de ajo. Lava, pela y corta en rodajas finas la zanahoria. Lava el calabacín y córtalo en rodajas y, por último, lava los tomates cherry y córtalos en mitades.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente vierte el ajo picado y la zanahoria cortada en trozos. Saltea a fuego medio durante 5 minutos. ",
+        "priority": 2
+      },
+      {
+        "name": "Pasado ese tiempo vierte los trozos de calabacín y saltéalos durante 3-4 minutos junto con el resto de verduras.",
+        "priority": 3
+      },
+      {
+        "name": "Por último añade a la sartén los tomates cherry y echa un poco de sal a las verduras. ",
+        "priority": 4
+      },
+      {
+        "name": "Pasados un par de minutos, vierte en la sartén los macarrones y mézclalos con las verduras. ",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "macarrones-cremosos-con-carne",
+    "name": "Macarrones Cremosos con Carne",
+    "type": "Pasta",
+    "description": "Si en tu casa la pasta y la carne forman parte de vuestra dieta, sorprende a los tuyos sirviendo esta pasta súper jugosa, gratinada con un montón de queso. No te va a sobrar ¡ni una cucharada!",
+    "image_alt_tag": "Macarrones Cremosos con Carne",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/900/macarrones-cremosos-con-carne.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg",
+        "name": "yogur",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/albahaca.jpg",
+        "name": "albahaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-rallado.jpg",
+        "name": "queso rallado",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "lata pequeña",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/azucar.jpg",
+        "name": "azúcar",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Echa agua en una olla y cocina la pasta el tiempo que indica sus instrucciones. Escúrrela y resérvala, la emplearás más adelante.",
+        "priority": 0
+      },
+      {
+        "name": "Coloca la carne en un recipiente y échale sal y pimienta.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte la carne picada salpimentada y saltéala a fuego medio hasta que quede ligeramente dorada. Retírala y resérvala.",
+        "priority": 2
+      },
+      {
+        "name": "En esa misma sartén, sin necesidad de limpiarla, vierte los ajos picados finamente y sofríelos a fuego medio con cuidado de no quemarlos (si necesitas un poquito más de aceite añádelo). Cuando los ajos estén dorados añade el tomate triturado a la sartén, un poco de sal y de azúcar, y cocina a fuego medio durante 10 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado ese tiempo añade la albahaca y el yogur. Mezcla y cocina a fuego suave durante varios minutos más. Comprueba que el punto de sal es el correcto y, en su caso, rectifica.",
+        "priority": 4
+      },
+      {
+        "name": "Vierte en la sartén la carne que tenías reservada y mezcla con la salsa.",
+        "priority": 5
+      },
+      {
+        "name": "Cuando la carne esté bien impregnada de la salsa, añade la pasta que tienes reservada y mezcla de nuevo todos los ingredientes.",
+        "priority": 6
+      },
+      {
+        "name": "Vierte lo anterior a una bandeja apta para horno, esparce abundante queso rallado por encima y mete a gratinar varios minutos. Cuando veas el queso fundido y gratinado a tu gusto puedes servirlo en tu mesa.",
+        "priority": 7
+      }
+    ]
+  },
+  {
+    "id": "macarrones-con-cebolla-y-tomates-cherry",
+    "name": "Macarrones con Cebolla y Tomates Cherry",
+    "type": "Pasta",
+    "description": "¿Buscas una forma riquísima de añadir verdura a tus platos de pasta? ¡No te pierdas entonces esta delicia de receta!",
+    "image_alt_tag": "Macarrones con Cebolla y Tomates Cherry",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/900/macarrones-con-cebolla-y-tomates-cherry.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg",
+        "name": "orégano",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "500",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 180ºC. ",
+        "priority": 0
+      },
+      {
+        "name": "Lava los tomates y córtalos por la mitad. Colócalos en una fuente y añade el orégano, la sal y el aceite de oliva. Hornea durante 15 minutos.",
+        "priority": 1
+      },
+      {
+        "name": "Cuece la pasta según las instrucciones del paquete y, mientras tanto, pica la cebolla y los ajos y sofríelos entre 10 y 15 minutos, hasta que la cebolla esté transparente y tierna.",
+        "priority": 2
+      },
+      {
+        "name": "Cuando la pasta esté lista, escúrrela y mézclala con los tomates asados y la cebolla. Ajusta la sal a tu gusto.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-pasta-con-verduras-asadas-y-feta",
+    "name": "Ensalada de Pasta con Verduras Asadas y Feta",
+    "type": "Pasta",
+    "description": "Ahora que se acerca el buen tiempo y sabemos que sueles cocinarte ensaladas de pasta, hemos pensado que esta no puede faltar en tu repertorio. Llena de verduras asadas, con un poquito de queso feta y aliñada con aceite, sal y limón... ¡uf! ¡Resultado espectacular!",
+    "image_alt_tag": "Ensalada de Pasta con Verduras Asadas y Feta",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-verduras-asadas-y-feta/900/ensalada-de-pasta-con-verduras-asadas-y-feta.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-feta.jpg",
+        "name": "queso feta",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 200Cº.",
+        "priority": 0
+      },
+      {
+        "name": "Comienza preparando las verduras de la siguiente manera: lava el calabacín y córtalo en rodajas no muy gruesas. Pela y corta en rodajas las zanahorias. Y corta en tiras el pimiento rojo. ",
+        "priority": 1
+      },
+      {
+        "name": "Coloca las verduras que acabas de cortar en una bandeja de horno, agrega un poco de aceite de oliva por encima, una pizca de sal y de pimienta y hornea a 200ºC durante 15 minutos. Una vez pase este tiempo, saca las verduras del horno y deja que se enfríen un poco.",
+        "priority": 2
+      },
+      {
+        "name": "Mientras se asan las verduras cocina la pasta en una olla con agua hirviendo el tiempo que indica sus instrucciones. Pasado ese tiempo cuélala y deja que se enfríe.",
+        "priority": 3
+      },
+      {
+        "name": "En una ensaladera coloca la pasta, añade las verduras asadas, esparce el queso feto desmenuzado por encima y mezcla. Añade los tomates cherry cortado en mitades por encima y aliña la ensalada con aceite, un poco de sal y jugo de limón.",
+        "priority": 4
+      }
+    ]
+  }
+]

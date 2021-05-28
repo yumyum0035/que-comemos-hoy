@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { recipe } from 'src/app/interfaces/recipe';
 import { RecipeBookService } from '../../services/recipe-book/recipe-book.service';
 import { FormBuilder, FormGroup, FormControl, Validators, FormArray} from '@angular/forms';
 
@@ -9,8 +10,8 @@ import { FormBuilder, FormGroup, FormControl, Validators, FormArray} from '@angu
   styleUrls: ['./recipes.component.scss']
 })
 export class RecipesComponent implements OnInit {
-
-  allRecipes = [];
+  
+  allRecipes:recipe[];
   type = ['Pasta','Arroces','Pescado','Carne','Pollo','Verduras','Vegano','Sin Gluten','Asiático','Variado'];
   foodName = ['Pasta']
   foods;
@@ -25,6 +26,7 @@ export class RecipesComponent implements OnInit {
   asian;
   trend; 
   type */
+  
 
   form: FormGroup;
 
@@ -58,5 +60,9 @@ export class RecipesComponent implements OnInit {
     this.foods = this.foods[0]
     console.log('foods',this.foods);
 
+  }
+
+  showDetail(id){
+    this.router.navigateByUrl('/detail-recipe/'+id);
   }
 }

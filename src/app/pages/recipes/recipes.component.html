@@ -1,4 +1,4 @@
-  <form [formGroup]="form" (ngSubmit)="submit()">
+<form [formGroup]="form" (ngSubmit)="submit()">
           
       <div class="form-group">
           <label for="filter">Filter</label>
@@ -14,8 +14,7 @@
   </form>
 
 
-<div *ngIf="allRecipes" class="flex-row">
-  <!-- <div *ngIf="type.indexOf(type) > -1"> -->
+<!-- <div *ngIf="allRecipes" class="flex-row">
   <div *ngFor="let category of allRecipes; let i = index" class="flex">
     <div *ngIf="foodName.includes(type[2])"></div>
     <h2 class="py-5 font-bold text-2xl">{{ type[i] }}</h2>
@@ -25,8 +24,23 @@
     >
       <p class="font-bold">{{ recipe.name }}</p>
       <br />
-      Tiempo de preparación: {{ recipe.total_time }} min
+      Tiempo de preparación: {{ recipe.total_time }} min -->
+
+<div>
+  <div *ngIf="allRecipes" class="flex-row">
+
+    <div *ngFor="let category of allRecipes, let i = index" class="flex overflow-x-scroll pb-10 hide-scroll-bar">
+      <h2 class="py-5 font-bold text-2xl">{{type[i]}}</h2>
+      <div (click)="showDetail(recipe.id)" *ngFor="let recipe of category" class=" bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center mr-4 rounded">
+        <div class="mb-4">
+          <img src="{{recipe.image}}" alt="" class="h-28 w-full object-cover">
+        </div>
+        <p class="font-bold">{{recipe.name}}</p>
+        <br>
+        Tiempo de preparación: {{recipe.total_time}} min
+      </div>
     </div>
+
   </div>
   <!-- </div> -->
 </div>
