@@ -28,8 +28,19 @@ export class SelectedRecipeComponent implements OnInit {
     this.recipe['steps'].forEach(paso => {
       this.pasos.push(paso);
     });
-
   }
+
+  addFav(){
+    console.log(this.recipe);
+    if(this.recipe.favorited){
+      this.recipe.favorited = false;
+    }else{
+      this.recipe.favorited = true;
+    }
+    this.recipesServ.setMealById(this.id,this.recipe.favorited);
+  }
+
+
 
 
 }

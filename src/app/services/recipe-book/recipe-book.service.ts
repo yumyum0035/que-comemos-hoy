@@ -26,72 +26,6 @@ export class RecipeBookService {
   dinner:recipe[] = [];
 
   constructor() {
-    /*
-    //DATA LIMPIA
-    chicken.forEach(element => {
-      let aux:recipe = {
-        id: element.id,
-        name: element.name,
-        type: element.type,
-        description: element.description,
-        image_alt_tag:element.image_alt_tag,
-        image: element.images[0].url,
-        total_time: element.total_time,
-        dificulty: 1,
-        favorited: false,
-        portion: element.portion,
-        ingredients_amount : element.ingredients_amount,
-        ingredients : [{
-          measure: '0',
-          value: '0',
-          ingredient_type:'0',
-          image:'0',
-          name: '0',
-          shopping_list_category_es: '0'
-        }],
-        steps:[{
-          name: '0',
-          priority:0
-        }]
-      };
-
-      element.ingredients.forEach(i => {
-        let ing: ingredient = {
-          measure:  i.measure,
-          value:i.value,
-          ingredient_type : i.ingredient_type,
-          image : i.image,
-          name : i.name,
-          shopping_list_category_es : i.shopping_list_category_es
-        }
-        aux.ingredients.push(ing);
-      });
-
-      element.steps.forEach(i => {
-        let st:step = {
-          name : i.name,
-          priority : i.priority
-        }
-        aux.steps.push(st);
-      });
-      console.log(aux);
-      this.data.push(aux);
-    });
-
-    console.log('LIMPIEZA DE DATOS');
-    console.log(this.data);
-
-    //eliminamos primer elemento:
-    this.data.forEach(element => {
-      element.ingredients.shift();
-      element.steps.shift();
-    });
-    console.log('LIMPIEZA DE DATOS 2');
-    console.log(this.data);
-    console.log(JSON.stringify(this.data));
-
-    */
-
     this.allRecipes.push(pasta as recipe);
     this.allRecipes.push(rice as recipe);
     this.allRecipes.push(fish as recipe);
@@ -282,5 +216,19 @@ export class RecipeBookService {
       });
     }
     return receta;
+  }
+
+  setMealById(id,fav){
+    //Comprovamos si hay recetas del usuario
+    if(this.userRecipes.length > 0){
+      this.userRecipes.forEach(element => {
+        element.id == id ? element.favorited = fav : null;
+      });
+    }else{
+      this.randomRecipes.forEach(element => {
+        element.id == id ? element.favorited = fav : null;
+      });
+    }
+
   }
 }
