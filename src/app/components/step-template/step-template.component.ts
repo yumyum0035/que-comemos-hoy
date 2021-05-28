@@ -36,34 +36,34 @@ export class StepTemplateComponent implements OnInit {
       // this.selectedWeek.push(dia);
     }
     this.checkStep();
-    this.menu.setWeek(this.selectWeek);
+    this.menu.setWeek(this.selectedWeek);
     console.log(this.selectedWeek);
   }
 
   checkDay(dia){
     switch (dia){
       case 'toda':
-        this.selectedWeek = ['lunes','martes','miercoles','jueves','viernes','sabado','domingo','toda']
+        this.selectedWeek = ['Lunes','Martes','Miércoles','Jueves','Viernes','Sábado','Domingo','toda']
         break;
-      case 'lunes':
+      case 'Lunes':
         this.selectedWeek.splice(0,1,dia);
         break;
-      case 'martes':
+      case 'Martes':
         this.selectedWeek.splice(1,1,dia);
         break;
-      case 'miercoles':
+      case 'Miércoles':
         this.selectedWeek.splice(2,1,dia);
         break;
-      case 'jueves':
+      case 'Jueves':
         this.selectedWeek.splice(3,1,dia);
         break;
-      case 'viernes':
+      case 'Viernes':
         this.selectedWeek.splice(4,1,dia);
         break;
-      case 'sabado':
+      case 'Sábado':
         this.selectedWeek.splice(5,1,dia);
         break;
-      case 'domingo':
+      case 'Domingo':
         this.selectedWeek.splice(6,1,dia);
         break;
     }

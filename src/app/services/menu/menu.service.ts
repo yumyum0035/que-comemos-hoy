@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { RecipeBookService } from '../recipe-book/recipe-book.service';
-import { menu } from '../../interfaces/menu'
+import { menu } from '../../interfaces/menu';
 
 @Injectable({
   providedIn: 'root'
@@ -9,21 +9,40 @@ export class MenuService {
 
   lunch = [];
   dinner = [];
-  week;
-  menus:[menu];
+  semana = ['Lunes','Martes','Miércoles','Jueves','Viernes','Sábado','Domingo'];
+  userWeek = [];
+  menuSemanal = [];
 
   constructor(private recipes: RecipeBookService) {
-    this.lunch = recipes.getLunch();
-    this.dinner = recipes.getDinner();
-   }
-   
-   setWeek(week){
-    this.week = week;
-    let menu:menu = { 
-      dia:this.week[0],
-      isDay:true,
-      comida:this.lunch,
-      cena:this.dinner
-    }
-   }
+
+  }
+
+  setWeek(week){
+    this.userWeek = week;
+  }
+
+  generatePlan(){
+    this.lunch = this.recipes.getLunch();
+    this.dinner = this.recipes.getDinner();
+    this.menuSemanal = [];
+    console.log('hola', this.lunch);
+    this.semana.forEach((day, index) => {
+      let menu:menu = {
+        dia: day,
+        isDay: day == this.userWeek[index] ? true : false,
+        comida:this.lunch[index],
+        cena:this.dinner[index]
+      }
+      this.menuSemanal.push(menu);
+    });
+    localStorage.setItem('weeklyMenu',JSON.stringify(this.menuSemanal));
+    console.log('entra',this.menuSemanal);
+
+  }
+
+  getWeekPlan(){
+    return this.menuSemanal;
+  }
+
+
 }

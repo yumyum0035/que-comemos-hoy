@@ -4,11 +4,11 @@
     <div (click)="showDetail('lunch',n)">
       <h4 class="font-bold text-center">Comida</h4>
       <div class="rounded overflow-hidden shadow-lg">
-        <img src={{lunch[n].image}} alt="{{lunch[n].image_alt_tag}}" class="h-72 w-full object-cover">
+        <img src={{menuSemanal[n].comida.image}} alt="{{menuSemanal[n].comida.image_alt_tag}}" class="h-72 w-full object-cover">
         <div class="px-6 py-4">
-          <p class="font-bold text-xl mb-2">{{lunch[n].name}}</p>
-          <p>{{lunch[n].total_time}} min</p>
-          <p>Difficulty: {{lunch[n].dificulty}}</p>
+          <p class="font-bold text-xl mb-2">{{menuSemanal[n].comida.name}}</p>
+          <p>{{menuSemanal[n].comida.total_time}} min</p>
+          <p>Difficulty: {{menuSemanal[n].comida.dificulty}}</p>
           <button (click)="editMeal($event,'lunch',n)" class="right-0 float-right bottom-6 relative">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
@@ -21,11 +21,11 @@
     <div (click)="showDetail('dinner',n)">
       <h4 class="font-bold text-center">Cena</h4>
       <div class="rounded overflow-hidden shadow-lg">
-        <img src={{dinner[n].image}} alt="{{dinner[n].image_alt_tag}}" class="h-72 w-full object-cover">
+        <img src={{menuSemanal[n].cena.image}} alt="{{menuSemanal[n].cena.image_alt_tag}}" class="h-72 w-full object-cover">
         <div class="px-6 py-4">
-          <p class="font-bold text-xl mb-2">{{dinner[n].name}}</p>
-          <p>{{dinner[n].total_time}} min</p>
-          <p>Difficulty: {{dinner[n].dificulty}}</p>
+          <p class="font-bold text-xl mb-2">{{menuSemanal[n].cena.name}}</p>
+          <p>{{menuSemanal[n].cena.total_time}} min</p>
+          <p>Difficulty: {{menuSemanal[n].cena.dificulty}}</p>
           <button (click)="editMeal($event,'dinner',n)" class="right-0 float-right bottom-6 relative">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
@@ -37,14 +37,14 @@
   </div>
 
   <div class="flex overflow-x-scroll pb-10 hide-scroll-bar">
-    <div *ngFor="let day of week, let i = index" class="mr-4">
-      <h3 class="uppercase font-bold">{{day}}</h3>
+    <div *ngFor="let day of menuSemanal, let i = index" class="mr-4">
+      <h3 class="uppercase font-bold">{{day.dia}}</h3>
       <div (click)="showDetail('lunch',i)">
         <h4 class="font-bold text-center">Comida</h4>
         <div class="rounded overflow-hidden shadow-lg">
-          <img src={{lunch[i].image}} alt="{{lunch[i].image_alt_tag}}" class="h-28 w-full object-cover">
+          <img src={{day.comida.image}} alt="{{day.comida.image_alt_tag}}" class="h-28 w-full object-cover">
           <div class="px-6 py-4">
-            <p class="font-bold text-xl mb-2">{{lunch[i].name}}</p>
+            <p class="font-bold text-xl mb-2">{{day.comida.name}}</p>
           </div>
         </div>
       </div>
@@ -52,9 +52,9 @@
       <div (click)="showDetail('dinner',i)">
         <h4 class="font-bold text-center">Cena</h4>
         <div class="rounded overflow-hidden shadow-lg">
-          <img src={{dinner[i].image}} alt="{{dinner[i].image_alt_tag}}" class="h-28 w-full object-cover">
+          <img src={{day.cena.image}} alt="{{day.cena.image_alt_tag}}" class="h-28 w-full object-cover">
           <div class="px-6 py-4">
-            <p class="font-bold text-xl mb-2">{{dinner[i].name}}</p>
+            <p class="font-bold text-xl mb-2">{{day.cena.name}}</p>
           </div>
         </div>
       </div>
