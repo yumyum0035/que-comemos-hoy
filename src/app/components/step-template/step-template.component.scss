@@ -1,17 +1,15 @@
-.step-content-label {
-  margin-bottom: 16px;
-}
+@use "src/variables" as *;
 
 .step-complete-btn {
-  padding: 10px 20px 10px 10px;
+  padding: 1rem 2rem 1rem 1rem;
   border-radius: 50px;
-  border: none !important;
-  background: #c9e6ff;
+  border: none;
+  background: $light-orange;
   display: flex;
   align-items: center;
 }
 
 .completed-step-check {
   margin-right: 12px;
-  color: blue !important;
+  color: $red;
 }
