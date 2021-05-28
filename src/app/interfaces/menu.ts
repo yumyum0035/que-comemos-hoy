@@ -5,12 +5,3 @@ export interface menu {
     cena:any
 }
 
-// export interface dia {
-//     lunes: true
-//     martes: false
-//     miercoles: true
-//     jueves: true
-//     viernes: false
-//     sabado: false
-//     domingo: true
-// }
