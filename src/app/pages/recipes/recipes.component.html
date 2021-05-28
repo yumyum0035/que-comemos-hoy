@@ -1,6 +1,8 @@
-<form [formGroup]="form" (ngSubmit)="submit()">
+<div (click)="filterShowHide()" class="bg-red-500">USE ME TO OPEN FILTER AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</div>
+
+  <form *ngIf="!filterVisibility" [formGroup]="form" (ngSubmit)="submit()">
     <div class="form-group">
-        <label for="filter">Filter</label>
+        <label for="filter">Select your recipes:</label>
         <div *ngFor="let category of allRecipes; let j = index">
           <label>
             <input type="checkbox" [value]="type[j]" (change)="onCheckboxChange($event)" />
@@ -8,24 +10,40 @@
           </label>
         </div>
     </div>
-
-    <button class="btn btn-primary" type="submit" [disabled]="!form.valid">Filter</button>
-</form>
-
-    <!-- <div *ngIf="foodName.includes(type[2])"></div> -->
+    <button class="btn btn-primary" type="submit" [disabled]="!form.valid"> Click me to filter</button>
+  </form>
 
 <div>
-  <div *ngIf="allRecipes" class="flex-row">
-    <div *ngFor="let category of allRecipes, let i = index" class="flex overflow-x-scroll pb-10 hide-scroll-bar">
-      <h2 class="py-5 font-bold text-2xl">{{type[i]}}</h2>
-      <div (click)="showDetail(recipe.id)" *ngFor="let recipe of category" class=" bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center mr-4 rounded">
-        <div class="mb-4">
-          <img src="{{recipe.image}}" alt="" class="h-28 w-full object-cover">
+  <div *ngIf="allRecipes">
+    <div *ngFor="let category of allRecipes, let i = index" class="flex-row" >
+      <div *ngIf="foods.includes(type[i])" class="flex overflow-x-scroll pb-10 hide-scroll-bar">
+        <h2 class="py-5 font-bold text-2xl">{{type[i]}}</h2>
+        <div (click)="showDetail(recipe.id)" *ngFor="let recipe of category" class=" bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center mr-4 rounded">
+          <div class="mb-4">
+            <img src="{{recipe.image}}" alt="" class="h-28 w-full object-cover">
+          </div>
+          <p class="font-bold">{{recipe.name}}</p>
+          <br>
+          Tiempo de preparación: {{recipe.total_time}} min
         </div>
-        <p class="font-bold">{{recipe.name}}</p>
-        <br>
-        Tiempo de preparación: {{recipe.total_time}} min
       </div>
     </div>
   </div>
 </div>
+
+  <div *ngIf="filterEmpty" >
+    <div *ngFor="let category of allRecipes, let i = index" class="flex-row" >
+      <div class="flex overflow-x-scroll pb-10 hide-scroll-bar">
+        <h2 class="py-5 font-bold text-2xl">{{type[i]}}</h2>
+        <div (click)="showDetail(recipe.id)" *ngFor="let recipe of category" class=" bg-gray-100 mb-4 py-4 px-2 max-w-sm text-center mr-4 rounded">
+          <div class="mb-4">
+            <img src="{{recipe.image}}" alt="" class="h-28 w-full object-cover">
+          </div>
+          <p class="font-bold">{{recipe.name}}</p>
+          <br>
+          Tiempo de preparación: {{recipe.total_time}} min
+        </div>
+      </div>
+    </div>
+  </div>
+

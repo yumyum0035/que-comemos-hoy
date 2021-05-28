@@ -12,19 +12,17 @@ import { FormBuilder, FormGroup, FormControl, Validators, FormArray} from '@angu
 export class RecipesComponent implements OnInit {
 
   allRecipes:recipe[];
-  type = ['Pasta','Arroces','Pescado','Carne','Pollo','Verduras','Vegano','Sin Gluten','Asiático','Variado'];
-  foodName = ['Pasta']
-  foods;
+  type = ["Pasta", "Pescado", "Asiático", "Variado", "Sin Gluten", "Vegano", "Verduras", "Pollo", "Carne", "Arroces"];
+  foods = [];
   form: FormGroup;
+  filterVisibility = true
+  filterEmpty = true
 
   constructor(private router: Router, private recipeServ:RecipeBookService, private formBuilder: FormBuilder) {
     this.allRecipes = recipeServ.getAllRecipes();
-    console.log(this.allRecipes);
-
     this.form = this.formBuilder.group({
       filter: this.formBuilder.array([], [Validators.required])
     })
-
   }
 
   ngOnInit(): void {
@@ -51,6 +49,10 @@ export class RecipesComponent implements OnInit {
   submit(){
     this.foods = Object.values(this.form.value)
     this.foods = this.foods[0]
-    console.log('foods',this.foods);
+    this.filterEmpty = false
+  }
+
+  filterShowHide() {
+    this.filterVisibility=this.filterVisibility? false : true
   }
 }
