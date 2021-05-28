@@ -10,24 +10,11 @@ import { FormBuilder, FormGroup, FormControl, Validators, FormArray} from '@angu
   styleUrls: ['./recipes.component.scss']
 })
 export class RecipesComponent implements OnInit {
-  
+
   allRecipes:recipe[];
   type = ['Pasta','Arroces','Pescado','Carne','Pollo','Verduras','Vegano','Sin Gluten','Asiático','Variado'];
   foodName = ['Pasta']
   foods;
- /*  pasta;
-  rice;
-  fish;
-  meat;
-  chicken;
-  veggies;
-  vegan;
-  gluten;
-  asian;
-  trend; 
-  type */
-  
-
   form: FormGroup;
 
   constructor(private router: Router, private recipeServ:RecipeBookService, private formBuilder: FormBuilder) {
@@ -41,12 +28,12 @@ export class RecipesComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    
+
   }
 
   onCheckboxChange(e) {
     const filter: FormArray = this.form.get('filter') as FormArray;
-  
+
     if (e.target.checked) {
       filter.push(new FormControl(e.target.value));
     } else {
@@ -54,15 +41,16 @@ export class RecipesComponent implements OnInit {
        filter.removeAt(index);
     }
   }
-  
+
+
+  showDetail(id){
+    this.router.navigateByUrl('/detail-recipe/'+id);
+  }
+
+
   submit(){
     this.foods = Object.values(this.form.value)
     this.foods = this.foods[0]
     console.log('foods',this.foods);
-
-  }
-
-  showDetail(id){
-    this.router.navigateByUrl('/detail-recipe/'+id);
   }
 }
