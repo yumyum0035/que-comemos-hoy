@@ -38,23 +38,25 @@
 
   <div class="flex overflow-x-scroll pb-10 hide-scroll-bar">
     <div *ngFor="let day of menuSemanal, let i = index" class="mr-4">
-      <h3 class="uppercase font-bold">{{day.dia}}</h3>
-      <div (click)="showDetail('lunch',i)">
-        <h4 class="font-bold text-center">Comida</h4>
-        <div class="rounded overflow-hidden shadow-lg">
-          <img src={{day.comida.image}} alt="{{day.comida.image_alt_tag}}" class="h-28 w-full object-cover">
-          <div class="px-6 py-4">
-            <p class="font-bold text-xl mb-2">{{day.comida.name}}</p>
+      <div *ngIf="day.isDay">
+        <h3 class="uppercase font-bold">{{day.dia}}</h3>
+        <div (click)="showDetail('lunch',i)">
+          <h4 class="font-bold text-center">Comida</h4>
+          <div class="rounded overflow-hidden shadow-lg">
+            <img src={{day.comida.image}} alt="{{day.comida.image_alt_tag}}" class="h-28 w-full object-cover">
+            <div class="px-6 py-4">
+              <p class="font-bold text-xl mb-2">{{day.comida.name}}</p>
+            </div>
           </div>
         </div>
-      </div>
 
-      <div (click)="showDetail('dinner',i)">
-        <h4 class="font-bold text-center">Cena</h4>
-        <div class="rounded overflow-hidden shadow-lg">
-          <img src={{day.cena.image}} alt="{{day.cena.image_alt_tag}}" class="h-28 w-full object-cover">
-          <div class="px-6 py-4">
-            <p class="font-bold text-xl mb-2">{{day.cena.name}}</p>
+        <div (click)="showDetail('dinner',i)">
+          <h4 class="font-bold text-center">Cena</h4>
+          <div class="rounded overflow-hidden shadow-lg">
+            <img src={{day.cena.image}} alt="{{day.cena.image_alt_tag}}" class="h-28 w-full object-cover">
+            <div class="px-6 py-4">
+              <p class="font-bold text-xl mb-2">{{day.cena.name}}</p>
+            </div>
           </div>
         </div>
       </div>
