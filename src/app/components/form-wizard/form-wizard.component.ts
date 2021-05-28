@@ -3,6 +3,8 @@ import { StepModel } from '../../models/step.model';
 import { Observable } from 'rxjs';
 import { StepsService } from '../../services/step/step.service';
 import { Router } from '@angular/router';
+import { MenuService } from 'src/app/services/menu/menu.service';
+import { RecipeBookService } from 'src/app/services/recipe-book/recipe-book.service';
 
 @Component({
   selector: 'app-form-wizard',
@@ -15,7 +17,9 @@ export class FormWizardComponent implements OnInit {
 
   constructor(
     private stepsService: StepsService,
-    private router: Router) { }
+    private router: Router,
+    private menu: MenuService,
+    private recipesServ : RecipeBookService) { }
 
   ngOnInit(): void {
     this.currentStep = this.stepsService.getCurrentStep();
@@ -34,6 +38,8 @@ export class FormWizardComponent implements OnInit {
   }
 
   onSubmit(): void {
+    this.recipesServ.generateMeals();
+    this.menu.generatePlan();
     localStorage.setItem('wizardDone','true');
     this.router.navigate(['/calendar']);
   }
