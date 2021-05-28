@@ -20,4 +20,18 @@ nav {
       color: $white;
     }
   }
+
+  /* position */
+  //por una parte me gusta que este fija porque asi es mas facil navegar, 
+  //por la otra me da por culo bastante
+  //hmm.
+  // position: fixed;
+  // bottom: 1.5rem;
+  // left: 0;
+}
+
+@include breakpoint('tablet') {
+  nav {
+    left: 5vw;
+  }
 }
