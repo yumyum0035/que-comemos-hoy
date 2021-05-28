@@ -1,0 +1,91 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+
+/** colors **/
+$orange: #FE9166;
+$red: #FF5B5C;
+$light-orange: rgba($orange, .2);
+$light-red: rgba($red, .8);
+$black: #000;
+$white: #fff;
+$light-gray: #ddd;
+$medium-gray: #c4c4c4;
+
+/** font **/
+$font: 'Quicksand', sans-serif;
+
+/** utilities **/
+$box-shadow: 0px 10px 15px rgba($black, 0.1);
+$small-shadow: 0 2px 4px $light-gray;
+$border-radius-big: 30px;
+$ingredient-width: 10rem;
+
+/** mixins **/
+// breakpoints (mobile-first)
+@mixin breakpoint($point) {
+    @if $point == 'desktop-xxl' {
+       /* XX-Large devices (larger desktops, 1400px and up) */
+       @media (min-width: 1400px) { @content ; }
+   }
+   @else if $point == 'desktop-xl' {
+        /* X-Large devices (large desktops, 1200px and up) */
+        @media (min-width: 1200px) { @content ; }
+    }
+    @else if $point == 'desktop' {
+        /* Large devices (desktops, 990px and up) */
+        @media (min-width: 990px) { @content ; }
+   }
+     @else if $point == 'tablet' {
+        /* Medium devices (tablets, 768px and up) */
+        @media (min-width: 768px) { @content ; }
+   }
+    @else if $point == 'mobile' {
+        /* Small devices (landscape phones, 576px and up) */
+        @media (min-width: 576px) { @content ; }
+   }
+   @else if $point == 'mobileonly' {
+        /* Small devices (small phones, 320px and up) */
+        //seriously who uses a phone smaller than this in 2021
+        @media (min-width: 320px) { @content ; }
+   }
+}
+
+//grid with same column/row size
+@mixin grid-size ($number-of-columns, $column-size, $number-of-rows, $row-size,  $grid-gap) {
+    display: grid;
+    grid-template-columns: repeat($number-of-columns, $column-size);
+    grid-template-rows: repeat($number-of-rows, $row-size);
+    grid-gap: $grid-gap;
+}
+
+//grid with different values
+@mixin grid ($grid-gap) {
+    display: grid;
+    grid-gap: $grid-gap;
+}
+
+//flex centered
+@mixin flex($direction, $wrap, $align-content, $justify-content, $align-items) {
+    display: flex;
+    flex-flow: $direction $wrap;
+    align-content: $align-content;
+    justify-content: $justify-content;
+    align-items: $align-items;
+}
+
+//stars dificulty !! it works i do be amazing
+@mixin difficulty-stars($dificulty) {
+    @if $dificulty == 1 {
+        &::after { content: " ★☆☆"; }
+    }
+    @else if $dificulty == 2 {
+        &::after { content: " ★★☆"; }
+    }
+    @else if $dificulty == 3 {
+        &::after { content: " ★★★"; }
+    }
+}
