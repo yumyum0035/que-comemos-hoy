@@ -1,12 +1,11 @@
 @use "./variables" as *;
 
-* { box-sizing: border-box; }
 html { font-size: 10px; }
-
-body {
-  font-family: $font;
-  font-size: 1.6rem;
-  font-weight: 300;
+* { 
+    box-sizing: border-box;
+    font-family: $font;
+    font-size: 1.6rem;
+    font-weight: 300;
 }
 
 main {
