@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { RecipeBookService } from '../../services/recipe-book/recipe-book.service';
-
+import { MenuService } from '../../services/menu/menu.service';
 @Component({
   selector: 'app-shopping-list',
   templateUrl: './shopping-list.component.html',
@@ -11,12 +11,12 @@ export class ShoppingListComponent implements OnInit {
 
   ownedIngredients = [];
   missingIngredients = [];
-  userRecipes: any[];
+  menuSemanal = [];
   allRecipes;
-  array = [];
   result;
+  wizardDone
 
-  constructor(private router: Router, private util: RecipeBookService) { }
+  constructor(private router: Router, private util: RecipeBookService, private menu: MenuService) { }
 
 
   /*
@@ -24,20 +24,53 @@ export class ShoppingListComponent implements OnInit {
   ngOnInit(): void {
     this.ownedIngredients = localStorage.getItem('ownedIngredients') ? JSON.parse(localStorage.getItem('ownedIngredients'))  : this.ownedIngredients;
     this.missingIngredients = localStorage.getItem('missingIngredients') ? JSON.parse(localStorage.getItem('missingIngredients'))  : this.missingIngredients;
-    this.userRecipes = localStorage.getItem('userRecipes') ? JSON.parse(localStorage.getItem('userRecipes'))  : this.userRecipes;
+    this.menuSemanal = localStorage.getItem('weeklyMenu') ? JSON.parse(localStorage.getItem('weeklyMenu')) : this.menuSemanal;
+    this.wizardDone = localStorage.getItem('wizardDone') ? JSON.parse(localStorage.getItem('wizardDone')) : this.wizardDone;
     this.getEverything()
-
   }
 
-  getUserRecipes() {
-    this.userRecipes = this.util.getUserRecipes()
+  getWeekPlan(){
+    this.menuSemanal = this.menu.getWeekPlan()
   }
 
   getEverything() {
-    this.userRecipes == undefined? alert('You Havent done the wizard!') : console.log('All good');
-    this.getIngredientFromRecipe(this.userRecipes)
-    this.filterOnlyUniqueId()
-    
+    if (!this.wizardDone) {
+    this.getWeekPlan()
+    this.getIngredientWeekPlan(this.menuSemanal)
+    this.filterOnlyUniqueName()
+    };
+  }
+
+  getIngredientWeekPlan(weekPlan) {
+    this.result = [];
+    let totalIngredientsArrayStrings
+    weekPlan.forEach(day => {
+
+      if (day.isDay == true) {
+      this.result.push(...day.cena.ingredients)
+      this.result.push(...day.comida.ingredients)
+      totalIngredientsArrayStrings = this.result.map(foodMaterial => foodMaterial.name);
+    }
+    });
+    this.missingIngredients = this.result
+
+  }
+
+  filterOnlyUniqueName() {
+    /* change id to name */
+    let flags = {};
+
+    /* add to flags then check if its inside */
+    let uniqueIngredients = this.result.filter((ingredient: any) => {
+
+      if (flags[ingredient.name]) {
+        return false
+      }
+      flags[ingredient.name] = true
+      return true
+    });
+    console.log(flags);
+    this.missingIngredients = uniqueIngredients
   }
 
   addIngredient(missingIngredient) {
@@ -53,49 +86,5 @@ export class ShoppingListComponent implements OnInit {
     localStorage.setItem('ownedIngredients', JSON.stringify(this.ownedIngredients));
     localStorage.setItem('missingIngredients', JSON.stringify(this.missingIngredients));
 
-  }
-
-  getIngredientFromRecipe(recipes) {
-    this.result = [];
-
-    recipes.forEach(recipe => {
-      this.result.push(...recipe.ingredients)
-
-    });
-  }
-
-  filterOnlyUniqueId() {
-    let flags = {};
-
-    /* add to flags then check if its inside */
-    let uniqueIngredients = this.result.filter((ingredient: any) => {
-
-      if (flags[ingredient.id]) {
-        return false
-      }
-      flags[ingredient.id] = true
-      return true
-
-
-
-    });
-    /* this.missingIngredients = this.result */
-    this.missingIngredients = uniqueIngredients
-
-  }
-
-  standarizeWordsInArray(array) {
-    for (let i = 0; i < array.length; i++) {
-      array[i] = array[i].charAt(0).toUpperCase() + array[i].slice(1)
-    }
-
-     array = array.filter(word => {
-      return word.includes(word)})
-
-    array = array.filter(this.onlyUnique)
-  }
-
-  onlyUnique(value, index, self) {
-    return self.indexOf(value) === index;
   }
 }
