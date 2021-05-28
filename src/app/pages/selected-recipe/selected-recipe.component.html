@@ -1,0 +1,46 @@
+<main>
+      <h2>{{recipe.name}}</h2>
+      <section>
+        <img src="{{recipe.image}}" alt="{{recipe.image_alt_tag}}"/>
+        <div class="recipe-head">
+          <p class="mins">{{recipe.total_time}}  minutos</p>
+          <p class="diff medium">Dificultad:</p>
+          <div class="portions">
+            <p>Porciones a preparar</p>
+            <button class="red-bg" id="backwards">
+              <i class="fas fa-chevron-left"></i>
+            </button>
+            <div id="numberOfPortions">2</div>
+            <button class="red-bg" id="forward">
+              <i class="fas fa-chevron-right"></i>
+            </button>
+          </div>
+          <p class="descrip"> {{recipe.description}} </p>
+        </div>
+        <article class="favorite false">
+          <button>
+            <svg viewBox="0 0 60 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M10.5929 34.9268C15.911 41.034 29.9581 52 29.9581 52C29.9581 52 44.089 41.16 49.4071 35.0529C54.7252 28.9457 63.842 15.6628 52.7499 5.58604C41.6578 -4.4907 30.0419 10.5233 30.0419 10.5233C30.0419 10.5233 18.3422 -4.61676 7.25007 5.45998C-3.84203 15.5367 5.27476 28.8197 10.5929 34.9268Z"/>
+            </svg>
+          </button>
+          <span>Añadir a favoritos</span>
+        </article>
+      </section>
+
+      <section>
+        <h3>Ingredientes</h3>
+        <div class="ingredient-container">
+          <div class="ingredient" *ngFor="let i of ingredientes">
+            <img src="{{i.image}}" alt=""/>
+            <p>{{i.name}}</p>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h3>Pasos</h3>
+        <div class="cooking-steps">
+            <p *ngFor="let p of pasos">{{p.name}}</p>
+        </div>
+      </section>
+    </main>

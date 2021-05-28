@@ -1,22 +1,26 @@
-
-<div class="form-page-container">
-  <app-steps></app-steps>
-<div class="step-page-container">
-  <div class="form-step">
-      <ng-container [ngSwitch]="(currentStep | async)?.stepIndex">
-          <ng-container *ngSwitchCase="'1'">
-              <app-step-template [step]="(currentStep | async)"></app-step-template>
+<main>
+  <div class="form-page-container">
+    <app-steps></app-steps>
+    <div class="step-page-container">
+      <div class="form-step">
+          <ng-container [ngSwitch]="(currentStep | async)?.stepIndex">
+              <ng-container *ngSwitchCase="'1'">
+                <app-step-template [step]="(currentStep | async)"></app-step-template>
+              </ng-container>
+              <ng-container *ngSwitchCase="'2'">
+                <app-step-template [step]="(currentStep | async)"></app-step-template>
+              </ng-container>
+              <ng-container *ngSwitchCase="'3'">
+                <app-step-template [step]="(currentStep | async)"></app-step-template>
+              </ng-container>
           </ng-container>
-          <ng-container *ngSwitchCase="'2'">
-            <app-step-template [step]="(currentStep | async)"></app-step-template>
-          </ng-container>
-          <ng-container *ngSwitchCase="'3'">
-            <app-step-template [step]="(currentStep | async)"></app-step-template>
-          </ng-container>
-      </ng-container>
+      </div>
+    </div>
+    <div class="container-center">
+      <button (click)="onNextStep()" [disabled]="!(currentStep | async)?.isComplete" class="continue-btn red-bg">
+        {{ showButtonLabel() }}
+      </button>
+    </div>
   </div>
-</div>
-<button (click)="onNextStep()" [disabled]="!(currentStep | async)?.isComplete" class="form-continue-btn">
-  {{ showButtonLabel() }}
-</button>
-</div>
+</main>
+
