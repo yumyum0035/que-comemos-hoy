@@ -2,15 +2,21 @@
 
 section {
     &:first-of-type {
-        img { width: 100%; }
+        img { 
+            width: 100%;
+            border-radius: .5rem;
+        }
     }
 }
 
 .recipe-head {
-    @include grid-size(2, 45vw, 4, auto, 1.5rem);
+    @include grid-size(2, 45%, 4, auto, 1.5rem);
     justify-content: center;
 
-    img { grid-column: 1 / 3; grid-row: 1 / 2; }
+    img { 
+        grid-column: 1 / 3; 
+        grid-row: 1 / 2;
+    }
     p { 
         grid-row: 2 / 3;
         &.mins { grid-column: 1 / 2; }
@@ -64,33 +70,30 @@ section {
 }
 
 .ingredient-container {
-    @include grid-size(3, $ingredient-width, 3, $ingredient-width, .5rem);
-
-    margin: 0 2rem;
-    justify-content: center;
-    text-align: center;
-    
+    height: 33vh;
+    @include scroll(scroll, hidden);
 
     .ingredient {
-        width: $ingredient-width;
-        height: $ingredient-width;
+        @include grid(0 2rem);
+        grid-template-columns: 6.5rem auto;
+        align-items: center;
+
         border-radius: .5rem;
         font-weight: bold;
+        margin: 1rem;
+        padding: 1rem;
 
         background: $light-orange;
         color: $red;
 
-        @include flex(column, nowrap, center, center, center);
+        img {
+            grid-column: 1 / 2; grid-row: 1 / 3;
+            @include size(6.5rem, 6.5rem);
+            border-radius: 1.5rem;
+        }
     }
 
-    img {
-        width: 6.5rem;
-        height: 6.5rem;
-        border-radius: 1.5rem;
-
-        justify-self: center;
-        align-self: center;
-    }
+    
 }
 
 .cooking-steps {
@@ -109,8 +112,7 @@ section {
     @include flex(row, nowrap, center, center, center);
 
     button {
-        width: 5rem;
-        height: 5rem;
+        @include size(5rem, 5rem);
         border-radius: calc(5rem / 2);
         border: none;
 
@@ -152,11 +154,6 @@ section {
     }
 }
 
-@include breakpoint('mobile') {
-    .ingredient-container {
-        @include grid-size(4, $ingredient-width, 2, $ingredient-width, .5rem);
-    }
-}
 
 @include breakpoint('tablet') {
     section {
@@ -176,18 +173,7 @@ section {
     }
 
     .ingredient-container {
-        @include grid-size(3, $ingredient-width, 3, $ingredient-width, .5rem);
-    }
-}
-
-@include breakpoint('desktop') {
-    .ingredient-container {
-        @include grid-size(4, $ingredient-width, 3, $ingredient-width, .5rem);
-    }
-}
-
-@include breakpoint('desktop-xl') {
-    .ingredient-container {
-        @include grid-size(5, $ingredient-width, 3, $ingredient-width, .5rem);
+        height: 100%;
+        @include scroll(scroll, hidden); 
     }
 }
