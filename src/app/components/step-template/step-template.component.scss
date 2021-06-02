@@ -35,6 +35,12 @@ div {
 .continue-btn {
   padding: 1.2rem;
   margin: 2rem;
+  border-radius: .5rem;
+
+  &:disabled {
+    background: $light-gray;
+    color: $white;
+  }
 }
 
 .iframe-holder {
@@ -43,8 +49,9 @@ div {
 }
 
 iframe {
-  height: 30rem;
+  height: 32rem;
   margin: 0 0 0 2rem;
+  border: none;
 }
 
 /* media queries */
