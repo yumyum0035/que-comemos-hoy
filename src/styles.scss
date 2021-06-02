@@ -65,6 +65,8 @@ button {
 
 .bold { font-weight: 600; }
 .uppercase { text-transform: uppercase; }
+.border-round { border-radius: 5rem; }
+.padding-1 { padding: 1rem; }
 
 .flex {
   &.column { @include flex(column, nowrap, center, center, center); }

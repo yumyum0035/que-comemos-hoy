@@ -1,3 +1,9 @@
+@use "src/variables" as *;
+
+$image-min: 11.5rem;
+$image-max: 14.4rem;
+$image: $image-min;
+
 .step-content-label {
   margin-bottom: 16px;
 }
@@ -16,10 +22,46 @@
   color: blue !important;
 }
 
-.hide-scroll-bar {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
+article {
+  @include grid(0);
+  grid-template-columns: repeat(1, auto);
+  grid-template-rows: repeat(3, auto);
+
+  /* scroll on phone*/
+  height: 33vh;
+  @include scroll(scroll, hidden);
 }
-.hide-scroll-bar::-webkit-scrollbar {
-  display: none;
+
+img {
+  @include size($image, $image);
+  object-fit: cover;
+  border-radius: 3.2rem;
+}
+
+#recipe-container {
+  @include grid(0 1.5rem);
+  grid-template-columns: repeat(3, $image);
+  grid-template-rows: 5rem minmax(2.5rem, 3.7rem) 2rem minmax(2.5rem, 3.7rem);
+  align-items: center;
+  justify-content: center;
+
+  margin: .8rem;
+
+  img { grid-row: 1 / 5;}
+  h3 { grid-row: 1 / 2; grid-column: 2 / 4; }
+  #mins { grid-column: 2 / 3; grid-row: 2 / 3;}
+  .diff  { grid-column: 3 / 4; grid-row: 2 / 3;}
+  #missing { grid-column: 2 / 4; grid-row: 3 / 4;}
+  #ingredients { grid-column: 2 / 4; grid-row: 4 / 5;}
+}
+
+@include breakpoint("desktop") {
+  article { 
+    grid-template-columns: repeat(2, auto);
+    height: 45vh;
+  }
+}
+
+@include breakpoint("desktop-xxl") {
+  article { grid-template-columns: repeat(3, auto); }
 }
