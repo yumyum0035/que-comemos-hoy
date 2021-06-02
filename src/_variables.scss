@@ -24,7 +24,7 @@ $small-shadow: 0 2px 4px $light-gray;
 $border-radius-big: 30px;
 $ingredient-width: 10rem;
 
-/** mixins **/
+/********************* mixins *********************/
 // breakpoints (mobile-first)
 @mixin breakpoint($point) {
     @if $point == 'desktop-xxl' {
@@ -69,23 +69,37 @@ $ingredient-width: 10rem;
 }
 
 //flex centered
-@mixin flex($direction, $wrap, $alignContent, $justifyContent, $alignItems) {
+@mixin flex($direction, $wrap, $justifyItems, $justifyContent, $alignItems) {
     display: flex;
     flex-flow: $direction $wrap;
-    align-content: $alignContent;
+    justify-items: $justifyItems;
     justify-content: $justifyContent;
     align-items: $alignItems;
+}
+
+@mixin size($width, $height) {
+    width: $width;
+    height: $height;
+}
+
+@mixin scroll($y, $x){
+    overflow-y: $y;
+    overflow-x: $x;
 }
 
 //stars dificulty !! it works i do be amazing
 @mixin difficulty-stars($dificulty) {
     @if $dificulty == 1 {
-        &::after { content: " ★☆☆"; }
+        .star1 { stroke: $black; fill: $black; }
+        .star2, .star3 { stroke: $black; }
     }
     @else if $dificulty == 2 {
-        &::after { content: " ★★☆"; }
+        // &::after { content: " ★★☆"; }
+        .star1, .star2 { stroke: $black; fill: $black; }
+        .star3 { stroke: $black; }
     }
     @else if $dificulty == 3 {
-        &::after { content: " ★★★"; }
+        // &::after { content: " ★★★"; }
+        .star1, .star2, .star3 { stroke: $black; fill: $black; }
     }
 }

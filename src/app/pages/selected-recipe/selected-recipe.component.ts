@@ -40,6 +40,18 @@ export class SelectedRecipeComponent implements OnInit {
     this.recipesServ.setMealById(this.id,this.recipe.favorited);
   }
 
+  difficultyClass() {
+    let className;
+    if(this.recipe.dificulty === 1) {
+      className ="low";
+    } else if (this.recipe.dificulty === 2) {
+      className = "medium";
+    } else {
+      className = "high";
+    }
+
+    return className;
+  }
 
 
 

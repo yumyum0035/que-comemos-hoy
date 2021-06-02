@@ -1,46 +1,52 @@
-<main>
-      <h2>{{recipe.name}}</h2>
-      <section>
-        <img src="{{recipe.image}}" alt="{{recipe.image_alt_tag}}"/>
-        <div class="recipe-head">
-          <p class="mins">{{recipe.total_time}}  minutos</p>
-          <p class="diff medium">Dificultad:</p>
-          <div class="portions">
-            <p>Porciones a preparar</p>
-            <button class="red-bg" id="backwards">
-              <i class="fas fa-chevron-left"></i>
-            </button>
-            <div id="numberOfPortions">2</div>
-            <button class="red-bg" id="forward">
-              <i class="fas fa-chevron-right"></i>
-            </button>
-          </div>
-          <p class="descrip"> {{recipe.description}} </p>
-        </div>
-        <article class="favorite false" (click)="addFav()" [ngClass]="recipe.favorited ? 'true' : 'false'">
-          <button>
-            <svg viewBox="0 0 60 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M10.5929 34.9268C15.911 41.034 29.9581 52 29.9581 52C29.9581 52 44.089 41.16 49.4071 35.0529C54.7252 28.9457 63.842 15.6628 52.7499 5.58604C41.6578 -4.4907 30.0419 10.5233 30.0419 10.5233C30.0419 10.5233 18.3422 -4.61676 7.25007 5.45998C-3.84203 15.5367 5.27476 28.8197 10.5929 34.9268Z"/>
-            </svg>
-          </button>
-          <span>Añadir a favoritos</span>
-        </article>
-      </section>
 
-      <section>
-        <h3>Ingredientes</h3>
-        <div class="ingredient-container">
-          <div class="ingredient" *ngFor="let i of ingredientes">
-            <img src="{{i.image}}" alt=""/>
-            <p>{{i.name}}</p>
-          </div>
-        </div>
-      </section>
+<h2>{{recipe.name}}</h2>
+<section>
+  <img src="{{recipe.image}}" alt="{{recipe.image_alt_tag}}"/>
+  <div class="recipe-head">
+    <p class="mins">{{recipe.total_time}}  minutos</p>
+    <p class="diff" [ngClass]="difficultyClass()">Dificultad:
+      <svg width="40" height="12" viewBox="0 0 40 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path class="star1" d="M4.48611 4.16794L6.04248 1L7.70915 4.16794L11.0425 4.77226L8.74469 7.36132L9.11233 11L6.04248 9.37786L2.88072 11L3.37704 7.36132L1.04248 4.77226L4.48611 4.16794Z"/>
+        <path class="star2" d="M18.4861 4.16794L20.0425 1L21.7091 4.16794L25.0425 4.77226L22.7447 7.36132L23.1123 11L20.0425 9.37786L16.8807 11L17.377 7.36132L15.0425 4.77226L18.4861 4.16794Z"/>
+        <path class="star3" d="M32.4861 4.16794L34.0425 1L35.7091 4.16794L39.0425 4.77226L36.7447 7.36132L37.1123 11L34.0425 9.37786L30.8807 11L31.377 7.36132L29.0425 4.77226L32.4861 4.16794Z"/>
+      </svg>
+    </p>
+    <div class="portions">
+      <p>Porciones a preparar</p>
+      <button class="red-bg" id="backwards">
+        <i class="fas fa-chevron-left"></i>
+      </button>
+      <div id="numberOfPortions">2</div>
+      <button class="red-bg" id="forward">
+        <i class="fas fa-chevron-right"></i>
+      </button>
+    </div>
+    <p class="descrip"> {{recipe.description}} </p>
+  </div>
+  <article class="favorite false" (click)="addFav()" [ngClass]="recipe.favorited ? 'true' : 'false'">
+    <button>
+      <svg viewBox="0 0 60 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10.5929 34.9268C15.911 41.034 29.9581 52 29.9581 52C29.9581 52 44.089 41.16 49.4071 35.0529C54.7252 28.9457 63.842 15.6628 52.7499 5.58604C41.6578 -4.4907 30.0419 10.5233 30.0419 10.5233C30.0419 10.5233 18.3422 -4.61676 7.25007 5.45998C-3.84203 15.5367 5.27476 28.8197 10.5929 34.9268Z"/>
+      </svg>
+    </button>
+    <span>Añadir a favoritos</span>
+  </article>
+</section>
 
-      <section>
-        <h3>Pasos</h3>
-        <div class="cooking-steps">
-            <p *ngFor="let p of pasos">{{p.name}}</p>
-        </div>
-      </section>
-    </main>
+<section>
+  <h3>Ingredientes</h3>
+  <div class="ingredient-container">
+    <div class="ingredient" *ngFor="let i of ingredientes">
+      <img src="{{i.image}}" alt=""/>
+      <p class="bold">{{i.name | titlecase}}</p>
+      <p>{{i.value}} {{i.measure}}</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h3>Pasos</h3>
+  <div class="cooking-steps">
+      <p *ngFor="let p of pasos">{{p.name}}</p>
+  </div>
+</section>
