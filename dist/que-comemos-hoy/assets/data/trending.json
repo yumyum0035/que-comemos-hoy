@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "granola-casera-en-sarten",
+    "name": "Granola Casera en Sartén",
+    "type": "Variado",
+    "description": "¡Desayuno casero y de calidad! Así serán tus próximas días si te lanzas a hacer esta fantástica granola de frutos secos. Una receta que requiere de muy pocos ingredientes y facilísima de hacer. Sólo necesitas una sartén y apenas quince minutos de tu tiempo. ¡Menuda maravilla!",
+    "image_alt_tag": "Granola Casera en Sartén",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/granola-casera-en-sarten/900/granola-casera-en-sarten.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 4,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492964376/ingredients/avena.jpg",
+        "name": "avena",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "gramos",
+        "value": "50",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/nueces.jpg",
+        "name": "nuez",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      },
+      {
+        "measure": "gramos",
+        "value": "50",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/almendras.jpg",
+        "name": "almendra",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/canela.jpg",
+        "name": "canela",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/miel.jpg",
+        "name": "miel",
+        "shopping_list_category_es": "otros"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza triturando un poco las nueces y las almendras. Puedes hacerlo con tus propias manos o bien, con un martillo de cocina, sobre una tabla, le das unos golpes.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén amplia tuesta los copos de avena y las nueces y almendras troceadas durante 5 minutos (sin necesidad de echar aceite a la sartén), a fuego medio, revolviendo de manera constante. Pasado ese tiempo apaga el fuego y coloca la avena y frutos secos en un recipiente.",
+        "priority": 1
+      },
+      {
+        "name": "En esa misma sartén añade el aceite y la miel. Cuando la miel se derrita vierte los copos de avena y los frutos secos que tienes reservados, la sal y la canela, y mezcla bien. Tuesta otros 5 minutos a fuego medio, revolviendo la granola con frecuencia.",
+        "priority": 2
+      },
+      {
+        "name": "Apaga el fuego. Coloca la granola en una bandeja y deja que se enfríe. Cuando se enfríe verás que se hará crujiente. ¡Ya tienes desayuno para las próximas semanas!",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "pollo-con-salsa-dulce",
+    "name": "Pollo con Salsa Dulce",
+    "type": "Variado",
+    "description": "Dale un giro a tus pechugas de pollo con un toque dulce delicioso. Las dejará con un sabor espectacular. Pensarás que estás ante un plato nuevo ¡prueba y verás!",
+    "image_alt_tag": "Pollo con Salsa Dulce",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pollo-con-salsa-dulce/900/pollo-con-salsa-dulce.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/miel.jpg",
+        "name": "miel",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/vinagre-vino.jpg",
+        "name": "vinagre de vino",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Prepara el pollo. Puedes dejar las pechugas tal cual o cortarla en filetes más finos o en dados, como más te guste. Échales sal y pimienta a tu gusto.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén, echa un poquito de aceite de oliva. Cocina ligeramente las pechugas de pollo por ambos lados.",
+        "priority": 1
+      },
+      {
+        "name": "A continuación, en un bol, mezcla la miel, el ajo súper picado y el vinagre. Revuelve muy bien.",
+        "priority": 2
+      },
+      {
+        "name": "Vierte la mezcla en la sartén sobre el pollo y deja que se cocine varios minutos . Verás que el líquido se irá reduciendo poco a poco hasta convertirse en una salsa más densa. Entonces, retira del plato y sírvelo porque ya está listo para comer.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "revuelto-de-calabacin",
+    "name": "Revuelto de Calabacín",
+    "type": "Variado",
+    "description": "\n    Resulta increíble que el huevo y el calabacín den lugar a un plato tan exquisito como este. Para desayunar o cenar es una opción estupenda. ¡Confía en nosotros!\n",
+    "image_alt_tag": "Revuelto de Calabacín",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/revuelto-de-calabacin/900/revuelto-de-calabacin.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 5,
+    "ingredients": [
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidades",
+        "value": "3",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la cebolla y calabacín en trozos muy pequeños.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén echa un chorrito de aceite y sofríe la cebolla. Cuando comience a ablandarse añade el calabacín y una pizca de sal, y cocina varios minutos.",
+        "priority": 1
+      },
+      {
+        "name": "Mientras, en un recipiente, puedes ir batiendo los huevos con una pizca de sal, hasta que queden bien mezclados.",
+        "priority": 2
+      },
+      {
+        "name": "Añade los huevos y remueve con una cuchara de madera y cocínalos a tu gusto. Cuanto menos los cocines más jugosos estarán. ¡A disfrutar!",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-col",
+    "name": "Ensalada de Col",
+    "type": "Variado",
+    "description": "Si vas a hacer una barbacoa y quieres acompañarla de una ensalada fresca y súper sabrosa, ¡aquí la tienes! Un clásico que no te puedes perder, la famosa ¡coleslaw o ensalada de col!",
+    "image_alt_tag": "Ensalada de Col",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-col/900/ensalada-de-col.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/col.jpg",
+        "name": "col",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "ramas",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/apio.jpg",
+        "name": "apio",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/manzana-roja.jpg",
+        "name": "manzana",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1504401669/ingredients/vinagre-de-manzana.jpg",
+        "name": "vinagre de manzana",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mayonesa.jpg",
+        "name": "mayonesa",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la col (repollo) en tiras muy finas y colócalas en tu ensaladera.",
+        "priority": 0
+      },
+      {
+        "name": "Corta la rama de apio también finamente y añádela a la ensalada.",
+        "priority": 1
+      },
+      {
+        "name": "Pela la zanahoria y rállala y, por último, lava la manzana y córtala en trozos (con piel). Añade todo también a la ensalada. ",
+        "priority": 2
+      },
+      {
+        "name": "Vierte el vinagre en las verduras y mezcla.",
+        "priority": 3
+      },
+      {
+        "name": "Ahora agrega la mayonesa y mezcla de nuevo.  ",
+        "priority": 4
+      },
+      {
+        "name": "Mete la ensalada en la nevera y deja enfriar durante un rato, así estará mejor.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "sarten-de-huevos-con-tomate",
+    "name": "Sartén de Huevos con Tomate",
+    "type": "Variado",
+    "description": "Si tu nevera está más vacía que nunca ¡échale imaginación al tema! Con unos tomates y un par de huevos puedes hacerte está súper sartén.",
+    "image_alt_tag": "Sartén de Huevos con Tomate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sarten-de-huevos-con-tomate/900/sarten-de-huevos-con-tomate.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 5,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "600",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pica el ajo y sofríelo en una sartén con el aceite (si te gusta el picante puedes añadir también una cayena).",
+        "priority": 0
+      },
+      {
+        "name": "Lava los tomates y córtalos en dados tamaño medio. Cuando el ajo esté dorado añade a la sartén el tomate que acabas de picar y añade un poco de sal. Cocina durante 5-6 minutos a fuego medio/bajo. Poco a poco el tomate se irá ablandando.",
+        "priority": 1
+      },
+      {
+        "name": "Haz dos huecos en la salsa de tomate y vierte en ellos los huevos con una pizca de sal. Pon una tapa y deja que se cuajen. Si tienes un poco de queso rallado por tu nevera puedes espolvorear un poco alrededor de los huevos mientras éstos se cuajan.",
+        "priority": 2
+      },
+      {
+        "name": "Acompaña la sartén con varias rebanadas de pan. ¡No te sobrará!",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "canelones-de-calabacin-rellenos-de-atun",
+    "name": "Canelones de Calabacín Rellenos de Atún",
+    "type": "Variado",
+    "description": "Una receta facilísima de hacer a la vez que rica son estos canelones rellenos de atún. Lo mejor, puedes tomarlos en versión fría o caliente, ¿cómo te apetece a ti?",
+    "image_alt_tag": "Canelones de Calabacín Rellenos de Atún",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/canelones-de-calabacin-rellenos-de-atun/900/canelones-de-calabacin-rellenos-de-atun.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 5,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate frito",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/atun-conserva.jpg",
+        "name": "atún en conserva",
+        "shopping_list_category_es": "conservas"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava el calabacín y córtalo a lo largo en láminas finas. Para ello puedes ayudarte de una mandolina, un cortador, un cuchillo... lo que mejor te venga. Ahora pon agua a hervir en una cazuela lo suficientemente amplia como para que te entren las tiras de calabacín y cuando el agua esté hirviendo, añade un poquito de sal e introduce las láminas de calabacín. Cuécelas entre uno y dos minutos, que estén tiernas pero ofrezcan una pequeña resistencia. Sácalas y resérvalas sobre un escurridor.",
+        "priority": 0
+      },
+      {
+        "name": "Prepara el relleno, es muy fácil. Para ello pica un poco de cebolla en trozos muy pequeños. Escurre el atún de su lata y vierte todo en un recipiente. Añade la salsa de tomate y revuelve bien. Puedes echar un poco de pimienta a la mezcla.",
+        "priority": 1
+      },
+      {
+        "name": "Estira las láminas de calabacín sobre una superficie plana (encimera, tabla, etc.). Sécalas con papel absorbente. Pon una cucharadita de la mezcla en uno de los extremos de cada lámina y enrolla hasta formar el canelón.",
+        "priority": 2
+      },
+      {
+        "name": "Te hemos presentado la versión fría de canelones pero si te apetece tomarlos calentitos puedes calentar un poco el relleno en una sartén, formar los canelones y terminar echando un poquito de queso por encima. Los metes al horno y dejas que el queso se funda, en apenas unos minutos los tendrás listos. ¡Riquísimos!",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "pate-de-anacardos-y-ajo",
+    "name": "Paté de Anacardos y Ajo",
+    "type": "Variado",
+    "description": "Si los aperitivos te pierden y te encanta prepararlos para compartirlos con tus amigos y familiares, ¡no te pierdas este riquísimo y nutritivo paté! Tiene un sabor suave a la vez de que delicioso. Verás que no va a sobrar ni un poquito.",
+    "image_alt_tag": "Paté de Anacardos y Ajo",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pate-de-anacardos-y-ajo/900/pate-de-anacardos-y-ajo.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 5,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/anacardos.jpg",
+        "name": "anacardo",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/leche-vegetal.jpg",
+        "name": "leche vegetal",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pon los anacardos a remojo en agua caliente (o déjalos toda la noche).",
+        "priority": 0
+      },
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 1
+      },
+      {
+        "name": "Coge la cabeza de ajos y sin desmontarla haz un corte con el que quites el extremo de todos los dientes, de tal forma que, aunque aún estén juntos y con la piel, se vea el ajo. ",
+        "priority": 2
+      },
+      {
+        "name": "Coloca la cabeza de ajos en una fuente pequeña para el horno, añade un chorrito de aceite de oliva y hornea durante 30 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado este tiempo, sácalos y déjalos enfriar un poco antes de pelarlos y añadir los ajos a un procesador de alimentos o picadora junto a los anacardos escurridos, la leche vegetal, la sal y el aceite (te recomiendo que para dar más sabor mires el apartado de trucos y consejos) y tritura unos segundos hasta que tenga una consistencia que te guste.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "pollo-con-calabacines",
+    "name": "Pollo con Calabacines",
+    "type": "Variado",
+    "description": "\n    No te vas a poder resistir a semejante plato de pollo. Sabroso no, ¡lo siguiente! Jugoso, rico, con un olor increíble... Una pasada.\n",
+    "image_alt_tag": "Pollo con Calabacines",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pollo-con-calabacines/900/pollo-con-calabacines.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava y corta en rodajas, no muy gruesas, el calabacín.",
+        "priority": 0
+      },
+      {
+        "name": "Corta en láminas la cebolla y la pechuga de pollo en tiras tamaño medio.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén, echa un chorrito de aceite. Cuando esté caliente, cocina la cebolla un par de minutos. A continuación, vierte las rodajas de calabacín y un poco de sal. También, ralla un poco la cáscara del limón y viértela en la sartén (con dos pizcas te basta). Saltea todo a fuego medio, 5-7 minutos.",
+        "priority": 2
+      },
+      {
+        "name": "En otra sartén, con un poquito de aceite, cocina el pollo que previamente has cortado en tiras. Échale una pizca de sal y dos cucharadas de zumo de limón.",
+        "priority": 3
+      },
+      {
+        "name": "Cuando veas que el pollo ya está cocinado, viértelo en la sartén de los calabacines y, con suavidad, integra todos los ingredientes. Sírvelo en tu plato y coloca, a modo de decoración, alguna rodaja de limón.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "pollo-con-verduras-estilo-oriental",
+    "name": "Pollo con Verduras Estilo Oriental ",
+    "type": "Variado",
+    "description": "Porque sabemos que te gusta la comida asiática te traemos esta versión súper sencilla del clásico pollo con verduras. Acompáñala de un poco arroz basmati o noodles y verás que fantástico plato consigues.",
+    "image_alt_tag": "Pollo con Verduras Estilo Oriental ",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pollo-con-verduras-estilo-oriental/900/pollo-con-verduras-estilo-oriental.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-amarillo.jpg",
+        "name": "pimiento amarillo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/esparragos-verdes.jpg",
+        "name": "espárrago verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "maicena",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela la patata y córtala en trozos no muy grandes. ",
+        "priority": 0
+      },
+      {
+        "name": "Corta las pechugas de pollo en dados. ",
+        "priority": 1
+      },
+      {
+        "name": "Corta la cebolla, los pimientos y los espárragos en trozos de tamaño medio.",
+        "priority": 2
+      },
+      {
+        "name": "Echa un poco de aceite en una sartén y saltea los dados de pollo. Retira, colócalos en un bol y resérvalos.",
+        "priority": 3
+      },
+      {
+        "name": "En la misma sartén, saltea las verduras y los trozos de patata que has cortado con un poco de aceite a fuego medio durante 6-7 minutos. ",
+        "priority": 4
+      },
+      {
+        "name": "Pasado ese tiempo agrega a la sartén el pollo que tienes reservado y añade la salsa de soja. Saltea durante un par de minutos más.",
+        "priority": 5
+      },
+      {
+        "name": "En un vaso coloca el agua y la maicena. Revuelve y viértelo en la sartén que contiene el pollo y las verduras. Saltea a fuego suave unos 3 minutos más y, pasado ese tiempo, comprueba que las patatas están tiernas, retira y sirve.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "crepes-de-pollo-al-curry",
+    "name": "Crepes de Pollo al Curry",
+    "type": "Variado",
+    "description": "Si te gustan las crepes, y el curry es una especia que te gusta emplear para darle un toque exótico a tus platos, estas crepes rellenas de pollo al curry con champiñones te van a fascinar. Son realmente ricas y sabrosas. ¿Te animas con ellas?",
+    "image_alt_tag": "Crepes de Pollo al Curry",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crepes-de-pollo-al-curry/900/crepes-de-pollo-al-curry.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "125",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/harina-de-avena.jpg",
+        "name": "harina de avena",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "mililitros",
+        "value": "300",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/curry.jpg",
+        "name": "curry",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En el vaso de tu batidora vierte la harina, los huevos, la leche y una pizca de sal. Bate bien y deja que repose la masa de las crepes mientras preparas el relleno.",
+        "priority": 0
+      },
+      {
+        "name": "Sobre una tabla corta el pollo en trozos y échale una pizca de sal. Pon un poco de aceite de oliva en una sartén y cocina el pollo hasta que se dore. ",
+        "priority": 1
+      },
+      {
+        "name": "Lava los champiñones y córtalos en trozos o láminas pequeñas. También pica la cebolla.",
+        "priority": 2
+      },
+      {
+        "name": "En la sartén echa un poquito más de aceite de oliva y, cuando esté caliente, vierte los champiñones y la cebolla picada. Saltea durante 5-6 minutos, hasta que empiecen a estar bien cocinados. Vierte el pollo que tenías reservado en la sartén, añade el curry, el comino y un poco de sal y mezcla los ingredientes. Salta durante 2-3 minutos, apaga el fuego y reserva.",
+        "priority": 3
+      },
+      {
+        "name": "Pon una pizca de mantequilla en una sartén tamaño medio. Extiende un poco de la mezcla que acabas de preparar, mueve la sartén para que te quede toda la sartén bien cubierta de la masa, y cocina a fuego medio 1-2 minutos (hasta que veas que salen burbujas). Dale la vuelta con cuidado.",
+        "priority": 4
+      },
+      {
+        "name": "Extiende un poco del relleno que tienes cocinado, añade por encima un poco de queso, y deja que se funda. Poco a poco ve cerrando la crepe. Repite la operación tantas veces como crepes te salgan.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "mug-cake-de-cacahuete-y-chocolate",
+    "name": "Mug Cake de Cacahuete y Chocolate",
+    "type": "Variado",
+    "description": "Comienza tu mañana con este delicioso mug cake de crema de cacahuete y chips de chocolate. Lo tendrás listo en menos de 5 minutos. ¡Qué forma tan deliciosa de comenzar tu día!",
+    "image_alt_tag": "Mug Cake de Cacahuete y Chocolate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/mug-cake-de-cacahuete-y-chocolate/900/mug-cake-de-cacahuete-y-chocolate.jpg",
+    "total_time": 5,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "cucharadas",
+        "value": "8",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/harina-de-avena.jpg",
+        "name": "harina de avena",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/levadura.jpg",
+        "name": "levadura",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484118/ingredients/azucar-moreno.jpg",
+        "name": "azúcar moreno",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "mililitros",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/leche-vegetal.jpg",
+        "name": "leche vegetal",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/crema-de-cacahuete.jpg",
+        "name": "crema de cacahuete",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "onzas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/chocolate-negro.jpg",
+        "name": "chocolate negro",
+        "shopping_list_category_es": "otros"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En un recipiente vierte la harina, la levadura, el azúcar, la leche, la crema de cacahuete y el chocolate cortado en trozos (o chips de chocolate). Mezcla bien.",
+        "priority": 0
+      },
+      {
+        "name": "Vierte la mezcla en dos tazas. ",
+        "priority": 1
+      },
+      {
+        "name": "Mete cada taza en el microondas a máxima potencia durante 1 minuto aproximadamente. Pasado ese tiempo la mezcla habrá subido y estará lista para comer.",
+        "priority": 2
+      },
+      {
+        "name": "Puedes terminar añadiendo un poquito más de crema de cacahuete y chips de chocolate por encima, a modo de decoración.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "bowl-de-garbanzos-con-berenjena-y-arroz",
+    "name": "Bowl de Garbanzos con Berenjena y Arroz",
+    "type": "Variado",
+    "description": "Quien diga que comer garbanzos es aburrido ¡está muy confundido! Este bowl de garbanzos con verduras y arroz huele de maravilla, y sabe aún mejor. Una delicia de plato llena de ingredientes naturales y proteína vegetal absolutamente ¡irresistible!",
+    "image_alt_tag": "Bowl de Garbanzos con Berenjena y Arroz",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-garbanzos-con-berenjena-y-arroz/900/bowl-de-garbanzos-con-berenjena-y-arroz.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 12,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg",
+        "name": "berenjena",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/curry.jpg",
+        "name": "curry",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Corta en trozos la cebolla . Lava y corta en dados pequeños la berenjena, el tomate y el pimiento rojo. ",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén echa el aceite y cuando esté caliente, agrega la cebolla y cocínala a fuego medio durante un par de minutos.",
+        "priority": 2
+      },
+      {
+        "name": "A continuación añade a la sartén los trozos de berenjena y saltéala otros 3-4 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Incorpora el pimiento rojo y el tomate troceado y cocina durante un par de minutos más.",
+        "priority": 4
+      },
+      {
+        "name": "Añade a la sartén el tomate triturado y las especias. Cocina a fuego medio durante 2 minutos y añade los garbanzos cocidos.",
+        "priority": 5
+      },
+      {
+        "name": "Deja en la sartén a fuego suave los ingredientes durante 5-6 minutos   y pasado este tiempo sirve en un plato acompañado del arroz.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "sarten-de-patatas-y-huevos-con-tomate",
+    "name": "Sartén de Patatas y Huevos con Tomate",
+    "type": "Variado",
+    "description": "¡Desayuno de lujo! o ¡cena genial!... es que verdaderamente esta sartén de patatas, huevos y tomate nos parece estupenda para cualquier comida del día. No te la pierdas.",
+    "image_alt_tag": "Sartén de Patatas y Huevos con Tomate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sarten-de-patatas-y-huevos-con-tomate/900/sarten-de-patatas-y-huevos-con-tomate.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidades",
+        "value": "3",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava las patatas y córtalas en trozos pequeños.",
+        "priority": 0
+      },
+      {
+        "name": "En una cazuela pon agua y una cucharadita de sal. Cuando el agua comience a hervir vierte los trozos de patata y cuécelos durante 10-12 minutos. Si las patatas las has cortado en trozos tamaño medio o pequeños estarán listas en este tiempo, sino cocina varios minutos más hasta que estén tiernas.",
+        "priority": 1
+      },
+      {
+        "name": "Lava los tomates y córtalos en trozos tamaño medio.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén echa un chorrito de aceite de oliva. Cuando esté caliente vierte la cebolla y saltéala durante un par de minutos. Añade las patatas cocidas y saltéalas junto con la cebolla apenas 1 minuto. Añade el tomate a la sartén, un poco de sal, y deja todo a fuego a fuego medio/bajo durante 5-6 minutos . Poco a poco el tomate se irá ablandando. Si ves que se reseca echa un poquito de agua a los ingredientes.",
+        "priority": 3
+      },
+      {
+        "name": "Haz dos huecos en la sartén y vierte en ellos los huevos con una pizca de sal. Pon una tapa y deja que se cuajen, te llevará varios minutos. A continuación sirve.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "sarten-de-espinacas-y-champinones-con-tomate",
+    "name": "Sartén de Espinacas y Champiñones con Tomate",
+    "type": "Variado",
+    "description": "¿Buscas un plato rápido, completo y nutritivo? ¡No te pierdas esta sartén porque te va a fascinar. ¡Ah! Y no olvides acompañarla de un buen trozo de pan.",
+    "image_alt_tag": "Sartén de Espinacas y Champiñones con Tomate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sarten-de-espinacas-y-champinones-con-tomate/900/sarten-de-espinacas-y-champinones-con-tomate.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñados",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava los champiñones  y córtalos en láminas. En una sartén echa un poco de aceite y saltéalos durante 5 minutos.",
+        "priority": 0
+      },
+      {
+        "name": "Añade el tomate triturado y un poco de sal a la sartén, y cocinar durante varios 4-5 minutos más. Añade las espinacas y deja que se cocinen un par de minutos para que se ablanden un poco.",
+        "priority": 1
+      },
+      {
+        "name": "Haz dos huecos en el tomate y rompe los huevos en ellos. Tapa la sartén y deja cocinar hasta que cuajen, lo que llevará unos 3-5 minutos, dependiendo de cómo los quieras de hechos.",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-pasta-con-verduras-asadas-y-feta",
+    "name": "Ensalada de Pasta con Verduras Asadas y Feta",
+    "type": "Variado",
+    "description": "Ahora que se acerca el buen tiempo y sabemos que sueles cocinarte ensaladas de pasta, hemos pensado que esta no puede faltar en tu repertorio. Llena de verduras asadas, con un poquito de queso feta y aliñada con aceite, sal y limón... ¡uf! ¡Resultado espectacular!",
+    "image_alt_tag": "Ensalada de Pasta con Verduras Asadas y Feta",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-verduras-asadas-y-feta/900/ensalada-de-pasta-con-verduras-asadas-y-feta.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-feta.jpg",
+        "name": "queso feta",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 200Cº.",
+        "priority": 0
+      },
+      {
+        "name": "Comienza preparando las verduras de la siguiente manera: lava el calabacín y córtalo en rodajas no muy gruesas. Pela y corta en rodajas las zanahorias. Y corta en tiras el pimiento rojo. ",
+        "priority": 1
+      },
+      {
+        "name": "Coloca las verduras que acabas de cortar en una bandeja de horno, agrega un poco de aceite de oliva por encima, una pizca de sal y de pimienta y hornea a 200ºC durante 15 minutos. Una vez pase este tiempo, saca las verduras del horno y deja que se enfríen un poco.",
+        "priority": 2
+      },
+      {
+        "name": "Mientras se asan las verduras cocina la pasta en una olla con agua hirviendo el tiempo que indica sus instrucciones. Pasado ese tiempo cuélala y deja que se enfríe.",
+        "priority": 3
+      },
+      {
+        "name": "En una ensaladera coloca la pasta, añade las verduras asadas, esparce el queso feto desmenuzado por encima y mezcla. Añade los tomates cherry cortado en mitades por encima y aliña la ensalada con aceite, un poco de sal y jugo de limón.",
+        "priority": 4
+      }
+    ]
+  }
+]

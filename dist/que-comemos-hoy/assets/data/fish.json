@@ -1,0 +1,879 @@
+[
+  {
+    "id": "ensalada-de-espinacas-con-garbanzos-y-atun",
+    "name": "Ensalada de Espinacas con Garbanzos y Atún",
+    "type": "Pescado",
+    "description": "¡No te pierdas esta ensalada riquísima y súper completa, cargadísima de nutrientes y que puedes prepararla en tan sólo 5 minutos!",
+    "image_alt_tag": "Ensalada de Espinacas con Garbanzos y Atún",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-espinacas-con-garbanzos-y-atun/900/ensalada-de-espinacas-con-garbanzos-y-atun.jpg",
+    "total_time": 5,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "puñados",
+        "value": "3",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-fresco.jpg",
+        "name": "queso fresco",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/garbanzos.jpg",
+        "name": "garbanzo en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "lata pequeña",
+        "value": "",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/atun-conserva.jpg",
+        "name": "atún en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava los garbanzos y escurre el agua. ",
+        "priority": 0
+      },
+      {
+        "name": "Corta los tomates cherry en cuartos y el queso fresco en trozos tamaño medio.",
+        "priority": 1
+      },
+      {
+        "name": "En un recipiente coloca con los tomates cherry troceados, las espinacas, el queso cortado y el atún en conserva.",
+        "priority": 2
+      },
+      {
+        "name": "Adereza con aceite de oliva y sal.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "bowl-de-salmon-con-judias-verdes-y-pure-de-patata",
+    "name": "Bowl de Salmón con Judías Verdes y Puré de Patata",
+    "type": "Pescado",
+    "description": "Menudo gusto almorzar con platos como este, ¿no crees? Una maravilla alimentarse así de bien. Y hay que reconocer que no es complicado, sólo necesitas pocos ingredientes y 20 minutos de tu tiempo. ",
+    "image_alt_tag": "Bowl de Salmón con Judías Verdes y Puré de Patata",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-salmon-con-judias-verdes-y-pure-de-patata/900/bowl-de-salmon-con-judias-verdes-y-pure-de-patata.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 5,
+    "ingredients": [
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg",
+        "name": "salmón",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/judias-verdes.jpg",
+        "name": "judía verde",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela la patata, córtala en cubos no muy grandes y ponlas a cocer en agua hirviendo con un poquito de sal. Cuando estén tiernas (seguramente en unos diez minutos si las has cortado no muy grandes) escúrrelas y con un tenedor machácalas hasta alcanzar textura tipo puré.",
+        "priority": 0
+      },
+      {
+        "name": "En otra cazuela con agua hirviendo cuece las judías verdes. Cuando estén cocidas a tu gusto, retíralas, escúrrelas y resérvalas.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén, con unas gotitas de aceite, cocina el salmón a la plancha con un poquito de sal.",
+        "priority": 2
+      },
+      {
+        "name": "Coloca el salmón en un plato y acompáñalo del puré de patata y de las judías verdes.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "salmon-con-cuscus-y-verduras",
+    "name": "Salmón con Cuscús y Verduras",
+    "type": "Pescado",
+    "description": "\n    El salmón y el cuscús es una combinación ganadora. Y si todavía no te has animado a prepararla, ¡ya estás tardando! Con esta receta descubre lo bien que combinan todos sus sabores.\n",
+    "image_alt_tag": "Salmón con Cuscús y Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-cuscus-y-verduras/900/salmon-con-cuscus-y-verduras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg",
+        "name": "salmón",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1544563983/ingredients/cuscus.jpg",
+        "name": "cuscús",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg",
+        "name": "calabaza",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pon al fuego una taza de agua con un poco de sal. Cuando rompa a hervir, añade la taza de cuscús y apaga el fuego. Déjalo reposar hasta que se hidrate.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el calabacín y córtalo en trozos. Corta la calabaza y córtala en trozos finos. Pica el ajo en trocitos. En una plancha o sartén, con un poquito de aceite de oliva y una pizca de sal, saltea las verduras a fuego medio durante 8-10 minutos, hasta que estén blanditas.",
+        "priority": 1
+      },
+      {
+        "name": "En esa misma plancha o sartén que has empleado, con un poquito más de aceite de oliva, cocina los filetes de salmón. Échales un poquito de sal.",
+        "priority": 2
+      },
+      {
+        "name": "En un recipiente coloca el cuscús con verduras que has preparado y coloca los filetes de salmón encima.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "hamburguesas-de-atun-y-calabacin",
+    "name": "Hamburguesas de Atún y Calabacín",
+    "type": "Pescado",
+    "description": "Si tienes un par de latas de atún por tu despensa y te apetece hacer una receta original con ellas, estas hamburguesas riquísimas de atún y calabacín son súper agradables al paladar y muy sanas. ¿Te animas?",
+    "image_alt_tag": "Hamburguesas de Atún y Calabacín",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/hamburguesas-de-atun-y-calabacin/900/hamburguesas-de-atun-y-calabacin.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "lata pequeña",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/atun-conserva.jpg",
+        "name": "atún en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg",
+        "name": "pan rallado",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pica un diente de ajo muy finamente.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el calabacín y rállalo. Colócalo en un escurrido y con tus propias manos trata de extraerle la mayor parte de agua posible.",
+        "priority": 1
+      },
+      {
+        "name": "Coloca el ajo picado, el calabacín rallado y el atún escurrido de sus latas en un recipiente un poco hondo. Añade los huevos batidos, un poco de sal y mezcla. Añade el pan rallado y mezcla bien todo. Deja que repose durante 5-10 minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Toma un poco de la mezcla y haz forma de bolita. Aplástala un poco y logra así la forma de una hamburguesa. Repite la operación hasta terminar la masa.",
+        "priority": 3
+      },
+      {
+        "name": "Echa un poco aceite de oliva en una sartén. Cuando esté caliente fríe las hamburguesas.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "salmon-con-ensalada-de-quinua",
+    "name": "Salmón con Ensalada de Quinua",
+    "type": "Pescado",
+    "description": "Hazte platos ricos, llenos de ingredientes sabrosos, frescos, coloridos, ¡que te enamores al verlos! Mira qué maravilla de plato, facilísimo de hacer: salmón acompañada de ensalada de quinua, espinacas, tomates y rábanos. ",
+    "image_alt_tag": "Salmón con Ensalada de Quinua",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-ensalada-de-quinua/900/salmon-con-ensalada-de-quinua.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg",
+        "name": "salmón",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/rabano.jpg",
+        "name": "rábano",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/quinua.jpg",
+        "name": "quinua",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava la quinua debajo del chorro del agua. En una olla pon una taza y media de agua aproximadamente. Cuando el agua hierva, vierte la quinua, una pizca de sal y cocínala durante 20 minutos aproximadamente, hasta que la semilla se abra. Retira, escurre y deja que se enfríe.",
+        "priority": 0
+      },
+      {
+        "name": "Lava las hojas de espinacas, los tomates cherry y los rábanos. Corta en mitades los tomates y en láminas finas los rábanos.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén echa un poco de aceite de oliva. Cuando esté caliente cocina los filetes de salmón a la plancha. Ponles un poquito de sal.",
+        "priority": 2
+      },
+      {
+        "name": "En cada plato coloca la mitad de la quinua y de las espinacas. Añade la mitad de los tomates y de los rábanos cortados, y acompaña esta sencilla ensalada con uno de los filetes se salmón que acabas de cocinar.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "espaguetis-con-champinones-y-langostinos",
+    "name": "Espaguetis con Champiñones y Langostinos",
+    "type": "Pescado",
+    "description": "¿Te apetecen unos espaguetis súper cremosos? Es difícil resistirse a un plato de pasta acompañado de una buena salsa, ¿verdad? Te traemos una propuesta increíble.",
+    "image_alt_tag": "Espaguetis con Champiñones y Langostinos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-champinones-y-langostinos/900/espaguetis-con-champinones-y-langostinos.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidades",
+        "value": "12",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg",
+        "name": "yogur",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/harina.jpg",
+        "name": "harina de trigo",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "180",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/espagueti.jpg",
+        "name": "espagueti",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "180",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En una olla con agua hirviendo cuece la pasta el tiempo que pone en su envase.",
+        "priority": 0
+      },
+      {
+        "name": "Pela los langostinos quitándoles sus cáscaras y pieles. Resérvalos porque los emplearás más adelante.",
+        "priority": 1
+      },
+      {
+        "name": "Lava y corta los champiñones en láminas. Corta la cebolla en tiras. Y pica el diente de ajo muy finamente.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén por un poquito de aceite de oliva. Cuando el aceite esté caliente vierte en ella los champiñones, la cebolla y el ajo picado. Añade un poco de sal a los ingredientes y sofríe durante 6-8 minutos a fuego medio. Tres minutos antes de finalizar el tiempo indicado añade los langostinos pelados y saltéalos junto con las verduras que estas cocinando.",
+        "priority": 3
+      },
+      {
+        "name": "Añade la sartén el agua y continúa cocinando los ingredientes a fuego medio durante 3 minutos más.",
+        "priority": 4
+      },
+      {
+        "name": "Agrega a la sartén la harina y mezcla con el líquido de la salsa que se ha formado.",
+        "priority": 5
+      },
+      {
+        "name": "Termina añadiendo el yogur, revuelve e integra.",
+        "priority": 6
+      },
+      {
+        "name": "Añade a la sartén los espaguetis y mezcla con la salsa. ¡A comer!",
+        "priority": 7
+      }
+    ]
+  },
+  {
+    "id": "tacos-de-langostinos-con-aguacate",
+    "name": "Tacos de Langostinos con Aguacate",
+    "type": "Pescado",
+    "description": "Supérate con estos tacos de langostinos tan rápidos como sencillos de hacer. Sólo hay que cortar, mezclar y ¡montarlos! En 15 minutos los tendrás encima de tu mesa. Recetas como estas son las que buscas, ¿eh?",
+    "image_alt_tag": "Tacos de Langostinos con Aguacate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-langostinos-con-aguacate/900/tacos-de-langostinos-con-aguacate.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aguacate.jpg",
+        "name": "aguacate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492964376/ingredients/tortilla-de-trigo.jpg",
+        "name": "tortilla de trigo",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lima.jpg",
+        "name": "lima",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela los langostinos cocidos y con cuidado quítales la piel. Una vez estén limpios, sin cáscaras, córtalos en trozos de tamaño medio.",
+        "priority": 0
+      },
+      {
+        "name": "Corta los tomates cherry en mitades y el aguacate en dados. Corta también en láminas o trozos pequeños la cebolla y termina picando finamente el cilantro.",
+        "priority": 1
+      },
+      {
+        "name": "En un recipiente mezcla todos los ingredientes que acabas de cortar: los langostinos, los tomates cherry, el aguacate, la cebolla y el cilantro picado. Exprime el zumo de la lima por encima, añade un poco de sal y mezcla con suavidad.",
+        "priority": 2
+      },
+      {
+        "name": "Rellena cada tortilla con lo anterior y, si eres amante del picante, no dudes en añadir unas gotas de picante por encima.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "salmon-con-arroz-de-coliflor-y-verduras",
+    "name": "Salmón con Arroz de Coliflor y Verduras",
+    "type": "Pescado",
+    "description": "La coliflor puede cocinarse de muchas maneras y en esta receta te vas a sorprender haciendo un delicioso arroz de coliflor acompañado de verduras de aquí te espero. Acompáñalo de un buen filete de salmón y verás qué plata tan rico te queda.",
+    "image_alt_tag": "Salmón con Arroz de Coliflor y Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salmon-con-arroz-de-coliflor-y-verduras/900/salmon-con-arroz-de-coliflor-y-verduras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/coliflor.jpg",
+        "name": "coliflor",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "filete",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salmon.jpg",
+        "name": "salmón",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava la coliflor y córtala en trozos. Una vez que la has cortado, debes picarla con un procesador de alimento o bien con un cuchillo, aunque te llevará más tiempo. La coliflor debe quedar hecha migajas.",
+        "priority": 0
+      },
+      {
+        "name": "Preparando el resto de vegetales de la siguiente manera: lava las hojas de espinacas y córtalas en caso de que sean muy grandes. También lava y corta en trozos los champiñones, y corta en tiras la cebolla.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén, echa una cucharada de aceite y, cuando esté caliente, vierte la cebolla y los champiñones, y cocínalos a fuego medio durante un par de minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Pasado ese tiempo añade la coliflor hecha migas y la salsa de soja, saltéala con las otras verduras durante 5 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Añade la espinaca troceada y cocina apenas 3-4 minutos más. Comprueba que el punto de sal es el correcto y, en su caso, añade un poquito más de salsa de soja. Reserva.",
+        "priority": 4
+      },
+      {
+        "name": "En esa misma sartén, limpiándola un poco si fuese necesario, echa un chorrito de aceite de oliva y cocina los filetes de salmón a tu gusto y añádeles una pizca de sal y pimienta.",
+        "priority": 5
+      },
+      {
+        "name": "Sirve en el plato el salmón y acompáñalo del arroz de coliflor con verduras.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "bacalao-con-brocoli-y-arroz",
+    "name": "Bacalao con Brócoli y Arroz",
+    "type": "Pescado",
+    "description": "Si te faltan ideas a la hora de cocinar el bacalao, te traemos una original forma original de prepararlo. El toque crujiente que recubre el pescado lo hace muy, muy original. ",
+    "image_alt_tag": "Bacalao con Brócoli y Arroz",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bacalao-con-brocoli-y-arroz/900/bacalao-con-brocoli-y-arroz.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1504397795/ingredients/bacalao.jpg",
+        "name": "bacalao",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "perejil",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg",
+        "name": "pan rallado",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade 400 mililitros de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Pica finamente un diente de ajo y viértelo en un recipiente. Añade a este recipiente el pan rallado, un poco de sal, una cucharada de zumo de limón, el perejil finamente picado y una cucharada de aceite de oliva. Mezcla todos los ingredientes y reserva.",
+        "priority": 1
+      },
+      {
+        "name": "Echa un poco de sal y pimienta a los trozos de bacalao y colócalos en una fuente apto para horno. Coloca la mezcla de pan rallado que acabas de preparar por encima de los trozos de bacalao, a modo de capa. ",
+        "priority": 2
+      },
+      {
+        "name": "Coloca el brócoli cortado en ramilletes en la bandeja de horno, rocíalos con un poco de aceite y sal, y mete la bandeja al horno. Cocina a 200ºC durante 15 minutos aproximadamente.",
+        "priority": 3
+      },
+      {
+        "name": "Sirve en dos platos, acompáñalo con algunas rodajas de limón y ¡a disfrutar tu comida!",
+        "priority": 4
+      }
+    ]
+  }
+]

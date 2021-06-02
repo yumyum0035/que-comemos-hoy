@@ -1,0 +1,787 @@
+[
+  {
+    "id": "pate-de-anacardos-y-ajo",
+    "name": "Paté de Anacardos y Ajo",
+    "type": "Sin Gluten",
+    "description": "Si los aperitivos te pierden y te encanta prepararlos para compartirlos con tus amigos y familiares, ¡no te pierdas este riquísimo y nutritivo paté! Tiene un sabor suave a la vez de que delicioso. Verás que no va a sobrar ni un poquito.",
+    "image_alt_tag": "Paté de Anacardos y Ajo",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pate-de-anacardos-y-ajo/900/pate-de-anacardos-y-ajo.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 5,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/anacardos.jpg",
+        "name": "anacardo",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/leche-vegetal.jpg",
+        "name": "leche vegetal",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pon los anacardos a remojo en agua caliente (o déjalos toda la noche).",
+        "priority": 0
+      },
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 1
+      },
+      {
+        "name": "Coge la cabeza de ajos y sin desmontarla haz un corte con el que quites el extremo de todos los dientes, de tal forma que, aunque aún estén juntos y con la piel, se vea el ajo. ",
+        "priority": 2
+      },
+      {
+        "name": "Coloca la cabeza de ajos en una fuente pequeña para el horno, añade un chorrito de aceite de oliva y hornea durante 30 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado este tiempo, sácalos y déjalos enfriar un poco antes de pelarlos y añadir los ajos a un procesador de alimentos o picadora junto a los anacardos escurridos, la leche vegetal, la sal y el aceite (te recomiendo que para dar más sabor mires el apartado de trucos y consejos) y tritura unos segundos hasta que tenga una consistencia que te guste.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "dip-de-espinacas-y-queso-fundido",
+    "name": "Dip de Espinacas y Queso Fundido",
+    "type": "Sin Gluten",
+    "description": "¿Buscas un snack increíblemente delicioso pero que también te aporte nutrientes? ¡No te pierdas este riquísimos dip de espinacas con queso!",
+    "image_alt_tag": "Dip de Espinacas y Queso Fundido",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/dip-de-espinacas-y-queso-fundido/900/dip-de-espinacas-y-queso-fundido.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 4,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-untar.jpg",
+        "name": "queso de untar",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-mozzarella.jpg",
+        "name": "queso mozzarella",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484121/ingredients/zumo-de-limon.jpg",
+        "name": "zumo de limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 180ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Cocina las espinacas en una sartén con la tapa puesta durante 2-3 minutos hasta que se ablanden.",
+        "priority": 1
+      },
+      {
+        "name": "Mezcla en un bol las espinacas con que queso de untar, el zumo de limón y la mitad de la mozzarella. ",
+        "priority": 2
+      },
+      {
+        "name": "Traspasa a un recipiente que se pueda meter en el horno y añade por encima el resto de la mozzarella.",
+        "priority": 3
+      },
+      {
+        "name": "Hornea durante 15 minutos y gratina un par de minutos.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "naranja-con-chocolate-y-pistachos",
+    "name": "Naranja con Chocolate y Pistachos",
+    "type": "Sin Gluten",
+    "description": "¿Buscas una forma deliciosa de comer fruta? ¡No te pierdas estas naranjas con chocolate! Vas a alucinar con esta combinación tan rica.",
+    "image_alt_tag": "Naranja con Chocolate y Pistachos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/naranja-con-chocolate-y-pistachos/900/naranja-con-chocolate-y-pistachos.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 4,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/naranjas.jpg",
+        "name": "naranja",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "onzas",
+        "value": "6",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/chocolate-negro.jpg",
+        "name": "chocolate negro",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "cucharada",
+        "value": "0.25",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "aceite de coco",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/pistacho.jpg",
+        "name": "pistacho",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la naranja por la mitad y luego en cuartos. A partir de ahí ve haciendo láminas finas.",
+        "priority": 0
+      },
+      {
+        "name": "Trocea los pistachos.",
+        "priority": 1
+      },
+      {
+        "name": "Pon el chocolate y el aceite de coco en un vaso y caliéntalos en el microondas durante un par de minutos hasta que se derritan.",
+        "priority": 2
+      },
+      {
+        "name": "Mete la naranja en el vaso hasta la mitad, deja que escurra el exceso de chocolate y colócala sobre una rejilla o sobre papel vegetal.",
+        "priority": 3
+      },
+      {
+        "name": "Mientras aún está blando, añade los pistachos y con lo que las quieras decorar.",
+        "priority": 4
+      },
+      {
+        "name": "Haz lo mismo con el resto de la naranja y refrigera durante 1 hora.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "lassi-de-mango",
+    "name": "Lassi de Mango",
+    "type": "Sin Gluten",
+    "description": "Mango y yogur, ambos ingredientes riquísimos, ¿y si los mezclamos y hacemos un batido con ellos? ¡Uy! Eso sí que está espectacular de bueno.",
+    "image_alt_tag": "Lassi de Mango",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/lassi-de-mango/900/lassi-de-mango.jpg",
+    "total_time": 5,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 3,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mango.jpg",
+        "name": "mango",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg",
+        "name": "yogur",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela el mango y córtalo en trozos.",
+        "priority": 0
+      },
+      {
+        "name": "En tu batidora coloca el mango, el yogur y la leche, y bate bien durante un par de minutos.",
+        "priority": 1
+      },
+      {
+        "name": "Sirve en dos vasos.",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-espinacas-con-garbanzos-y-atun",
+    "name": "Ensalada de Espinacas con Garbanzos y Atún",
+    "type": "Sin Gluten",
+    "description": "¡No te pierdas esta ensalada riquísima y súper completa, cargadísima de nutrientes y que puedes prepararla en tan sólo 5 minutos!",
+    "image_alt_tag": "Ensalada de Espinacas con Garbanzos y Atún",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-espinacas-con-garbanzos-y-atun/900/ensalada-de-espinacas-con-garbanzos-y-atun.jpg",
+    "total_time": 5,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "puñados",
+        "value": "3",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-fresco.jpg",
+        "name": "queso fresco",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/garbanzos.jpg",
+        "name": "garbanzo en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "lata pequeña",
+        "value": "",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/atun-conserva.jpg",
+        "name": "atún en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava los garbanzos y escurre el agua. ",
+        "priority": 0
+      },
+      {
+        "name": "Corta los tomates cherry en cuartos y el queso fresco en trozos tamaño medio.",
+        "priority": 1
+      },
+      {
+        "name": "En un recipiente coloca con los tomates cherry troceados, las espinacas, el queso cortado y el atún en conserva.",
+        "priority": 2
+      },
+      {
+        "name": "Adereza con aceite de oliva y sal.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "sarten-de-espinacas-y-champinones-con-tomate",
+    "name": "Sartén de Espinacas y Champiñones con Tomate",
+    "type": "Sin Gluten",
+    "description": "¿Buscas un plato rápido, completo y nutritivo? ¡No te pierdas esta sartén porque te va a fascinar. ¡Ah! Y no olvides acompañarla de un buen trozo de pan.",
+    "image_alt_tag": "Sartén de Espinacas y Champiñones con Tomate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sarten-de-espinacas-y-champinones-con-tomate/900/sarten-de-espinacas-y-champinones-con-tomate.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñados",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava los champiñones  y córtalos en láminas. En una sartén echa un poco de aceite y saltéalos durante 5 minutos.",
+        "priority": 0
+      },
+      {
+        "name": "Añade el tomate triturado y un poco de sal a la sartén, y cocinar durante varios 4-5 minutos más. Añade las espinacas y deja que se cocinen un par de minutos para que se ablanden un poco.",
+        "priority": 1
+      },
+      {
+        "name": "Haz dos huecos en el tomate y rompe los huevos en ellos. Tapa la sartén y deja cocinar hasta que cuajen, lo que llevará unos 3-5 minutos, dependiendo de cómo los quieras de hechos.",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-col",
+    "name": "Ensalada de Col",
+    "type": "Sin Gluten",
+    "description": "Si vas a hacer una barbacoa y quieres acompañarla de una ensalada fresca y súper sabrosa, ¡aquí la tienes! Un clásico que no te puedes perder, la famosa ¡coleslaw o ensalada de col!",
+    "image_alt_tag": "Ensalada de Col",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-col/900/ensalada-de-col.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/col.jpg",
+        "name": "col",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "ramas",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/apio.jpg",
+        "name": "apio",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/manzana-roja.jpg",
+        "name": "manzana",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1504401669/ingredients/vinagre-de-manzana.jpg",
+        "name": "vinagre de manzana",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mayonesa.jpg",
+        "name": "mayonesa",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la col (repollo) en tiras muy finas y colócalas en tu ensaladera.",
+        "priority": 0
+      },
+      {
+        "name": "Corta la rama de apio también finamente y añádela a la ensalada.",
+        "priority": 1
+      },
+      {
+        "name": "Pela la zanahoria y rállala y, por último, lava la manzana y córtala en trozos (con piel). Añade todo también a la ensalada. ",
+        "priority": 2
+      },
+      {
+        "name": "Vierte el vinagre en las verduras y mezcla.",
+        "priority": 3
+      },
+      {
+        "name": "Ahora agrega la mayonesa y mezcla de nuevo.  ",
+        "priority": 4
+      },
+      {
+        "name": "Mete la ensalada en la nevera y deja enfriar durante un rato, así estará mejor.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "bowl-de-garbanzos-con-berenjena-y-arroz",
+    "name": "Bowl de Garbanzos con Berenjena y Arroz",
+    "type": "Sin Gluten",
+    "description": "Quien diga que comer garbanzos es aburrido ¡está muy confundido! Este bowl de garbanzos con verduras y arroz huele de maravilla, y sabe aún mejor. Una delicia de plato llena de ingredientes naturales y proteína vegetal absolutamente ¡irresistible!",
+    "image_alt_tag": "Bowl de Garbanzos con Berenjena y Arroz",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-garbanzos-con-berenjena-y-arroz/900/bowl-de-garbanzos-con-berenjena-y-arroz.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 12,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg",
+        "name": "berenjena",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/curry.jpg",
+        "name": "curry",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Corta en trozos la cebolla . Lava y corta en dados pequeños la berenjena, el tomate y el pimiento rojo. ",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén echa el aceite y cuando esté caliente, agrega la cebolla y cocínala a fuego medio durante un par de minutos.",
+        "priority": 2
+      },
+      {
+        "name": "A continuación añade a la sartén los trozos de berenjena y saltéala otros 3-4 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Incorpora el pimiento rojo y el tomate troceado y cocina durante un par de minutos más.",
+        "priority": 4
+      },
+      {
+        "name": "Añade a la sartén el tomate triturado y las especias. Cocina a fuego medio durante 2 minutos y añade los garbanzos cocidos.",
+        "priority": 5
+      },
+      {
+        "name": "Deja en la sartén a fuego suave los ingredientes durante 5-6 minutos   y pasado este tiempo sirve en un plato acompañado del arroz.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "ensalada-fresca-de-arroz-y-frijoles",
+    "name": "Ensalada Fresca de Arroz y Frijoles",
+    "type": "Sin Gluten",
+    "description": "Seguro que tienes los ingredientes para hacer esta ensalada fresca, sabrosa, llena de nutrientes. ¡Una maravilla de colores! ¿Te animas?",
+    "image_alt_tag": "Ensalada Fresca de Arroz y Frijoles",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-fresca-de-arroz-y-frijoles/900/ensalada-fresca-de-arroz-y-frijoles.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1593728055/ingredients/alubia-negra.jpg",
+        "name": "alubia negra",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "70",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg",
+        "name": "maíz",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aguacate.jpg",
+        "name": "aguacate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidades",
+        "value": "6",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lima.jpg",
+        "name": "lima",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Corta los tomates cherry en mitades, la cebolla en tiras finas y el aguacate en trozos. También, escurre las alubias y el maíz de sus respectivos botes y pásalos por agua.",
+        "priority": 1
+      },
+      {
+        "name": "Vierte los ingredientes que acabas de preparar en tu ensaladera, añade el arroz y un manojo generoso de cilantro picado. Mezcla con suavidad y aliña la ensalada con aceite, el jugo de lima y un poco de sal.",
+        "priority": 2
+      }
+    ]
+  }
+]

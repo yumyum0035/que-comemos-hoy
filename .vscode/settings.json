@@ -8,6 +8,10 @@
     "cSpell.language": "es,en,en-US,es-ES",
     "cSpell.words": [
         "devkit",
-        "firestore"
+        "dificulty",
+        "firestore",
+        "mixins",
+        "mobileonly",
+        "tailwindcss"
     ]
 }

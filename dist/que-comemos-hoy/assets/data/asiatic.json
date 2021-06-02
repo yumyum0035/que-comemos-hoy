@@ -1,0 +1,987 @@
+[
+  {
+    "id": "curry-de-calabaza-y-garbanzos-con-arroz",
+    "name": "Curry de Calabaza y Garbanzos con Arroz",
+    "type": "Asiático",
+    "description": "\n    Si eres un fanático de los platos con curry.... ¡te traemos uno espectacular! Qué rico este curry con calabaza y garbanzos acompañado de arroz. Merece muchísimo la pena hacerlo, verás que te van a hacer una ovación en casa.\n",
+    "image_alt_tag": "Curry de Calabaza y Garbanzos con Arroz",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/curry-de-calabaza-y-garbanzos-con-arroz/900/curry-de-calabaza-y-garbanzos-con-arroz.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg",
+        "name": "calabaza",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/garbanzos.jpg",
+        "name": "garbanzo en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "mililitros",
+        "value": "300",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche-coco.jpg",
+        "name": "leche de coco",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/curry.jpg",
+        "name": "curry",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega el arroz. Da unas vueltas un par de minutos y añade una taza agua caliente y un poco de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo se ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Pica muy finamente la cebolla y corta en trozos tamaño medio la calabaza.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente añade la cebolla y la calabaza cortada, y saltea a fuego medio durante 5 minutos aproximadamente.",
+        "priority": 2
+      },
+      {
+        "name": "Vierte sobre las verduras el comino y el curry. Saltea durante un minuto más y añade la leche de coco, los garbanzos y un poco de sal. Remueve y cocina a fuego medio durante 5 minutos. Cuando comience a hervir baja el fuego y cocina a fuego suave durante 15 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado ese tiempo sirve todo en un plato y acompáñalo de arroz.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "noodles-con-pavo-y-pimiento-rojo",
+    "name": "Noodles con Pavo y Pimiento Rojo",
+    "type": "Asiático",
+    "description": "\n    ¿Comida asiática a domicilio? ¿Para qué? ¡Si tú puedes hacerla perfectamente! Esta receta es muy, muy fácil de hacer, y con ella te cocinarás unos noodles que nada tienen que envidiar a los que te pueden servir por allá. Es mas, seguro que están ¡incluso mejores!\n",
+    "image_alt_tag": "Noodles con Pavo y Pimiento Rojo",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noodles-con-pavo-y-pimiento-rojo/900/noodles-con-pavo-y-pimiento-rojo.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pavo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/fideos.jpg",
+        "name": "fideo",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Cocina los fideos de arroz siguiendo las especificaciones del paquete.",
+        "priority": 0
+      },
+      {
+        "name": "Coloca la pechuga de pavo sobre una tabla de cocina. Córtala en trozos y, en una sartén con un poco de aceite, cocina los trozos de pavo. Cuando estén dorados, retíralos y resérvalos.",
+        "priority": 1
+      },
+      {
+        "name": "Corta la cebolla y el pimiento en trozos pequeños. También lava y corta en láminas o trozos los champiñones.",
+        "priority": 2
+      },
+      {
+        "name": "En la sartén en la que has cocinado en pavo, cocina las verduras que acabas de trocear. Si es necesario echa un poquito más de aceite.",
+        "priority": 3
+      },
+      {
+        "name": "Vierte en la sartén el pavo que tienes reservado y añade la salsa de soja. Si quieres puedes disolver una cucharadita de maicena en un poco de agua caliente (3-4 cucharadas de agua serán suficientes) y añadirlo a la sartén para lograr una salsa un poco espesa que le dará jugosidad al plato.",
+        "priority": 4
+      },
+      {
+        "name": "Sirve en un plato los fideos y encima el pavo con verduras o bien, si prefieres, puedes mezclar en la sartén los fideos con el pavo y las verduras y servir luego en un plato.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "atun-estilo-oriental",
+    "name": "Atún Estilo Oriental",
+    "type": "Asiático",
+    "description": "\n    ¿Tienes algunos filetes de atún? ¡Genial! Tenemos una súper receta perfecta para ti. No tenemos dudas de que te va a encantar.\n",
+    "image_alt_tag": "Atún Estilo Oriental",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/atun-estilo-oriental/900/atun-estilo-oriental.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/vinagre-vino.jpg",
+        "name": "vinagre de vino",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/miel.jpg",
+        "name": "miel",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/atun-fresco.jpg",
+        "name": "atún fresco",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando el arroz. Para ello, echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega el arroz. Da unas vueltas un par de minutos y añade el agua y un poco de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar con la tapa puesta un rato.",
+        "priority": 0
+      },
+      {
+        "name": "Mientras se hace el arroz aprovecha para ir cocinando el resto del plato. En un plato hondo o recipiente amplio mezcla la salsa de soja, el vinagre y la miel, y coloca los filetes de atún. Deja marinar durante al menos 15 minutos.",
+        "priority": 1
+      },
+      {
+        "name": "En una tabla corta finamente los pimientos y la cebolla.",
+        "priority": 2
+      },
+      {
+        "name": "Echa un poquito de aceite de oliva en una sartén y saltea las verduras durante 5 minutos aproximadamente. Retíralas y colócalas sobre un plato.",
+        "priority": 3
+      },
+      {
+        "name": "En esa misma sartén cocina a la plancha los filetes de atún por cada lado. Si te gusta el atún crudo por dentro apenas necesitarás 40 segundos por cada lado, si te gusta más hecho déjalo algún minuto más.",
+        "priority": 4
+      },
+      {
+        "name": "Coloca los filetes de atún sobre las verduras salteadas. Vierte la salsa que te ha sobrado del macerado a la sartén. Deja que se cocine un poco y cuando empiece a reducir, a espesar, apaga el fuego y vierte la salsa sobre los filetes de atún.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "noodles-con-pollo-y-verduras",
+    "name": "Noodles con Pollo y Verduras",
+    "type": "Asiático",
+    "description": "¿Qué te parece para hoy este plato de noodles? Un plato con toques asiáticos muy fácil de hacer, divertido y lo mejor, ¡absolutamente delicioso!",
+    "image_alt_tag": "Noodles con Pollo y Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noodles-con-pollo-y-verduras/900/noodles-con-pollo-y-verduras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/col.jpg",
+        "name": "col",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/fideos.jpg",
+        "name": "fideo",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Cocina los fideos de arroz siguiendo las especificaciones del paquete. Generalmente requieren muy pocos minutos de cocción así que ¡estate atento!",
+        "priority": 0
+      },
+      {
+        "name": "Pela y corta en tiras la zanahoria.",
+        "priority": 1
+      },
+      {
+        "name": "Corta el pimiento verde, la cebolla y la col (repollo) también en tiras.",
+        "priority": 2
+      },
+      {
+        "name": "Echa un poquito de aceite en un wok o sartén grande y saltea todas las verduras a la vez. Cuando las verduras estén crujientes añade el pollo cortado en tiras y la salsa de soja. Saltéalo durante varios minutos hasta que el pollo esté cocinado.",
+        "priority": 3
+      },
+      {
+        "name": "Coloca en un plato los noodles y acompáñalo del pollo con verduras. Puedes esparcir un poco de semillas de sésamo tostado por encima.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "noodles-con-langostinos",
+    "name": "Noodles con Langostinos",
+    "type": "Asiático",
+    "description": "\n    ¿Te gusta la comida asiática? Seguro que ¡sí! Te traemos una receta con ciertos toques asiáticos muy sencilla de hacer, llena de sabores increíbles, colores espectaculares, con la que no fallarás seguro con tu comida de hoy. ¡A por ella!\n",
+    "image_alt_tag": "Noodles con Langostinos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noodles-con-langostinos/900/noodles-con-langostinos.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/jengibre.jpg",
+        "name": "jengibre",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidades",
+        "value": "12",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/vinagre-arroz.jpg",
+        "name": "vinagre de arroz",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/fideos.jpg",
+        "name": "fideo",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando la salsa. En un recipiente vierte la salsa de soja, el vinagre y el jengibre muy picado. Si te gusta la comida picante añade media cayena.",
+        "priority": 0
+      },
+      {
+        "name": "En una olla echa agua. Cuando comience a hervir introduce los fideos de arroz y cocínalos el tiempo que indica sus instrucciones. Cuélalos y reserva.",
+        "priority": 1
+      },
+      {
+        "name": "En una plancha vierte un poco de aceite y el ajo muy picado y cocina a la plancha los langostinos. Se cocinan muy rápido así que ¡estáte atento!",
+        "priority": 2
+      },
+      {
+        "name": "Lava todas las verduras y trocéalas en tiras muy finas.",
+        "priority": 3
+      },
+      {
+        "name": "Prepara una sartén grande o wok con aceite y, cuando esté caliente, añade las verduras troceadas. Saltea durante 3-4 minutos con el fuego fuerte y sin dejar de remover.",
+        "priority": 4
+      },
+      {
+        "name": "Agrega al wok la salsa que has preparado. Revuelve bien todos los ingredientes de manera que la salsa se integre. Termina de saltearlo todo hasta que la verdura esté al dente (si te gustan más blanditas entonces cocínalas un poco más).",
+        "priority": 5
+      },
+      {
+        "name": "Añade los fideos que has cocido, revuelve bien junto con las verduras de manera que queden bien integrados. Retira del fuego y sirve en dos platos. Añade los langostinos cocinados a la plancha y ¡a disfrutar!",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "noodles-con-champinones-y-calabacin",
+    "name": "Noodles con Champiñones y Calabacín",
+    "type": "Asiático",
+    "description": "\n    Con pocos y sencillos ingredientes puedes hacer platos espectaculares. Esos que cuando los ves piensas... ¡qué rica mi comida de hoy! Con estos fideos chinos con champiñones y calabacín salteados con salsa de soja ¡te pasará!\n",
+    "image_alt_tag": "Noodles con Champiñones y Calabacín",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noodles-con-champinones-y-calabacin/900/noodles-con-champinones-y-calabacin.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/fideos.jpg",
+        "name": "fideo",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Cocina los fideos de arroz siguiendo las especificaciones del paquete. Generalmente requieren muy pocos minutos de cocción así que ¡estate atento!",
+        "priority": 0
+      },
+      {
+        "name": "Lava el calabacín y los champiñones, y corta estas verduras y la cebolla en tiras o láminas.",
+        "priority": 1
+      },
+      {
+        "name": "Echa un poquito de aceite de oliva en un wok o sartén grande y saltea las verduras. Cuando las verduras estén hechas pero crujientes, añade la salsa de soja y mezcla. A continuación, echa los noodles ya cocidos, y remueve muy bien antes de servir. ¡A comer!",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "id": "noodles-con-tofu-y-verduras",
+    "name": "Noodles con Tofu y Verduras",
+    "type": "Asiático",
+    "description": "Ese paquete de tofu que compraste el otro día es perfecto para esta divertida pasta que te traemos. Te aseguramos que es muy, muy fácil de hacer y que es también muy sabrosa. Así que perfecto, ¿no?",
+    "image_alt_tag": "Noodles con Tofu y Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noodles-con-tofu-y-verduras/900/noodles-con-tofu-y-verduras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.75",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/fideos.jpg",
+        "name": "fideo",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tofu.jpg",
+        "name": "tofu",
+        "shopping_list_category_es": "proteina vegetal"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Cocina los fideos de arroz siguiendo las especificaciones del paquete. Generalmente requieren muy pocos minutos de cocción.",
+        "priority": 0
+      },
+      {
+        "name": "Corta las verduras y el tofu en trozos pequeños.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un chorrito de aceite de oliva y, cuando esté caliente, vierte la cebolla y el tofu. Saltea a fuego medio durante 2 minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Pasado ese tiempo añade el calabacín y el pimiento rojo. Sofríe los ingredientes a fuego medio durante 5 minutos aproximadamente.",
+        "priority": 3
+      },
+      {
+        "name": "Cuando las verduras estén hechas pero todavía crujientes añade la salsa de soja y mezcla. A continuación, echa los noodles ya cocidos, y remueve muy bien. ¡A comer!",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-frito-con-ternera",
+    "name": "Arroz Frito con Ternera",
+    "type": "Asiático",
+    "description": "\n    Arroz frito, lleno de sabor y con toques asiáticos... ¡qué rico! ¿Quieres la receta? Pues sigue leyendo y ¡ponte el delantal!\n",
+    "image_alt_tag": "Arroz Frito con Ternera",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/900/arroz-frito-con-ternera.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg",
+        "name": "puerro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg",
+        "name": "filete de ternera",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava el puerro y córtalo en rodajas finas.",
+        "priority": 0
+      },
+      {
+        "name": "Lava y pela las zanahorias. Córtalas en trozos pequeños.",
+        "priority": 1
+      },
+      {
+        "name": "Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y, pasado este tiempo, añade en este momento el puerro y la zanahoria cortada en trozos a la olla. Después baja el fuego y cocina a fuego lento 8 minutos más. Si ves que se ha absorbido el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 2
+      },
+      {
+        "name": "Bate el huevo y, en una sartén con un poco de aceite de oliva, cocina el huevo dándole forma de tortilla. A continuación colócala sobre una tabla y córtala en trozos pequeños.",
+        "priority": 3
+      },
+      {
+        "name": "En esa misma sartén echa un poquito de aceite de oliva y cocina a la plancha los filetes de ternera. Una vez estén listos colócalos sobre la tabla y córtala en trozos pequeños.",
+        "priority": 4
+      },
+      {
+        "name": "Mezcla la tortilla y la carne cortada en trozos con el arroz con verduras que has cocinado. Una vez esté mezclado saltéalo en una sartén añadiéndole la salsa de soja. Cuando el arroz esté frito apaga el fuego y sírvelo en la mesa.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "bowl-de-langostinos-con-arroz-y-judias-verdes",
+    "name": "Bowl de Langostinos con Arroz y Judías Verdes",
+    "type": "Asiático",
+    "description": "¿Qué tal si le sacamos partido a esos langostinos y a ese puñado de judías verdes que tienes por tu nevera? Con esta sabrosa y sorprendente recetas vas a hacerte un platazo espectacular. Verás que vas a quedar encantado.",
+    "image_alt_tag": "Bowl de Langostinos con Arroz y Judías Verdes",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-langostinos-con-arroz-y-judias-verdes/900/bowl-de-langostinos-con-arroz-y-judias-verdes.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/jengibre.jpg",
+        "name": "jengibre",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/judias-verdes.jpg",
+        "name": "judía verde",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Ralla la piel del limón y exprime el zumo de medio limón. En un cuenco coloca una cucharada de la ralladura de la piel del limón, la salsa de soja y el zumo del medio limón. Vierte este aliño sobre los langostinos y sin piel, y deja reposar mientras realizas el resto de la receta.",
+        "priority": 1
+      },
+      {
+        "name": "Cuece las judías verdes en una olla con agua y un poco de sal. Una vez estén tiernas, retíralas y resérvalas.",
+        "priority": 2
+      },
+      {
+        "name": "Pica finamente un diente de ajo y un trozo de jengibre. Y corta también en tiras finas la cebolla.",
+        "priority": 3
+      },
+      {
+        "name": "En una sartén echa un poco de aceite de oliva. Cuando esté caliente vierte el ajo y el jengibre picado y sofríelo a fuego bajo-medio para que no se te queme. Añade la cebolla que acabas de cortar y saltéala hasta que te quede blandita. Añade entonces las judías verdes y saltéalas apenas 3-4 minutos.",
+        "priority": 4
+      },
+      {
+        "name": "Pasado ese tiempo agrega los langostinos cocidos con su aliño y saltea los ingredientes durante 1 minuto.",
+        "priority": 5
+      },
+      {
+        "name": "Sirve en un bowl el arroz y añade los langostinos con las judías verdes aliñadas.",
+        "priority": 6
+      }
+    ]
+  }
+]

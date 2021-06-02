@@ -1,0 +1,939 @@
+[
+  {
+    "id": "espaguetis-con-coliflor-y-queso-azul",
+    "name": "Espaguetis con Coliflor y Queso Azul",
+    "type": "Pasta",
+    "description": "¿Se te había ocurrido alguna vez combinar coliflor, queso azul y pasta? ¡Ya estás tardando! Porque esta combinación resulta tan original y sorprendente como sabrosa. ",
+    "image_alt_tag": "Espaguetis con Coliflor y Queso Azul",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/espaguetis-con-coliflor-y-queso-azul/900/espaguetis-con-coliflor-y-queso-azul.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "400",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/coliflor.jpg",
+        "name": "coliflor",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "180",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/espagueti.jpg",
+        "name": "espagueti",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-azul.jpg",
+        "name": "queso azul",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "30",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-parmesano.jpg",
+        "name": "queso parmesano",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En una cazuela calienta agua y cuando rompa a hervir cuece la pasta el tiempo que indica sus instrucciones. Resérvala.",
+        "priority": 0
+      },
+      {
+        "name": "Lava la coliflor y córtala en ramilletes. ",
+        "priority": 1
+      },
+      {
+        "name": "Pon a hervir agua en una olla con un poquito de sal y cuece los ramilletes de coliflor apenas 5-6 minutos. Pasado ese tiempo retíralos y escúrrelos del agua. ",
+        "priority": 2
+      },
+      {
+        "name": "Calienta un poco de aceite en una sartén. Añade el ajo cortado en láminas y cocínalo a fuego medio durante varios minutos con cuidado de que no se queme. Añade los trozos de coliflor y cocínala durante 5 minutos removiéndola de vez en cuando.",
+        "priority": 3
+      },
+      {
+        "name": "Añade a la sartén los espaguetis y mézclalos con la coliflor. Baja el fuego y deja que se integren los sabores durante un par de minutos.",
+        "priority": 4
+      },
+      {
+        "name": "Mientras aprovecha para preparar la salsa. En una sartén coloca el queso azul cortado en trozos y la leche. Ponlo a fuego medio, poco a poco el queso se irá derritiendo hasta hacerse una salsa. ",
+        "priority": 5
+      },
+      {
+        "name": "Añade la salsa de queso a la sartén que contiene la pasta y la coliflor y sirve la pasta con un poco de queso parmesano rallado por encima. ¡A comer!",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-pasta-con-alubias-negras",
+    "name": "Ensalada de Pasta con Alubias Negras ",
+    "type": "Pasta",
+    "description": "Si la pasta es parte de tu dieta, anímate a prepararte esta nutritiva ensalada de orzo acompañada de legumbres y verduras. Una combinación de ingredientes maravillosa que te resultará muy rica al paladar. ¡A por ella!",
+    "image_alt_tag": "Ensalada de Pasta con Alubias Negras ",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-alubias-negras/900/ensalada-de-pasta-con-alubias-negras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1593728055/ingredients/alubia-negra.jpg",
+        "name": "alubia negra",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "70",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg",
+        "name": "maíz",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Cuando las verduras estén tiernas añade las alubias cocidas a la sartén y el maíz, y saltea durante varios minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Vierte en la sartén la pasta que has preparado y mezcla con los ingredientes. Deja en el fuego apenas 1 minuto y sirve en tu plato. ",
+        "priority": 4
+      },
+      {
+        "name": "Calienta agua en un cazo y cuando hierva cuece la pasta el tiempo que indica sus instrucciones.",
+        "priority": 0
+      },
+      {
+        "name": "Pica la cebolla y corta el pimiento rojo en trozos. También, escurre las alubias y el maíz de sus respectivos botes y pásalos por agua.",
+        "priority": 1
+      },
+      {
+        "name": "A continuación, en una sartén amplia echa un poco de aceite de oliva y sofríe la cebolla y el pimiento que acabas de cortar.",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "id": "macarrones-con-pollo-al-ajillo-y-espinacas",
+    "name": "Macarrones con Pollo al Ajillo y Espinacas",
+    "type": "Pasta",
+    "description": "¿Buscas un plato de pasta completo, sencillo y súper rico? ¡Anímate con estos macarrones con pollo al ajillo y descubre una forma riquísima de incluir verdura y nutrientes en tus platos favoritos!",
+    "image_alt_tag": "Macarrones con Pollo al Ajillo y Espinacas",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-pollo-al-ajillo-y-espinacas/900/macarrones-con-pollo-al-ajillo-y-espinacas.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "180",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Cuece la pasta según las instrucciones del paquete.",
+        "priority": 0
+      },
+      {
+        "name": "Pela y trocea los ajos en rodajas y reserva.",
+        "priority": 1
+      },
+      {
+        "name": "Trocea la pechuga de pollo en tacos y ponles una pizca de sal.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén, pon un chorrito de aceite de oliva a calentar y añade el pollo troceado. ",
+        "priority": 3
+      },
+      {
+        "name": "En 1-2 minutos el pollo se pondrá blanco por fuera, cuando ocurra, añade los ajos y saltea todo junto durante de 5 minutos, hasta que el pollo y el ajo estén dorados.",
+        "priority": 4
+      },
+      {
+        "name": "Cuando la pasta esté lista, escúrrela y mézclala con el salteado de ajo y pollo. Añade las espinacas y remueve bien para que se ablanden con el calor de la pasta.",
+        "priority": 5
+      },
+      {
+        "name": "Ajusta la sal si lo consideras necesario y ¡a comer!",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "noquis-con-parmesano",
+    "name": "Ñoquis con Parmesano",
+    "type": "Pasta",
+    "description": "¿Te apetece algo fácil pero a la vez rico y nutritivo? Estos simples ñoquis de patata con queso parmesano se preparan en pocos minutos y están muy sabrosos.",
+    "image_alt_tag": "Ñoquis con Parmesano",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/noquis-con-parmesano/900/noquis-con-parmesano.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "hoja",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/hojas-de-laurel.jpg",
+        "name": "hoja de laurel",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mantequilla.jpg",
+        "name": "mantequilla",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg",
+        "name": "orégano",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/nuez-moscada.jpg",
+        "name": "nuez moscada",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "50",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-parmesano.jpg",
+        "name": "queso parmesano",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "ñoqui",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Llena una cazo mediano con agua y llévalo a ebullición. Cuando comience a hervir añade la sal, los ñoquis y la hoja de laurel. Cuando veas que los ñoquis salen a la superficie están listos.",
+        "priority": 0
+      },
+      {
+        "name": "En un cuenco añade la mantequilla, el orégano, la nuez moscada y los ñoquis bien calientes. El calor de los ñoquis te ayudará a derretir la mantequilla. Mezcla todos los ingredientes y añade el queso parmesano y un poco de pimienta. Mezcla y ¡a comer!",
+        "priority": 1
+      }
+    ]
+  },
+  {
+    "id": "pasta-cremosa-con-coliflor-al-horno",
+    "name": "Pasta Cremosa con Coliflor al Horno",
+    "type": "Pasta",
+    "description": "Aprovecha un trozo de tu coliflor para hacer esta sabrosa y cremosa pasta. Un pasta que va a dejar sorprendido a todos en casa por lo rica y original que es la combinación pasta-coliflor. ¿A que no se lo esperaban?",
+    "image_alt_tag": "Pasta Cremosa con Coliflor al Horno",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-cremosa-con-coliflor-al-horno/900/pasta-cremosa-con-coliflor-al-horno.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-rallado.jpg",
+        "name": "queso rallado",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/nata-liquida.jpg",
+        "name": "nata líquida",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "0.25",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/coliflor.jpg",
+        "name": "coliflor",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En una olla con agua y una pizca de sal, cocina la pasta el tiempo que indica las instrucciones de su envase. Una vez lista, escúrrela.",
+        "priority": 0
+      },
+      {
+        "name": "Lava y corta la coliflor. Vierte los trozos de coliflor en una olla y cúbrela de agua para cocerla. Echa un poco de sal y ponla al fuego. Cocínala durante aproximadamente 10 minutos. Pasado ese tiempo escúrrela y resérvala.",
+        "priority": 1
+      },
+      {
+        "name": "Lava y corta en rodajas los champiñones y la cebolla.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén algo amplia echa un poco de aceite de oliva. Sofríe a fuego medio los champiñones y la cebolla durante 5 minutos. Echa un poquito de sal y añade la nata y la leche. Revuelve y deja que se cocine a fuego suave durante 5-7 minutos. Pasado ese tiempo tritura con la batidora hasta conseguir una salsa uniforme.",
+        "priority": 3
+      },
+      {
+        "name": "Mezcla la pasta con la coliflor y viértela en un recipiente apto para horno. Agrega sobre los ingredientes la salsa que acabas de hacer y, con una cuchara, mezcla de forma que la salsa quede bien distribuida.",
+        "priority": 4
+      },
+      {
+        "name": "Esparce el queso rallado por encima y mete en el horno apenas 5 minutos, hasta que veas que el queso se funde.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "pasta-con-verduras",
+    "name": "Pasta con Verduras",
+    "type": "Pasta",
+    "description": "Esta divertida y sabrosa pasta con verduras puede ser tu comida o cena perfecta para tus próximos días. Compleméntala con tu proteína vegetal o animal favorita y ¡todos a la mesa!",
+    "image_alt_tag": "Pasta con Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-verduras/900/pasta-con-verduras.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "6",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Calienta agua en una cazuela. Cuando rompa a hervir añade un poco de sal y vierte los macarrones. Cuece la pasta el tiempo que indica sus instrucciones.",
+        "priority": 0
+      },
+      {
+        "name": "Mientras se cuece la pasta prepara las verduras de la siguiente manera: pica finamente el diente de ajo. Lava, pela y corta en rodajas finas la zanahoria. Lava el calabacín y córtalo en rodajas y, por último, lava los tomates cherry y córtalos en mitades.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente vierte el ajo picado y la zanahoria cortada en trozos. Saltea a fuego medio durante 5 minutos. ",
+        "priority": 2
+      },
+      {
+        "name": "Pasado ese tiempo vierte los trozos de calabacín y saltéalos durante 3-4 minutos junto con el resto de verduras.",
+        "priority": 3
+      },
+      {
+        "name": "Por último añade a la sartén los tomates cherry y echa un poco de sal a las verduras. ",
+        "priority": 4
+      },
+      {
+        "name": "Pasados un par de minutos, vierte en la sartén los macarrones y mézclalos con las verduras. ",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "macarrones-cremosos-con-carne",
+    "name": "Macarrones Cremosos con Carne",
+    "type": "Pasta",
+    "description": "Si en tu casa la pasta y la carne forman parte de vuestra dieta, sorprende a los tuyos sirviendo esta pasta súper jugosa, gratinada con un montón de queso. No te va a sobrar ¡ni una cucharada!",
+    "image_alt_tag": "Macarrones Cremosos con Carne",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/900/macarrones-cremosos-con-carne.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg",
+        "name": "yogur",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/albahaca.jpg",
+        "name": "albahaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-rallado.jpg",
+        "name": "queso rallado",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "lata pequeña",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/azucar.jpg",
+        "name": "azúcar",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Echa agua en una olla y cocina la pasta el tiempo que indica sus instrucciones. Escúrrela y resérvala, la emplearás más adelante.",
+        "priority": 0
+      },
+      {
+        "name": "Coloca la carne en un recipiente y échale sal y pimienta.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte la carne picada salpimentada y saltéala a fuego medio hasta que quede ligeramente dorada. Retírala y resérvala.",
+        "priority": 2
+      },
+      {
+        "name": "En esa misma sartén, sin necesidad de limpiarla, vierte los ajos picados finamente y sofríelos a fuego medio con cuidado de no quemarlos (si necesitas un poquito más de aceite añádelo). Cuando los ajos estén dorados añade el tomate triturado a la sartén, un poco de sal y de azúcar, y cocina a fuego medio durante 10 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado ese tiempo añade la albahaca y el yogur. Mezcla y cocina a fuego suave durante varios minutos más. Comprueba que el punto de sal es el correcto y, en su caso, rectifica.",
+        "priority": 4
+      },
+      {
+        "name": "Vierte en la sartén la carne que tenías reservada y mezcla con la salsa.",
+        "priority": 5
+      },
+      {
+        "name": "Cuando la carne esté bien impregnada de la salsa, añade la pasta que tienes reservada y mezcla de nuevo todos los ingredientes.",
+        "priority": 6
+      },
+      {
+        "name": "Vierte lo anterior a una bandeja apta para horno, esparce abundante queso rallado por encima y mete a gratinar varios minutos. Cuando veas el queso fundido y gratinado a tu gusto puedes servirlo en tu mesa.",
+        "priority": 7
+      }
+    ]
+  },
+  {
+    "id": "macarrones-con-cebolla-y-tomates-cherry",
+    "name": "Macarrones con Cebolla y Tomates Cherry",
+    "type": "Pasta",
+    "description": "¿Buscas una forma riquísima de añadir verdura a tus platos de pasta? ¡No te pierdas entonces esta delicia de receta!",
+    "image_alt_tag": "Macarrones con Cebolla y Tomates Cherry",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/900/macarrones-con-cebolla-y-tomates-cherry.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg",
+        "name": "orégano",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "500",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 180ºC. ",
+        "priority": 0
+      },
+      {
+        "name": "Lava los tomates y córtalos por la mitad. Colócalos en una fuente y añade el orégano, la sal y el aceite de oliva. Hornea durante 15 minutos.",
+        "priority": 1
+      },
+      {
+        "name": "Cuece la pasta según las instrucciones del paquete y, mientras tanto, pica la cebolla y los ajos y sofríelos entre 10 y 15 minutos, hasta que la cebolla esté transparente y tierna.",
+        "priority": 2
+      },
+      {
+        "name": "Cuando la pasta esté lista, escúrrela y mézclala con los tomates asados y la cebolla. Ajusta la sal a tu gusto.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-pasta-con-verduras-asadas-y-feta",
+    "name": "Ensalada de Pasta con Verduras Asadas y Feta",
+    "type": "Pasta",
+    "description": "Ahora que se acerca el buen tiempo y sabemos que sueles cocinarte ensaladas de pasta, hemos pensado que esta no puede faltar en tu repertorio. Llena de verduras asadas, con un poquito de queso feta y aliñada con aceite, sal y limón... ¡uf! ¡Resultado espectacular!",
+    "image_alt_tag": "Ensalada de Pasta con Verduras Asadas y Feta",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pasta-con-verduras-asadas-y-feta/900/ensalada-de-pasta-con-verduras-asadas-y-feta.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-feta.jpg",
+        "name": "queso feta",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 200Cº.",
+        "priority": 0
+      },
+      {
+        "name": "Comienza preparando las verduras de la siguiente manera: lava el calabacín y córtalo en rodajas no muy gruesas. Pela y corta en rodajas las zanahorias. Y corta en tiras el pimiento rojo. ",
+        "priority": 1
+      },
+      {
+        "name": "Coloca las verduras que acabas de cortar en una bandeja de horno, agrega un poco de aceite de oliva por encima, una pizca de sal y de pimienta y hornea a 200ºC durante 15 minutos. Una vez pase este tiempo, saca las verduras del horno y deja que se enfríen un poco.",
+        "priority": 2
+      },
+      {
+        "name": "Mientras se asan las verduras cocina la pasta en una olla con agua hirviendo el tiempo que indica sus instrucciones. Pasado ese tiempo cuélala y deja que se enfríe.",
+        "priority": 3
+      },
+      {
+        "name": "En una ensaladera coloca la pasta, añade las verduras asadas, esparce el queso feto desmenuzado por encima y mezcla. Añade los tomates cherry cortado en mitades por encima y aliña la ensalada con aceite, un poco de sal y jugo de limón.",
+        "priority": 4
+      }
+    ]
+  }
+]

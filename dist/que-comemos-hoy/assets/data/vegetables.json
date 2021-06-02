@@ -1,0 +1,895 @@
+[
+  {
+    "id": "falafels-de-batata",
+    "name": "Falafels de Batata",
+    "type": "Verduras",
+    "description": "Estos falafels de batata están riquísimos y son muy versátiles. Puedes tomártelos de picoteo o puedes acompañarlos con lechuga, hummus, lima y pan de fajita, y hacerte un rico almuerzo. ¡Tienen mil opciones! ¡Sírvetelos como te apetezca!",
+    "image_alt_tag": "Falafels de Batata",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg",
+        "name": "batata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/harina.jpg",
+        "name": "harina de trigo",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/semilla-de-sesamo.jpg",
+        "name": "semilla de sésamo",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Pela y corta la batata en rodajas. Colócalas sobre una bandeja del horno forrada con papel vegetal y échales un poquito de aceite de oliva por encima. Mételas en el horno durante 30 minutos o hasta que veas que están blandas. Una vez estén blanditas, pasa al siguiente paso.",
+        "priority": 1
+      },
+      {
+        "name": "Coloca en el vaso de la batidora el ajo, el cilantro, el zumo de un limón, la batata ya cocinada, la harina indicada, el comino en polvo, un poco de sal y de pimienta, y tritura bien. ",
+        "priority": 2
+      },
+      {
+        "name": "Deja reposar la mezcla durante 1 hora en la nevera. ",
+        "priority": 3
+      },
+      {
+        "name": "Coloca un plato con un poquito de harina extra y saca la masa de la nevera. Coge un poco de masa y sin formar el falafel, lo pasas por el plato de harina. Ahora dale forma de falafel y ve colocándolos sobre la bandeja del horno. Añade un puñado de semillas de sésamo por encima y hornea durante 15 minutos a 200ºC.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "pastelitos-de-batata-y-champinones",
+    "name": "Pastelitos de Batata y Champiñones",
+    "type": "Verduras",
+    "description": "\n    ¿Te apetece hacer algo original con esa batata que tienes muerta de risa en tu nevera? Se pueden hacer cosas muy interesantes como estos nuggets o pastelitos de batata con champiñones y cebolla. ¡Pruébalos!\n",
+    "image_alt_tag": "Pastelitos de Batata y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastelitos-de-batata-y-champinones/900/pastelitos-de-batata-y-champinones.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "400",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg",
+        "name": "batata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg",
+        "name": "pan rallado",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 180ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Lava la batata bien para quitarle toda la tierra y suciedad que pueda tener y hazle unos pequeños cortes en la piel. Para ello coge un tenedor y dale varios pinchazos (te costará porque ¡está dura!). Colócala en un plato y métela en el microondas. Cocina durante 8-10 minutos a máxima potencia (800-1000 vatios). Pasado este tiempo sácala del micro y extrae su carne con una cuchara. Haz un puré aplastando su carne con un tenedor y ponle una pizca de sal.",
+        "priority": 1
+      },
+      {
+        "name": "Lava los champiñones. En tu procesador de alimentos o picadora, a velocidad media, trocea la cebolla y los champiñones. En una sartén amplia echa un poquito de aceite de oliva y sofríe la cebolla y los champiñones con una pizca de sal durante 5-6 minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Mezcla el puré de batata con los champiñones y cebolla sofrita.",
+        "priority": 3
+      },
+      {
+        "name": "Comienza a hacer bolitas, aplástalas un poco y dales forma de nuggets o pastelitos.",
+        "priority": 4
+      },
+      {
+        "name": "Pasa cada nugget por el huevo batido y a continuación por el pan rallado. Y, mételos en una bandeja con papel de horno. Deje que se cocinen en el horno entre 20-25 minutos. Verás que te quedan crujientes por fuera aunque blandos por dentro.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "sopa-cremosa-de-patata-y-champinones",
+    "name": "Sopa Cremosa de Patata y Champiñones",
+    "type": "Verduras",
+    "description": "Si te gusta la patata, los champiñones y los platos de cuchara, esta sopa va a dejarte sin palabras. Y te aseguramos que es muy, muy facilita de hacer. ¡Te va a salir!",
+    "image_alt_tag": "Sopa Cremosa de Patata y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-champinones/900/sopa-cremosa-de-patata-y-champinones.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando los ingredientes de la siguiente manera. Pela las patatas y córtalas en trozos no muy grandes, del tamaño que te agrade para comértelas en una sopa. Pica finamente el ajo y la cebolla y, por último, corta en láminas o trozos los champiñones.",
+        "priority": 0
+      },
+      {
+        "name": "En una cazuela echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte el ajo y la cebolla picada, sofríe durante varios minutos a fuego medio, con cuidado de que no se quemen.",
+        "priority": 1
+      },
+      {
+        "name": "Añade a la cazuela los champiñones cortados y saltea durante un 3-4 minutos, hasta que comiencen a dorarse.",
+        "priority": 2
+      },
+      {
+        "name": "Agrega a la cazuela las patatas y cubre los ingredientes con el agua y la leche. Añade un poco de sal y de pimiento y cubre con la tapa. Deja que se cocine a fuego medio durante 20-25 minutos aproximadamente. Pasado este tiempo comprueba que el líquido ha reducido y que esté sabrosa la sopa. Corrige el punto de sal si fuera necesario y déjalo más tiempo en el fuego si te gusta más espesa la sopa o añádele un poco de líquido si te gusta más suelta, a tu gusto.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "salsa-agridulce",
+    "name": "Salsa Agridulce",
+    "type": "Verduras",
+    "description": "Si la comida asiática es de tus favoritas no puede faltarte la receta de ¡salsa agridulce! Es ¡tan rica! Y combina de manea tan espectacular con tantos ingredientes: tofu, pollo, verduras, fideos... Verás que la emplearás muchísimo. Hoy en día la venden en cualquier supermercado pero suelen ser salsas muy poco saludables, así anímate y hazla en casa. Es facilísima de hacer, ¡verás!",
+    "image_alt_tag": "Salsa Agridulce",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/salsa-agridulce/900/salsa-agridulce.jpg",
+    "total_time": 0,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 3,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "taza",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.25",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484118/ingredients/azucar-moreno.jpg",
+        "name": "azúcar moreno",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/ketchup.jpg",
+        "name": "ketchup",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1504401669/ingredients/vinagre-de-manzana.jpg",
+        "name": "vinagre de manzana",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "taza",
+        "value": "0.25",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/vinagre-arroz.jpg",
+        "name": "vinagre de arroz",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/ajo-en-polvo.jpg",
+        "name": "ajo en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "maicena",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Coloca el agua en un recipiente y vierte la maicena. Mezcla de manera que la maicena se disuelva en el agua.",
+        "priority": 0
+      },
+      {
+        "name": "Pica finamente los ajos.",
+        "priority": 1
+      },
+      {
+        "name": "Vierte todos los ingredientes de la receta a excepción de la maicena disuelta en agua, en tu batidora o procesador de alimentos y bate muy bien.",
+        "priority": 2
+      },
+      {
+        "name": "Vierte lo anterior en un cazo y ponlo a fuego calienta a fuego medio-alto. Cuando comience a hervir, añade la maicena con agua que tienes reservada y sigue cocinando pero a fuego bajo. Poco a poco la salsa ira espesando. Una ve esté en el punto de espesor que te gusta, apaga el fuego y sirve.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "crema-de-zanahoria-y-calabaza",
+    "name": "Crema de Zanahoria y Calabaza",
+    "type": "Verduras",
+    "description": "\n    ¿Es posible que esta crema tan rica y nutritiva se logre con tan pocos ingredientes y tan comunes? ¡Sí, lo es! Por eso, aprovecha ese trozo de calabaza y ese par de zanahorias que tienes en tu nevera, y cocina con ellos esta sabrosa crema de verduras. ¡No te arrepentirás!\n",
+    "image_alt_tag": "Crema de Zanahoria y Calabaza",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-zanahoria-y-calabaza/900/crema-de-zanahoria-y-calabaza.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg",
+        "name": "calabaza",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela las zanahorias, la calabaza y la patata, y corta estos ingredientes en trozos pequeños. También pica la cebolla.",
+        "priority": 0
+      },
+      {
+        "name": "En una olla echa un chorrito de aceite de oliva. Cuando el aceite esté caliente vierte los trozos de cebolla y sofríe durante 2-3 minutos a fuego medio, con cuidado de que no se quemen.",
+        "priority": 1
+      },
+      {
+        "name": "Añade a la olla los trozos de zanahoria y de calabaza, y cocina a fuego medio durante 10 minutos, hasta que las verduras comiencen a estar blanditas.",
+        "priority": 2
+      },
+      {
+        "name": "Añade la patata troceada y cubre todo con agua. Con 3 tazas de agua seguramente sea suficiente. Pon un poquito de sal, cubre con la tapa casi por completo (deja una pequeña abertura) y cocina aproximadamente durante 20 minutos, hasta que las verduras estén tiernas.",
+        "priority": 3
+      },
+      {
+        "name": "A continuación, pon todos los ingredientes en tu batidora y bate muy bien. Sirve en cuencos y ¡a comer!",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "sopa-cremosa-de-patata-y-zanahoria",
+    "name": "Sopa Cremosa de Patata y Zanahoria",
+    "type": "Verduras",
+    "description": "\n    Con ingredientes tan básicos como los de esta recta puedes lograr hacer una sopa de escándalo. No compres las sopas ya hechas en el supermercado... ¡las puedes hacer tú!\n",
+    "image_alt_tag": "Sopa Cremosa de Patata y Zanahoria",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-cremosa-de-patata-y-zanahoria/900/sopa-cremosa-de-patata-y-zanahoria.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando los ingredientes de la siguiente manera. Pela las patatas y córtalas en trozos no muy grandes, de un tamaño que te agrade para comértelas en una sopa. Pica finamente el ajo y la cebolla y, por último, pela y corta en rodajas la zanahoria.",
+        "priority": 0
+      },
+      {
+        "name": "En una cazuela echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte el ajo y la cebolla picada, y sofríe durante varios minutos a fuego medio, con cuidado de que no se quemen.",
+        "priority": 1
+      },
+      {
+        "name": "Añade a la cazuela la zanahoria cortada y saltea durante un par de minutos, hasta que comience a ablandar.",
+        "priority": 2
+      },
+      {
+        "name": "Pasados 5-7 minutos, agrega a la cazuela las patatas y cubre los ingredientes con el agua y la leche. Añade un poco de sal. Cubre con la tapa, sube un poco el fuego y cuece durante 20-25 minutos aproximadamente. Pasado este tiempo comprueba que el líquido ha reducido y que esté sabrosa la sopa. Corrige el punto de sal si fuera necesario y déjalo más tiempo en el fuego si te gusta más espesa la sopa o añádele un poco de líquido si te gusta más suelta, a tu gusto.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "crema-de-calabaza-y-espinacas",
+    "name": "Crema de Calabaza y Espinacas",
+    "type": "Verduras",
+    "description": "\n    ¿Te apetece una cena ligera y nutritiva? Las cremas de verduras son opciones maravillosas. Esta crema de calabaza y espinacas resulta sabrosísima. ¡No te la pierdas!\n",
+    "image_alt_tag": "Crema de Calabaza y Espinacas",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-calabaza-y-espinacas/900/crema-de-calabaza-y-espinacas.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabaza.jpg",
+        "name": "calabaza",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "mililitros",
+        "value": "700",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la patata y la calabaza en trozos pequeños, y la cebolla en tiras finas. También lava las hojas de espinacas y córtalas en tiras.",
+        "priority": 0
+      },
+      {
+        "name": "En un olla, pon un chorrito de aceite y cocina durante varios minutos la cebolla hasta que se dore.",
+        "priority": 1
+      },
+      {
+        "name": "Añade la calabaza y saltéala durante 3-4 minutos a fuego medio. Cuando la calabaza esté blandita añade las espinacas y salte apenas un par de minutos más. Verás que reducen su volumen poco a poco. Termina añadiendo la patata cortada en dados y echa el agua hasta que se cubran todos los ingredientes. Pon un poquito de sal a todo, pon la tapa y cuece durante 20 minutos a fuego medio.",
+        "priority": 2
+      },
+      {
+        "name": "Pasado el tiempo tritura con la batidora y ¡lista tu crema!",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "berenjenas-rellenas-de-puerro-y-champinones",
+    "name": "Berenjenas Rellenas de Puerro y Champiñones",
+    "type": "Verduras",
+    "description": "\n    ¿Te cansa cocinar la verdura siempre de la misma manera? Sí, a todos nos pasa... por eso te animamos que le des un giro a la berenjena y esta vez la cocines una forma divertida y diferente.\n",
+    "image_alt_tag": "Berenjenas Rellenas de Puerro y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/berenjenas-rellenas-de-puerro-y-champinones/900/berenjenas-rellenas-de-puerro-y-champinones.jpg",
+    "total_time": 40,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "90",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg",
+        "name": "maíz",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg",
+        "name": "puerro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "6",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceitunas-negras.jpg",
+        "name": "aceituna negra",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "unidad",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg",
+        "name": "berenjena",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precaliente el horno a 200ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Corta la berenjena por la mitad con corte transversal, y hazle pequeños cortes en la pulpa de la verdura para que luego te resulte más fácil vaciarla. Échale un poquito de aceite y hornéala durante 18-20 minutos. Pasado ese tiempo, sácala y déjala enfriar unos minutos. A continuación vacía con cuidado la pulpa de la berenjena y resérvala.",
+        "priority": 1
+      },
+      {
+        "name": "Corta finamente el ajo, los champiñones y el puerro.",
+        "priority": 2
+      },
+      {
+        "name": "Echa un poco de aceite de oliva en una sartén y cuando esté caliente vierte en la misma el ajo y el puerro picado. Saltea durante un par de minutos.",
+        "priority": 3
+      },
+      {
+        "name": "A continuación añade la berenjena y los champiñones, y pon un poco de sal a todas las verduras. Saltea de nuevo las verduras hasta que veas que están doradas y tiernas.",
+        "priority": 4
+      },
+      {
+        "name": "Apaga el fuego, añade al salteado las aceitunas cortadas en rodajas y el maíz, y mezcla los ingredientes de manera que queden bien integrados entre sí y rellena las berenjenas con la mezcla del salteado. ¡Listas para disfrutar!",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "sopa-de-brocoli-patata-y-zanahoria",
+    "name": "Sopa de Brócoli, Patata y Zanahoria",
+    "type": "Verduras",
+    "description": "\n    ¡Mira qué sopa de verduras tan rica! Y, ¡aviso! Es tan fácil de hacer que hasta el más inexperto en la cocina puede con ella. No hay excusa para no hacerla.\n",
+    "image_alt_tag": "Sopa de Brócoli, Patata y Zanahoria",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sopa-de-brocoli-patata-y-zanahoria/900/sopa-de-brocoli-patata-y-zanahoria.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "mililitros",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/vino-blanco.jpg",
+        "name": "vino blanco",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando las verduras de la siguiente manera. Pela y corta en rodajas la zanahoria. Lava el brócoli y córtalo en ramilletes pequeños. Corta la cebolla en láminas y, por último, pela y corta en trozos pequeños la patata.",
+        "priority": 0
+      },
+      {
+        "name": "En una olla echa un chorro de aceite de oliva. Cuando se caliente saltea la cebolla y la zanahoria hasta que ambas verduras ablanden.",
+        "priority": 1
+      },
+      {
+        "name": "Incorpora a la olla el brócoli y las patatas, y saltea durante un par de minutos más.",
+        "priority": 2
+      },
+      {
+        "name": "Vierte el vino blanco por encima y saltea las verduras, poco a poco el alcohol se ira evaporando.",
+        "priority": 3
+      },
+      {
+        "name": "Cubre todo con agua. Pon la tapa a la olla, sube un poco el fuego hasta que comience a hervir y, en ese momento, bájalo. Pon a punto de sal y deja cocer a fuego suave durante 20- 25 minutos aproximadamente. Pasado este tiempo comprueba que las verduras están tiernas (sobre todo la patata que le suele costar más), que el líquido ha reducido y que esté sabroso el caldo. Corrige el punto de sal si fuera necesario y déjalo más tiempo en el fuego si te gusta más espesa la sopa, a tu gusto.",
+        "priority": 4
+      }
+    ]
+  }
+]

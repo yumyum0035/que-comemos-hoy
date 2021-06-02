@@ -1,0 +1,1039 @@
+[
+  {
+    "id": "pasta-con-ternera-espinacas-y-champinones",
+    "name": "Pasta con Ternera, Espinacas y Champiñones",
+    "type": "Carne",
+    "description": "\n    ¿Tienes algún filete de ternera por la nevera y no se te ocurre nada original que hacer? Pues si lo combinas con algunas verduras y con alguna pasta corta te puede quedar un plato de lujo.\n",
+    "image_alt_tag": "Pasta con Ternera, Espinacas y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pasta-con-ternera-espinacas-y-champinones/900/pasta-con-ternera-espinacas-y-champinones.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg",
+        "name": "filete de ternera",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la carne en tiras, trozos o como te resulte más agradable.",
+        "priority": 0
+      },
+      {
+        "name": "Pica los pimientos y la cebolla en tiras finas. Lava las espinacas y, por último, lava y corta en láminas los champiñones.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia vierte el aceite de oliva. Cuando esté caliente vierte la cebolla, el pimiento y los champiñones, y saltea a fuego suave durante 5 minutos hasta que los ingredientes queden muy blanditos.",
+        "priority": 2
+      },
+      {
+        "name": "A continuación vierte en la sartén la carne, sube un poco el fuego, y saltéala junto con las verduras a fuego medio apenas un par de minutos, no más.",
+        "priority": 3
+      },
+      {
+        "name": "Añade ahora a la sartén el tomate triturado, un poco de sal, baja la intensidad del fuego y pon tapa a la sartén. Cocina a fuego suave durante 15-20 minutos. Echa un ojo de vez en cuando para comprobar que no se te \"resecan\" los ingredientes. En su caso añade un poquito de agua. 5 minutos antes de que pasen los 20 minutos vierte a la sartén las espinacas.",
+        "priority": 4
+      },
+      {
+        "name": "Mientras se cocina la carne aprovecha para cocinar la pasta. Echa agua en una olla. Cuando comience a hervir, vierte un poco de sal y la pasta. Cocínala el tiempo que indica las instrucciones de su envase.",
+        "priority": 5
+      },
+      {
+        "name": "En un plato sirve la pasta y coloca sobre la misma la carne cocinada.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "macarrones-cremosos-con-carne",
+    "name": "Macarrones Cremosos con Carne",
+    "type": "Carne",
+    "description": "Si en tu casa la pasta y la carne forman parte de vuestra dieta, sorprende a los tuyos sirviendo esta pasta súper jugosa, gratinada con un montón de queso. No te va a sobrar ¡ni una cucharada!",
+    "image_alt_tag": "Macarrones Cremosos con Carne",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-cremosos-con-carne/900/macarrones-cremosos-con-carne.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg",
+        "name": "yogur",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/albahaca.jpg",
+        "name": "albahaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-rallado.jpg",
+        "name": "queso rallado",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "lata pequeña",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/azucar.jpg",
+        "name": "azúcar",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Echa agua en una olla y cocina la pasta el tiempo que indica sus instrucciones. Escúrrela y resérvala, la emplearás más adelante.",
+        "priority": 0
+      },
+      {
+        "name": "Coloca la carne en un recipiente y échale sal y pimienta.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente el aceite vierte la carne picada salpimentada y saltéala a fuego medio hasta que quede ligeramente dorada. Retírala y resérvala.",
+        "priority": 2
+      },
+      {
+        "name": "En esa misma sartén, sin necesidad de limpiarla, vierte los ajos picados finamente y sofríelos a fuego medio con cuidado de no quemarlos (si necesitas un poquito más de aceite añádelo). Cuando los ajos estén dorados añade el tomate triturado a la sartén, un poco de sal y de azúcar, y cocina a fuego medio durante 10 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado ese tiempo añade la albahaca y el yogur. Mezcla y cocina a fuego suave durante varios minutos más. Comprueba que el punto de sal es el correcto y, en su caso, rectifica.",
+        "priority": 4
+      },
+      {
+        "name": "Vierte en la sartén la carne que tenías reservada y mezcla con la salsa.",
+        "priority": 5
+      },
+      {
+        "name": "Cuando la carne esté bien impregnada de la salsa, añade la pasta que tienes reservada y mezcla de nuevo todos los ingredientes.",
+        "priority": 6
+      },
+      {
+        "name": "Vierte lo anterior a una bandeja apta para horno, esparce abundante queso rallado por encima y mete a gratinar varios minutos. Cuando veas el queso fundido y gratinado a tu gusto puedes servirlo en tu mesa.",
+        "priority": 7
+      }
+    ]
+  },
+  {
+    "id": "macarrones-con-calabacin-y-carne-picada",
+    "name": "Macarrones con Calabacín y Carne Picada",
+    "type": "Carne",
+    "description": "\n    Si te apetece comer hoy plato único y además te apetece pasta ¿cómo ves la receta que te hemos preparado? Especialmente hecha para ti. ¡Disfrútala!\n",
+    "image_alt_tag": "Macarrones con Calabacín y Carne Picada",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-calabacin-y-carne-picada/900/macarrones-con-calabacin-y-carne-picada.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.75",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/macarrones.jpg",
+        "name": "macarrón",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Calienta agua en una cazuela y cuando rompa a hervir vierte los macarrones. Cuece la pasta el tiempo que indica las instrucciones.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el calabacín y córtalo en trozos no muy grandes. También pica media cebolla y un diente de ajo.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente sofríe el diente de ajo a fuego medio con cuidado de que no se queme. Añade ahora la carne picada, previamente salpimentada. Saltea a fuego medio durante 2-3 minutos. Apaga el fuego y reserva la carne.",
+        "priority": 2
+      },
+      {
+        "name": "En esa misma sartén, añadiendo un poco más de aceite de oliva si lo ves necesario, sofríe la cebolla durante un par de minutos a fuego medio. Añade a la sartén los dados de calabacín y echa un poco de sal a la verduras. Cocina a fuego medio durante 6-7 minutos, hasta que las verduras estén blandas.",
+        "priority": 3
+      },
+      {
+        "name": "Cuando las verduras estén blanditas añade la carne picada y mezcla los ingredientes.",
+        "priority": 4
+      },
+      {
+        "name": "Incorpora a la sartén los macarrones, revuelve y deja que se integren los sabores durante un par de minutos al fuego. ¡Ya puedes servir tus macarrones a la mesa!",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias",
+    "name": "Lomo de Cerdo con Guarnición de Patatas y Zanahorias",
+    "type": "Carne",
+    "description": "\n    Hoy te traemos una receta de lomo de cerdo muy sencilla y sabrosa que te va a resultar estupenda para cocinar y marcarte un platazo sin mucho esfuerzo. ¿Te apetece probarla?\n",
+    "image_alt_tag": "Lomo de Cerdo con Guarnición de Patatas y Zanahorias",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias/900/lomo-de-cerdo-con-guarnicion-de-patatas-y-zanahorias.jpg",
+    "total_time": 45,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lomo-de-cerdo.jpg",
+        "name": "lomo de cerdo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "mililitros",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/vino-blanco.jpg",
+        "name": "vino blanco",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela las patatas y las zanahorias y corta ambos ingredientes en rodajas no muy gruesas.",
+        "priority": 0
+      },
+      {
+        "name": "Sobre un recipiente de horno coloca las patatas y las zanahorias que acabas de cortar y riégalo con un poco de aceite y sal. Mete en el horno a 200ºC durante 10 minutos, removiendo de vez en cuando.",
+        "priority": 1
+      },
+      {
+        "name": "Mientras las patatas y las zanahorias comienzan a hacerse, aprovecha para limpiar el lomo de cerdo. Con un cuchillo quítale los trozos de grasa que pueda tener y asegúrate de que queda limpio y atractivo. Colócalo sobre una tabla y échale sal y pimienta por todos lados.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén con un poco de aceite de oliva sella el lomo de cerdo. No es necesario que se haga, sólo que se haga por fuera. Vé dándole vueltas hasta lograr que se selle por todos los lados.",
+        "priority": 3
+      },
+      {
+        "name": "Cuando hayan pasado los 10 minutos abre el horno, saca el recipiente y coloca en el mismo el lomo de cerdo sellado. Con una espátula vierte el aceite y jugos de la sartén donde has sellado el lomo y vierte también el vino blanco. Aprovecha para remover las patatas y las zanahorias.",
+        "priority": 4
+      },
+      {
+        "name": "Mete en el horno 20 minutos. De vez en cuando puedes dar alguna vuelta a la guarnición (patatas y zanahorias) para asegurarte que se cocinan bien.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "arroz-frito-con-ternera",
+    "name": "Arroz Frito con Ternera",
+    "type": "Carne",
+    "description": "\n    Arroz frito, lleno de sabor y con toques asiáticos... ¡qué rico! ¿Quieres la receta? Pues sigue leyendo y ¡ponte el delantal!\n",
+    "image_alt_tag": "Arroz Frito con Ternera",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/900/arroz-frito-con-ternera.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg",
+        "name": "puerro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg",
+        "name": "filete de ternera",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava el puerro y córtalo en rodajas finas.",
+        "priority": 0
+      },
+      {
+        "name": "Lava y pela las zanahorias. Córtalas en trozos pequeños.",
+        "priority": 1
+      },
+      {
+        "name": "Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y, pasado este tiempo, añade en este momento el puerro y la zanahoria cortada en trozos a la olla. Después baja el fuego y cocina a fuego lento 8 minutos más. Si ves que se ha absorbido el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 2
+      },
+      {
+        "name": "Bate el huevo y, en una sartén con un poco de aceite de oliva, cocina el huevo dándole forma de tortilla. A continuación colócala sobre una tabla y córtala en trozos pequeños.",
+        "priority": 3
+      },
+      {
+        "name": "En esa misma sartén echa un poquito de aceite de oliva y cocina a la plancha los filetes de ternera. Una vez estén listos colócalos sobre la tabla y córtala en trozos pequeños.",
+        "priority": 4
+      },
+      {
+        "name": "Mezcla la tortilla y la carne cortada en trozos con el arroz con verduras que has cocinado. Una vez esté mezclado saltéalo en una sartén añadiéndole la salsa de soja. Cuando el arroz esté frito apaga el fuego y sírvelo en la mesa.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "tacos-de-carne-con-pimiento-rojo",
+    "name": "Tacos de Carne con Pimiento Rojo",
+    "type": "Carne",
+    "description": "¡Levanta la mano si eres fan de la comida mexicana! ¡Lo sabíamos, sabíamos que te encanta! Por eso te hemos traído estos tacos rellenos de carne facilísimos de hacer que están absolutamente deliciosos. Funcionan para cualquier día de la semana porque apetecen ¡siempre!",
+    "image_alt_tag": "Tacos de Carne con Pimiento Rojo",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/tacos-de-carne-con-pimiento-rojo/900/tacos-de-carne-con-pimiento-rojo.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "6",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/tortilla-de-maiz.jpg",
+        "name": "tortilla de maíz",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate frito",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pica el ajo finamente, y corta en trozos pequeños la cebolla y el pimiento rojo. ",
+        "priority": 0
+      },
+      {
+        "name": "Echa un poco de aceite en una sartén. Cuando esté caliente vierte el diente del ajo y sofríelo a fuego medio durante medio minuto.",
+        "priority": 1
+      },
+      {
+        "name": "A continuación añade a la sartén la cebolla y el pimiento rojo, y deja que las verduras se cocinen durante 5 minutos a fuego medio. ",
+        "priority": 2
+      },
+      {
+        "name": "Agrega la carne picada y echa un poco de sal y de pimienta a todo. Saltea durante 5 minutos aproximadamente, revolviendo de vez en cuando.",
+        "priority": 3
+      },
+      {
+        "name": "Añade la salsa de tomate, baja el fuego al mínimo y deja que se cocinen los ingredientes durante 3-4 minutos más.",
+        "priority": 4
+      },
+      {
+        "name": "Calienta cada tortilla y rellénala con la carne que acabas de preparar.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "pimientos-rellenos-de-lentejas-y-carne-picada",
+    "name": "Pimientos Rellenos de Lentejas y Carne Picada",
+    "type": "Carne",
+    "description": "Seguro que te ha pasado alguna vez que compras pimientos y luego no sabes qué hacer con ellos. Si estás en esa situación mira estos pimientos rellenos de lentejas y carne que hemos preparado. Ricos, sabrosos y nutritivos. ¡Perfectos!",
+    "image_alt_tag": "Pimientos Rellenos de Lentejas y Carne Picada",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pimientos-rellenos-de-lentejas-y-carne-picada/900/pimientos-rellenos-de-lentejas-y-carne-picada.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-amarillo.jpg",
+        "name": "pimiento amarillo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lentejas.jpg",
+        "name": "lenteja en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate frito",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En un pequeño cuenco vierte dos cucharadas de aceite y una pizca de sal. Remueve.",
+        "priority": 0
+      },
+      {
+        "name": "Lava los pimientos y córtales la parte de arriba. Vacíalos de las semillas que puedan tener y colócalos sobre una bandeja forrada con papel de horno. Rocíalos con el aceite y sal que acabas de preparar y mételos en el horno a 180ºC durante 20 minutos.",
+        "priority": 1
+      },
+      {
+        "name": "Mientras se cocinan los pimientos aprovecha para preparar el relleno. Para ello pica finamente un diente de ajo y la cebolla.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén amplia sofríe el ajo y la cebolla picada durante un par de minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Salpimenta la carne picada que tienes y vierte la carne a la sartén. Saltéala durante 1-2 minutos.",
+        "priority": 4
+      },
+      {
+        "name": "Pasado ese tiempo añade las lentejas y saltéalas apenas 1-2 minutos también.",
+        "priority": 5
+      },
+      {
+        "name": "Vierte la salsa de tomate (si es casera mejor que mejor) y revuelve todos los ingredientes. Cocina a fuego suave durante 6-7 minutos.",
+        "priority": 6
+      },
+      {
+        "name": "Cuando los pimientos estén listos sácalos del horno. Con cuidado de no romperlos (porque están blandos y calientes) colócalos sobre un plato y rellénalos con el contenido de la sartén. Sirve en la mesa y ¡a comer!",
+        "priority": 7
+      }
+    ]
+  },
+  {
+    "id": "carne-picada-con-berenjenas-y-cuscus",
+    "name": "Carne Picada con Berenjenas y Cuscús",
+    "type": "Carne",
+    "description": "\n    Saca partido a esa carne picada que compraste el otro día, saltéala con algunas verduras y acompáñala con cuscús y verás qué rico plato te queda. ¡Sencillo y sabroso!\n",
+    "image_alt_tag": "Carne Picada con Berenjenas y Cuscús",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/carne-picada-con-berenjenas-y-cuscus/900/carne-picada-con-berenjenas-y-cuscus.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg",
+        "name": "berenjena",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1544563983/ingredients/cuscus.jpg",
+        "name": "cuscús",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "220",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando los ingredientes de la siguiente manera. Lava la berenjena y córtala en trozos no muy gruesos. Lava, pela los tomates y pícalos muy finamente. También pica muy finamente un diente de ajo.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén con un poco de aceite de oliva fríe el ajo picado. Mientras se cocina, echa un poco de sal y pimienta a la carne, y a continuación añádela a la sartén. Saltéala durante 1-2 minutos y retírala del fuego. Colócala en un plato y resérvala porque más adelante la necesitarás.",
+        "priority": 1
+      },
+      {
+        "name": "En esa misma sartén y sin necesidad de limpiarla, echa un poquito más de aceite de oliva y otro diente de ajo picado. Una vez esté dorado el ajo añade las berenjenas a la sartén y saltéalas durante varios minutos, hasta que ablanden un poco.",
+        "priority": 2
+      },
+      {
+        "name": "Vierte ahora el tomate cortado en trozos muy pequeños, el comino, una pizca de sal y, si te apetece, una pimienta cayena. Con una cuchara de madera mezcla las berenjenas y el tomate de manera que queden bien integradas. Deja que los ingredientes se cocinen durante 5 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Añade a la sartén la carne picada que tienes reservada y mézclala con las verduras.",
+        "priority": 4
+      },
+      {
+        "name": "Pon a hervir una taza de agua con un poco de sal y chorrito de aceite de oliva. Antes de que rompa a hervir, añade la taza de cuscús y apaga el fuego. Déjalo reposar hasta que se hidrate.",
+        "priority": 5
+      },
+      {
+        "name": "En un plato coloca el cuscús y vierte sobre el cuscús la carne picada con verduras.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "pastel-de-carne-con-pure-de-patata",
+    "name": "Pastel de Carne con Puré de Patata",
+    "type": "Carne",
+    "description": "\n    No te rompas la cabeza con la comida de hoy, te lo ponemos fácil. Con esta receta de pastel de carne con puré de patata triunfarás en casa y alimentarás de maravilla a tu familia. ¡Disfrútalo!\n",
+    "image_alt_tag": "Pastel de Carne con Puré de Patata",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pastel-de-carne-con-pure-de-patata/900/pastel-de-carne-con-pure-de-patata.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "mililitros",
+        "value": "250",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate frito",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/carne-picada.jpg",
+        "name": "carne picada",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando el puré de patata. Para ello debes pelar las patatas y cortarlas en rodajas o trozos finos. Luego, vierte agua en una olla y, cuando comience a hervir añades un poco de sal al agua. Vierte las rodajas o trozos de patata a la olla y deja que se cocinen durante 10-15 minutos. Cuando los trozos de patata estén blanditos apaga el fuego, escurre y aplástalos con un tenedor. Opcionalmente para mejorar el puré, puedes añadir un poquito de margarina o mantequilla al puré y un poquito de leche (de vaca o vegetal) al mismo, y mezclar estos ingredientes con las patatas.",
+        "priority": 0
+      },
+      {
+        "name": "Mientras se cuecen las patatas aprovecha para pelar y cortar en trozos muy pequeños la zanahoria. También pica el diente de ajo y la cebolla.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un chorrito de aceite de oliva y sofríe las verduras que acabas de picar: zanahoria, cebolla y el ajo. Sofríe las verduras a fuego medio durante 10 minutos, hasta que las veas blanditas. Añade entones la carne picada, a la que previamente debes ponerle un poquito de sal y pimienta, y saltea la carne junto con las verduras hasta que la carne deje de estar rosada.",
+        "priority": 2
+      },
+      {
+        "name": "Añade a la sartén la salsa de tomate y cocina a fuego suave durante 10 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "En un recipiente apto para horno vierte la carne pica y sobre la misma colocas sobre la misma el puré de patata. Puedes terminar añadiendo un poco de queso por encima y meter al horno, posición gratinado, apenas un par de minutos, hasta que veas que el queso se ha fundido.",
+        "priority": 4
+      }
+    ]
+  }
+]
