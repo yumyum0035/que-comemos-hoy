@@ -55,4 +55,17 @@ export class RecipesComponent implements OnInit {
   filterShowHide() {
     this.filterVisibility=this.filterVisibility? false : true
   }
+
+  difficultyClass(recipe) {
+    let className;
+    if(recipe.dificulty === 1) {
+      className ="low";
+    } else if (recipe.dificulty === 2) {
+      className = "medium";
+    } else {
+      className = "high";
+    }
+
+    return className;
+  }
 }
