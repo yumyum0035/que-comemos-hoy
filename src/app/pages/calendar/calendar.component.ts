@@ -10,7 +10,7 @@ import { MenuService } from 'src/app/services/menu/menu.service';
 })
 export class CalendarComponent implements OnInit {
 
-  week = ['Lunes','Martes','Miercoles','Jueves','Viernes','Sábado','Domingo'];
+  week = ['Lunes','Martes','Miércoles','Jueves','Viernes','Sábado','Domingo'];
   day = new Date();
   n:number;
   //lunch = [];
@@ -70,6 +70,17 @@ export class CalendarComponent implements OnInit {
   }
 
 
+  difficultyClass(n) {
+    let className;
+    if(this.menuSemanal[n].comida.dificulty === 1) {
+      className ="low";
+    } else if (this.menuSemanal[n].comida.dificulty === 2) {
+      className = "medium";
+    } else {
+      className = "high";
+    }
 
+    return className;
+  }
 
 }

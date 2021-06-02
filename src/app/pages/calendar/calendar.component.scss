@@ -1,8 +1,107 @@
-.hide-scroll-bar {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-.hide-scroll-bar::-webkit-scrollbar {
-  display: none;
+@use "src/variables" as *;
+
+img { object-fit: cover; }
+
+#day {
+  @include grid-size(2, auto, 2, auto, 0 2.6rem);
+  justify-content: center;
+
+  h3 { grid-row: 1 / 2; }
 }
 
+#week {
+  @include grid(2.5rem);
+  grid-template-columns: repeat(7, 13.6rem);
+  grid-template-rows: auto;
+  justify-content: start;
+
+  margin: 3rem;
+
+  @include scroll(hidden, scroll);
+}
+
+.day-container {
+  @include grid(1.5rem);
+  grid-template-columns: 13.6rem; 
+  grid-template-rows: auto 2.5rem 13.6rem 2.5rem 13.6rem; 
+
+  h3, h4 { margin: 0; padding: 0; justify-self: center;}
+  h3 { grid-row: 1 / 2;}
+  div { grid-row: 2 / 3; }
+  
+  .comida-title { grid-row: 2 / 3; }
+  .comida-container { grid-row: 3 / 4;}
+  .cena-title { grid-row: 4 / 5; }
+  .cena-container { grid-row: 5 / 6; }
+}
+
+.container {
+  @include size(18rem, 30rem);
+  background: $white;
+  border-radius: 1rem;
+  box-shadow: $box-shadow;
+
+  @include grid(.5rem);
+  grid-template-columns: 13rem 3rem;
+  grid-template-rows: 14rem auto 2rem;
+  align-content: center;
+  justify-content: center;
+  justify-items: flex-start;
+
+  h4 { 
+    grid-column: 1 / 3;
+  }
+
+  img {
+    grid-column: 1 / 3;
+    @include size(18rem, 14rem);
+    justify-self: center;
+  }
+
+  p { 
+    font-size: 1.4rem;
+    grid-column: 1 / 2;
+  }
+
+  button { 
+    grid-column: 2 / 3;
+    justify-self: flex-end;
+  }
+}
+
+.shuffle {
+  @include size(3rem, 3rem);
+  box-shadow: $small-shadow;
+  background: none;
+  border: 0.1rem solid $orange;
+
+  path { fill: $orange; }
+}
+
+.container-small {
+  @include size(13.6rem, 13.6rem);
+  @include grid(1.5rem);
+  grid-template-columns: 13.6rem; 
+  grid-template-rows: 13.6rem;
+  align-items: center; 
+
+  img { 
+    @include size(13.6rem, 13.6rem);
+    border-radius: 1rem;
+  }
+
+  p {
+    color: $white;
+    background: rgba($black, .5);
+    
+    font-size: 1.2rem;
+    width: 100%;
+    padding: 1rem 0;
+  }
+
+  img, p { grid-column: 1 / 2; grid-row: 1 / 2; }
+}
+
+@include breakpoint("desktop-xl") {
+  #week { justify-content: center; }
+}
