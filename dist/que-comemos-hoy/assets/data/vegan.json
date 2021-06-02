@@ -1,0 +1,863 @@
+[
+  {
+    "id": "ensalada-fresca-de-arroz-y-frijoles",
+    "name": "Ensalada Fresca de Arroz y Frijoles",
+    "type": "Vegano",
+    "description": "Seguro que tienes los ingredientes para hacer esta ensalada fresca, sabrosa, llena de nutrientes. ¡Una maravilla de colores! ¿Te animas?",
+    "image_alt_tag": "Ensalada Fresca de Arroz y Frijoles",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-fresca-de-arroz-y-frijoles/900/ensalada-fresca-de-arroz-y-frijoles.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 11,
+    "ingredients": [
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1593728055/ingredients/alubia-negra.jpg",
+        "name": "alubia negra",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "70",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/maiz.jpg",
+        "name": "maíz",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aguacate.jpg",
+        "name": "aguacate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidades",
+        "value": "6",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lima.jpg",
+        "name": "lima",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Corta los tomates cherry en mitades, la cebolla en tiras finas y el aguacate en trozos. También, escurre las alubias y el maíz de sus respectivos botes y pásalos por agua.",
+        "priority": 1
+      },
+      {
+        "name": "Vierte los ingredientes que acabas de preparar en tu ensaladera, añade el arroz y un manojo generoso de cilantro picado. Mezcla con suavidad y aliña la ensalada con aceite, el jugo de lima y un poco de sal.",
+        "priority": 2
+      }
+    ]
+  },
+  {
+    "id": "verduras-al-horno-con-alubias-blancas",
+    "name": "Verduras al Horno con Alubias Blancas",
+    "type": "Vegano",
+    "description": "Esta receta tan original y colorida, está llena de ingredientes súper sabrosos y saludables. Es una receta facilísima de hacer y comerás de maravilla. ¡No te las pierdas!",
+    "image_alt_tag": "Verduras al Horno con Alubias Blancas",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/verduras-al-horno-con-alubias-blancas/900/verduras-al-horno-con-alubias-blancas.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/col-de-bruselas.jpg",
+        "name": "col de bruselas",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg",
+        "name": "batata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "bote pequeño",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/alubias-blancas.jpg",
+        "name": "alubia blanca",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Prepara los ingredientes frescos de la siguiente manera: pela la batata y córtala en trozos no muy gruesos. Lava y trocea por la mitad las coles de bruselas y, por último, lava y corta en ramilletes el brócoli.",
+        "priority": 1
+      },
+      {
+        "name": "Extiende las verduras en la bandeja del horno y échales un poco de aceite de oliva y sal. Asegúrate de que quedan bien impregnadas del aceite.",
+        "priority": 2
+      },
+      {
+        "name": "Mete las verduras al horno y cocínalas durante 20 minutos. ",
+        "priority": 3
+      },
+      {
+        "name": "Pasado ese tiempo coloca las verduras sobre tu plato y añade las judías cocidas previamente escurridas de su bote. Puedes aliñarlas con aceite, vinagre y sal o, si te animas, haz el aderezo que te sugerimos en trucos y consejos.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "macarrones-con-cebolla-y-tomates-cherry",
+    "name": "Macarrones con Cebolla y Tomates Cherry",
+    "type": "Vegano",
+    "description": "¿Buscas una forma riquísima de añadir verdura a tus platos de pasta? ¡No te pierdas entonces esta delicia de receta!",
+    "image_alt_tag": "Macarrones con Cebolla y Tomates Cherry",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-cebolla-y-tomates-cherry/900/macarrones-con-cebolla-y-tomates-cherry.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg",
+        "name": "orégano",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "500",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 180ºC. ",
+        "priority": 0
+      },
+      {
+        "name": "Lava los tomates y córtalos por la mitad. Colócalos en una fuente y añade el orégano, la sal y el aceite de oliva. Hornea durante 15 minutos.",
+        "priority": 1
+      },
+      {
+        "name": "Cuece la pasta según las instrucciones del paquete y, mientras tanto, pica la cebolla y los ajos y sofríelos entre 10 y 15 minutos, hasta que la cebolla esté transparente y tierna.",
+        "priority": 2
+      },
+      {
+        "name": "Cuando la pasta esté lista, escúrrela y mézclala con los tomates asados y la cebolla. Ajusta la sal a tu gusto.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "naranja-con-chocolate-y-pistachos",
+    "name": "Naranja con Chocolate y Pistachos",
+    "type": "Vegano",
+    "description": "¿Buscas una forma deliciosa de comer fruta? ¡No te pierdas estas naranjas con chocolate! Vas a alucinar con esta combinación tan rica.",
+    "image_alt_tag": "Naranja con Chocolate y Pistachos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/naranja-con-chocolate-y-pistachos/900/naranja-con-chocolate-y-pistachos.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 4,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/naranjas.jpg",
+        "name": "naranja",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "onzas",
+        "value": "6",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/chocolate-negro.jpg",
+        "name": "chocolate negro",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "cucharada",
+        "value": "0.25",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "aceite de coco",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/pistacho.jpg",
+        "name": "pistacho",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la naranja por la mitad y luego en cuartos. A partir de ahí ve haciendo láminas finas.",
+        "priority": 0
+      },
+      {
+        "name": "Trocea los pistachos.",
+        "priority": 1
+      },
+      {
+        "name": "Pon el chocolate y el aceite de coco en un vaso y caliéntalos en el microondas durante un par de minutos hasta que se derritan.",
+        "priority": 2
+      },
+      {
+        "name": "Mete la naranja en el vaso hasta la mitad, deja que escurra el exceso de chocolate y colócala sobre una rejilla o sobre papel vegetal.",
+        "priority": 3
+      },
+      {
+        "name": "Mientras aún está blando, añade los pistachos y con lo que las quieras decorar.",
+        "priority": 4
+      },
+      {
+        "name": "Haz lo mismo con el resto de la naranja y refrigera durante 1 hora.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "ensalada-de-col",
+    "name": "Ensalada de Col",
+    "type": "Vegano",
+    "description": "Si vas a hacer una barbacoa y quieres acompañarla de una ensalada fresca y súper sabrosa, ¡aquí la tienes! Un clásico que no te puedes perder, la famosa ¡coleslaw o ensalada de col!",
+    "image_alt_tag": "Ensalada de Col",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-col/900/ensalada-de-col.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/col.jpg",
+        "name": "col",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "ramas",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/apio.jpg",
+        "name": "apio",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/manzana-roja.jpg",
+        "name": "manzana",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1504401669/ingredients/vinagre-de-manzana.jpg",
+        "name": "vinagre de manzana",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mayonesa.jpg",
+        "name": "mayonesa",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta la col (repollo) en tiras muy finas y colócalas en tu ensaladera.",
+        "priority": 0
+      },
+      {
+        "name": "Corta la rama de apio también finamente y añádela a la ensalada.",
+        "priority": 1
+      },
+      {
+        "name": "Pela la zanahoria y rállala y, por último, lava la manzana y córtala en trozos (con piel). Añade todo también a la ensalada. ",
+        "priority": 2
+      },
+      {
+        "name": "Vierte el vinagre en las verduras y mezcla.",
+        "priority": 3
+      },
+      {
+        "name": "Ahora agrega la mayonesa y mezcla de nuevo.  ",
+        "priority": 4
+      },
+      {
+        "name": "Mete la ensalada en la nevera y deja enfriar durante un rato, así estará mejor.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "bowl-de-garbanzos-con-berenjena-y-arroz",
+    "name": "Bowl de Garbanzos con Berenjena y Arroz",
+    "type": "Vegano",
+    "description": "Quien diga que comer garbanzos es aburrido ¡está muy confundido! Este bowl de garbanzos con verduras y arroz huele de maravilla, y sabe aún mejor. Una delicia de plato llena de ingredientes naturales y proteína vegetal absolutamente ¡irresistible!",
+    "image_alt_tag": "Bowl de Garbanzos con Berenjena y Arroz",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-garbanzos-con-berenjena-y-arroz/900/bowl-de-garbanzos-con-berenjena-y-arroz.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 12,
+    "ingredients": [
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/berejenas.jpg",
+        "name": "berenjena",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/curry.jpg",
+        "name": "curry",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Corta en trozos la cebolla . Lava y corta en dados pequeños la berenjena, el tomate y el pimiento rojo. ",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén echa el aceite y cuando esté caliente, agrega la cebolla y cocínala a fuego medio durante un par de minutos.",
+        "priority": 2
+      },
+      {
+        "name": "A continuación añade a la sartén los trozos de berenjena y saltéala otros 3-4 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Incorpora el pimiento rojo y el tomate troceado y cocina durante un par de minutos más.",
+        "priority": 4
+      },
+      {
+        "name": "Añade a la sartén el tomate triturado y las especias. Cocina a fuego medio durante 2 minutos y añade los garbanzos cocidos.",
+        "priority": 5
+      },
+      {
+        "name": "Deja en la sartén a fuego suave los ingredientes durante 5-6 minutos   y pasado este tiempo sirve en un plato acompañado del arroz.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "falafels-de-batata",
+    "name": "Falafels de Batata",
+    "type": "Vegano",
+    "description": "Estos falafels de batata están riquísimos y son muy versátiles. Puedes tomártelos de picoteo o puedes acompañarlos con lechuga, hummus, lima y pan de fajita, y hacerte un rico almuerzo. ¡Tienen mil opciones! ¡Sírvetelos como te apetezca!",
+    "image_alt_tag": "Falafels de Batata",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/batata.jpg",
+        "name": "batata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/limon.jpg",
+        "name": "limón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/harina.jpg",
+        "name": "harina de trigo",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/semilla-de-sesamo.jpg",
+        "name": "semilla de sésamo",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 0
+      },
+      {
+        "name": "Pela y corta la batata en rodajas. Colócalas sobre una bandeja del horno forrada con papel vegetal y échales un poquito de aceite de oliva por encima. Mételas en el horno durante 30 minutos o hasta que veas que están blandas. Una vez estén blanditas, pasa al siguiente paso.",
+        "priority": 1
+      },
+      {
+        "name": "Coloca en el vaso de la batidora el ajo, el cilantro, el zumo de un limón, la batata ya cocinada, la harina indicada, el comino en polvo, un poco de sal y de pimienta, y tritura bien. ",
+        "priority": 2
+      },
+      {
+        "name": "Deja reposar la mezcla durante 1 hora en la nevera. ",
+        "priority": 3
+      },
+      {
+        "name": "Coloca un plato con un poquito de harina extra y saca la masa de la nevera. Coge un poco de masa y sin formar el falafel, lo pasas por el plato de harina. Ahora dale forma de falafel y ve colocándolos sobre la bandeja del horno. Añade un puñado de semillas de sésamo por encima y hornea durante 15 minutos a 200ºC.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "pate-de-anacardos-y-ajo",
+    "name": "Paté de Anacardos y Ajo",
+    "type": "Vegano",
+    "description": "Si los aperitivos te pierden y te encanta prepararlos para compartirlos con tus amigos y familiares, ¡no te pierdas este riquísimo y nutritivo paté! Tiene un sabor suave a la vez de que delicioso. Verás que no va a sobrar ni un poquito.",
+    "image_alt_tag": "Paté de Anacardos y Ajo",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pate-de-anacardos-y-ajo/900/pate-de-anacardos-y-ajo.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 5,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/anacardos.jpg",
+        "name": "anacardo",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/leche-vegetal.jpg",
+        "name": "leche vegetal",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pon los anacardos a remojo en agua caliente (o déjalos toda la noche).",
+        "priority": 0
+      },
+      {
+        "name": "Precalienta el horno a 200ºC.",
+        "priority": 1
+      },
+      {
+        "name": "Coge la cabeza de ajos y sin desmontarla haz un corte con el que quites el extremo de todos los dientes, de tal forma que, aunque aún estén juntos y con la piel, se vea el ajo. ",
+        "priority": 2
+      },
+      {
+        "name": "Coloca la cabeza de ajos en una fuente pequeña para el horno, añade un chorrito de aceite de oliva y hornea durante 30 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado este tiempo, sácalos y déjalos enfriar un poco antes de pelarlos y añadir los ajos a un procesador de alimentos o picadora junto a los anacardos escurridos, la leche vegetal, la sal y el aceite (te recomiendo que para dar más sabor mires el apartado de trucos y consejos) y tritura unos segundos hasta que tenga una consistencia que te guste.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "mug-cake-de-cacahuete-y-chocolate",
+    "name": "Mug Cake de Cacahuete y Chocolate",
+    "type": "Vegano",
+    "description": "Comienza tu mañana con este delicioso mug cake de crema de cacahuete y chips de chocolate. Lo tendrás listo en menos de 5 minutos. ¡Qué forma tan deliciosa de comenzar tu día!",
+    "image_alt_tag": "Mug Cake de Cacahuete y Chocolate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/mug-cake-de-cacahuete-y-chocolate/900/mug-cake-de-cacahuete-y-chocolate.jpg",
+    "total_time": 5,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "cucharadas",
+        "value": "8",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/harina-de-avena.jpg",
+        "name": "harina de avena",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/levadura.jpg",
+        "name": "levadura",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484118/ingredients/azucar-moreno.jpg",
+        "name": "azúcar moreno",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "mililitros",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1501768502/ingredients/leche-vegetal.jpg",
+        "name": "leche vegetal",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/crema-de-cacahuete.jpg",
+        "name": "crema de cacahuete",
+        "shopping_list_category_es": "otros"
+      },
+      {
+        "measure": "onzas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/chocolate-negro.jpg",
+        "name": "chocolate negro",
+        "shopping_list_category_es": "otros"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En un recipiente vierte la harina, la levadura, el azúcar, la leche, la crema de cacahuete y el chocolate cortado en trozos (o chips de chocolate). Mezcla bien.",
+        "priority": 0
+      },
+      {
+        "name": "Vierte la mezcla en dos tazas. ",
+        "priority": 1
+      },
+      {
+        "name": "Mete cada taza en el microondas a máxima potencia durante 1 minuto aproximadamente. Pasado ese tiempo la mezcla habrá subido y estará lista para comer.",
+        "priority": 2
+      },
+      {
+        "name": "Puedes terminar añadiendo un poquito más de crema de cacahuete y chips de chocolate por encima, a modo de decoración.",
+        "priority": 3
+      }
+    ]
+  }
+]

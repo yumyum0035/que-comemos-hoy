@@ -1,0 +1,979 @@
+[
+  {
+    "id": "arroz-frito-con-pollo-y-verduras",
+    "name": "Arroz Frito con Pollo y Verduras",
+    "type": "Arroces",
+    "description": "Porque todos los días hay que comer verduras ¿qué te parece añadirlas a tu plato de arroz con pollo de hoy? Te aseguramos que la combinación que te traemos es súper sabrosa. ¿Te animas? Sabemos que te va a encantar.",
+    "image_alt_tag": "Arroz Frito con Pollo y Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-pollo-y-verduras/900/arroz-frito-con-pollo-y-verduras.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/guisantes-conserva.jpg",
+        "name": "guisante en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Coloca el pollo sobre una tabla y córtalo en trozos tamaño medio. Échale un poco de sal y pimienta.",
+        "priority": 1
+      },
+      {
+        "name": "Echa un poco de aceite de oliva en una sartén y saltea el pollo durante 3-4 minutos, hasta que quede dorado. Una vez esté listo, colócalo en un plato y reserva.",
+        "priority": 2
+      },
+      {
+        "name": "Pica el otro diente de ajo, la cebolla y la zanahoria en trozos pequeños, y en la misma sartén que has empleado para cocinar el pollo, añade unas gotas más de aceite, y saltea estas verduras que acabas de cortar así como los guisantes. Saltea las verduras durante  4-5 minutos. ",
+        "priority": 3
+      },
+      {
+        "name": "A continuación añade a la sartén el pollo que tienes reservado, la salsa de soja y mezcla los ingredientes.",
+        "priority": 4
+      },
+      {
+        "name": "Por último, vierte el arroz que tienes preparado y mezcla todo de manera que queden los ingredientes bien integrados. Sirve en tu plato y ¡disfrútalo! ",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "arroz-de-calabacin-y-puerros",
+    "name": "Arroz de Calabacín y Puerros",
+    "type": "Arroces",
+    "description": "\n    Si tienes ganas de preparar arroz pero buscas una receta diferente. ¿Cómo ves este suave arroz de calabacín y puerro con queso parmesano? ¿No se te está haciendo la boca agua?\n",
+    "image_alt_tag": "Arroz de Calabacín y Puerros",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-de-calabacin-y-puerros/900/arroz-de-calabacin-y-puerros.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg",
+        "name": "puerro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "50",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/queso-parmesano.jpg",
+        "name": "queso parmesano",
+        "shopping_list_category_es": "lacteos y huevos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Prepara los ingredientes de la siguiente manera: pica el ajo y los puerros que previamente debes haber lavado. Lava y corta en trozos tamaño medio el calabacín.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén amplia con un poco de aceite saltea el calabacín con una pizca de sal. Pasados 3 minutos apaga el fuego y reserva el calabacín, más adelante lo emplearás.",
+        "priority": 1
+      },
+      {
+        "name": "En esa misma sartén (añade un poquito más de aceite si fuera necesario) sofríe el puerro y el ajo durante 3-4 minutos con cuidado de que no se te queme.",
+        "priority": 2
+      },
+      {
+        "name": "A continuación vierte el arroz a la sartén y revuelve apenas medio minuto junto con el puerro y el ajo. Agrega a la sartén el agua y cocina a fuego alto durante 5-6 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado el tiempo indicado baja la intensidad del fuego y añade la sal. Seguramente necesitarás añadir un poquito más de agua porque se ha absorbido casi toda, en su caso añádela. Cocina a fuego suave durante 10 minutos. Añade ahora el calabacín que tenías reservado al arroz y cocina 4-5 minutos más. Comprueba si el arroz está en su punto y si es así, vierte entonces el queso parmesano. Revuelve y deja que con el calor del arroz se funda. Sírvelo en la mesa y a disfrutar. Si sientes que el arroz aún sigue un poco duro cocínalo durante un ratito más hasta que llegue al punto de cocción correcto y después añade el queso como explicábamos.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-langostinos",
+    "name": "Arroz con Langostinos",
+    "type": "Arroces",
+    "description": "\n    Un arroz nunca cae mal. Y si es con langostinos a uno le entra incluso mejor. Prueba esta sencilla receta y comprueba que no hace falta ir a un restaurante para comerlo, tu mismo con tus manitas puedes hacerlo en tu propia casa.\n",
+    "image_alt_tag": "Arroz con Langostinos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos/900/arroz-con-langostinos.jpg",
+    "total_time": 40,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "cucharaditas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidades",
+        "value": "12",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "guindilla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando el arroz. Para ello, echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega el arroz. Da unas vueltas un par de minutos y añade el agua y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar con la tapa puesta un rato.",
+        "priority": 0
+      },
+      {
+        "name": "Pela los langostinos ya cocidos asegurándote de que no queda ninguna cáscara o piel. En otra sartén echa un chorro de aceite de oliva. Cuando esté caliente añade la guindilla y deja que el aceite adquiera su sabor. Saltea los langostinos de manera que queden bien sellados y resérvalos.",
+        "priority": 1
+      },
+      {
+        "name": "Pica el ajo, el pimiento verde, la cebolla y el tomate.",
+        "priority": 2
+      },
+      {
+        "name": "Prepara un sofrito. En una sartén amplia echa un buen chorro de aceite de oliva. Cuando esté caliente vierte el ajo picado y la cebolla. Sofríe a fuego medio durante 3 minutos. A continuación añade el pimiento verde y saltea durante un par de minutos más. Termina añadiendo el tomate picado y un poco de sal, y deja que se sofría todo a fuego medio durante 10-15 minutos. Puedes añadir un poquito de agua o caldo si ves que se queda un poco seco.",
+        "priority": 3
+      },
+      {
+        "name": "En la sartén que contiene el sofrito vierte el arroz que vas a emplear así como los langostinos ya pasados por la sartén que tienes reservados. Revuelve todo, deja que los sabores se integren y añade, si quieres, un poco del aceite con guindilla. Sirve en tu plato y ¡a comer!",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-salteado-con-calabacin-y-champinones",
+    "name": "Arroz Salteado con Calabacín y Champiñones",
+    "type": "Arroces",
+    "description": "\n    ¿Te atragantas sólo de pensara que te toca cocinar? Esperamos que ¡no te pase! Porque hay muchísimas recetas súper sencillas que te dejarán muy satisfecho. Y este salteado de calabacín y champiñones es una de ellas. ¡Exitazo total!\n",
+    "image_alt_tag": "Arroz Salteado con Calabacín y Champiñones",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-salteado-con-calabacin-y-champinones/900/arroz-salteado-con-calabacin-y-champinones.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando el arroz. Para ello, echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega el arroz. Da unas vueltas un par de minutos y añade el agua y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo se ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar con la tapa puesta un rato.",
+        "priority": 0
+      },
+      {
+        "name": "Mientras se hace el arroz prepara el resto de ingredientes. Lava y corta en trozos no muy grandes los champiñones y el calabacín, y corta en tiras la cebolla.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa 2-3 cucharadas de aceite de oliva. Cuando esté caliente sofríe la cebolla y los champiñones a fuego medio durante 4 minutos. Añade los dados de calabacín y sofríe unos 7-8 minutos. Añade un poco de sal a todo.",
+        "priority": 2
+      },
+      {
+        "name": "Termina añadiendo 6-7 cucharadas de arroz, revuelve los ingredientes, deja en el fuego apenas 1-2 minutos más y sirve en un plato.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-espinacas-y-tomates-secos",
+    "name": "Arroz con Espinacas y Tomates Secos",
+    "type": "Arroces",
+    "description": "\n    Con esta receta descubrirás un arroz muy sencillo y sabrosísimo. El toque de los tomates secos es genial. Le da un sabor muy especial. ¡Compruébalo!\n",
+    "image_alt_tag": "Arroz con Espinacas y Tomates Secos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-espinacas-y-tomates-secos/900/arroz-con-espinacas-y-tomates-secos.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "50",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates-secos.jpg",
+        "name": "tomate seco",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomates.jpg",
+        "name": "tomate",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Prepara los ingredientes de la siguiente manera: pica la cebolla y el diente de ajo. Lava y corta en tiras las espinacas. Corta los tomates secos en tiras o bien en trozos del tamaño que te agraden. Y, por último, ralla dos tomates y resérvalos en un cuenco.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén amplia sofríe la cebolla y el ajo durante 3-4 minutos.",
+        "priority": 1
+      },
+      {
+        "name": "A continuación vierte el arroz a la sartén y revuelve apenas medio minuto junto con la cebolla y el ajo.",
+        "priority": 2
+      },
+      {
+        "name": "Agrega ahora el tomate rallado, el agua y la sal. Cocina a fuego alto durante 6-7 minutos.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado el tiempo indicado baja la intensidad del fuego y añade las espinacas y los tomates secos. Seguramente necesitarás añadir un poquito más de agua, en su caso añádela. Cocina a fuego suave durante 10-12 minutos aproximadamente. Comprueba si el arroz está en su punto y si es así, sírvelo en la mesa. Si sientes que aún sigue duro cocínalo durante un ratito más hasta que llegue al punto de cocción que a ti te gusta.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-champinones-y-brocoli",
+    "name": "Arroz con Champiñones y Brócoli",
+    "type": "Arroces",
+    "description": "\n    Métele verduras a tu arroz y consigue un plato más completo y saludable. El brócoli y los champiñones van a darle vitaminas y minerales a tu cuerpo excelentes. Y está ¡tan rico!\n",
+    "image_alt_tag": "Arroz con Champiñones y Brócoli",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-champinones-y-brocoli/900/arroz-con-champinones-y-brocoli.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 7,
+    "ingredients": [
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "300",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 5-6 minutos y después baja el fuego y cocina a fuego lento 10 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el brócoli y córtalo en ramilletes pequeños. En una cazuela cuécelo apenas 3-4 minutos. Pasado ese tiempo escúrrelo y reserva.",
+        "priority": 1
+      },
+      {
+        "name": "Lava los champiñones y córtalos en láminas.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén amplia echa un chorrito de aceite de oliva. Cuando esté caliente vierte un ajo finamente picado y los champiñones. Saltéalos a fuego medio durante 6-7 minutos. Pasado ese tiempo añade el brócoli a la sartén, un poco de sal, y saltea durante un par de minutos junto con los champiñones.",
+        "priority": 3
+      },
+      {
+        "name": "Por último vierte en la sartén 5-6 cucharadas del arroz que has preparado. Revuelve el arroz junto con el resto de ingredientes de modo que todos se integren y deja en el fuego apenas 1 minuto. Sirve en la mesa.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-pollo-y-brocoli",
+    "name": "Arroz con Pollo y Brócoli",
+    "type": "Arroces",
+    "description": "\n    ¿Cómo? ¿Qué nunca has hecho arroz con pollo y brócoli? Una receta básica, muy nutritiva y perfecta para comer de maravilla sin romperte la cabeza. Verás qué satisfecho te quedas.\n",
+    "image_alt_tag": "Arroz con Pollo y Brócoli",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-pollo-y-brocoli/900/arroz-con-pollo-y-brocoli.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "250",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/brocoli.jpg",
+        "name": "brócoli",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Lava el brócoli y córtalo el ramilletes. En una cazuela algo amplia pon agua y una pizca de sal. Cuando hierva vierte los ramilletes de brócoli y cuécelos durante 5 minutos. Apaga el fuego y con cuidado retíralos.",
+        "priority": 1
+      },
+      {
+        "name": "En una tabla coloca la pechuga de pollo y córtala en trozos. Échale un poquito de sal y en una sartén, con un poco de aceite de oliva, cocina los trozos de pollo a la plancha. Una vez estén hechos retíralos.",
+        "priority": 2
+      },
+      {
+        "name": "En esa misma sartén y sin necesidad de limpiarla saltea la cebolla. Cuando esté blandita añade los champiñones cortados en trozos y láminas, y echa un poquito de sal.",
+        "priority": 3
+      },
+      {
+        "name": "Pasados 2-3 minutos vierte en la sartén el pollo, el arroz que vas a emplear, los ramilletes de brócoli y, con una cuchara de madera, revuelve los ingredientes y saltea apenas un par de minutos. Pasado ese tiempo sirve en tu mesa.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-langostinos-y-calabacin",
+    "name": "Arroz con Langostinos y Calabacín",
+    "type": "Arroces",
+    "description": "\n    Hazte este arroz de langostinos y calabacín, que es súper facilito, y consigue un plato de lujo. ¡Te lo mereces!\n",
+    "image_alt_tag": "Arroz con Langostinos y Calabacín",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-con-langostinos-y-calabacin/900/arroz-con-langostinos-y-calabacin.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "4",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "diente",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidad",
+        "value": "14",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/langostino.jpg",
+        "name": "langostino",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/calabacin.jpg",
+        "name": "calabacín",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Vierte el arroz a la sartén y mezcla con el sofrito y los langostinos. Saltea el arroz y resto de ingredientes durante un minuto.",
+        "priority": 4
+      },
+      {
+        "name": "Pica media cebolla y los dientes de ajo. Lava medio calabacín y córtalo en rodajas.",
+        "priority": 0
+      },
+      {
+        "name": "Pela los langostinos asegurándote de no dejar ninguna cáscara y reserva 3-4 enteros sin pelar para añadirlos enteros a modo de decoración.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén amplia echa un chorro generoso de aceite de oliva. Cuando el aceite esté caliente añade el ajo y la cebolla picada y sofríe a fuego medio-bajo durante 6-7 minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Añade a la sartén los langostinos y sofríe junto con la cebolla durante 5 minutos. Puedes echar un poquito de sal a todo.",
+        "priority": 3
+      },
+      {
+        "name": "Añade el agua a la sartén, la sal y cocina durante 12-15 minutos. Añade entonces las rodajas de calabacín y cocina durante 6-7 minutos más. Mientras se cocina el arroz, si ves que necesita un poco más de agua, añade un poquito (¡pero poco! no te pases). Cuando el arroz lleve 20 minutos al fuego comprueba que esté en su punto de cocción y de sal, y corrige si lo ves necesario.",
+        "priority": 5
+      },
+      {
+        "name": "Sirve en la mesa. Puedes acompañarlo de varias rodajas de limón y de un puñado de cilantro picado.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "arroz-frito-con-ternera",
+    "name": "Arroz Frito con Ternera",
+    "type": "Arroces",
+    "description": "\n    Arroz frito, lleno de sabor y con toques asiáticos... ¡qué rico! ¿Quieres la receta? Pues sigue leyendo y ¡ponte el delantal!\n",
+    "image_alt_tag": "Arroz Frito con Ternera",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-ternera/900/arroz-frito-con-ternera.jpg",
+    "total_time": 35,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/puerro.jpg",
+        "name": "puerro",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg",
+        "name": "filete de ternera",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Lava el puerro y córtalo en rodajas finas.",
+        "priority": 0
+      },
+      {
+        "name": "Lava y pela las zanahorias. Córtalas en trozos pequeños.",
+        "priority": 1
+      },
+      {
+        "name": "Echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y, pasado este tiempo, añade en este momento el puerro y la zanahoria cortada en trozos a la olla. Después baja el fuego y cocina a fuego lento 8 minutos más. Si ves que se ha absorbido el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 2
+      },
+      {
+        "name": "Bate el huevo y, en una sartén con un poco de aceite de oliva, cocina el huevo dándole forma de tortilla. A continuación colócala sobre una tabla y córtala en trozos pequeños.",
+        "priority": 3
+      },
+      {
+        "name": "En esa misma sartén echa un poquito de aceite de oliva y cocina a la plancha los filetes de ternera. Una vez estén listos colócalos sobre la tabla y córtala en trozos pequeños.",
+        "priority": 4
+      },
+      {
+        "name": "Mezcla la tortilla y la carne cortada en trozos con el arroz con verduras que has cocinado. Una vez esté mezclado saltéalo en una sartén añadiéndole la salsa de soja. Cuando el arroz esté frito apaga el fuego y sírvelo en la mesa.",
+        "priority": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,1043 @@
+[
+  {
+    "id": "ensalada-de-pollo-crujiente-con-aguacate",
+    "name": "Ensalada de Pollo Crujiente con Aguacate",
+    "type": "Pollo",
+    "description": "Llena tu plato de lechuga, tomates cherry, dados de aguacate, trozos de pollo empanado súper crujiente y aderézalo con una rica salsa. ¡Menuda comida tan estupenda para hoy!",
+    "image_alt_tag": "Ensalada de Pollo Crujiente con Aguacate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/ensalada-de-pollo-crujiente-con-aguacate/900/ensalada-de-pollo-crujiente-con-aguacate.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aguacate.jpg",
+        "name": "aguacate",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "8",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-cherry.jpg",
+        "name": "tomate cherry",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan-rallado.jpg",
+        "name": "pan rallado",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lechuga.jpg",
+        "name": "lechuga",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Coloca la pechuga de pollo sobre una tabla y córtala en trozos o tiras, como prefieras, y échale un poquito de sal.",
+        "priority": 0
+      },
+      {
+        "name": "Bate un huevo en un recipiente y pon pan rallado en otro plato. Pasa los trozos de pollo que acabas de cortar por el huevo y luego por el pan rallado y reserva. Calienta una sartén con aceite y fríe los trozos de pollo.",
+        "priority": 1
+      },
+      {
+        "name": "Lava las hojas de lechuga y córtalas en trozos. También lava y corta en mitades los tomates cherry, y corta en láminas muy finas la cebolla.",
+        "priority": 2
+      },
+      {
+        "name": "En un plato coloca como base la lechuga, añade los tomates cortados, la cebolla, los trozos de pollo que tienes reservados y, por último, esparce el aguacate cortado en trozos por la ensalada.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "arroz-frito-con-pollo-y-verduras",
+    "name": "Arroz Frito con Pollo y Verduras",
+    "type": "Pollo",
+    "description": "Porque todos los días hay que comer verduras ¿qué te parece añadirlas a tu plato de arroz con pollo de hoy? Te aseguramos que la combinación que te traemos es súper sabrosa. ¿Te animas? Sabemos que te va a encantar.",
+    "image_alt_tag": "Arroz Frito con Pollo y Verduras",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/arroz-frito-con-pollo-y-verduras/900/arroz-frito-con-pollo-y-verduras.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "dientes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/guisantes-conserva.jpg",
+        "name": "guisante en conserva",
+        "shopping_list_category_es": "conservas"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimienta-negra.jpg",
+        "name": "pimienta negra",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color agrega el arroz. Da unas vueltas un par de minutos y añade dos tazas de agua caliente y un poco sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Coloca el pollo sobre una tabla y córtalo en trozos tamaño medio. Échale un poco de sal y pimienta.",
+        "priority": 1
+      },
+      {
+        "name": "Echa un poco de aceite de oliva en una sartén y saltea el pollo durante 3-4 minutos, hasta que quede dorado. Una vez esté listo, colócalo en un plato y reserva.",
+        "priority": 2
+      },
+      {
+        "name": "Pica el otro diente de ajo, la cebolla y la zanahoria en trozos pequeños, y en la misma sartén que has empleado para cocinar el pollo, añade unas gotas más de aceite, y saltea estas verduras que acabas de cortar así como los guisantes. Saltea las verduras durante  4-5 minutos. ",
+        "priority": 3
+      },
+      {
+        "name": "A continuación añade a la sartén el pollo que tienes reservado, la salsa de soja y mezcla los ingredientes.",
+        "priority": 4
+      },
+      {
+        "name": "Por último, vierte el arroz que tienes preparado y mezcla todo de manera que queden los ingredientes bien integrados. Sirve en tu plato y ¡disfrútalo! ",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "macarrones-con-pollo-al-ajillo-y-espinacas",
+    "name": "Macarrones con Pollo al Ajillo y Espinacas",
+    "type": "Pollo",
+    "description": "¿Buscas un plato de pasta completo, sencillo y súper rico? ¡Anímate con estos macarrones con pollo al ajillo y descubre una forma riquísima de incluir verdura y nutrientes en tus platos favoritos!",
+    "image_alt_tag": "Macarrones con Pollo al Ajillo y Espinacas",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/macarrones-con-pollo-al-ajillo-y-espinacas/900/macarrones-con-pollo-al-ajillo-y-espinacas.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 6,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/espinacas.jpg",
+        "name": "espinaca",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "dientes",
+        "value": "10",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "180",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pasta.jpg",
+        "name": "pasta",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Cuece la pasta según las instrucciones del paquete.",
+        "priority": 0
+      },
+      {
+        "name": "Pela y trocea los ajos en rodajas y reserva.",
+        "priority": 1
+      },
+      {
+        "name": "Trocea la pechuga de pollo en tacos y ponles una pizca de sal.",
+        "priority": 2
+      },
+      {
+        "name": "En una sartén, pon un chorrito de aceite de oliva a calentar y añade el pollo troceado. ",
+        "priority": 3
+      },
+      {
+        "name": "En 1-2 minutos el pollo se pondrá blanco por fuera, cuando ocurra, añade los ajos y saltea todo junto durante de 5 minutos, hasta que el pollo y el ajo estén dorados.",
+        "priority": 4
+      },
+      {
+        "name": "Cuando la pasta esté lista, escúrrela y mézclala con el salteado de ajo y pollo. Añade las espinacas y remueve bien para que se ablanden con el calor de la pasta.",
+        "priority": 5
+      },
+      {
+        "name": "Ajusta la sal si lo consideras necesario y ¡a comer!",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "pollo-con-verduras-estilo-oriental",
+    "name": "Pollo con Verduras Estilo Oriental ",
+    "type": "Pollo",
+    "description": "Porque sabemos que te gusta la comida asiática te traemos esta versión súper sencilla del clásico pollo con verduras. Acompáñala de un poco arroz basmati o noodles y verás que fantástico plato consigues.",
+    "image_alt_tag": "Pollo con Verduras Estilo Oriental ",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pollo-con-verduras-estilo-oriental/900/pollo-con-verduras-estilo-oriental.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-amarillo.jpg",
+        "name": "pimiento amarillo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/esparragos-verdes.jpg",
+        "name": "espárrago verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "cucharada",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/no-image.jpg",
+        "name": "maicena",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Pela la patata y córtala en trozos no muy grandes. ",
+        "priority": 0
+      },
+      {
+        "name": "Corta las pechugas de pollo en dados. ",
+        "priority": 1
+      },
+      {
+        "name": "Corta la cebolla, los pimientos y los espárragos en trozos de tamaño medio.",
+        "priority": 2
+      },
+      {
+        "name": "Echa un poco de aceite en una sartén y saltea los dados de pollo. Retira, colócalos en un bol y resérvalos.",
+        "priority": 3
+      },
+      {
+        "name": "En la misma sartén, saltea las verduras y los trozos de patata que has cortado con un poco de aceite a fuego medio durante 6-7 minutos. ",
+        "priority": 4
+      },
+      {
+        "name": "Pasado ese tiempo agrega a la sartén el pollo que tienes reservado y añade la salsa de soja. Saltea durante un par de minutos más.",
+        "priority": 5
+      },
+      {
+        "name": "En un vaso coloca el agua y la maicena. Revuelve y viértelo en la sartén que contiene el pollo y las verduras. Saltea a fuego suave unos 3 minutos más y, pasado ese tiempo, comprueba que las patatas están tiernas, retira y sirve.",
+        "priority": 6
+      }
+    ]
+  },
+  {
+    "id": "sandwich-de-pollo-manzana-y-nueces",
+    "name": "Sándwich de Pollo, Manzana y Nueces",
+    "type": "Pollo",
+    "description": "Hoy, ¡sándwich para comer! ¡Oh sí! Si es así de rico, imposible negarse, ¿verdad?",
+    "image_alt_tag": "Sándwich de Pollo, Manzana y Nueces",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/sandwich-de-pollo-manzana-y-nueces/900/sandwich-de-pollo-manzana-y-nueces.jpg",
+    "total_time": 15,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 8,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1504400854/ingredients/pollo-asado.jpg",
+        "name": "pollo asado",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "tazas",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lechuga.jpg",
+        "name": "lechuga",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/manzana-roja.jpg",
+        "name": "manzana",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/yogur.jpg",
+        "name": "yogur",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/nueces.jpg",
+        "name": "nuez",
+        "shopping_list_category_es": "semillas, frutos secos y deshidratados"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pan.jpg",
+        "name": "pan",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/mostaza.jpg",
+        "name": "mostaza",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "puñado",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/perejil.jpg",
+        "name": "cilantro",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Corta el pollo en trozos o pásalo por tu picadora hasta desmenuzarlo.",
+        "priority": 0
+      },
+      {
+        "name": "Tritura las nueces con tus manos y corta la manzana en trozos no my grandes.",
+        "priority": 1
+      },
+      {
+        "name": "En un cuenco vierte el yogur, la mostaza, un poquito de sal y el cilantro picado. Mezcla bien.",
+        "priority": 2
+      },
+      {
+        "name": "Coloca en un recipiente amplio la lechuga, el pollo picado, la manzana y las nueces troceadas. Vierte sobre los ingredientes la salsa que has preparado y mezcla bien.",
+        "priority": 3
+      },
+      {
+        "name": "Rellena los panes con la ensalada que acabas de preparar y a ¡disfrutar!",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "pollo-con-pimientos-con-salsa-de-tomate",
+    "name": "Pollo con Pimientos con Salsa de Tomate",
+    "type": "Pollo",
+    "description": "Si tienes poco tiempo para cocinar ¡no te preocupes! ¡Hay opciones! Con esta receta de pollo ¡darás en el clavo! Rápida, rica y saludable, no vas a dejar ni un pedacito en el plato.",
+    "image_alt_tag": "Pollo con Pimientos con Salsa de Tomate",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/pollo-con-pimientos-con-salsa-de-tomate/900/pollo-con-pimientos-con-salsa-de-tomate.jpg",
+    "total_time": 20,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 15,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.25",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/lima.jpg",
+        "name": "lima",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/tomate-triturado.jpg",
+        "name": "tomate triturado",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/ajo-en-polvo.jpg",
+        "name": "ajo en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/azucar.jpg",
+        "name": "azúcar",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimenton-dulce.jpg",
+        "name": "pimentón dulce",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/oregano.jpg",
+        "name": "orégano",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Comienza preparando la salsa. En una cacerola pequeña pon el tomate (puedes emplear también pasta de tomate concentrada), el agua, la salsa de soja, un chorrito de jugo de lima (o limón) y las especias. Cocina a fuego medio durante aproximadamente 5 minutos hasta que estén bien combinados. Luego déjelo a un lado y reservar.",
+        "priority": 0
+      },
+      {
+        "name": "Mientras se cocina la salsa, corta el pimiento y la cebolla en tiras finas y cocínalas en una sartén mediana a fuego medio-alto hasta que se doren y se ablanden. Puede llevarte aproximadamente 7 a 8 minutos. Luego resérvalas también.",
+        "priority": 1
+      },
+      {
+        "name": "En esta misma sartén que acabas de emplear, cocina la pechuga de pollo con una pizca de sal a fuego medio a alto durante aproximadamente 5 a 6 minutos por cada lado. Asegúrete de que el centro de la pechuga de pollo esté completamente cocida, que no esté rosada en el medio.",
+        "priority": 2
+      },
+      {
+        "name": "Cuando la pechuga de pollo esté lista, escurra el exceso de líquido y agregue los pimientos, las cebollas y la salsa nuevamente en la sartén. Mezcla, comprueba que el punto de sal es el correcto y calienta hasta que todos los ingredientes estén bien calientes y sirve en la mesa.",
+        "priority": 3
+      }
+    ]
+  },
+  {
+    "id": "bowl-de-arroz-con-pollo-y-pimientos",
+    "name": "Bowl de Arroz con Pollo y Pimientos",
+    "type": "Pollo",
+    "description": "¡Pero qué gusto tener para comer un bowl como este! ¿No te parece? Y los ingredientes, seguro que los tienes, porque no pueden ser más sencillos: arroz, pollo y pimientos. ",
+    "image_alt_tag": "Bowl de Arroz con Pollo y Pimientos",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/bowl-de-arroz-con-pollo-y-pimientos/900/bowl-de-arroz-con-pollo-y-pimientos.jpg",
+    "total_time": 25,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 9,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-verde.jpg",
+        "name": "pimiento verde",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega una taza de arroz. Da unas vueltas un par de minutos y añade dos tazas agua caliente y una cucharadita de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Sobre una tabla corta el pollo en tiras o trozos, y échale un poco de sal y pimienta.",
+        "priority": 1
+      },
+      {
+        "name": "En una sartén echa un poco de aceite de oliva y cuando esté caliente cocina el pollo a la plancha. Asegúrate de que se cocina bien por dentro. Una vez esté listo, resérvalo.",
+        "priority": 2
+      },
+      {
+        "name": "Pela la zanahoria y córtala en tiras. También corta el pimiento rojo, el pimiento verde, y la cebolla en tiras finas y cocínalas en la misma sartén donde has cocinado el pollo, sin necesidad de limpiar la sartén. Cocina las verduras con un poquito de sal unos 5-7 minutos. ",
+        "priority": 3
+      },
+      {
+        "name": "En un recipiente coloca el arroz, el pollo y acompaña el plato con las verduras que acabas de cocinar. ¡Menuda comida!",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "curry-de-pollo-con-pimiento-rojo",
+    "name": "Curry de Pollo con Pimiento Rojo",
+    "type": "Pollo",
+    "description": "Si adoras la comida asiática y las recetas fáciles y sabrosas, este curry de pollo con pimientos es imposible de dejar pasar. No te lo puedes perder. ¡Increíblemente rico!",
+    "image_alt_tag": "Curry de Pollo con Pimiento Rojo",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/curry-de-pollo-con-pimiento-rojo/900/curry-de-pollo-con-pimiento-rojo.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pimiento-rojo.jpg",
+        "name": "pimiento rojo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebolla-morada.jpg",
+        "name": "cebolla morada",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "mililitros",
+        "value": "300",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche-coco.jpg",
+        "name": "leche de coco",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/curry.jpg",
+        "name": "curry",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizcas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz. Para ello echa una cucharada de aceite de oliva en una olla y, cuando esté caliente, agrega un diente de ajo en láminas. Cuando empiece a coger color, agrega el arroz. Da unas vueltas un par de minutos y añade una taza agua caliente y un poco de sal. Cocina a fuego alto durante 7 minutos y después baja el fuego y cocina a fuego lento 8 minutos más. Si en este tiempo se ha absorbido todo el agua y aún sigue duro, añade un poco más de agua. Déjalo reposar un poquito.",
+        "priority": 0
+      },
+      {
+        "name": "Corta la pechuga de pollo en trozos y ponles un poquito de sal. En una sartén con un poco de aceite de oliva cocínalos. Cuando estén dorados, apaga el fuego y resérvalos (los emplearás mas adelante).",
+        "priority": 1
+      },
+      {
+        "name": "Corta la cebolla y el pimiento rojo en tiras. ",
+        "priority": 2
+      },
+      {
+        "name": "En la misma sartén que antes has empleado antes, añade un poquito más de aceite y sofríe a fuego medio la cebolla y el pimiento. Saltea durante 4-5 minutos. ",
+        "priority": 3
+      },
+      {
+        "name": "Vierte sobre las verduras el comino y el curry. Saltea durante un minuto más y añade la leche de coco, los trozos de pollo y un poco de sal. Remueve y cocina a fuego medio durante 5 minutos. Cuando comience a hervir baja el fuego y cocina a fuego suave durante 15 minutos.",
+        "priority": 4
+      },
+      {
+        "name": "Pasado ese tiempo sirve todo en un plato y acompáñalo de arroz.",
+        "priority": 5
+      }
+    ]
+  },
+  {
+    "id": "crepes-de-pollo-al-curry",
+    "name": "Crepes de Pollo al Curry",
+    "type": "Pollo",
+    "description": "Si te gustan las crepes, y el curry es una especia que te gusta emplear para darle un toque exótico a tus platos, estas crepes rellenas de pollo al curry con champiñones te van a fascinar. Son realmente ricas y sabrosas. ¿Te animas con ellas?",
+    "image_alt_tag": "Crepes de Pollo al Curry",
+    "image": "https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crepes-de-pollo-al-curry/900/crepes-de-pollo-al-curry.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "200",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/champinones.jpg",
+        "name": "champiñón",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "0.5",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidades",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "gramos",
+        "value": "125",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/harina-de-avena.jpg",
+        "name": "harina de avena",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "mililitros",
+        "value": "300",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/leche.jpg",
+        "name": "leche",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "pizca",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/curry.jpg",
+        "name": "curry",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484119/ingredients/comino-en-polvo.jpg",
+        "name": "comino en polvo",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "En el vaso de tu batidora vierte la harina, los huevos, la leche y una pizca de sal. Bate bien y deja que repose la masa de las crepes mientras preparas el relleno.",
+        "priority": 0
+      },
+      {
+        "name": "Sobre una tabla corta el pollo en trozos y échale una pizca de sal. Pon un poco de aceite de oliva en una sartén y cocina el pollo hasta que se dore. ",
+        "priority": 1
+      },
+      {
+        "name": "Lava los champiñones y córtalos en trozos o láminas pequeñas. También pica la cebolla.",
+        "priority": 2
+      },
+      {
+        "name": "En la sartén echa un poquito más de aceite de oliva y, cuando esté caliente, vierte los champiñones y la cebolla picada. Saltea durante 5-6 minutos, hasta que empiecen a estar bien cocinados. Vierte el pollo que tenías reservado en la sartén, añade el curry, el comino y un poco de sal y mezcla los ingredientes. Salta durante 2-3 minutos, apaga el fuego y reserva.",
+        "priority": 3
+      },
+      {
+        "name": "Pon una pizca de mantequilla en una sartén tamaño medio. Extiende un poco de la mezcla que acabas de preparar, mueve la sartén para que te quede toda la sartén bien cubierta de la masa, y cocina a fuego medio 1-2 minutos (hasta que veas que salen burbujas). Dale la vuelta con cuidado.",
+        "priority": 4
+      },
+      {
+        "name": "Extiende un poco del relleno que tienes cocinado, añade por encima un poco de queso, y deja que se funda. Poco a poco ve cerrando la crepe. Repite la operación tantas veces como crepes te salgan.",
+        "priority": 5
+      }
+    ]
+  }
+]

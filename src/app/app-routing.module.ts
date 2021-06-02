@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
 import { RouterModule, Routes } from '@angular/router';
 import { RecipesComponent } from './pages/recipes/recipes.component';
 import { ShoppingListComponent } from './pages/shopping-list/shopping-list.component';
@@ -8,6 +7,7 @@ import { CalendarComponent } from './pages/calendar/calendar.component';
 import { ConfigComponent } from './pages/config/config.component';
 import { FormWizardComponent } from './components/form-wizard/form-wizard.component';
 import { CompletePageComponent } from './components/complete-page/complete-page.component';
+import { TutorialComponent } from './components/tutorial/tutorial.component';
 
 const routes: Routes = [
   //canActivate: [AmILoggedGuard]
@@ -44,6 +44,10 @@ const routes: Routes = [
 {
   path: 'complete',
   component: CompletePageComponent
+},
+{
+  path: 'tutorial',
+  component: TutorialComponent
 }
 //{ //if path isn't anything listed on this list ^ it will take you to this link
    //path: "**",

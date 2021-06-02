@@ -22,6 +22,7 @@ import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { AngularFireStorageModule } from '@angular/fire/storage';
 import { AngularFireAuthModule } from '@angular/fire/auth';
 import { environment } from '../environments/environment';
+import { TutorialComponent } from './components/tutorial/tutorial.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -34,7 +35,8 @@ import { environment } from '../environments/environment';
     StepsComponent,
     StepTemplateComponent,
     FormWizardComponent,
-    CompletePageComponent
+    CompletePageComponent,
+    TutorialComponent
   ],
   imports: [
     BrowserModule,
