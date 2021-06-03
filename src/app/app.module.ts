@@ -49,12 +49,13 @@ import { ServiceWorkerModule } from '@angular/service-worker';
     AngularFireModule.initializeApp(environment.firebase),
     AngularFirestoreModule, // firestore
     AngularFireAuthModule, // auth
-    AngularFireStorageModule, ServiceWorkerModule.register('ngsw-worker.js', {
-  enabled: environment.production,
-  // Register the ServiceWorker as soon as the app is stable
-  // or after 30 seconds (whichever comes first).
-  registrationStrategy: 'registerWhenStable:30000'
-}) // storage
+    AngularFireStorageModule, // storage
+    ServiceWorkerModule.register('ngsw-worker.js', {
+      enabled: environment.production,
+      // Register the ServiceWorker as soon as the app is stable
+      // or after 30 seconds (whichever comes first).
+      registrationStrategy: 'registerWhenStable:30000'
+    }) 
   ],
   providers: [],
   bootstrap: [AppComponent]
