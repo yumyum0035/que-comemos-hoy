@@ -15,7 +15,6 @@ import { StepTemplateComponent } from './components/step-template/step-template.
 import { FormWizardComponent } from './components/form-wizard/form-wizard.component';
 
 // Angular Fire
-
 import { AngularFireModule } from '@angular/fire';
 import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { AngularFireStorageModule } from '@angular/fire/storage';

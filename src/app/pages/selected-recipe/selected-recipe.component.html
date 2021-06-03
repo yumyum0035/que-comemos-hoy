@@ -13,11 +13,11 @@
     </p>
     <div class="portions">
       <p>Porciones a preparar</p>
-      <button class="red-bg" id="backwards">
+      <button (click)="portionCalc('less')" class="red-bg" id="backwards">
         <i class="fas fa-chevron-left"></i>
       </button>
-      <div id="numberOfPortions">2</div>
-      <button class="red-bg" id="forward">
+      <div id="numberOfPortions">{{portions}}</div>
+      <button (click)="portionCalc('plus')" class="red-bg" id="forward">
         <i class="fas fa-chevron-right"></i>
       </button>
     </div>

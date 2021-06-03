@@ -14,6 +14,7 @@ export class SelectedRecipeComponent implements OnInit {
   recipe:recipe;
   ingredientes = [];
   pasos = [];
+  portions:number = 2;
 
   constructor(private recipesServ : RecipeBookService, private router:Router, private actRoute: ActivatedRoute) { }
 
@@ -53,6 +54,14 @@ export class SelectedRecipeComponent implements OnInit {
     return className;
   }
 
-
+  portionCalc(operand:string) {
+    if (operand == "plus") {
+      this.portions += 1;
+    } else if (operand == "less") {
+      if (this.portions == 1) {
+        this.portions = 1;
+      } else { this.portions -= 1; }
+    }
+  }
 
 }
