@@ -13,7 +13,6 @@ import { ConfigComponent } from './pages/config/config.component';
 import { StepsComponent } from './components/steps/steps.component';
 import { StepTemplateComponent } from './components/step-template/step-template.component';
 import { FormWizardComponent } from './components/form-wizard/form-wizard.component';
-// import { CompletePageComponent } from './components/complete-page/complete-page.component';
 
 // Angular Fire
 import { AngularFireModule } from '@angular/fire';
@@ -35,7 +34,6 @@ import { ServiceWorkerModule } from '@angular/service-worker';
     StepsComponent,
     StepTemplateComponent,
     FormWizardComponent,
-    // CompletePageComponent,
     TutorialComponent
   ],
   imports: [
@@ -54,7 +52,7 @@ import { ServiceWorkerModule } from '@angular/service-worker';
       // Register the ServiceWorker as soon as the app is stable
       // or after 30 seconds (whichever comes first).
       registrationStrategy: 'registerWhenStable:30000'
-    }) 
+    })
   ],
   providers: [],
   bootstrap: [AppComponent]
