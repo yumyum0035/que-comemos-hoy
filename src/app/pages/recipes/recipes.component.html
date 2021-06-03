@@ -21,10 +21,10 @@
       <div *ngIf="foods.includes(type[i])">
         <h2>{{type[i]}}</h2>
         <article>
-          <div id="recipe-container" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
+          <div id="recipe-container" class="changed"  (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
             <img src="{{recipe.image}}" alt="" class="h-28 w-full object-cover">
             <h3 class="bold">{{recipe.name}}</h3>
-            <p id="mins">{{recipe.total_time}} minutos</p>
+            <!-- <p id="mins">{{recipe.total_time}} minutos</p>
             <p class="diff" [ngClass]="difficultyClass(recipe)">Dificultad:
               <svg width="40" height="12" viewBox="0 0 40 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path class="star1" d="M4.48611 4.16794L6.04248 1L7.70915 4.16794L11.0425 4.77226L8.74469 7.36132L9.11233 11L6.04248 9.37786L2.88072 11L3.37704 7.36132L1.04248 4.77226L4.48611 4.16794Z"/>
@@ -33,7 +33,7 @@
               </svg>
             </p>
             <p id="missing">Faltan ingredientes:</p>
-            <p id="ingredients" class="red-bg border-round padding-1">ingredients</p>
+            <p id="ingredients" class="red-bg border-round padding-1">ingredients</p> -->
           </div>
         </article>
       </div>
@@ -46,10 +46,10 @@
   <div *ngFor="let category of allRecipes, let i = index">
     <h2>{{type[i]}}</h2>
     <article>
-      <div id="recipe-container" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
+      <div id="recipe-container" class="changed" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
         <img src="{{recipe.image}}" alt="" class="h-28 w-full object-cover">
         <h3 class="bold">{{recipe.name}}</h3>
-        <p id="mins">{{recipe.total_time}} minutos</p>
+        <!-- <p id="mins">{{recipe.total_time}} minutos</p>
         <p class="diff" [ngClass]="difficultyClass(recipe)">Dificultad:
           <svg width="40" height="12" viewBox="0 0 40 12" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path class="star1" d="M4.48611 4.16794L6.04248 1L7.70915 4.16794L11.0425 4.77226L8.74469 7.36132L9.11233 11L6.04248 9.37786L2.88072 11L3.37704 7.36132L1.04248 4.77226L4.48611 4.16794Z"/>
@@ -58,7 +58,7 @@
           </svg>
         </p>
         <p id="missing">Faltan ingredientes:</p>
-        <p id="ingredients" class="red-bg border-round padding-1">{{recipe.ingredientes}}</p>
+        <p id="ingredients" class="red-bg border-round padding-1">{{recipe.ingredientes}}</p> -->
       </div>
     </article>
   </div>
