@@ -27,8 +27,8 @@ export class RecipeBookService {
 
   constructor() {
     this.allRecipes.push(pasta as recipe);
-    this.allRecipes.push(rice as recipe);
     this.allRecipes.push(fish as recipe);
+    this.allRecipes.push(rice as recipe);
     this.allRecipes.push(meat as recipe);
     this.allRecipes.push(chicken as recipe);
     this.allRecipes.push(vegetables as recipe);
@@ -199,7 +199,7 @@ export class RecipeBookService {
       this.randomRecipes.forEach(element => {
         element.id == id ? receta = element : null;
       });
-    
+
     return receta;
   }
 

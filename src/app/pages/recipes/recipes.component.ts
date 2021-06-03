@@ -12,7 +12,7 @@ import { FormBuilder, FormGroup, FormControl, Validators, FormArray} from '@angu
 export class RecipesComponent implements OnInit {
 
   allRecipes:recipe[];
-  type = ["Pasta", "Pescado", "Asiático", "Variado", "Sin Gluten", "Vegano", "Verduras", "Pollo", "Carne", "Arroces"];
+  type = ["Pasta", "Pescado", "Arroces", "Carne","Pollo","Verduras","Vegano","Sin Gluten","Asiático", "Variado"];
   foods = [];
   form: FormGroup;
   filterVisibility = true
