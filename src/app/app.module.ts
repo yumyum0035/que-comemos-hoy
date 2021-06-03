@@ -16,7 +16,6 @@ import { FormWizardComponent } from './components/form-wizard/form-wizard.compon
 // import { CompletePageComponent } from './components/complete-page/complete-page.component';
 
 // Angular Fire
-
 import { AngularFireModule } from '@angular/fire';
 import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { AngularFireStorageModule } from '@angular/fire/storage';

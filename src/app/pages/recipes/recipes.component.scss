@@ -4,23 +4,6 @@ $image-min: 11.5rem;
 $image-max: 14.4rem;
 $image: $image-min;
 
-.step-content-label {
-  margin-bottom: 16px;
-}
-
-.step-complete-btn {
-  padding: 10px 20px 10px 10px;
-  border-radius: 50px;
-  border: none !important;
-  background: #c9e6ff;
-  display: flex;
-  align-items: center;
-}
-
-.completed-step-check {
-  margin-right: 12px;
-  color: blue !important;
-}
 
 article {
   @include grid(0);
@@ -28,7 +11,7 @@ article {
   grid-template-rows: repeat(3, auto);
 
   /* scroll on phone*/
-  height: 33vh;
+  height: 42vh;
   @include scroll(scroll, hidden);
 }
 
@@ -58,7 +41,8 @@ img {
 @include breakpoint("desktop") {
   article { 
     grid-template-columns: repeat(2, auto);
-    height: 45vh;
+    height: 60vh;
+    @include scroll(hidden, hidden);
   }
 }
 
