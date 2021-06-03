@@ -75,11 +75,11 @@ form {
 
 .checkbox-svg {
   fill: white;
-  stroke: $orange;
+  stroke: $side-color;
 }
 
 :checked {
-  .checkbox-svg { fill: $orange; }
+  .checkbox-svg { fill: $side-color; }
 }
 
 @include breakpoint("desktop") {
