@@ -13,7 +13,7 @@ import { ConfigComponent } from './pages/config/config.component';
 import { StepsComponent } from './components/steps/steps.component';
 import { StepTemplateComponent } from './components/step-template/step-template.component';
 import { FormWizardComponent } from './components/form-wizard/form-wizard.component';
-import { CompletePageComponent } from './components/complete-page/complete-page.component';
+// import { CompletePageComponent } from './components/complete-page/complete-page.component';
 
 // Angular Fire
 
@@ -35,7 +35,7 @@ import { TutorialComponent } from './components/tutorial/tutorial.component';
     StepsComponent,
     StepTemplateComponent,
     FormWizardComponent,
-    CompletePageComponent,
+    // CompletePageComponent,
     TutorialComponent
   ],
   imports: [
