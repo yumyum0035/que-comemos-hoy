@@ -1,4 +1,4 @@
-import { Component, OnInit, Input, ViewEncapsulation } from '@angular/core';
+import { Component, OnInit, Input, ViewEncapsulation, AfterContentInit } from '@angular/core';
 import { StepModel } from '../../models/step.model';
 import { RecipeBookService } from '../../services/recipe-book/recipe-book.service';
 import { MenuService } from '../../services/menu/menu.service';
@@ -9,7 +9,7 @@ import { MenuService } from '../../services/menu/menu.service';
   styleUrls: ['./step-template.component.scss'],
   encapsulation: ViewEncapsulation.None
 })
-export class StepTemplateComponent implements OnInit {
+export class StepTemplateComponent implements AfterContentInit {
 
   @Input() step: StepModel;
   listCategories;
@@ -20,7 +20,14 @@ export class StepTemplateComponent implements OnInit {
     this.listCategories = this.recipesServ.type;
   }
 
-  ngOnInit(): void {
+  ngAfterContentInit(): void {
+    //Simulate the 'magic' of creating menu plan
+    if(this.step.stepIndex == 3){
+      setTimeout(() => {
+        this.onCompleteStep();
+      },2000);
+
+    }
   }
 
   onCompleteStep() {
