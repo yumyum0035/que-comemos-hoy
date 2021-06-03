@@ -1,8 +1,6 @@
 @use "src/variables" as *;
 
-$image-min: 11.5rem;
-$image-max: 14.4rem;
-$image: $image-min;
+$image: 11.5rem;
 
 button { 
   margin: 1rem;
@@ -24,7 +22,7 @@ article {
   grid-template-rows: repeat(3, auto);
 
   /* scroll on phone*/
-  height: 42vh;
+  height: 45vh;
   @include scroll(scroll, hidden);
 }
 
@@ -35,20 +33,32 @@ img {
 }
 
 #recipe-container {
-  @include grid(0 1.5rem);
-  grid-template-columns: repeat(3, $image);
-  grid-template-rows: 5rem minmax(2.5rem, 3.7rem) 2rem minmax(2.5rem, 3.7rem);
-  align-items: center;
-  justify-content: center;
+  &.original {
+    @include grid(0 1.5rem);
+    grid-template-columns: repeat(3, $image);
+    grid-template-rows: 5rem minmax(2.5rem, 3.7rem) 2rem minmax(2.5rem, 3.7rem);
+    align-items: center;
+    justify-content: center;
+
+    img { grid-row: 1 / 5;}
+    h3 { grid-row: 1 / 2; grid-column: 2 / 4; }
+    #mins { grid-column: 2 / 3; grid-row: 2 / 3;}
+    .diff  { grid-column: 3 / 4; grid-row: 2 / 3;}
+    #missing { grid-column: 2 / 4; grid-row: 3 / 4;}
+    #ingredients { grid-column: 2 / 4; grid-row: 4 / 5;}
+  }
+
+  &.changed {
+    @include grid(0 1.5rem);
+    grid-template-columns: $image 20rem;
+    grid-template-rows: auto;
+    align-items: center;
+    justify-content: center;
+  }
 
   margin: .8rem;
 
-  img { grid-row: 1 / 5;}
-  h3 { grid-row: 1 / 2; grid-column: 2 / 4; }
-  #mins { grid-column: 2 / 3; grid-row: 2 / 3;}
-  .diff  { grid-column: 3 / 4; grid-row: 2 / 3;}
-  #missing { grid-column: 2 / 4; grid-row: 3 / 4;}
-  #ingredients { grid-column: 2 / 4; grid-row: 4 / 5;}
+  
 }
 
 form {
@@ -82,14 +92,17 @@ form {
   .checkbox-svg { fill: $side-color; }
 }
 
-@include breakpoint("desktop") {
+@include breakpoint("tablet") {
   article { 
-    grid-template-columns: repeat(2, auto);
-    height: 60vh;
-    @include scroll(hidden, hidden);
+    grid-template-columns: repeat(2, 50%);
+    justify-content: center;
+    height: 65vh;
   }
 }
 
 @include breakpoint("desktop-xxl") {
-  article { grid-template-columns: repeat(3, auto); }
+  article { 
+    grid-template-columns: repeat(3, 25%);
+    
+  }
 }
