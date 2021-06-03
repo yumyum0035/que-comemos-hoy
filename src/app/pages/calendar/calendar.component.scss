@@ -76,9 +76,9 @@ img { object-fit: cover; }
   @include size(3rem, 3rem);
   box-shadow: $small-shadow;
   background: none;
-  border: 0.1rem solid $orange;
+  border: 0.1rem solid $side-color;
 
-  path { fill: $orange; }
+  path { fill: $side-color; }
 }
 
 .container-small {

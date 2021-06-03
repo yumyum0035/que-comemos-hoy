@@ -1,5 +1,5 @@
 @use "src/variables" as *;
-$accent-color: $red;
+$accent-color: $accent-color;
 
 .form-steps-container {
   @include flex(row, nowrap, center, space-between, center);

@@ -6,12 +6,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
 
 /** colors **/
-$orange: #FE9166;
-$red: #FF5B5C;
+$side-color: #FE9166;
+$accent-color: #FF5B5C;
 $cadet-blue: #38A3A5;
 $medium-aquamarine: #57CC99;
-$light-orange: rgba($orange, .2);
-$light-red: rgba($red, .8);
+$light-orange: rgba($side-color, .2);
+$light-red: rgba($accent-color, .8);
 $black: #000;
 $white: #fff;
 $light-gray: #ddd;
