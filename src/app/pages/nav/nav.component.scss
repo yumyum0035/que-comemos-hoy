@@ -1,6 +1,9 @@
 @use 'src/variables' as *;
 
 nav {
+  /* position on parent grid*/
+  grid-row: 3 / 4;
+
   background: $orange;
   color: $white;
   border-radius: 5rem;
@@ -25,13 +28,15 @@ nav {
   //por una parte me gusta que este fija porque asi es mas facil navegar, 
   //por la otra me da por culo bastante
   //hmm.
-  // position: fixed;
-  // bottom: 1.5rem;
-  // left: 0;
+  position: fixed;
+  bottom: 1.5rem;
+  left: 0;
+  width: 100vw;
 }
 
 @include breakpoint('tablet') {
   nav {
-    left: 5vw;
+    left: calc(50% - calc(61.4rem / 2));
+    width: 61.4rem;
   }
 }

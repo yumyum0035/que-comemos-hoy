@@ -14,7 +14,7 @@ export class ShoppingListComponent implements OnInit {
   menuSemanal = [];
   allRecipes;
   result;
-  wizardDone
+  wizardDone;
 
   constructor(private router: Router, private util: RecipeBookService, private menu: MenuService) { }
 
@@ -25,8 +25,7 @@ export class ShoppingListComponent implements OnInit {
     this.ownedIngredients = localStorage.getItem('ownedIngredients') ? JSON.parse(localStorage.getItem('ownedIngredients'))  : this.ownedIngredients;
     this.missingIngredients = localStorage.getItem('missingIngredients') ? JSON.parse(localStorage.getItem('missingIngredients'))  : this.missingIngredients;
     this.menuSemanal = localStorage.getItem('weeklyMenu') ? JSON.parse(localStorage.getItem('weeklyMenu')) : this.menuSemanal;
-    this.wizardDone = localStorage.getItem('wizardDone') ? JSON.parse(localStorage.getItem('wizardDone')) : this.wizardDone;
-    this.getEverything()
+    localStorage.getItem('wizardDone') == "false" ? false : this.getEverything();
   }
 
   getWeekPlan(){
@@ -34,11 +33,9 @@ export class ShoppingListComponent implements OnInit {
   }
 
   getEverything() {
-    if (!this.wizardDone) {
     this.getWeekPlan()
     this.getIngredientWeekPlan(this.menuSemanal)
     this.filterOnlyUniqueName()
-    };
   }
 
   getIngredientWeekPlan(weekPlan) {

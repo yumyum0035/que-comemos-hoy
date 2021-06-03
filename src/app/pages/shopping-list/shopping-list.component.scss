@@ -1,0 +1,78 @@
+@use "src/variables" as *;
+
+$ingredient-size: 10rem;
+
+.ingredient {
+  @include size($ingredient-size, $ingredient-size);
+  border-radius: 0.5rem;
+  text-align: center;
+  @include flex(column, nowrap, center, center, center);
+
+  p {
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
+  &.owned {
+    background: $cadet-blue;
+    color: $white;
+  }
+
+  &.missing {
+    background: $red;
+    color: $white;
+  }
+
+  p::first-letter {
+    text-transform: capitalize;
+  }
+
+  img {
+    @include size(5rem, 5rem);
+    border-radius: 1rem;
+  }
+}
+
+section {
+  @include grid(0 10rem);
+  grid-template-columns: 100%;
+  grid-auto-rows: auto;
+  width: 75vw;
+  margin: 0 auto;
+
+  h3 {
+    margin: 1.5rem;
+  }
+  div {
+    margin-bottom: 5rem;
+  }
+
+  .grid {
+    @include grid(1.5rem);
+    grid-template-columns: repeat(3, $ingredient-size);
+    grid-auto-rows: $ingredient-size;
+    justify-content: center;
+  }
+}
+
+@include breakpoint("tablet") {
+  section {
+      grid-template-columns: 50% 50%;
+      grid-auto-rows: auto;
+      justify-content: center;
+
+      h3 { grid-row: 1 / 2; }
+
+    .grid {
+      grid-template-columns: repeat(3, $ingredient-size);
+    }
+  }
+}
+
+@include breakpoint("desktop") {
+      section {
+        .grid {
+          grid-template-columns: repeat(4, $ingredient-size);
+        }
+      }
+    }
