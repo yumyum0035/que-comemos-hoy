@@ -3,7 +3,7 @@
 img { object-fit: cover; }
 
 #day {
-  @include grid-size(2, auto, 2, auto, 0 2.6rem);
+  @include grid-size(2, 17rem, 2, auto, 0 1.6rem);
   justify-content: center;
 
   h3 { grid-row: 1 / 2; }
@@ -36,7 +36,7 @@ img { object-fit: cover; }
 }
 
 .container {
-  @include size(18rem, 30rem);
+  @include size(17rem, 30rem);
   background: $white;
   border-radius: 1rem;
   box-shadow: $box-shadow;
@@ -54,14 +54,17 @@ img { object-fit: cover; }
 
   img {
     grid-column: 1 / 3;
-    @include size(18rem, 14rem);
+    @include size(17rem, 14rem);
     justify-self: center;
   }
 
   p { 
     font-size: 1.4rem;
     grid-column: 1 / 2;
+    margin-left: .5rem;
   }
+
+  p.bold { grid-column: 1 / 3; }
 
   button { 
     grid-column: 2 / 3;

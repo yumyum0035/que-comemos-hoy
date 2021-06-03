@@ -1,25 +1,24 @@
-<p class="bg-blue-500 text-4xl h-16 my-10">Owned Ingredients</p>
-
-<div class="grid grid-cols-3 gap-4">
-  <div *ngFor="let ownedIngredient of ownedIngredients" >
-    <div (click)="addIngredient(ownedIngredient)" class="bg-red-300  rounded w-20 h-20">
-      {{ownedIngredient.name.charAt(0).toUpperCase() + ownedIngredient.name.slice(1)}}
-      <img [src]="ownedIngredient.image" [alt]="ownedIngredient.name">
-      <!-- <button (click)="addIngredient(ownedIngredient)" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">delete</button> -->
-    </div>
-  </div>
-
-</div>
-
-<p class="bg-purple-500 text-4xl h-16 my-10">missing Ingredients</p>
-
-<div class="grid grid-cols-3 gap-4">
-  <div *ngFor="let missingIngredient of missingIngredients" >
-    <div (click)="delIngredient(missingIngredient)" class="bg-red-300  rounded w-20 h-20">
-      {{missingIngredient.name.charAt(0).toUpperCase() + missingIngredient.name.slice(1)}}
-      <img [src]="missingIngredient.image" [alt]="missingIngredient.name">
-      <!-- <button (click)="delIngredient(missingIngredient)" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" >add</button> -->
+<section>
+  <h3>Te falta:</h3>
+  <div class="grid">
+    <div *ngFor="let missingIngredient of missingIngredients">
+      <div (click)="delIngredient(missingIngredient)" class="ingredient missing">
+        <!-- {{missingIngredient.name.charAt(0).toUpperCase() + missingIngredient.name.slice(1)}} -->
+        <img [src]="missingIngredient.image" [alt]="missingIngredient.name">
+        <p>{{missingIngredient.name}}</p>
+        <!-- <button (click)="delIngredient(missingIngredient)" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" >add</button> -->
+      </div>
     </div>
   </div>
 
 
+  <h3>Tienes:</h3>
+  <div class="grid">
+    <div *ngFor="let ownedIngredient of ownedIngredients">
+      <div (click)="addIngredient(ownedIngredient)" class="ingredient owned">
+        <img [src]="ownedIngredient.image" [alt]="ownedIngredient.name">
+        <p>{{ownedIngredient.name}}</p>
+      </div>
+    </div>
+  </div>
+</section>
