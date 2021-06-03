@@ -189,32 +189,17 @@ export class RecipeBookService {
     return this.lunch;
   }
 
-  getOneLunch(){
-    let random = Math.floor(Math.random() * this.lunch.length) + 7;
-    return this.lunch[random];
-  }
-
-  getOneDinner(){
-    let random = Math.floor(Math.random() * this.dinner.length) + 7;
-    return this.dinner[random];
-  }
-
   getDinner(){
     return this.dinner;
   }
 
   getMealById(id){
     let receta:recipe;
-    //Comprovamos si hay recetas del usuario
-    if(this.userRecipes.length > 0){
-      this.userRecipes.forEach(element => {
-        element.id == id ? receta = element : null;
-      });
-    }else{
+
       this.randomRecipes.forEach(element => {
         element.id == id ? receta = element : null;
       });
-    }
+    
     return receta;
   }
 
