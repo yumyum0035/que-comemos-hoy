@@ -6,7 +6,6 @@ import { SelectedRecipeComponent } from './pages/selected-recipe/selected-recipe
 import { CalendarComponent } from './pages/calendar/calendar.component';
 import { ConfigComponent } from './pages/config/config.component';
 import { FormWizardComponent } from './components/form-wizard/form-wizard.component';
-// import { CompletePageComponent } from './components/complete-page/complete-page.component';
 import { TutorialComponent } from './components/tutorial/tutorial.component';
 
 const routes: Routes = [
@@ -41,10 +40,6 @@ const routes: Routes = [
   path: 'form',
   component: FormWizardComponent
 },
-// {
-//   path: 'complete',
-//   component: CompletePageComponent
-// },
 {
   path: 'tutorial',
   component: TutorialComponent

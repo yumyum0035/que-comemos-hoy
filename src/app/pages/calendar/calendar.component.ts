@@ -13,8 +13,6 @@ export class CalendarComponent implements OnInit {
   week = ['Lunes','Martes','Miércoles','Jueves','Viernes','Sábado','Domingo'];
   day = new Date();
   n:number;
-  //lunch = [];
-  //dinner = [];
   ingredients = [];
   ingredientsNames = [];
   wizardDone = false;
@@ -31,9 +29,6 @@ export class CalendarComponent implements OnInit {
 
   ngOnInit(): void {
     this.wizardDone=localStorage.getItem('wizardDone') ? JSON.parse(localStorage.getItem('wizardDone')) : this.wizardDone;
-    //this.recipesServ.generateMeals();
-    //this.lunch = this.recipesServ.getLunch();
-    //this.dinner = this.recipesServ.getDinner();
     this.menuSemanal = this.menu.getWeekPlan();
     console.log(this.menuSemanal);
 
@@ -43,11 +38,12 @@ export class CalendarComponent implements OnInit {
   editMeal(e,type,index){
     switch(type){
       case 'lunch':
-        let newMeal = this.recipesServ.getOneLunch();
+        let newMeal = this.menu.getOneLunch();
+        console.log(newMeal);
         this.menuSemanal[index].comida = newMeal;
         break;
       case 'dinner':
-        let newMeal2 = this.recipesServ.getOneDinner();
+        let newMeal2 = this.menu.getOneDinner();
         this.menuSemanal[index].cena = newMeal2;
         break;
     }
