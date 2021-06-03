@@ -1,20 +1,20 @@
 <h1>Recetas</h1>
-<div class="filters">
-  <button (click)="filterShowHide()" class="red-bg filter-button">
-    <!-- USE ME TO OPEN FILTER AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
-    <p>Filtros</p>
-  </button>
+<div class="filters flex column">
+  <!-- USE ME TO OPEN FILTER AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
+  <button (click)="filterShowHide()" class="red-bg"> {{show}} filtros </button>
 
   <form *ngIf="!filterVisibility" [formGroup]="form" (ngSubmit)="submit()">
+  <!-- <form [formGroup]="form" (ngSubmit)="submit()">-->
+    <!-- ^ this line is for testing purposes  -->
     <div *ngFor="let category of allRecipes; let j = index">
-      <label>
-        <input type="checkbox" [value]="type[j]" (change)="onCheckboxChange($event)" /> {{type[j]}}
-      </label>
+      <input type="checkbox" [value]="type[j]" (change)="onCheckboxChange($event)" /> 
+        {{type[j]}}
     </div>
-    <button class="btn btn-primary" type="submit" [disabled]="!form.valid">Filtrar</button>
+    <button class="orange-bg" type="submit" [disabled]="!form.valid">Filtrar</button>
   </form>
 </div>
 
+<!-- filtered recipes -->
 <div>
   <section *ngIf="allRecipes">
     <div *ngFor="let category of allRecipes, let i = index">
@@ -41,6 +41,7 @@
   </section>
 </div>
 
+<!-- no filter -->
 <section *ngIf="filterEmpty">
   <div *ngFor="let category of allRecipes, let i = index">
     <h2>{{type[i]}}</h2>

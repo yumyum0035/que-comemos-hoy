@@ -17,6 +17,7 @@ export class RecipesComponent implements OnInit {
   form: FormGroup;
   filterVisibility = true
   filterEmpty = true
+  show: string = "Mostrar";
 
   constructor(private router: Router, private recipeServ:RecipeBookService, private formBuilder: FormBuilder) {
     this.allRecipes = recipeServ.getAllRecipes();
@@ -25,9 +26,7 @@ export class RecipesComponent implements OnInit {
     })
   }
 
-  ngOnInit(): void {
-
-  }
+  ngOnInit(): void { }
 
   onCheckboxChange(e) {
     const filter: FormArray = this.form.get('filter') as FormArray;
@@ -53,7 +52,10 @@ export class RecipesComponent implements OnInit {
   }
 
   filterShowHide() {
-    this.filterVisibility=this.filterVisibility? false : true
+    this.filterVisibility = !this.filterVisibility;
+    if (this.filterVisibility) { 
+      this.show = "Mostrar"
+    } else { this.show = "Ocultar" }
   }
 
   difficultyClass(recipe) {

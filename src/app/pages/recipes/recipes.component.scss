@@ -4,6 +4,19 @@ $image-min: 11.5rem;
 $image-max: 14.4rem;
 $image: $image-min;
 
+button { 
+  margin: 1rem;
+  align-self: center;
+  padding: 1rem 2rem;
+  
+  font-weight: 600;
+  border-radius: 2.5rem;
+
+  &:disabled {
+    background: rgba($light-gray, .2);
+    color: $medium-gray;
+  }
+}
 
 article {
   @include grid(0);
@@ -38,14 +51,35 @@ img {
   #ingredients { grid-column: 2 / 4; grid-row: 4 / 5;}
 }
 
-.filter-button {
-  font-weight: 600;
-  border-radius: .5rem;
+form {
+  @include grid(0.5rem);
+  grid-template-columns: repeat(3, auto);
+  grid-auto-rows: auto;
+  align-items: center;
+
+  button {
+    grid-row: 5 / 6;
+    grid-column: 2 / 3;
+  }
+
+  input[type="checkbox"], span {
+    cursor: pointer;
+  }
+
+  input[type="checkbox"] {
+    /* what the shit works here???*/
+    color: red; //not working
+  }
+
 }
 
-form {
-  @include grid(0);
-  
+.checkbox-svg {
+  fill: white;
+  stroke: $orange;
+}
+
+:checked {
+  .checkbox-svg { fill: $orange; }
 }
 
 @include breakpoint("desktop") {

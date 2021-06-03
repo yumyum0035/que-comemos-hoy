@@ -13,8 +13,16 @@ html { font-size: 10px; }
     color: $white;
 
     &:active { 
-        color: $white;
-        background: $orange; 
+        background: $orange;
+    }
+}
+
+.orange-bg {
+    background: $orange;
+    color: $white;
+
+    &:active { 
+        background: $red; 
     }
 }
 
