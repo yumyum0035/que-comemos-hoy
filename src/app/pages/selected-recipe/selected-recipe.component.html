@@ -1,7 +1,10 @@
 
-<h2>{{recipe.name}}</h2>
-<section>
+<div class="hero">
   <img src="{{recipe.image}}" alt="{{recipe.image_alt_tag}}"/>
+</div>
+<h1>{{recipe.name}}</h1>
+
+<section>
   <div class="recipe-head">
     <p class="mins">{{recipe.total_time}}  minutos</p>
     <p class="diff" [ngClass]="difficultyClass()">Dificultad:

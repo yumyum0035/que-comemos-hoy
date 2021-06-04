@@ -42,7 +42,7 @@ img { object-fit: cover; }
   box-shadow: $box-shadow;
 
   @include grid(.5rem);
-  grid-template-columns: 13rem 3rem;
+  grid-template-columns: 11.5rem 3rem;
   grid-template-rows: 14rem auto 2rem;
   align-content: center;
   justify-content: center;
@@ -61,7 +61,6 @@ img { object-fit: cover; }
   p { 
     font-size: 1.4rem;
     grid-column: 1 / 2;
-    margin-left: .5rem;
   }
 
   p.bold { grid-column: 1 / 3; }
