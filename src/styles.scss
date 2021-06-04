@@ -97,6 +97,15 @@ app-root {
     }
 }
 
+@include breakpoint("desktop") {
+    app-root {
+        @include grid(1.5rem);
+        grid-template-columns: 50vw 50vw;
+        grid-auto-rows: auto; 
+        justify-content: center;
+    }
+}
+
 @include breakpoint('desktop-xl') {
     app-selected-recipe {
         @include grid-size(2, 35vw, 2, auto, .5rem);

@@ -1,6 +1,6 @@
 @use "src/variables" as *;
 
-$image: 11.5rem;
+$image: 6rem;
 
 button { 
   margin: 1rem;
@@ -18,10 +18,8 @@ button {
 
 article {
   @include grid(0);
-  grid-template-columns: repeat(1, auto);
-  grid-template-rows: repeat(3, auto);
-
-  /* scroll on phone*/
+  grid-template-columns: auto;
+  grid-auto-rows: 10rem;
   height: 45vh;
   @include scroll(scroll, hidden);
 }
@@ -50,15 +48,11 @@ img {
 
   &.changed {
     @include grid(0 1.5rem);
-    grid-template-columns: $image 20rem;
-    grid-template-rows: auto;
+    grid-template-columns: $image 25rem;
+    grid-template-rows: $image;
     align-items: center;
     justify-content: center;
   }
-
-  margin: .8rem;
-
-  
 }
 
 form {

@@ -40,3 +40,10 @@ nav {
     width: 61.4rem;
   }
 }
+
+@include breakpoint("desktop") {
+  nav {
+    // position: static;
+
+  }
+}
