@@ -9,8 +9,12 @@ nav {
   border-radius: 5rem;
 
   // cuando esté el login hecho cambiar 3 columnas por 4 para el config:
-  @include grid-size(3, 5rem, 1, auto, 0);
+  @include grid(0);
+  grid-template-columns: repeat(3, 3.7rem);
+  grid-template-rows: auto;
   justify-content: space-around;
+  justify-items: center;
+  align-items: baseline;
 
   text-align: center;
   padding: 1rem;
@@ -29,7 +33,7 @@ nav {
   //por la otra me da por culo bastante
   //hmm.
   position: fixed;
-  bottom: 1.5rem;
+  bottom: 0;
   left: 0;
   width: 100vw;
 }
@@ -44,8 +48,8 @@ nav {
 @include breakpoint("desktop") {
   nav {
     @include grid(2.5rem);
-    grid-template-columns: 5rem;
-    grid-auto-rows: auto;
+    grid-template-columns: 3.7rem;
+    grid-auto-rows: 5rem;
     justify-content: space-around;
     align-content: space-around;
 

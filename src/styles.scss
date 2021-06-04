@@ -88,9 +88,9 @@ app-root {
     justify-content: center;
 }
 
-app-recipes { 
+app-recipes, app-shopping-list { 
     @include grid(2rem 0);
-    grid-template-columns: 100vw;
+    grid-template-columns: 100%;
     grid-template-rows: auto;
     justify-content: center;
 }
@@ -122,7 +122,7 @@ app-recipes {
         justify-content: center;
     }
     
-    app-calendar, app-selected-recipe {
+    app-calendar, app-selected-recipe, app-shopping-list {
         grid-column: 2 / 3;
     }
     
