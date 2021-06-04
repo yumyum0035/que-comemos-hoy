@@ -65,13 +65,16 @@ img {
 
 form {
   @include grid(0.5rem);
-  grid-template-columns: repeat(3, auto);
-  grid-auto-rows: auto;
+  grid-template-columns: repeat(3, 32vw);
+  grid-auto-rows: 2.5rem;
+  justify-content: center;
+  justify-items: flex-start;
   align-items: center;
 
   button {
     grid-row: 5 / 6;
     grid-column: 2 / 3;
+    align-self: center;
   }
 
   input[type="checkbox"], span {
@@ -122,10 +125,12 @@ form {
     grid-template-columns: auto auto;
     grid-auto-rows: auto;
     align-items: center;
+    justify-items: flex-start;
 
     button {
       grid-row: 7 / 8;
       grid-column: 1 / 3;
+      align-self: center;
     }
   }
 
