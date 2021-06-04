@@ -1,10 +1,35 @@
 @use "src/variables" as *;
 
+h1, .hero { 
+  grid-column: 1 / 3;
+  grid-row: 1 / 2;
+  align-self: center;
+
+  color: $white;
+}
+
+h2 { border-bottom: 1px dashed $side-color; }
+
+#parallax {
+  background-image: url("https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg");
+  height: 33vh;
+  width: 100vw;
+
+  margin: 25px 0;
+
+  /* parallax effect values: */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 $image: 6rem;
+
+.filters { text-align: center; }
 
 button { 
   margin: 1rem;
-  align-self: center;
   padding: 1rem 2rem;
   
   font-weight: 600;
@@ -17,42 +42,25 @@ button {
 }
 
 article {
-  @include grid(0);
+  @include grid(1rem);
   grid-template-columns: auto;
   grid-auto-rows: 10rem;
-  height: 45vh;
+  height: 33vh;
   @include scroll(scroll, hidden);
 }
 
 img {
   @include size($image, $image);
   object-fit: cover;
-  border-radius: 3.2rem;
+  border-radius: 1rem;
 }
 
 #recipe-container {
-  &.original {
-    @include grid(0 1.5rem);
-    grid-template-columns: repeat(3, $image);
-    grid-template-rows: 5rem minmax(2.5rem, 3.7rem) 2rem minmax(2.5rem, 3.7rem);
-    align-items: center;
-    justify-content: center;
-
-    img { grid-row: 1 / 5;}
-    h3 { grid-row: 1 / 2; grid-column: 2 / 4; }
-    #mins { grid-column: 2 / 3; grid-row: 2 / 3;}
-    .diff  { grid-column: 3 / 4; grid-row: 2 / 3;}
-    #missing { grid-column: 2 / 4; grid-row: 3 / 4;}
-    #ingredients { grid-column: 2 / 4; grid-row: 4 / 5;}
-  }
-
-  &.changed {
-    @include grid(0 1.5rem);
-    grid-template-columns: $image 25rem;
-    grid-template-rows: $image;
-    align-items: center;
-    justify-content: center;
-  }
+  @include grid(0);
+  grid-template-columns: $image auto;
+  grid-template-rows: $image;
+  align-items: center;
+  justify-content: flex-start;
 }
 
 form {
@@ -88,15 +96,72 @@ form {
 
 @include breakpoint("tablet") {
   article { 
-    grid-template-columns: repeat(2, 50%);
+    grid-template-columns: repeat(2, 40vw);
     justify-content: center;
     height: 65vh;
   }
 }
 
-@include breakpoint("desktop-xxl") {
+@include breakpoint("desktop") {
+  #parallax {
+    border-radius: .5rem;
+    background-image: url("https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/crema-de-calabaza-y-espinacas/900/crema-de-calabaza-y-espinacas.jpg");
+    height: 50vh;
+    width: 100%;
+  }
+
+  .filters { 
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    position: sticky;
+    top: 0;
+  }
+
+  form {
+    @include grid(0.5rem);
+    grid-template-columns: auto auto;
+    grid-auto-rows: auto;
+    align-items: center;
+
+    button {
+      grid-row: 7 / 8;
+      grid-column: 1 / 3;
+    }
+  }
+
+  #recipe-container {
+    @include grid(0 1.5rem);
+    grid-template-columns: $image auto;
+    grid-template-rows: 8rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  section {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+
+    @include scroll(scroll, hidden);
+
+    .recipes-grid {
+      @include grid(2.5rem);
+      grid-template-columns: 74vw;
+      grid-auto-rows: 5rem 20rem;
+      justify-items: flex-start;
+    }
+
+    // height: 42vh;
+    width: 74vw;
+  }
+
   article { 
-    grid-template-columns: repeat(3, 25%);
-    
+    grid-template-columns: repeat(5, 30rem);
+    grid-auto-rows: 8rem;
+    justify-items: flex-start;
+    justify-content: flex-start;
+
+    @include scroll(scroll, scroll);
+    height: 18rem;
+    width: 70vw;
   }
 }
