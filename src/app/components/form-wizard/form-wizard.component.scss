@@ -1,3 +1,5 @@
+@use "src/variables" as *;
+
 .form-page-container {
   display: flex;
   flex-direction: column;
@@ -5,23 +7,17 @@
   width: 100%;
 }
 
-.step-page-container {
-  flex: 1;
-  margin: 0px 32px;
-}
-
-.form-continue-btn {
-  color: white;
-  background: blue;
-  padding: 20px;
-  border-radius: 50px;
-  font-size: 1.15em;
+.continue-btn {
+  color: $white;
+  background: $accent-color;
+  padding: 2rem;
+  border-radius: 5rem;
+  font-size: 2rem;
   cursor: pointer;
-  border: none !important;
-  margin: 32px;
+  margin: 3.2rem;
 
   &:disabled {
-      opacity: 0.5;
-      cursor: not-allowed !important;
+    opacity: 0.5;
+    cursor: not-allowed;
   }
 }

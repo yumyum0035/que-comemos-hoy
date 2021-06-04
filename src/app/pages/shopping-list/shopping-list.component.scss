@@ -61,12 +61,8 @@ section {
   grid-auto-rows: auto;
   margin: 0 auto;
 
-  h3 {
-    margin: 1.5rem;
-  }
-  div {
-    margin-bottom: 5rem;
-  }
+  h3 { margin: 1.5rem; }
+  div { margin-bottom: 5rem; }
 
   .grid {
     @include grid(1.5rem);
