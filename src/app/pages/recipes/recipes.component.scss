@@ -41,6 +41,13 @@ button {
   }
 }
 
+section {
+  grid-column: 1 / 2;
+  grid-row: 3 / 4;
+  width: 90%;
+  margin: 0 auto;
+}
+
 article {
   @include grid(1rem);
   grid-template-columns: auto;
@@ -64,9 +71,9 @@ img {
 }
 
 form {
-  @include grid(0.5rem);
-  grid-template-columns: repeat(3, 32vw);
-  grid-auto-rows: 2.5rem;
+  @include grid(0rem);
+  grid-template-columns: repeat(3, 25vw);
+  grid-auto-rows: 3rem;
   justify-content: center;
   justify-items: flex-start;
   align-items: center;
