@@ -95,10 +95,6 @@ app-recipes, app-shopping-list, app-calendar {
     justify-content: center;
 }
 
-app-form-wizard {
-    width: 90%;
-}
-
 /* media queries (styles) */
 @include breakpoint('tablet') {
     app-selected-recipe {
@@ -122,13 +118,13 @@ app-form-wizard {
     app-recipes { 
         grid-row: 2 / 3;
         @include grid(2rem);
-        grid-template-columns: 12vw 72vw;
+        grid-template-columns: 14vw 72vw;
         grid-template-rows: auto;
         justify-content: center;
     }
 
     app-calendar {
-        width: 88vw;
+        width: 72vw;
     }
     
     app-calendar, app-selected-recipe, app-shopping-list, app-form-wizard {
