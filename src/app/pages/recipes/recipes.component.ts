@@ -70,4 +70,11 @@ export class RecipesComponent implements OnInit {
 
     return className;
   }
+
+  showFilterEmpty() {
+    this.filterVisibility = true
+    this.filterEmpty = true
+    this.foods = []
+
+  }
 }
