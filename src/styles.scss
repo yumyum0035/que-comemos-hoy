@@ -88,15 +88,11 @@ app-root {
     justify-content: center;
 }
 
-app-recipes, app-shopping-list, app-calendar { 
+app-recipes, app-shopping-list, app-calendar, app-selected-recipe { 
     @include grid(2rem 0);
     grid-template-columns: 100%;
     grid-template-rows: auto;
     justify-content: center;
-}
-
-app-form-wizard {
-    width: 90%;
 }
 
 /* media queries (styles) */
@@ -115,20 +111,19 @@ app-form-wizard {
         grid-template-columns: 12vw 88vw;
         grid-template-rows: 6rem auto;
         justify-content: center;
-        justify-items: center;
     }
 
     app-nav { grid-column: 1 / 2;  grid-row: 1 / 3;}
     app-recipes { 
         grid-row: 2 / 3;
         @include grid(2rem);
-        grid-template-columns: 12vw 72vw;
+        grid-template-columns: 20% 75%;
         grid-template-rows: auto;
         justify-content: center;
     }
 
     app-calendar {
-        width: 88vw;
+        width: 100%;
     }
     
     app-calendar, app-selected-recipe, app-shopping-list, app-form-wizard {

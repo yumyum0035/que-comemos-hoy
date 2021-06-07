@@ -1,23 +1,21 @@
-<div class="form-page-container">
+<article>
   <app-steps></app-steps>
 
-  <div class="step-page-container">
-    <div class="form-step">
-      <ng-container [ngSwitch]="(currentStep | async)?.stepIndex">
-        <ng-container *ngSwitchCase="'1'">
-          <app-step-template [step]="(currentStep | async)"></app-step-template>
-        </ng-container>
-        <ng-container *ngSwitchCase="'2'">
-          <app-step-template [step]="(currentStep | async)"></app-step-template>
-        </ng-container>
-        <ng-container *ngSwitchCase="'3'">
-          <app-step-template [step]="(currentStep | async)"></app-step-template>
-        </ng-container>
+  <section>
+    <ng-container [ngSwitch]="(currentStep | async)?.stepIndex">
+      <ng-container *ngSwitchCase="'1'">
+        <app-step-template [step]="(currentStep | async)"></app-step-template>
       </ng-container>
-    </div>
-  </div>
+      <ng-container *ngSwitchCase="'2'">
+        <app-step-template [step]="(currentStep | async)"></app-step-template>
+      </ng-container>
+      <ng-container *ngSwitchCase="'3'">
+        <app-step-template [step]="(currentStep | async)"></app-step-template>
+      </ng-container>
+    </ng-container>
+  </section>
 
   <button (click)="onNextStep()" [disabled]="!(currentStep | async)?.isComplete" class="continue-btn red-bg">
     {{ showButtonLabel() }}
   </button>
-</div>
+</article>

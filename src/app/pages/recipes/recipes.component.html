@@ -19,8 +19,8 @@
 
 <!-- filtered recipes -->
 <section *ngIf="allRecipes">
-  <div class="recipes-grid" *ngFor="let category of allRecipes, let i = index">
-    <div *ngIf="foods.includes(type[i])">
+  <div *ngFor="let category of allRecipes, let i = index">
+    <div class="recipes-grid" *ngIf="foods.includes(type[i])">
       <h2>{{type[i]}}</h2>
       <article>
         <div id="recipe-container" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
