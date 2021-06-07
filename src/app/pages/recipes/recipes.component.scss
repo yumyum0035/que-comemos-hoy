@@ -43,7 +43,7 @@ button {
 
 section {
   grid-column: 1 / 2;
-  grid-row: 3 / 4;
+  // grid-row: 3 / 4;
   width: 90%;
   margin: 0 auto;
 }
@@ -158,13 +158,10 @@ form {
 
     .recipes-grid {
       @include grid(2.5rem);
-      grid-template-columns: 74vw;
-      grid-auto-rows: 5rem 20rem;
+      grid-template-columns: 100%;
+      grid-template-rows: 5rem 20rem;
       justify-items: flex-start;
     }
-
-    // height: 42vh;
-    width: 72vw;
   }
 
   article { 
@@ -175,6 +172,6 @@ form {
 
     @include scroll(scroll, scroll);
     height: 18rem;
-    width: 70vw;
+    width: 100%;
   }
 }

@@ -2,7 +2,7 @@
 
 article {
   @include grid(.5rem);
-  grid-template-columns: auto;
+  grid-template-columns: 35rem;
   justify-content: center;
 }
 

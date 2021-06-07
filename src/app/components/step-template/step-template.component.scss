@@ -6,20 +6,15 @@ div {
 }
 
 .buttons-container {
-  @include grid-size(2, 16rem, 4, 5rem, .5rem);
+  @include grid-size(2, 50%, 4, 5rem, .5rem);
   justify-content: center;
   align-content: center;
-
-  &.week {
-    @include grid-size(2, 20rem, 4, 5rem, .7rem);
-  }
 }
 
 .step-complete-btn {
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   font-weight: bold;
-
-  padding: 1.2rem 2rem;
+  padding: 1.2rem 1rem;
   border-radius: 5rem;
   background: $light-orange;
   
