@@ -8,3 +8,4 @@ https://quecomemoshoy-1.web.app/
 
 * Angular
 * Firebase
+* PWA
