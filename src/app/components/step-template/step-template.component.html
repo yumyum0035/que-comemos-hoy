@@ -1,11 +1,11 @@
 <div *ngIf="step.stepIndex == 1">
-  <h2>Welcome to "Que Comemos Hoy"</h2>
-  <p class="text-center"> For a better experience please select your preferences:</p>
+  <h3 class="text-center">¡Te damos la bienvenida a la aplicación!</h3>
+  <p class="text-center">Primero te pediremos tus preferencias para generar tu menú de forma automática.</p>
 
   <div class="buttons-container">
       <button *ngFor="let categories of listCategories" class="step-complete-btn" (click)="addType(categories)">
         <span class="completed-step-check material-icons">
-              {{ selectedCategories.indexOf(categories) > -1 ? "check_circle" : "panorama_fish_eye"}}
+          {{ selectedCategories.indexOf(categories) > -1 ? "check_circle" : "panorama_fish_eye"}}
         </span>
         {{ categories }}
       </button>
@@ -13,7 +13,7 @@
 </div>
 
 <div *ngIf="step.stepIndex == 2">
-    <p class="text-center">Finally, please select your meal plan</p>
+    <p class="text-center">Segundo, elige los días que quieres para tu menú.</p>
     <div class="buttons-container week">
       <button (click)="selectWeek('toda')" class="step-complete-btn mb-1">
             <span class="completed-step-check material-icons">
@@ -98,7 +98,7 @@
 
 <div *ngIf="step.stepIndex == 3" class="iframe-holder container-center">
   <div (click)="onCompleteStep()">
-    <h2>Generating meal plan</h2>
+    <h3 class="text-center">Generando menú...</h3>
     <iframe src="https://lottiefiles.com/iframe/4762-food-carousel"></iframe>
   </div>
 </div>

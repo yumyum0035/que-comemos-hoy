@@ -1,19 +1,21 @@
 @use "src/variables" as *;
-$accent-color: $accent-color;
 
 .form-steps-container {
-  @include flex(row, nowrap, center, space-between, center);
+  // números de paso del wizard!!
+  display: flex;
+  align-items: center;
+  margin: 2.5rem auto;
+  width: 80%;
 }
 
 .step-bubble {
   padding: 2rem;
-  border: .3rem solid $accent-color;
-  width: 1.2rem;
-  height: 1.2rem;
+  border: .1rem solid $accent-color;
+  @include size(1.2rem, 1.2rem);
 
   @include flex(row, nowrap, center, center, center);
 
-  border-radius: 50%;
+  border-radius: 2.4rem;
   color: $accent-color;
 
   cursor: pointer;
@@ -21,10 +23,10 @@ $accent-color: $accent-color;
 }
 
 .step-divider {
-  height: 2px;
+  height: .1rem;
   background: $accent-color;
-  flex: 1;
-  margin: 0px 1rem;
+  flex: 1; //the fuck is this.
+  margin: 0 .5rem;
 }
 
 .step-current, .step-complete {

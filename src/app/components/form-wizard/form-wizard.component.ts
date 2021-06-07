@@ -19,7 +19,8 @@ export class FormWizardComponent implements OnInit {
     private stepsService: StepsService,
     private router: Router,
     private menu: MenuService,
-    private recipesServ : RecipeBookService) { }
+    private recipesServ : RecipeBookService
+  ) { }
 
   ngOnInit(): void {
     this.currentStep = this.stepsService.getCurrentStep();
@@ -34,14 +35,18 @@ export class FormWizardComponent implements OnInit {
   }
 
   showButtonLabel() {
-    return !this.stepsService.isLastStep() ? 'Continue' : 'Get Meal Plan';
+    return !this.stepsService.isLastStep() ? 'Continuar' : 'Ver menú';
   }
 
   onSubmit(): void {
     this.recipesServ.generateMeals();
     this.menu.generatePlan();
     localStorage.setItem('wizardDone','true');
-    this.router.navigate(['/calendar']);
+
+    //this.router.navigate(['/calendar']);
+    //hacer que en lugar de ir a /calendar refresque la página porque ya esta en calendar hmmm
+    window.location.reload();
+    
   }
 
 }
