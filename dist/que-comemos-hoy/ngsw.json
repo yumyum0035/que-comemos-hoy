@@ -1,0 +1,117 @@
+{
+  "configVersion": 1,
+  "timestamp": 1624437583860,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/4.9a1f904a773d7d6c3afe.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.f1687372a04b14f4058f.js",
+        "/manifest.webmanifest",
+        "/polyfills.00096ed7d93ed26ee6df.js",
+        "/runtime.8edfdf38f629eaf62f4b.js",
+        "/styles.25c258b05ce1d9a6ed3a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/data/asiatic.json",
+        "/assets/data/chicken.json",
+        "/assets/data/fish.json",
+        "/assets/data/gluten.json",
+        "/assets/data/meat.json",
+        "/assets/data/pasta.json",
+        "/assets/data/rice.json",
+        "/assets/data/trending.json",
+        "/assets/data/vegan.json",
+        "/assets/data/vegetables.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/svg/calendar_icon.svg",
+        "/assets/svg/check-square-solid.svg",
+        "/assets/svg/heart.svg",
+        "/assets/svg/lista-compra.svg",
+        "/assets/svg/recipes.svg",
+        "/assets/svg/shuffle.svg",
+        "/assets/svg/stars.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/4.9a1f904a773d7d6c3afe.js": "a925b4ce2e0901e916c46ba8aa968195ef723fc5",
+    "/assets/data/asiatic.json": "e65325d35fe069e10e152595de7d05f45b28c0d8",
+    "/assets/data/chicken.json": "b0126fba19f75469e6336ab5d83884b2f1e9e235",
+    "/assets/data/fish.json": "0d25680516e9a916b7eab4897a740b3ec8989949",
+    "/assets/data/gluten.json": "b714e9613dfa8505ff9138eebccaac67a775db9f",
+    "/assets/data/meat.json": "3cefea56aaff6b3c80c36663b591c047209f33b0",
+    "/assets/data/pasta.json": "cd82553232de64cbef371fd8431b195862d05f3a",
+    "/assets/data/rice.json": "aed03fdf5e8d40c0b2e5e1fe2d37571f6fc9cfc3",
+    "/assets/data/trending.json": "3f5d615ee44918262c5e114b51a676502da01061",
+    "/assets/data/vegan.json": "3647bfbd0d44fd3584a3d3fc0162d0afa199b49a",
+    "/assets/data/vegetables.json": "959eb43786c67be0af207480681496ad8816e163",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/svg/calendar_icon.svg": "63b44ff4f3922d00f088f81d09a1eda192a79cb3",
+    "/assets/svg/check-square-solid.svg": "bccec7464a00739c648dd9082f5e61b113261181",
+    "/assets/svg/heart.svg": "a24560cd89e2d0b7554d61c2a5dbf5f09f2849a3",
+    "/assets/svg/lista-compra.svg": "fe6f7a6b734cd3c978b4813121f4b5b593efe409",
+    "/assets/svg/recipes.svg": "ded87c1b839e00070afc1e54521fb2290d3134b4",
+    "/assets/svg/shuffle.svg": "0197f89d46fa9577d7ca67fd57a2139829b2fbe7",
+    "/assets/svg/stars.svg": "7db5ea4dba2d9bb1a731ba1fc2e7cff6626ef5de",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "c0ae34c5cb90a2aaf95b222f2119decc23f0a020",
+    "/main.f1687372a04b14f4058f.js": "0b11533f9967b6d2856f63fd2ce40b818a43cc1d",
+    "/manifest.webmanifest": "d87afc6fa11db79c9241366ab7cdfaba5fb860f6",
+    "/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/runtime.8edfdf38f629eaf62f4b.js": "f5ed4f26298bdfc0b11a59a7dfce791c1c00bc0d",
+    "/styles.25c258b05ce1d9a6ed3a.css": "febb508d1a691255df4302dfdbb22a7f00769a40"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

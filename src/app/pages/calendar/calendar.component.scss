@@ -105,3 +105,9 @@ img { object-fit: cover; }
 
   img, p { grid-column: 1 / 2; grid-row: 1 / 2; }
 }
+
+@include breakpoint("desktop-xxl"){
+  #week {
+    justify-content: center;
+  }
+}
