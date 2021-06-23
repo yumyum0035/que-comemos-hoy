@@ -22,16 +22,12 @@ nav {
   div { @include flex(column, nowrap, center, center, center); }
 
   a { 
-    color: $white; 
+    color: $black; 
     &:hover {
-      color: $white;
+      color: $black;
     }
   }
 
-  /* position */
-  //por una parte me gusta que este fija porque asi es mas facil navegar, 
-  //por la otra me da por culo bastante
-  //hmm.
   position: fixed;
   bottom: 0;
   left: 0;

@@ -22,6 +22,7 @@ import { AngularFireAuthModule } from '@angular/fire/auth';
 import { environment } from '../environments/environment';
 import { TutorialComponent } from './components/tutorial/tutorial.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
+import { LandingComponent } from './pages/landing/landing.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -34,7 +35,8 @@ import { ServiceWorkerModule } from '@angular/service-worker';
     StepsComponent,
     StepTemplateComponent,
     FormWizardComponent,
-    TutorialComponent
+    TutorialComponent,
+    LandingComponent
   ],
   imports: [
     BrowserModule,

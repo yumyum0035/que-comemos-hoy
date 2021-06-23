@@ -11,9 +11,10 @@ img { object-fit: cover; }
 
 #week {
   @include grid(2.5rem);
-  grid-template-columns: repeat(7, 13.6rem);
+  grid-template-columns: repeat(7, 18rem);
   grid-template-rows: auto;
   justify-content: start;
+  justify-items: center;
 
   margin: 3rem;
 
@@ -22,8 +23,9 @@ img { object-fit: cover; }
 
 .day-container {
   @include grid(1.5rem);
-  grid-template-columns: 13.6rem; 
+  grid-template-columns: 100%; 
   grid-template-rows: auto 2.5rem 13.6rem 2.5rem 13.6rem; 
+  justify-items: center;
 
   h3, h4 { margin: 0; padding: 0; justify-self: center;}
   h3 { grid-row: 1 / 2;}

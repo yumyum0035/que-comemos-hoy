@@ -28,6 +28,8 @@ h2 {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    border: none;
+    border-bottom: .5rem solid $accent-color;
   }
 }
 
@@ -128,8 +130,8 @@ section {
     margin: 1rem;
     padding: 1rem;
 
-    background: $light-orange;
-    color: $accent-color;
+    background: $accent-color;
+    color: $black;
 
     img {
       grid-column: 1 / 2;
@@ -145,7 +147,7 @@ section {
   margin: 0 auto;
   p {
     padding: 2.5rem;
-    background: rgba($light-gray, 0.5);
+    background: rgba($side-color, 0.5);
     border-radius: 1.5rem 0 1.5rem 0;
     margin: 1.5rem 0.5rem;
   }
