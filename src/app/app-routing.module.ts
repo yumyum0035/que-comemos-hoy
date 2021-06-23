@@ -43,12 +43,12 @@ const routes: Routes = [
 {
   path: 'tutorial',
   component: TutorialComponent
-}
-//{ //if path isn't anything listed on this list ^ it will take you to this link
-   //path: "**",
-   //redirectTo: "MainComponent",
-   //pathMatch: "full"
- //}
+},
+{ //if path isn't anything listed on this list ^ it will take you to this link
+   path: "**",
+   redirectTo: "/",
+   pathMatch: "full"
+ }
 ];
 
 @NgModule({
