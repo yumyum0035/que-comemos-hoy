@@ -148,6 +148,8 @@ button {
 .path-white-stroke { stroke: $white; }
 .path-accent1 { fill: $accent-color; }
 .path-accent2 { fill: $side-color; }
+.path-nav { fill: $nav-color; }
+.path-nav-stroke { stroke: $nav-color; }
 
 app-root {
   @include grid(1.5rem);

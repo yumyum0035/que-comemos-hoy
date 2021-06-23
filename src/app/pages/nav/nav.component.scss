@@ -22,9 +22,9 @@ nav {
   div { @include flex(column, nowrap, center, center, center); }
 
   a { 
-    color: $black; 
+    color: $nav-color; 
     &:hover {
-      color: $black;
+      color: $nav-color;
     }
   }
 
