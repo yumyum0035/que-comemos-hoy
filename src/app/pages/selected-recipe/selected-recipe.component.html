@@ -16,11 +16,11 @@
     </p>
     <div class="portions">
       <p>Porciones a preparar</p>
-      <button (click)="portionCalc('less')" class="red-bg" id="backwards">
+      <button (click)="portionCalc('less')" class="accent-bg" id="backwards">
         <i class="fas fa-chevron-left"></i>
       </button>
       <div id="numberOfPortions">{{portions}}</div>
-      <button (click)="portionCalc('plus')" class="red-bg" id="forward">
+      <button (click)="portionCalc('plus')" class="accent-bg" id="forward">
         <i class="fas fa-chevron-right"></i>
       </button>
     </div>
@@ -32,12 +32,12 @@
         <path d="M10.5929 34.9268C15.911 41.034 29.9581 52 29.9581 52C29.9581 52 44.089 41.16 49.4071 35.0529C54.7252 28.9457 63.842 15.6628 52.7499 5.58604C41.6578 -4.4907 30.0419 10.5233 30.0419 10.5233C30.0419 10.5233 18.3422 -4.61676 7.25007 5.45998C-3.84203 15.5367 5.27476 28.8197 10.5929 34.9268Z"/>
       </svg>
     </button>
-    <span>Añadir a favoritos</span>
+    <span>{{ addToFaveText }} favoritos</span>
   </article>
 </section>
 
 <section>
-  <h3>Ingredientes</h3>
+  <h2>Ingredientes</h2>
   <div class="ingredient-container">
     <div class="ingredient" *ngFor="let i of ingredientes">
       <img src="{{i.image}}" alt=""/>
@@ -48,8 +48,12 @@
 </section>
 
 <section>
-  <h3>Pasos</h3>
+  <h2>Pasos</h2>
   <div class="cooking-steps">
-    <p *ngFor="let p of pasos">{{p.name}}</p>
+    <div class="steps-container" *ngFor="let p of pasos; index as i">
+      <h2>{{i+1}}</h2>
+      <p>{{p.name}}</p>
+    </div>
+    
   </div>
 </section>

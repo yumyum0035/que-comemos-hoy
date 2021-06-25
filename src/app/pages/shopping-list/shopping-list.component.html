@@ -2,7 +2,7 @@
 <h1>Lista de la compra</h1>
 
 <section>
-  <h3 class="text-center">Te falta:</h3>
+  <h2>Te falta</h2>
   <div class="grid">
     <div *ngFor="let missingIngredient of missingIngredients">
       <div (click)="delIngredient(missingIngredient)" class="ingredient missing">
@@ -15,7 +15,7 @@
   </div>
 
 
-  <h3 class="text-center">Tienes:</h3>
+  <h2>Tienes</h2>
   <div class="grid">
     <div *ngFor="let ownedIngredient of ownedIngredients">
       <div (click)="addIngredient(ownedIngredient)" class="ingredient owned">

@@ -1,11 +1,98 @@
 @use "src/variables" as *;
 
-img { object-fit: cover; }
+img {
+  object-fit: cover;
+}
+
+h2 { text-align: center; }
 
 #day {
-  @include grid(0 1.6rem, 17rem 17rem, auto auto, center, center, center);
+  @include grid(0 1.6rem, repeat(2, 20rem), auto auto, center, center, center);
 
-  h3 { grid-row: 1 / 2; }
+  h3 {
+    grid-row: 1 / 2;
+  }
+}
+
+.container {
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: repeat(6, 5rem);
+  $text-color: $white;
+  $bg-color: $black;
+  box-shadow: $box-shadow;
+
+  color: $text-color;
+  border-radius: 2.5rem;
+  background-color: $bg-color;
+
+  img {
+    grid-column: 1 / 2;
+    grid-row: 1 / 4;
+    @include size(100%, auto);
+    justify-self: center;
+    border-radius: 2.5rem 2.5rem 0 0;
+
+    //makes image go from 1 opacity to 0 in a gradient!
+    mask-image: linear-gradient(to bottom, rgba($black,1), rgba($black,0));
+  }
+
+  div {
+    padding: 0 1rem;
+    grid-column: 1 / 2;
+    grid-row: 4 / 6;
+    z-index: 1;
+
+    border-radius: 0 0 2.5rem 2.5rem;
+    @include grid(0, auto 3rem, auto, center, flex-start, center);
+
+    h4 {
+      grid-column: 1 / 3;
+      margin: 0;
+      color: $text-color;
+    }
+  
+    p {
+      font-size: 1.4rem;
+      grid-column: 1 / 2;
+    }
+  
+    p.bold {
+      grid-column: 1 / 3;
+    }
+  
+    .diff {
+      &.low {
+        @include difficulty-stars(1, $text-color);
+      }
+      &.medium {
+        @include difficulty-stars(2, $text-color);
+      }
+      &.high {
+        @include difficulty-stars(3, $text-color);
+      }
+    }
+  }
+
+}
+
+.shuffle {
+  $main-color: $white;
+  @include size(3rem, 3rem);
+  background: none;
+  color: $main-color;
+  border: 0.2rem solid $main-color;
+  padding: 0;
+
+  &:hover {
+    color: $side-color;
+    border: 0.2rem solid $side-color;
+  }
+
+  path {
+    fill: $side-color;
+  }
 }
 
 #week {
@@ -15,84 +102,86 @@ img { object-fit: cover; }
 
   @include scroll(hidden, scroll);
 }
-
 .day-container {
-  @include grid(1.5rem, 100%, auto 2.5rem 13.6rem 2.5rem 13.6rem, center, center, center); 
+  @include grid(1.5rem,100%, auto, center,center,center);
 
-  h3, h4 { margin: 0; padding: 0; justify-self: center;}
-  h3 { grid-row: 1 / 2;}
-  div { grid-row: 2 / 3; }
-  
-  .comida-title { grid-row: 2 / 3; }
-  .comida-container { grid-row: 3 / 4;}
-  .cena-title { grid-row: 4 / 5; }
-  .cena-container { grid-row: 5 / 6; }
-}
-
-.container {
-  @include size(17rem, 30rem);
-  background: $white;
-  border-radius: 1rem;
-  box-shadow: $box-shadow;
-
-  @include grid(.5rem, 11.5rem 3rem, 14rem auto 2rem, center, flex-start, center);
-
-  h4 { 
-    grid-column: 1 / 3;
+  h3 {
+    grid-row: 1 / 2;
+  }
+  div {
+    grid-row: 2 / 3;
   }
 
-  img {
-    grid-column: 1 / 3;
-    @include size(17rem, 14rem);
-    justify-self: center;
+  .comida-title {
+    grid-row: 2 / 3;
   }
-
-  p { 
-    font-size: 1.4rem;
-    grid-column: 1 / 2;
+  .comida-container {
+    grid-row: 3 / 4;
   }
-
-  p.bold { grid-column: 1 / 3; }
-
-  button { 
-    grid-column: 2 / 3;
-    justify-self: flex-end;
+  .cena-title {
+    grid-row: 4 / 5;
   }
-}
-
-.shuffle {
-  @include size(3rem, 3rem);
-  box-shadow: $small-shadow;
-  background: none;
-  color: $side-color;
-  border: 0.2rem solid $side-color;
-  padding: 0;
-
-  path { fill: $side-color; }
+  .cena-container {
+    grid-row: 5 / 6;
+  }
 }
 
 .container-small {
   @include size(13.6rem, 13.6rem);
   @include grid(1.5rem, 13.6rem, 13.6rem, center, center, center);
 
-  img { 
+  img {
     @include size(13.6rem, 13.6rem);
     border-radius: 1rem;
   }
 
   p {
     color: $white;
-    background: rgba($black, .5);
-    
+    background: rgba($black, 0.5);
+
     font-size: 1.2rem;
     width: 100%;
     padding: 1rem 0;
   }
 
-  img, p { grid-column: 1 / 2; grid-row: 1 / 2; }
+  img, p {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+  }
 }
 
-@include breakpoint("desktop-xxl"){
+@include breakpoint("tablet") {
+  #day {
+    grid-template-columns: repeat(2, 30rem);
+  }
+
+  .container {
+    grid-template-rows: repeat(6, 6rem);
+    
+    div {
+      grid-row: 4/6;
+      padding: 5rem 2.5rem 0;
+    }
+  }
+}
+
+@include breakpoint("desktop-xl") {
+  #day {
+    grid-template-columns: repeat(2, 42rem);
+  }
+
+  .container {
+    grid-template-rows: repeat(6, 7rem);
+    
+    div {
+      grid-template-columns: 30rem 3rem;
+      grid-row: 5/6;
+      padding: 1.5rem;
+    }
+  }
+}
+
+@include breakpoint("desktop-xxl") {
   #week {
     justify-content: center;
   }

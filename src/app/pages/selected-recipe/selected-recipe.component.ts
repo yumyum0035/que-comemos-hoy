@@ -15,6 +15,7 @@ export class SelectedRecipeComponent implements OnInit {
   ingredientes = [];
   pasos = [];
   portions:number = 2;
+  addToFaveText:string = "Añadir a";
 
   constructor(private recipesServ : RecipeBookService, private router:Router, private actRoute: ActivatedRoute) { }
 
@@ -36,8 +37,10 @@ export class SelectedRecipeComponent implements OnInit {
     console.log(this.recipe);
     if(this.recipe.favorited){
       this.recipe.favorited = false;
+      this.addToFaveText = "Añadir a";
     } else{
       this.recipe.favorited = true;
+      this.addToFaveText = "Añadido en";
     }
     this.recipesServ.setMealById(this.id,this.recipe.favorited);
   }

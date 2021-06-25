@@ -9,16 +9,14 @@ h1,
   color: $white;
 }
 
-h2 {
-  border-bottom: 1px dashed $side-color;
-}
+h2 { border-bottom: .5rem solid $accent-color; }
 
 #parallax {
   background-image: url("https://d36fw6y2wq3bat.cloudfront.net/assets/images/cache/recipes/falafels-de-batata/900/falafels-de-batata.jpg");
   height: 33vh;
   width: 100vw;
 
-  margin: 25px 0;
+  margin: 0;
 
   /* parallax effect values: */
   background-attachment: fixed;
@@ -35,10 +33,10 @@ $image: 6rem;
 
 button {
   margin: 1rem;
-  padding: 1rem 2rem;
+  padding: 2rem 3rem;
 
   font-weight: 600;
-  border-radius: 2.5rem;
+  border-radius: 2.5rem 2.5rem 0 2.5rem;
 
   &:disabled {
     background: rgba($gainsboro, 0.2);
@@ -53,8 +51,7 @@ section {
 }
 
 article {
-  @include grid(1rem, auto, 10rem, center, flex-start, center);
-  grid-auto-rows: 10rem;
+  @include grid(1rem, auto, $image, center, flex-start, center);
   height: 33vh;
   @include scroll(scroll, hidden);
 }
@@ -67,6 +64,8 @@ img {
 
 #recipe-container {
   @include grid(0, $image auto, $image, flex-start, center, center);
+
+  p { font-size: 1.8rem; }
 }
 
 form {
@@ -79,25 +78,8 @@ form {
     justify-self: center;
   }
 
-  input[type="checkbox"],
-  span {
+  input[type="checkbox"], span {
     cursor: pointer;
-  }
-
-  input[type="checkbox"] {
-    /* what the shit works here???*/
-    color: red; //not working
-  }
-}
-
-.checkbox-svg {
-  fill: white;
-  stroke: $side-color;
-}
-
-:checked {
-  .checkbox-svg {
-    fill: $side-color;
   }
 }
 
@@ -119,8 +101,6 @@ form {
   .filters {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
-    position: sticky;
-    top: 0;
   }
 
   form {
@@ -138,19 +118,18 @@ form {
   }
 
   section {
-    grid-column: 2 / 3;
-    grid-row: 2 / 3;
+    grid-row: 3 / 4;
 
     @include scroll(scroll, hidden);
 
     .recipes-grid {
-      @include grid(2.5rem, 100%, 5rem 20rem, center, flex-start, center);
+      @include grid(0, 100%, 5rem 20rem, center, flex-start, center);
+      margin-bottom: 1.5rem;
     }
   }
 
   article {
     grid-template-columns: repeat(5, 30rem);
-    grid-auto-rows: 8rem;
     justify-content: flex-start;
 
     @include scroll(scroll, scroll);

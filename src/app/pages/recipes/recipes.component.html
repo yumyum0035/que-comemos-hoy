@@ -3,7 +3,7 @@
 
 <div class="filters">
   <!-- USE ME TO OPEN FILTER AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
-  <button (click)="filterShowHide()" class="red-bg"> {{show}} filtros </button>
+  <button (click)="filterShowHide()" class="accent-bg"> {{show}} filtros </button>
 
   <form *ngIf="!filterVisibility" [formGroup]="form" (ngSubmit)="submit()">
   <!-- <form [formGroup]="form" (ngSubmit)="submit()"> -->
@@ -12,7 +12,7 @@
       <input type="checkbox" [value]="type[j]" (change)="onCheckboxChange($event)" /> 
         {{type[j]}}
     </div>
-    <button class="orange-bg" type="submit" [disabled]="!form.valid">Filtrar</button>
+    <button class="side-bg" type="submit" [disabled]="!form.valid">Filtrar</button>
   </form>
   <button (click)="showFilterEmpty()" >Restaurar filtros</button>
 </div>
@@ -25,7 +25,7 @@
       <article>
         <div id="recipe-container" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
           <img src="{{recipe.image}}" alt="">
-          <h3 class="bold">{{recipe.name}}</h3>
+          <p>{{recipe.name}}</p>
         </div>
       </article>
     </div>
@@ -39,7 +39,7 @@
     <article>
       <div id="recipe-container" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
         <img src="{{recipe.image}}" alt="">
-        <h3 class="bold">{{recipe.name}}</h3>
+        <p>{{recipe.name}}</p>
       </div>
     </article>
   </div>

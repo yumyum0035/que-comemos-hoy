@@ -4,21 +4,18 @@ nav {
   /* position on parent grid*/
   grid-row: 3 / 4;
 
-  background: $side-color;
-  color: $white;
+  background: $nav-bg;
+  color: $nav-color;
   border-radius: 5rem;
 
   // cuando esté el login hecho cambiar 3 columnas por 4 para el config:
-  @include grid(0, repeat(3, 3.7rem), auto, space-around, center, unset);
-  align-content: space-around;
-  
+  @include grid(0, repeat(3, 3.7rem), auto, space-around, center, center);
+
   text-align: center;
   padding: 1rem;
 
-  div { @include flex(column, nowrap, center, center, center); }
-
-  a { 
-    color: $nav-color; 
+  a {
+    color: $nav-color;
     &:hover {
       color: $nav-color;
     }
@@ -30,7 +27,7 @@ nav {
   width: 100vw;
 }
 
-@include breakpoint('tablet') {
+@include breakpoint("tablet") {
   nav {
     left: calc(50% - calc(61.4rem / 2));
     width: 61.4rem;
@@ -39,13 +36,29 @@ nav {
 
 @include breakpoint("desktop") {
   nav {
-    grid-template-columns: 3.7rem;
-
-    top: 0;
+    position: relative;
     left: 0;
-    width: 12vw;
-    height: 100%;
-
+    background: transparent;
+    width: 100%;
     border-radius: 0;
+    border-bottom: .5rem solid $accent-color;
+    padding: 2.5rem;
+
+    justify-content: space-evenly;
+
+    a {
+      color: $black;
+      text-transform: uppercase;
+      border-bottom: .5rem $white solid;
+
+      &:hover {
+        color: $accent-color;
+        border-bottom: .5rem $side-color solid;
+      }
+    }
+    
+    svg {
+      display: none;
+    }
   }
 }

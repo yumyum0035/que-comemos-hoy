@@ -15,7 +15,7 @@
     </ng-container>
   </section>
 
-  <button (click)="onNextStep()" [disabled]="!(currentStep | async)?.isComplete" class="continue-btn red-bg">
+  <button (click)="onNextStep()" [disabled]="!(currentStep | async)?.isComplete" class="continue-btn accent-bg">
     {{ showButtonLabel() }}
   </button>
 </article>
