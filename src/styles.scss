@@ -163,10 +163,12 @@ app-recipes,
 app-shopping-list,
 app-selected-recipe {
   @include grid(2rem 0, 100vw, auto, center, center, flex-start);
+  margin-bottom: 10rem;
 }
 
 app-calendar {
   @include grid(2rem 0, 100%, auto, center, unset, flex-start);
+  margin-bottom: 9.5rem;
 }
 
 /* media queries (styles) */

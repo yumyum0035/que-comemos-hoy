@@ -51,7 +51,7 @@ section {
 }
 
 article {
-  @include grid(1rem, auto, $image, center, flex-start, center);
+  @include grid(1rem, 100%, $image, center, flex-start, center);
   height: 33vh;
   @include scroll(scroll, hidden);
 }
@@ -63,7 +63,7 @@ img {
 }
 
 #recipe-container {
-  @include grid(0, $image auto, $image, flex-start, center, center);
+  @include grid(1rem, $image auto, $image, flex-start, center, center);
 
   p { font-size: 1.8rem; }
 }

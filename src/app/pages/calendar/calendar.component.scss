@@ -6,11 +6,13 @@ img {
 
 h2 { text-align: center; }
 
+
 #day {
   @include grid(0 1.6rem, repeat(2, 20rem), auto auto, center, center, center);
 
   h3 {
     grid-row: 1 / 2;
+    justify-self: flex-start;
   }
 }
 
@@ -51,6 +53,7 @@ h2 { text-align: center; }
       grid-column: 1 / 3;
       margin: 0;
       color: $text-color;
+      justify-self: flex-start;
     }
   
     p {
@@ -96,58 +99,55 @@ h2 { text-align: center; }
 }
 
 #week {
-  @include grid(2.5rem, repeat(7, 18rem), auto, flex-start, center, center);
+  @include grid(1.5rem, repeat(7, 20rem), auto, flex-start, center, center);
 
   margin: 3rem;
 
   @include scroll(hidden, scroll);
 }
-.day-container {
+
+.week-container {
   @include grid(1.5rem,100%, auto, center,center,center);
-
-  h3 {
-    grid-row: 1 / 2;
-  }
-  div {
-    grid-row: 2 / 3;
-  }
-
-  .comida-title {
-    grid-row: 2 / 3;
-  }
-  .comida-container {
-    grid-row: 3 / 4;
-  }
-  .cena-title {
-    grid-row: 4 / 5;
-  }
-  .cena-container {
-    grid-row: 5 / 6;
-  }
 }
 
 .container-small {
-  @include size(13.6rem, 13.6rem);
-  @include grid(1.5rem, 13.6rem, 13.6rem, center, center, center);
+  $square: 20rem;
+  @include grid(1.5rem, $square, $square, center, center, center);
 
   img {
-    @include size(13.6rem, 13.6rem);
-    border-radius: 1rem;
+    @include size(100%, 100%);
+    border-radius: 0 3rem 3rem 3rem;
+  }
+
+  h3 {
+    color: $white;
+    background: rgba($black, 0.5);
+    width: 100%;
+    padding: 1.5rem 0;
+    text-align: center;
   }
 
   p {
     color: $white;
     background: rgba($black, 0.5);
 
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     width: 100%;
-    padding: 1rem 0;
+    padding: 1.5rem 0;
+
+    display:none;
   }
 
-  img, p {
+  img, p, h3 {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
   }
+
+  &:hover {
+    h3 { display: none; }
+    p { display: block; }
+  }
+
 }
 
 @include breakpoint("tablet") {

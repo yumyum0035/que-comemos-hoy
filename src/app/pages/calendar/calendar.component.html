@@ -1,7 +1,7 @@
 <div *ngIf="wizardDone">
   <h2>Hoy</h2>
   <section id="day">
-   <h3 class="text-center">Comida</h3>
+   <h3>Comida</h3>
     <div id="lunch" class="container" (click)="showDetail('lunch', n)">
       <img src="{{ menuSemanal[n].comida.image }}" alt="{{ menuSemanal[n].comida.image_alt_tag }}"/>
       <div>
@@ -36,7 +36,7 @@
       </div>
     </div>
 
-    <h3 class="text-center">Cena</h3>
+    <h3>Cena</h3>
     <div id="dinner" class="container" (click)="showDetail('dinner', n)">
       <img
         src="{{ menuSemanal[n].cena.image }}"
@@ -75,30 +75,20 @@
     </div>
   </section>
 
-
   <section id="week">
     <div *ngFor="let day of menuSemanal; let i = index">
-      <div *ngIf="day.isDay" class="day-container">
+      <div *ngIf="day.isDay" class="week-container">
         <h2>{{ day.dia }}</h2>
-        <h4 class="comida-title">Comida</h4>
-        <div
-          (click)="showDetail('lunch', i)"
-          class="container-small comida-container"
-        >
-          <img
-            src="{{ day.comida.image }}"
-            alt="{{ day.comida.image_alt_tag }}"
-          />
-          <p class="bold uppercase text-center">{{ day.comida.name }}</p>
+        <div (click)="showDetail('lunch', i)" class="container-small comida-container">
+          <img src="{{ day.comida.image }}" alt="{{ day.comida.image_alt_tag }}"/>
+          <!-- <h3>Comida</h3> -->
+          <p class="bold uppercase text-center">Comida <br>{{ day.comida.name }}</p>
         </div>
 
-        <h4 class="cena-title">Cena</h4>
-        <div
-          (click)="showDetail('dinner', i)"
-          class="container-small cena-container"
-        >
+        <div (click)="showDetail('dinner', i)" class="container-small cena-container">
           <img src="{{ day.cena.image }}" alt="{{ day.cena.image_alt_tag }}" />
-          <p class="bold uppercase text-center">{{ day.cena.name }}</p>
+          <!-- <h3>Cena</h3> -->
+          <p class="bold uppercase text-center">Cena <br>{{ day.cena.name }}</p>
         </div>
       </div>
     </div>
