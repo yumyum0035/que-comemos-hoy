@@ -7,6 +7,7 @@ import { CalendarComponent } from './pages/calendar/calendar.component';
 import { ConfigComponent } from './pages/config/config.component';
 import { FormWizardComponent } from './components/form-wizard/form-wizard.component';
 import { TutorialComponent } from './components/tutorial/tutorial.component';
+import { LandingComponent } from './pages/landing/landing.component';
 
 const routes: Routes = [
   //canActivate: [AmILoggedGuard]
@@ -43,6 +44,10 @@ const routes: Routes = [
 {
   path: 'tutorial',
   component: TutorialComponent
+},
+{
+  path: 'main',
+  component: LandingComponent
 },
 { //if path isn't anything listed on this list ^ it will take you to this link
    path: "**",

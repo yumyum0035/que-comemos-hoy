@@ -56,26 +56,21 @@ h1, .hero {
 }
 
 section {
-  @include grid(0);
-  grid-template-columns: auto;
+  @include grid(0, auto, auto, center, center, flex-start);
   grid-auto-rows: auto;
   margin: 0 auto;
 
   h3 { margin: 1.5rem; }
-  div { margin-bottom: 5rem; }
 
   .grid {
-    @include grid(1.5rem);
-    grid-template-columns: repeat(3, $ingredient-size);
+    @include grid(1.5rem, repeat(3, $ingredient-size), $ingredient-size, center, center, center);
     grid-auto-rows: $ingredient-size;
-    justify-content: center;
   }
 }
 
 @include breakpoint("tablet") {
   section {
     grid-template-columns: repeat(2, 43vw);
-    grid-auto-rows: auto;
     justify-content: center;
 
     h3 {

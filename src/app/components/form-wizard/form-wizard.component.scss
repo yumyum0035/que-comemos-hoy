@@ -1,9 +1,7 @@
 @use "src/variables" as *;
 
 article {
-  @include grid(.5rem);
-  grid-template-columns: 35rem;
-  justify-content: center;
+  @include grid(.5rem, 35rem, auto, center, center, center);
 }
 
 .continue-btn {

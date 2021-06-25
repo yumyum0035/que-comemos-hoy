@@ -4,19 +4,54 @@
 
 /** colors **/
 
-$yellow: #FFD88C;
-$green: #CCF499;
-$orange: #FE9166;
-$red: #FF5B5C;
-$cadet-blue: #38A3A5;
-$medium-aquamarine: #57CC99;
+/* og theme color: */
+$orange: #FE9166; //atomic tangerine
+$red: #FF5B5C; //orange red crayola
+/* uses $white, $black and $gainsboro */
+
+/* palette #1 */
+$celadon-green: #49857B;
+$cadet-blue: #5AABAE;
+$isabelline: #F1EEE9;
+$khaki-web: #D8C3A8;
+/* uses $white, $black and $gray */
+
+/* palette based on $yellow-green-crayola #1 */
+$queen-pink: #eccbd9ff;
+$light-sky-blue: #97d2fbff;
+$yellow-green-crayola: #ccf499ff;
+$french-sky-blue: #83bcffff;
+$red-munsell: #ec0b43ff;
+
+/* palette based on $yellow-green-crayola #2*/
+$cadet-grey: #8aa1b1ff;
+$rifle-green: #4a5043ff;
+$yellow-green-crayola: #ccf499ff;
+$melon: #efb0a1ff;
+$light-pink: #f4afb4ff;
+
+//palette based on $deep-champagne 
+$persian-indigo: #340068ff;
+$ultra-red: #ff6978ff;
+$deep-champagne: #ffd88cff;
+$celeste: #b1ede8ff;
+$eggplant: #6d435aff;
+
+//random palette
+$deep-saffron: #f9a03fff;
+$jasmine: #f7d488ff;
+$pale-spring-bud: #eaefb1ff;
+$nyanza: #e9f7caff;
+$silver-pink: #ceb5a7ff;
+
+//colors used: 
 $black: #000;
 $white: #fff;
-$light-gray: #ddd;
-$medium-gray: #c4c4c4;
-
-$accent-color: $green;
-$side-color: $yellow;
+$gray-x-11: #B9B9B9;
+$gainsboro: #ddd;
+$silver: #c4c4c4;
+$accent-color: $yellow-green-crayola;
+$side-color: $deep-champagne;
 $nav-color: $black; //changes path fill/stroke and font color of nav content
 $light-orange: rgba($side-color, .2);
 $light-red: rgba($accent-color, .8);
@@ -28,11 +63,13 @@ $font: $raleway;
 
 /** utilities **/
 $box-shadow: 0px 10px 15px rgba($black, 0.1);
-$small-shadow: 0 2px 4px $light-gray;
+$small-shadow: 0 2px 4px $gainsboro;
 $border-radius-big: 30px;
 $ingredient-width: 10rem;
 
 /********************* mixins *********************/
+
+
 // breakpoints (mobile-first)
 @mixin breakpoint($point) {
     @if $point == 'desktop-xxl' {
@@ -62,18 +99,16 @@ $ingredient-width: 10rem;
    }
 }
 
-//grid with same column/row size
-@mixin grid-size ($columnNumber, $columnSize, $rowNumber, $rowSize,  $gridGap) {
-    display: grid;
-    grid-template-columns: repeat($columnNumber, $columnSize);
-    grid-template-rows: repeat($rowNumber, $rowSize);
-    grid-gap: $gridGap;
-}
 
-//grid with different values
-@mixin grid ($gridGap) {
+//grid mixin
+@mixin grid ($gap, $column, $row, $justifyContent, $justifyItems, $alignItems) {
     display: grid;
-    grid-gap: $gridGap;
+    grid-template-columns: $column;
+    grid-template-rows: $row;
+    grid-gap: $gap;
+    justify-content: $justifyContent;
+    justify-items: $justifyItems;
+    align-items: $alignItems;
 }
 
 //flex centered
@@ -111,3 +146,4 @@ $ingredient-width: 10rem;
         .star1, .star2, .star3 { stroke: $black; fill: $black; }
     }
 }
+
