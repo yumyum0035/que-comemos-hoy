@@ -20,7 +20,7 @@ export class SelectedRecipeComponent implements OnInit {
   constructor(private recipesServ : RecipeBookService, private router:Router, private actRoute: ActivatedRoute) { }
 
   ngOnInit(): void {
-    this.actRoute.params.subscribe( params => this.id = params.id);
+    this.actRoute.params.subscribe(params => this.id = params.id);
     
     //Tengo el id de la receta, ahora lo tengo que buscar para mostrar la info.
     this.recipe = this.recipesServ.getMealById(this.id);

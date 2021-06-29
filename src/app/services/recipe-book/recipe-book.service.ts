@@ -133,7 +133,7 @@ export class RecipeBookService {
       case 'Asiático':
         this.wizardRecipes.push(this.getAsiaticRecipes()[0]);
         break;
-      case 'Asiático':
+      case 'Variado':
         this.wizardRecipes.push(this.getTrendRecipes()[0]);
         break;
     }
