@@ -6,7 +6,7 @@ div {
 }
 
 .buttons-container {
-  @include grid(.5rem, 50% 50%, repeat(4, 5rem), center, center, center);
+  @include grid(.5rem, 33vw 33vw, repeat(4, 5rem), center, unset, center);
 }
 
 .step-complete-btn {

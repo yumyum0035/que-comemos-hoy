@@ -101,7 +101,7 @@ h2 { text-align: center; }
 #week {
   @include grid(1.5rem, repeat(7, 20rem), auto, flex-start, center, center);
 
-  margin: 3rem;
+  margin: 5rem 3rem;
 
   @include scroll(hidden, scroll);
 }
@@ -116,7 +116,7 @@ h2 { text-align: center; }
 
   img {
     @include size(100%, 100%);
-    border-radius: 0 3rem 3rem 3rem;
+    border-radius: 0 3rem;
   }
 
   h3 {
@@ -166,6 +166,14 @@ h2 { text-align: center; }
       grid-row: 4/6;
       padding: 5rem 2.5rem 0;
     }
+  }
+}
+
+@include breakpoint("desktop") {
+  #week {
+    //width: 95rem;
+    width: 80vw;
+    margin: 5rem auto;
   }
 }
 

@@ -983,5 +983,388 @@
         "priority": 6
       }
     ]
+  },
+  {
+    "id": "curry-japonés-con-pollo-rebozado",
+    "name": "Curry Japonés con Pollo rebozado",
+    "type": "Asiático",
+    "description": "El clásico curry japonés, acompañado de pollo rebozado. Rápido y delicioso.",
+    "image_alt_tag": "Curry japonés con pollo rebozado",
+    "image": "https://www.siftandsimmer.com/wp-content/uploads/2021/02/easy-chicken-katsu-curry5.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "450",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/pechuga-de-pollo.jpg",
+        "name": "pechuga de pollo",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "diente",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/ajos.jpg",
+        "name": "ajo",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "gramos",
+        "value": "150",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/patatas.jpg",
+        "name": "patata",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "gramos",
+        "value": "100",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/zanahorias.jpg",
+        "name": "zanahoria",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pack",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://c4m4x4m8.rocketcdn.me/wp-content/uploads/2020/11/Golden-Curry-Poco-Picante-Naranja-SB-92g.jpg",
+        "name": "S&B Golden Curry Sauce Mix 92g",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz.",
+        "priority": 0
+      },
+      {
+        "name": "En una sartén amplia echa un poco de aceite de oliva. Cuando esté caliente añade las verduras, y saltea a fuego medio durante 5 minutos aproximadamente.",
+        "priority": 1
+      },
+      {
+        "name": "Añade agua y espera a que hierva. Reduce el fuego, cúbrelo y deja cocinar hasta que los ingredientes estén tiernos, aproximadamente 15 minutos.",
+        "priority": 2
+      },
+      {
+        "name": "Baja el fuego, rompe el mix de curry en trozos y añádelos a la paella. Remueve hasta que la salsa esté completamente disuelta. Cuece a fuego lento aproximadamente durante 5 minutos, removiendo constantemente.",
+        "priority": 3
+      },
+      {
+        "name": "Pasado ese tiempo sirve todo en un plato y acompáñalo de arroz.",
+        "priority": 4
+      }
+    ]
+  },
+  {
+    "id": "gyudon",
+    "name": "Gyudon",
+    "type": "Asiático",
+    "description": "¡Uno de los donburi más populares en Japón, fácil de preparar y deliocioso!",
+    "image_alt_tag": "Gyudon",
+    "image": "https://thewoksoflife.com/wp-content/uploads/2016/02/gyudon-9.jpg",
+    "total_time": 30,
+    "dificulty": 1,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 12,
+    "ingredients": [
+      {
+        "measure": "filetes",
+        "value": "2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/filete-ternera.jpg",
+        "name": "filete de ternera",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "350",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/cebollas.jpg",
+        "name": "cebolla",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://c4m4x4m8.rocketcdn.me/wp-content/uploads/2021/04/Caldo-de-bonito-en-polvo-DASHI-100g.jpg",
+        "name": "dashi",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://www.epicerie-alimentation-japonaise.com/960-large_default/japanese-food-cooking-sake-morita.jpg",
+        "name": "sake para cocinar",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://cocinista-vsf.netdna-ssl.com/download/bancorecursos/productos4/12058b-vino-mirin-hinode-400ml.jpg",
+        "name": "mirin",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "3",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/salsa-de-soja.jpg",
+        "name": "salsa de soja",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "taza",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/agua.jpg",
+        "name": "agua",
+        "shopping_list_category_es": "bebidas"
+      },
+      {
+        "measure": "tallo",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://www.proexport.es/wp-content/uploads/2019/05/cebolleta.jpg",
+        "name": "cebolleta",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "pizca (opcional)",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://www.takaski.com/wp-content/uploads/2016/06/SEIYU-Osumitsuki-Red-Ginger-Beni-Shoga-Plate.jpg",
+        "name": "beni-shoga",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "taza",
+        "value": "0.5",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/arroz.jpg",
+        "name": "arroz",
+        "shopping_list_category_es": "pasta, arroz y legumbres"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadas",
+        "value": "2",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/aceite-oliva.jpg",
+        "name": "aceite de oliva",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Si no tienes arroz cocido debes comenzar preparando el arroz.",
+        "priority": 0
+      },
+      {
+        "name": "Preparar la carne, cortándola en tiras pequeñas que puedan comerse fácilmente con palillos. Pela y corta la cebolla en juliana.",
+        "priority": 1
+      },
+      {
+        "name": "Pon una olla al fuego con el caldo dashi y el sake y llévalo a ebullición. Cuando hierva la mezcla, añade la cebolla cortada y deja cocer unos minutos a fuego medio hasta que la cebolla esté tierna.",
+        "priority": 2
+      },
+      {
+        "name": "Baja el fuego y añade la carne poco a poco, separando los trozos entre ellos con unos palillos de cocina o una cuchara de madera. Cuando la carne se vaya volviendo blanca, añade el mirin y el azúcar. Remueve bien para conseguir que tanto la carne como la cebolla se mezclen con los ingredientes líquidos.",
+        "priority": 3
+      },
+      {
+        "name": "Deja cocer todo a fuego medio durante unos 5 minutos, quitando la espuma con la ayuda de una espumadera.",
+        "priority": 4
+      },
+      {
+        "name": "Sin retirar del fuego, añade la salsa de soja y deja cocer a fuego medio-bajo hasta que más de la mitad del líquido haya reducido.",
+        "priority": 5
+      },
+      {
+        "name": "Sirve el arroz en boles y coloca la mitad del preparado de carne y cebolla en cada bol por encima del arroz. Vierte también parte de la salsa.",
+        "priority": 6
+      },
+      {
+        "name": "Para decorar, y de manera opcional, espolvorea un poco de shichimi togarashi, un puñado de beni-shoga y un poco del tallo verde de una cebolleta.",
+        "priority": 7
+      }
+    ]
+  },
+  {
+    "id": "okonomiyaki",
+    "name": "Okonomiyaki",
+    "type": "Asiático",
+    "description": "Un plato delicioso, a la par que curioso. Este popular plato japonés conocido como “pizza japonesa” tiene muchísimas variaciones de preparación, así que puedes permitirte experimentar con los ingredientes. Hay quienes añaden a la masa ingredientes extra, como gambas, tenkatsu, etc.",
+    "image_alt_tag": "Okonomiyaki",
+    "image": "https://www.whats4eats.com/files/breads-okonomiyaki-wikimedia-ZhengZhou-4x3.jpg",
+    "total_time": 30,
+    "dificulty": 2,
+    "favorited": false,
+    "portion": 2,
+    "ingredients_amount": 10,
+    "ingredients": [
+      {
+        "measure": "gramos",
+        "value": "152",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484120/ingredients/harina-de-avena.jpg",
+        "name": "harina",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "pizca",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/sal.jpg",
+        "name": "sal",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "cucharadita",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1502484117/ingredients/levadura.jpg",
+        "name": "levadura",
+        "shopping_list_category_es": "panaderia y pasteleria"
+      },
+      {
+        "measure": "unidades",
+        "value": "4",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492871927/ingredients/huevos.jpg",
+        "name": "huevo",
+        "shopping_list_category_es": "lacteos y huevos"
+      },
+      {
+        "measure": "mililitros",
+        "value": "120",
+        "ingredient_type": "pantry",
+        "image": "https://c4m4x4m8.rocketcdn.me/wp-content/uploads/2021/04/Caldo-de-bonito-en-polvo-DASHI-100g.jpg",
+        "name": "caldo dashi",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      },
+      {
+        "measure": "unidad",
+        "value": "1/2",
+        "ingredient_type": "kitchen",
+        "image": "https://res.cloudinary.com/nooddle/image/upload/v1492772050/ingredients/col.jpg",
+        "name": "col",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "paquete",
+        "value": "1/2",
+        "ingredient_type": "kitchen",
+        "image": "https://www.selectagourmet.com/388-tm_thickbox_default/bacon-100-ib%C3%A9rico.jpg",
+        "name": "bacon",
+        "shopping_list_category_es": "carnes, pescados y mariscos"
+      },
+      {
+        "measure": "gramos",
+        "value": "30",
+        "ingredient_type": "pantry",
+        "image": "https://www.takaski.com/wp-content/uploads/2016/06/SEIYU-Osumitsuki-Red-Ginger-Beni-Shoga-Plate.jpg",
+        "name": "beni-shoga",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "tallo",
+        "value": "1",
+        "ingredient_type": "kitchen",
+        "image": "https://www.proexport.es/wp-content/uploads/2019/05/cebolleta.jpg",
+        "name": "cebolleta",
+        "shopping_list_category_es": "frutas y vegetales"
+      },
+      {
+        "measure": "unidad",
+        "value": "1",
+        "ingredient_type": "pantry",
+        "image": "https://cdn.store-factory.com/www.satsuki.fr/content/product_909357b.jpg?v=1617192954",
+        "name": "salsa okonomi",
+        "shopping_list_category_es": "condimentos, hierbas y especias"
+      }
+    ],
+    "steps": [
+      {
+        "name": "Mezcla la harina, levadura, sal, huevos y dashi en un bol para crear una masa.",
+        "priority": 0
+      },
+      {
+        "name": "Condimenta la col con un poco de sal y quítale el agua sobrante. Córtala en tiras finas y añádela junto con el beni-shoga a la masa.",
+        "priority": 1
+      },
+      {
+        "name": "Prepara una sartén con aceite a fuego medio y cuando esté caliente, añade un poco de mezcla.",
+        "priority": 2
+      },
+      {
+        "name": "Añade el bacon por encima de la mezcla.",
+        "priority": 3
+      },
+      {
+        "name": "Gira la masa y añade salsa okonomi con un pincel de cocinar. Cuando esté hecha por debajo, vuelve a girarla y añade salsa por el otro lado.",
+        "priority": 4
+      },
+      {
+        "name": "Una vez la masa esté cocinada, retira de la paella y añade salsa okonomi para decorar, y, de forma opcional puedes decorar con mayonesa, copos de bonito, cebollino cortado y beni-shoga.",
+        "priority": 5
+      }
+    ]
   }
 ]

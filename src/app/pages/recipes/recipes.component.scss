@@ -86,7 +86,7 @@ form {
 @include breakpoint("tablet") {
   article {
     grid-template-columns: repeat(2, 40vw);
-    height: 65vh;
+    height: auto;
   }
 }
 
@@ -113,8 +113,8 @@ form {
     }
   }
 
-  #recipe-container {
-    @include grid(0 1.5rem, $image auto, 8rem, center, center, center);
+  .recipe-container {
+    @include grid(0 1.5rem, $image auto, auto, center, center, center);
   }
 
   section {
@@ -123,17 +123,17 @@ form {
     @include scroll(scroll, hidden);
 
     .recipes-grid {
-      @include grid(0, 100%, 5rem 20rem, center, flex-start, center);
+      @include grid(0, 100%, 5rem auto, center, flex-start, center);
       margin-bottom: 1.5rem;
     }
   }
 
   article {
-    grid-template-columns: repeat(5, 30rem);
+    grid-template-columns: repeat(4, auto);
     justify-content: flex-start;
 
     @include scroll(scroll, scroll);
-    height: 18rem;
+    height: auto;
     width: 100%;
   }
 }

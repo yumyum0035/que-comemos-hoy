@@ -23,7 +23,7 @@
     <div class="recipes-grid" *ngIf="foods.includes(type[i])">
       <h2>{{type[i]}}</h2>
       <article>
-        <div id="recipe-container" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
+        <div class="recipe-container" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
           <img src="{{recipe.image}}" alt="">
           <p>{{recipe.name}}</p>
         </div>
@@ -37,7 +37,7 @@
   <div class="recipes-grid" *ngFor="let category of allRecipes, let i = index">
     <h2>{{type[i]}}</h2>
     <article>
-      <div id="recipe-container" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
+      <div class="recipe-container" (click)="showDetail(recipe.id)" *ngFor="let recipe of category">
         <img src="{{recipe.image}}" alt="">
         <p>{{recipe.name}}</p>
       </div>
