@@ -15,55 +15,24 @@
 
 /** colors **/
 
-/* og theme color: */
-$orange: #fe9166; //atomic tangerine
-$red: #ff5b5c; //orange red crayola
-/* uses $white, $black and $gainsboro */
+/* palette */
+$independence: hsla(226, 13%, 38%, 1); //10
+$morning-blue: hsla(177, 20%, 61%, 1); //10
+$powder-blue: hsla(167, 40%, 82%, 1); //30
+$cultured: hsla(0, 9%, 98%, 1); //0
+$tea-green: hsla(87, 100%, 87%, 1); //60
 
-/* palette #1 */
-$celadon-green: #49857b;
-$cadet-blue: #5aabae;
-$isabelline: #f1eee9;
-$khaki-web: #d8c3a8;
-/* uses $white, $black and $gray */
-
-/* palette based on $yellow-green-crayola #1 */
-$queen-pink: #eccbd9ff;
-$light-sky-blue: #97d2fbff;
-$yellow-green-crayola: #ccf499ff;
-$french-sky-blue: #83bcffff;
-$red-munsell: #ec0b43ff;
-
-/* palette based on $yellow-green-crayola #2*/
-$cadet-grey: #8aa1b1ff;
-$rifle-green: #4a5043ff;
-$yellow-green-crayola: #ccf499ff;
-$melon: #efb0a1ff;
-$light-pink: #f4afb4ff;
-
-//palette based on $deep-champagne
-$persian-indigo: #340068ff;
-$ultra-red: #ff6978ff;
-$deep-champagne: #ffd88cff;
-$celeste: #b1ede8ff;
-$eggplant: #6d435aff;
-
-//random palette
-$deep-saffron: #f9a03fff;
-$jasmine: #f7d488ff;
-$pale-spring-bud: #eaefb1ff;
-$nyanza: #e9f7caff;
-$silver-pink: #ceb5a7ff;
 
 //colors used:
-$black: #000;
-$white: #fff;
+$black: #000; //60
+$white: #fff; //60
 $gray-x-11: #b9b9b9;
 $gainsboro: #ddd;
 $silver: #c4c4c4;
 
-$accent-color: $queen-pink;
-$side-color: $deep-champagne;
+$primary-color: $powder-blue;
+$accent-color: $independence;
+$side-color: $morning-blue;
 $font-color: $black;
 $nav-color: $white; //changes path fill/stroke and font color of nav content
 $nav-bg: $black;

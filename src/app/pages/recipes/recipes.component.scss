@@ -25,7 +25,7 @@ h2 { border-bottom: .5rem solid $accent-color; }
   background-size: cover;
 }
 
-$image: 6rem;
+$image: 14rem;
 
 .filters {
   text-align: center;
@@ -36,7 +36,7 @@ button {
   padding: 2rem 3rem;
 
   font-weight: 600;
-  border-radius: 2.5rem 2.5rem 0 2.5rem;
+  border-radius: 3rem 3rem 0 3rem;
 
   &:disabled {
     background: rgba($gainsboro, 0.2);
@@ -51,7 +51,7 @@ section {
 }
 
 article {
-  @include grid(1rem, 100%, $image, center, flex-start, center);
+  @include grid(1rem, 100%, $image, center, flex-start, flex-start);
   height: 33vh;
   @include scroll(scroll, hidden);
 }
@@ -59,10 +59,10 @@ article {
 img {
   @include size($image, $image);
   object-fit: cover;
-  border-radius: 1rem;
+  border-radius: 2.5rem;
 }
 
-#recipe-container {
+.recipe-container {
   @include grid(1rem, $image auto, $image, flex-start, center, center);
 
   p { font-size: 1.8rem; }
@@ -120,10 +120,8 @@ form {
   section {
     grid-row: 3 / 4;
 
-    @include scroll(scroll, hidden);
-
     .recipes-grid {
-      @include grid(0, 100%, 5rem auto, center, flex-start, center);
+      @include grid(0, 100%, auto auto, center, flex-start, center);
       margin-bottom: 1.5rem;
     }
   }
